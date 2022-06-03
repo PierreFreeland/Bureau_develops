@@ -1,7 +1,0 @@
-$(".list-table tbody")
-  .html("<%= j render(partial: 'table_row', collection: @consultants, as: :consultant) || render('table_row_empty') %>");
-
-$(".ajax-search-field").removeClass('loading');
-
-$(".pagination-wrapper")
-  .html("<%= j render('bureau_consultant/shared/paginate', collection: @consultants) %>");

@@ -1,7 +1,0 @@
-<tr>
-  <td><%= consultant.cas_user.individual.first_name %></td>
-  <td><%= consultant.cas_user.individual.last_name %></td>
-  <td class="no-wrap"><%= consultant.login %></td>
-  <td><%= l(consultant.last_sign_in_at) if consultant.last_sign_in_at %></td>
-  <td class="text-center"><%= link_to fa_icon('eye'), impersonate_user_path(consultant), method: :post, title: :impersonate %></td>
-</tr>
