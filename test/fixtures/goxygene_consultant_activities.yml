@@ -1,0 +1,201 @@
+---
+informatique_-_systèmes_d'information:
+  id: 1
+  employee_id: 262
+  active: true
+  label: Informatique - Systèmes d'information
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.265+02:00'
+  updated_by: 296
+autre:
+  id: 3
+  employee_id: 235
+  active: true
+  label: Autre
+  sort_order: 2
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.265+02:00'
+  updated_by: 296
+ressources_humaines_-_conseil_en_management:
+  id: 5
+  employee_id: 235
+  active: true
+  label: Ressources Humaines - Conseil en management
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.265+02:00'
+  updated_by: 296
+qualité_-_sécurité_-_environnement_-réglementation:
+  id: 6
+  employee_id: 235
+  active: true
+  label: Qualité - Sécurité - Environnement -Réglementation
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.265+02:00'
+  updated_by: 296
+consultant_confirmé_-_conseil_stratégique:
+  id: 7
+  employee_id: 131
+  active: true
+  label: Consultant confirmé - Conseil stratégique
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.265+02:00'
+  updated_by: 296
+dirigeant_-_management_de_transition:
+  id: 8
+  employee_id: 131
+  active: true
+  label: Dirigeant - Management de transition
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.265+02:00'
+  updated_by: 296
+ingénierie_technique:
+  id: 9
+  employee_id: 343
+  active: true
+  label: Ingénierie technique
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2020-09-24T14:49:21.885+02:00'
+  updated_by: 321
+graphisme_-_design_-_création:
+  id: 10
+  employee_id: 235
+  active: true
+  label: Graphisme - Design - Création
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.265+02:00'
+  updated_by: 296
+marketing:
+  id: 12
+  employee_id: 228
+  active: true
+  label: Marketing
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2021-01-22T09:03:49.051+01:00'
+  updated_by: 92
+communication:
+  id: 13
+  employee_id: 235
+  active: true
+  label: Communication
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.265+02:00'
+  updated_by: 296
+formation_-_enseignement:
+  id: 14
+  employee_id: 235
+  active: true
+  label: Formation - Enseignement
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2021-01-22T09:05:05.347+01:00'
+  updated_by: 92
+coaching:
+  id: 15
+  employee_id: 235
+  active: true
+  label: Coaching
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.265+02:00'
+  updated_by: 296
+web_-_digital_-_internet:
+  id: 18
+  employee_id: 343
+  active: true
+  label: Web - Digital - Internet
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2020-09-24T14:49:35.377+02:00'
+  updated_by: 321
+bâtiment_-_btp_-_construction:
+  id: 25
+  employee_id: 235
+  active: true
+  label: Bâtiment - BTP - Construction
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.265+02:00'
+  updated_by: 296
+achats:
+  id: 28
+  employee_id: 228
+  active: true
+  label: Achats
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2021-01-22T09:04:19.966+01:00'
+  updated_by: 92
+développement_commercial:
+  id: 29
+  employee_id: 228
+  active: true
+  label: Développement commercial
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2021-01-22T09:02:56.107+01:00'
+  updated_by: 92
+études_-_recherche_et_développement_:
+  id: 30
+  employee_id: 228
+  active: true
+  label: 'Études - Recherche et développement '
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2021-01-22T09:04:36.661+01:00'
+  updated_by: 92
+gestion_-_finance:
+  id: 31
+  employee_id: 131
+  active: true
+  label: Gestion - Finance
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.265+02:00'
+  updated_by: 296
+immobilier:
+  id: 32
+  employee_id: 131
+  active: true
+  label: Immobilier
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.265+02:00'
+  updated_by: 296
+logistique_-_supply_chain:
+  id: 33
+  employee_id: 131
+  active: true
+  label: Logistique - Supply chain
+  sort_order: 1
+  created_at: '2020-09-10T22:47:11.265+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.265+02:00'
+  updated_by: 296

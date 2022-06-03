@@ -1,0 +1,12 @@
+radiologie_cf_158864:
+  id: 158864
+  business_contract_version_id: 158864
+  office_training_agreement_id:
+  training_purpose: "test"
+  training_location: ""
+  created_by: 5
+  training_domain_id: 1
+  trainees: null
+  updated_at: "2020-11-26 16:32:23.124281"
+  created_at: "2020-11-26 16:32:14.226486"
+  updated_by: 5

@@ -1,0 +1,99 @@
+test_1:
+  id: 132
+  cancel_overpayment_at: null
+  itg_company_id: 1
+  cfonb_file_id: null
+  status: being_processed
+  left_to_dispatch: 1
+  cancel_overpayment_by: null
+  overpayment_accounting_document: null
+  cancelled_by: null
+  payment_type_id: 2
+  updated_at: 2020-09-11 14:54:57.270222
+  updated_by: 296
+  accounting_document: 1312312312
+  customer_id: 9760
+  cancelled_at: null
+  amount_euros: 1
+  gitg_id: null
+  itg_bank_account_id: 1
+  date: 2020-08-11
+  overpayment_at: null
+  target_date: 2020-08-12
+  establishment_id: 5426
+  accounting_lettering_code: 1312312312
+  overpayment_by: null
+  overpayment: 0
+  customer_payment_slip_id: null
+  cancel_overpayment_accounting_document: null
+  comment: null
+  created_at: 2020-09-11 14:54:57.270222
+  cancel_overpayment: null
+  created_by: 296
+
+customer_payments_1:
+  id: 1
+  itg_company_id: 2
+  itg_bank_account_id: 2
+  customer_id: ''
+  customer_payment_slip_id: 1
+  payment_type_id: 1
+  establishment_id: 25639
+  cfonb_file_id: ''
+  status: 'being_processed'
+  date: <%= Date.current %>
+  target_date: ''
+  amount_euros: '2000.35'
+  left_to_dispatch: '0.00'
+  accounting_document: ''
+  overpayment: NULL
+  overpayment_accounting_document: NULL
+  comment: NULL
+  overpayment_by: NULL
+  overpayment_at: NULL
+  cancel_overpayment: NULL
+  cancel_overpayment_accounting_document: NULL
+  cancel_overpayment_by: NULL
+  cancel_overpayment_at: NULL
+  cancelled_at: NULL
+  cancelled_by: NULL
+  accounting_lettering_code: NULL
+  created_at: '2019-04-03T23:53:00.312+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:53:00.312+02:00'
+  updated_by: 296
+  gitg_id: 67406
+
+customer_payments_2:
+  id: 2
+  itg_company_id: 2
+  itg_bank_account_id: 2
+  customer_id: ''
+  customer_payment_slip_id: null
+  payment_type_id: 1
+  establishment_id: 25639
+  cfonb_file_id: ''
+  status: 'completed'
+  date: <%= Date.current %>
+  target_date: ''
+  amount_euros: '2000.35'
+  left_to_dispatch: '0.00'
+  accounting_document: ''
+  overpayment: NULL
+  overpayment_accounting_document: NULL
+  comment: NULL
+  overpayment_by: NULL
+  overpayment_at: NULL
+  cancel_overpayment: NULL
+  cancel_overpayment_accounting_document: NULL
+  cancel_overpayment_by: NULL
+  cancel_overpayment_at: NULL
+  cancelled_at: NULL
+  cancelled_by: NULL
+  accounting_lettering_code: NULL
+  created_at: '2019-04-03T23:53:00.312+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:53:00.312+02:00'
+  updated_by: 296
+  gitg_id: 67406
+

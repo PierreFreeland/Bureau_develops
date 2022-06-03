@@ -1,0 +1,588 @@
+liane_bahringer:
+  id: 13894
+  individual_id: 14894
+  contact_datum_id: 3329
+  bank_account_id: 14894
+  itg_establishment_id: 9
+  advisor_employee_id: 304
+  correspondant_employee_id: 177
+  delegate_id: 9648
+  prescriber_id:
+  payment_type_id: 1
+  origin_tier_id:
+  consultant_activity_id: 18
+  vehicle_id: 14894
+  consultant_deactivation_reason_id:
+  expertise_id:
+  consultant_status: consultant
+  consultant_origin: internet
+  contact_mean: email
+  available_on:
+  vip: false
+  b2b: false
+  competences: Conseil en Développement Web et en Web design
+  consultant_margin: '88.0'
+  granted_expenses: true
+  freelance: false
+  newsletter_ok: true
+  mail_contact: false
+  mail_notification: false
+  sms_notification: true
+  contact_information_visiblity: true
+  origin_free_input: Internet
+  full_web: false
+  automatic_expenses_processing: true
+  activity_report: false
+  pension_fund: CIPAV
+  pension_fund_number: N° de SS
+  pensionned: false
+  pensionned_since:
+  more_than_1_job: false
+  other_employer:
+  disabled_worker: false
+  personal_development: 0
+  work_authorization_number: ''
+  work_authorization_amount:
+  work_authorization_unit_id:
+  payroll_contract_type_id: 1
+  payroll_category_id: 97
+  payroll_insee_category_id: 141
+  payroll_job_type_id: 575
+  payroll_position: '3.1'
+  payroll_hourly_wages: 10
+  payroll_coefficient: '170'
+  specificities:
+  without_increase: false
+  comment: Reprise de données du 14/06/2019 19:29:14
+  created_at: '2019-06-14T19:29:14.076+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T19:29:14.076+02:00'
+  updated_by: 296
+  itg_company_id: 9
+  google_analytics_code:
+
+kurtis_grant:
+  id: 10042
+  individual_id: 11042
+  contact_datum_id: 7107
+  bank_account_id: 11042
+  itg_establishment_id: 8
+  advisor_employee_id: 172
+  correspondant_employee_id: 177
+  delegate_id: 8804
+  prescriber_id:
+  payment_type_id: 1
+  origin_tier_id:
+  consultant_activity_id:
+  vehicle_id:
+  consultant_deactivation_reason_id:
+  expertise_id:
+  consultant_status: consultant
+  consultant_origin: no_arrival_channel
+  contact_mean: email
+  available_on:
+  vip: false
+  b2b: false
+  competences: 'Formation en gestion d''entreprise : Finance Commerce R.H'
+  consultant_margin: '88.0'
+  granted_expenses: true
+  freelance: false
+  newsletter_ok: true
+  mail_contact: false
+  mail_notification: false
+  sms_notification: true
+  contact_information_visiblity: true
+  origin_free_input: A/A/A
+  full_web: false
+  automatic_expenses_processing: true
+  activity_report: false
+  pension_fund: AGIRC ARRCO
+  pension_fund_number: N° de SS
+  pensionned: false
+  pensionned_since:
+  more_than_1_job: false
+  other_employer:
+  disabled_worker: false
+  personal_development: 1
+  work_authorization_number: ''
+  work_authorization_amount:
+  work_authorization_unit_id:
+  payroll_contract_type_id: 2
+  payroll_category_id: 97
+  payroll_insee_category_id: 141
+  payroll_job_type_id: 562
+  payroll_position: '1.1'
+  payroll_hourly_wages: 10
+  payroll_coefficient: '95'
+  specificities:
+  without_increase: false
+  comment: Reprise de données du 14/06/2019 19:45:12
+  created_at: '2019-06-14T19:45:12.196+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T19:45:12.196+02:00'
+  updated_by: 296
+  itg_company_id: 9
+  google_analytics_code:
+
+jackie_denesik:
+  id: 9392
+  individual_id: 10392
+  contact_datum_id: 7245
+  bank_account_id: 10392
+  itg_establishment_id: 9
+  advisor_employee_id: 177
+  correspondant_employee_id: 304
+  delegate_id:
+  prescriber_id:
+  payment_type_id: 1
+  origin_tier_id:
+  consultant_activity_id: 18
+  vehicle_id: 17763
+  consultant_status: consultant
+  consultant_origin: consultant
+  contact_mean: email
+  available_on:
+  vip: false
+  competences: Conseil en développement informatique Administration Systèmes et Réseaux
+  consultant_margin: '90.0'
+  granted_expenses: true
+  freelance: false
+  newsletter_ok: true
+  mail_contact: false
+  mail_notification: false
+  sms_notification: true
+  contact_information_visiblity: true
+  origin_free_input: Consultant ITG
+  full_web: false
+  automatic_expenses_processing: true
+  activity_report: false
+  pension_fund: ''
+  pension_fund_number: ''
+  pensionned: false
+  pensionned_since:
+  more_than_1_job: false
+  personal_development: 1
+  work_authorization_number: ''
+  work_authorization_amount:
+  work_authorization_unit_id:
+  payroll_contract_type_id: 2
+  payroll_category_id: 97
+  payroll_insee_category_id: 141
+  payroll_job_type_id: 571
+  payroll_position: '3.1'
+  payroll_hourly_wages: 10
+  payroll_coefficient: '170'
+  comment: Reprise de données du 19/12/2018 19:41:28
+  created_at: '2018-12-19T19:41:28.700+01:00'
+  created_by: 296
+  updated_at: '2018-12-19T19:41:28.700+01:00'
+  updated_by: 296
+  itg_company_id: 9
+  google_analytics_code: "B15F9E10-BD40-4440-9CA4-D157F5E81AF1"
+
+drew_gutkowski:
+  id: 8786
+  individual_id: 9786
+  contact_datum_id: 8331
+  bank_account_id: 9786
+  itg_establishment_id: 9
+  advisor_employee_id: 304
+  correspondant_employee_id: 304
+  delegate_id:
+  prescriber_id:
+  payment_type_id: 2
+  origin_tier_id:
+  consultant_activity_id: 18
+  vehicle_id: 9786
+  consultant_deactivation_reason_id:
+  expertise_id:
+  consultant_status: consultant
+  consultant_origin: no_arrival_channel
+  contact_mean: email
+  available_on:
+  vip: false
+  b2b: false
+  competences: Conseils et Formations informatiques / Delphi - C# - Ruby - Raïls/
+    SQL Server -PostgreSQL
+  consultant_margin: '95.0'
+  granted_expenses: true
+  freelance: false
+  newsletter_ok: true
+  mail_contact: false
+  mail_notification: false
+  sms_notification: true
+  contact_information_visiblity: true
+  origin_free_input: Ancien employé du groupe ITG
+  full_web: false
+  automatic_expenses_processing: true
+  activity_report: false
+  pension_fund: ''
+  pension_fund_number: ''
+  pensionned: false
+  pensionned_since:
+  more_than_1_job: false
+  other_employer:
+  disabled_worker: false
+  personal_development: 1
+  work_authorization_number: ''
+  work_authorization_amount:
+  work_authorization_unit_id:
+  payroll_contract_type_id: 2
+  payroll_category_id: 97
+  payroll_insee_category_id: 141
+  payroll_job_type_id: 575
+  payroll_position: '2.2'
+  payroll_hourly_wages: 10
+  payroll_coefficient: '130'
+  specificities:
+  comment: Reprise de données du 03/04/2019 23:51:22
+  created_at: '2019-04-03T23:51:22.558+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:51:22.558+02:00'
+  updated_by: 296
+  itg_company_id: 9
+  without_increase: false
+  google_analytics_code:
+
+Carey_Beier:
+  id: 8388
+  individual_id: 9388
+  contact_datum_id: 8716
+  bank_account_id: 9388
+  itg_establishment_id: 1
+  advisor_employee_id: 304
+  correspondant_employee_id: 209
+  delegate_id:
+  prescriber_id: 1
+  payment_type_id: 1
+  origin_tier_id:
+  consultant_activity_id:
+  vehicle_id: 9388
+  consultant_deactivation_reason_id:
+  expertise_id:
+  consultant_status: consultant
+  consultant_origin: no_arrival_channel
+  contact_mean: email
+  available_on:
+  vip: false
+  b2b: false
+  competences: Conseil en infographie et graphisme secteur textile
+  consultant_margin: '88.0'
+  granted_expenses: true
+  freelance: false
+  newsletter_ok: true
+  mail_contact: false
+  mail_notification: false
+  sms_notification: true
+  contact_information_visiblity: true
+  origin_free_input: 'Livith '
+  full_web: false
+  automatic_expenses_processing: true
+  activity_report: false
+  pension_fund: ''
+  pension_fund_number: ''
+  pensionned: false
+  pensionned_since:
+  more_than_1_job: false
+  other_employer:
+  disabled_worker: false
+  personal_development:
+  work_authorization_number: ''
+  work_authorization_amount:
+  work_authorization_unit_id:
+  payroll_contract_type_id: 2
+  payroll_category_id: 97
+  payroll_insee_category_id: 141
+  payroll_job_type_id: 568
+  payroll_position: '3.1'
+  payroll_hourly_wages: 10
+  payroll_coefficient: '170'
+  specificities:
+  comment: Reprise de données du 03/04/2019 23:53:00
+  created_at: '2019-04-03T23:53:00.312+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:53:00.312+02:00'
+  updated_by: 296
+  itg_company_id: 1
+  without_increase: false
+  google_analytics_code:
+
+Ludovic_NUGON:
+  id: 18068
+  individual_id: 19068
+  contact_datum_id: 644
+  itg_company_id: 1
+  bank_account_id: 19068
+  itg_establishment_id: 1
+  advisor_employee_id: 93
+  correspondant_employee_id: 177
+  delegate_id: 3884
+  prescriber_id: 1
+  payment_type_id: 2
+  origin_tier_id:
+  consultant_activity_id: 8
+  vehicle_id: 19068
+  consultant_deactivation_reason_id:
+  expertise_id:
+  consultant_status: 'consultant'
+  consultant_origin: 'employment_agency'
+  contact_mean: 'email'
+  nickname: 'NUGON Ludovic'
+  available_on:
+  vip: false
+  b2b: false
+  competences: 'Conseil en management et en stratégie'
+  consultant_margin: 0.92e2
+  granted_expenses: false
+  freelance: false
+  newsletter_ok: true
+  mail_contact: false
+  mail_notification: false
+  sms_notification: true
+  contact_information_visiblity: true
+  origin_free_input: 'Pôle Emploi'
+  full_web: false
+  automatic_expenses_processing: true
+  activity_report: false
+  pension_fund: ''
+  pension_fund_number: ''
+  pensionned: false
+  pensionned_since:
+  more_than_1_job: false
+  other_employer:
+  disabled_worker: false
+  personal_development:
+  work_authorization_number: ''
+  work_authorization_amount:
+  work_authorisation_ending_date:
+  work_authorization_unit_id:
+  payroll_contract_type_id: 2
+  payroll_category_id: 17
+  payroll_insee_category_id: 141
+  payroll_job_type_id: 2019
+  payroll_position: '3.1'
+  payroll_hourly_wages: 0.2707e2
+  payroll_coefficient: '170'
+  full_wage_advance: false
+  specificities:
+  without_increase: false
+  comment: '\r\nReprise de données du 09/08/2020 02:55:39'
+  google_analytics_code: '3E8BF9F6-7556-4F72-A37B-4A127F892A2C'
+  dont_want_communication: false
+  hash_for_web_form: '84985e93cb762628f71e5af79f7e1317'
+  send_paylips_by_email: true
+  expected_fees: 0.18e6
+  expected_fees_corrected_amount: 0.18e6
+  created_at: 2020-04-01 15:01:08 +0200
+  created_by: 285
+  updated_at: 2020-08-25 00:20:51 +0200
+  updated_by: 42
+
+consultant_55030:
+  id: 55030
+  payroll_position: ""
+  advisor_employee_id: 304
+  more_than_1_job: false
+  updated_by: 296
+  google_analytics_code: "52DC0166-DF00-4F45-9DA4-20881B2EBD54"
+  without_increase: false
+  disabled_worker: false
+  personal_development: null
+  delegate_id: null
+  payroll_job_type_id: null
+  origin_tier_id: null
+  payroll_hourly_wages: null
+  pension_fund_number: ""
+  payroll_contract_type_id: null
+  created_by: 35
+  vehicle_id: null
+  vip: false
+  pension_fund: ""
+  granted_expenses: false
+  payroll_category_id: null
+  pensionned_since: null
+  expertise_id: null
+  full_web: false
+  payment_type_id: 2
+  consultant_status: "prospect"
+  newsletter_ok: false
+  specificities: null
+  comment: "Reprise du 09/08/2020 04:15:11"
+  competences: "Ingénieur Qualité "
+  contact_information_visiblity: false
+  other_employer: null
+  full_wage_advance: false
+  updated_at: "2020-08-09 04:15:11.5798"
+  work_authorization_amount: null
+  hash_for_web_form: ""
+  work_authorisation_ending_date: null
+  work_authorization_number: ""
+  mail_contact: false
+  payroll_coefficient: ""
+  contact_mean: null
+  created_at: "2006-12-14 12:00:40"
+  available_on: null
+  dont_want_communication: false
+  individual_id: 171762
+  correspondant_employee_id:
+  origin_free_input: "APEC DEC 19"
+  freelance: false
+  mail_notification: false
+  itg_establishment_id: null
+  contact_datum_id: 112395
+  send_paylips_by_email: true
+  bank_account_id: null
+  nickname: null
+  consultant_origin: "career_fair"
+  b2b: false
+  consultant_margin: null
+  payroll_insee_category_id: null
+  sms_notification: false
+  activity_report: false
+  consultant_activity_id: 3
+  pensionned: false
+  itg_company_id: null
+  expected_fees_corrected_amount: null
+  work_authorization_unit_id: null
+  consultant_deactivation_reason_id: null
+  automatic_expenses_processing: false
+  expected_fees: null
+  prescriber_id: null
+
+consultant_55031:
+  id: 55031
+  payroll_position: "3.1"
+  advisor_employee_id:
+  more_than_1_job: false
+  updated_by: 296
+  google_analytics_code: "946AB68F-27AE-4DF1-BBC9-71FB86CA1850"
+  without_increase: false
+  disabled_worker: false
+  personal_development: 0
+  delegate_id: null
+  payroll_job_type_id:
+  origin_tier_id: null
+  payroll_hourly_wages: 27.07
+  pension_fund_number: ""
+  payroll_contract_type_id: 1
+  created_by: 32
+  vehicle_id: null
+  vip: false
+  pension_fund: ""
+  granted_expenses: true
+  payroll_category_id: 25
+  pensionned_since: null
+  expertise_id: null
+  full_web: false
+  payment_type_id: 2
+  consultant_status: "desactivated_consultant"
+  newsletter_ok: true
+  specificities: null
+  comment: "abd"
+  competences: "Conseil en Contrôle de Gestion ERP BI Décisionnel Reporting Excel"
+  contact_information_visiblity: false
+  other_employer: null
+  full_wage_advance: false
+  updated_at: "2020-09-11 01:53:29.3192"
+  work_authorization_amount: null
+  hash_for_web_form: "ba993cbc2f3f16773f937b65d3e24159"
+  work_authorisation_ending_date: null
+  has_partial_unemployment: false
+  work_authorization_number: ""
+  mail_contact: false
+  payroll_coefficient: "170"
+  contact_mean: "email"
+  created_at: "2013-01-04 17:14:32"
+  available_on: null
+  dont_want_communication: false
+  individual_id: 296
+  correspondant_employee_id:
+  origin_free_input: "Consultant ITG"
+  freelance: false
+  mail_notification: false
+  itg_establishment_id: 1
+  contact_datum_id: 112395
+  send_paylips_by_email: true
+  bank_account_id:
+  nickname: "TERRIEN Laurent"
+  consultant_origin: "prescriber"
+  b2b: false
+  consultant_margin: 92
+  payroll_insee_category_id: 142
+  sms_notification: true
+  activity_report: false
+  consultant_activity_id: 5
+  pensionned: false
+  itg_company_id: 1
+  expected_fees_corrected_amount: null
+  work_authorization_unit_id: null
+  consultant_deactivation_reason_id: null
+  automatic_expenses_processing: true
+  expected_fees: null
+  prescriber_id: 1
+
+consultant_182:
+  id: 182
+  individual_id: 182
+  contact_datum_id: 182
+  bank_account_id:
+  itg_establishment_id: 9
+  advisor_employee_id: 304
+  correspondant_employee_id: 304
+  delegate_id:
+  prescriber_id:
+  payment_type_id: 2
+  origin_tier_id:
+  consultant_activity_id: 18
+  vehicle_id:
+  consultant_deactivation_reason_id:
+  expertise_id:
+  consultant_status: consultant
+  consultant_origin: no_arrival_channel
+  contact_mean: email
+  available_on:
+  vip: false
+  b2b: false
+  competences: Conseils et Formations informatiques / Delphi /
+    SQL Server
+  consultant_margin: '95.0'
+  granted_expenses: true
+  freelance: false
+  newsletter_ok: true
+  mail_contact: false
+  mail_notification: false
+  sms_notification: true
+  contact_information_visiblity: true
+  origin_free_input: Ancien employé du groupe ITG
+  full_web: false
+  automatic_expenses_processing: true
+  activity_report: false
+  pension_fund: ''
+  pension_fund_number: ''
+  pensionned: false
+  pensionned_since:
+  more_than_1_job: false
+  other_employer:
+  disabled_worker: false
+  personal_development: 1
+  work_authorization_number: ''
+  work_authorization_amount:
+  work_authorization_unit_id:
+  payroll_contract_type_id: 2
+  payroll_category_id: 97
+  payroll_insee_category_id: 141
+  payroll_job_type_id: 575
+  payroll_position: '2.2'
+  payroll_hourly_wages: 10
+  payroll_coefficient: '130'
+  specificities:
+  comment: Reprise de données du 03/04/2019 23:51:22
+  created_at: '2019-04-03T23:51:22.558+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:51:22.558+02:00'
+  updated_by: 296
+  itg_company_id: 9
+  without_increase: false
+  google_analytics_code:
+  retrocession_rate: 0.65758
+

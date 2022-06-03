@@ -1,0 +1,23 @@
+france:
+    cog_insee: '01234'
+    country_iso_code: 'FR'
+    country_iso_code3: 'FRA'
+    country_iso_codenum: 'FRA'
+    subcontinent: monde
+    label: "France"
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-12-19T20:44:41.630+01:00'
+    updated_by: 296
+
+pole_nord:
+    cog_insee: '23443'
+    country_iso_code: 'PO'
+    country_iso_code3: 'POL'
+    country_iso_codenum: 'POL'
+    subcontinent: monde
+    label: "Pole Nord"
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-12-19T20:44:41.630+01:00'
+    updated_by: 296

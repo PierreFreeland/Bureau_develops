@@ -1,0 +1,24 @@
+itg_s_2:
+  itg_company_id: 9
+  itg_insurance_contract_id: 2
+  active: true
+
+itg_s_5:
+  itg_company_id: 9
+  itg_insurance_contract_id: 5
+  active: true
+
+itg_s_6:
+  itg_company_id: 9
+  itg_insurance_contract_id: 6
+  active: true
+
+itg_s_7:
+  itg_company_id: 9
+  itg_insurance_contract_id: 7
+  active: true
+
+itg_s_8:
+  itg_company_id: 9
+  itg_insurance_contract_id: 8
+  active: true

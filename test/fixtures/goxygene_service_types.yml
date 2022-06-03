@@ -1,0 +1,43 @@
+service_type_1:
+  id: 1
+  active: true
+  label: "Démarrer mon activité"
+  prospect_services: true
+  consultant_services: true
+  created_at: '2019-07-07T17:00:06.457+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T17:00:06.457+02:00'
+  updated_by: 296
+
+service_type_2:
+  id: 2
+  active: true
+  label: "Faciliter et booster mon activité"
+  prospect_services: true
+  consultant_services: true
+  created_at: '2019-07-07T17:00:06.457+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T17:00:06.457+02:00'
+  updated_by: 296
+
+service_type_3:
+  id: 3
+  active: true
+  label: "Partager avec la communauté"
+  prospect_services: true
+  consultant_services: true
+  created_at: '2019-07-07T17:00:06.457+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T17:00:06.457+02:00'
+  updated_by: 296
+
+service_type_4:
+  id: 4
+  active: true
+  label: "Optimiser ma gestion au quotidien"
+  prospect_services: true
+  consultant_services: true
+  created_at: '2019-07-07T17:00:06.457+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T17:00:06.457+02:00'
+  updated_by: 296

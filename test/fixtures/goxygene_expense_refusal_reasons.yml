@@ -1,0 +1,57 @@
+---
+justificatif_manquant:
+  id: 1
+  active: true
+  label: Justificatif manquant
+  created_at: '2020-09-10T20:41:21.323+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:21.323+02:00'
+  updated_by: 296
+dépense_non-professionnelle:
+  id: 2
+  active: true
+  label: Dépense non-professionnelle
+  created_at: '2020-09-10T20:41:21.373+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:21.373+02:00'
+  updated_by: 296
+justificatif_non-conforme:
+  id: 3
+  active: true
+  label: Justificatif non-conforme
+  created_at: '2020-09-10T20:41:21.424+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:21.424+02:00'
+  updated_by: 296
+dépenses_véhicules:
+  id: 4
+  active: true
+  label: Dépenses véhicules
+  created_at: '2020-09-10T20:41:21.474+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:21.474+02:00'
+  updated_by: 296
+investissement:
+  id: 5
+  active: true
+  label: Investissement
+  created_at: '2020-09-10T20:41:21.523+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:21.523+02:00'
+  updated_by: 296
+autres:
+  id: 6
+  active: true
+  label: Autres
+  created_at: '2020-09-10T20:41:21.570+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:21.570+02:00'
+  updated_by: 296
+activités_refusées:
+  id: 7
+  active: true
+  label: Activités refusées
+  created_at: '2020-09-10T20:41:21.624+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:21.624+02:00'
+  updated_by: 296

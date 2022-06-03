@@ -1,0 +1,85 @@
+---
+agent_de_maitrise:
+  id: 98
+  itg_company_id: 25
+  active: true
+  payroll_category_code: AGMA
+  label: Agent de Maitrise
+  gross_salary_multiplier: '1.49'
+  business_development_days: 1
+  created_at: '2020-12-22T21:15:46.834+01:00'
+  created_by: 296
+  updated_at: '2020-12-22T21:15:46.834+01:00'
+  updated_by: 296
+cadre_dirigeant:
+  id: 16
+  itg_company_id: 21
+  active: true
+  payroll_category_code: CADD
+  label: Cadre Dirigeant
+  gross_salary_multiplier: '1.49'
+  business_development_days: 1
+  created_at: '2020-09-10T22:47:11.466+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.466+02:00'
+  updated_by: 296
+cadre:
+  id: 97
+  itg_company_id: 25
+  active: true
+  payroll_category_code: CADR
+  label: CADRE
+  gross_salary_multiplier: '1.52'
+  business_development_days: 1
+  created_at: '2020-12-22T21:15:46.795+01:00'
+  created_by: 296
+  updated_at: '2020-12-22T21:15:46.795+01:00'
+  updated_by: 296
+cadre_supperieur:
+  id: 47
+  itg_company_id: 21
+  active: true
+  payroll_category_code: CADS
+  label: CADRE SUPPERIEUR
+  gross_salary_multiplier: '1.52'
+  business_development_days: 1
+  created_at: '2020-09-10T22:47:11.466+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.466+02:00'
+  updated_by: 296
+e.t.a.m.:
+  id: 95
+  itg_company_id: 25
+  active: true
+  payroll_category_code: ETAM
+  label: E.T.A.M.
+  gross_salary_multiplier: '1.49'
+  business_development_days: 1
+  created_at: '2020-12-22T21:15:46.726+01:00'
+  created_by: 296
+  updated_at: '2020-12-22T21:15:46.726+01:00'
+  updated_by: 296
+stagiaire:
+  id: 94
+  itg_company_id: 25
+  active: true
+  payroll_category_code: STAG
+  label: stagiaire
+  gross_salary_multiplier: '1.49'
+  business_development_days: 1
+  created_at: '2020-12-22T21:15:46.674+01:00'
+  created_by: 296
+  updated_at: '2020-12-22T21:15:46.674+01:00'
+  updated_by: 296
+cadre_superieur:
+  id: 96
+  itg_company_id: 25
+  active: true
+  payroll_category_code: CADS
+  label: CADRE SUPERIEUR
+  gross_salary_multiplier: '1.52'
+  business_development_days: 1
+  created_at: '2020-12-22T21:15:46.757+01:00'
+  created_by: 296
+  updated_at: '2020-12-22T21:15:46.757+01:00'
+  updated_by: 296

@@ -1,0 +1,7 @@
+casino_1:
+  authenticator : "bureau_cnt_sql_server"
+  id : 1
+  username : "administrateur@itg.fr"
+  created_at : "2020-09-02 06:34:45.374604"
+  updated_at : "2020-09-02 06:34:45.374604"
+  extra_attributes : ""

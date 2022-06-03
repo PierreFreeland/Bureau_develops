@@ -1,0 +1,15 @@
+customer_payment_slips_1:
+  id: 1
+  payment_type_id: 1
+  itg_bank_account_id: 2
+  document_id: ''
+  date: '2020-06-17'
+  total_amount: '2000.35'
+  total_count: '30'
+  accounting_document: '0001RF0701'
+  cancellation_accounting_document: ''
+  accounting_lettering_code: ''
+  created_at: '2019-04-03T23:53:00.312+02:00'
+  created_by: 296
+  cancelled_at: ''
+  cancelled_by: ''

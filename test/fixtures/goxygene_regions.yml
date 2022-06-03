@@ -1,0 +1,301 @@
+---
+region_1:
+  id: 1
+  country_id: 1
+  main_city_id: 97105
+  active: true
+  label: Guadeloupe
+  insee_code: '01'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:42:03.513+02:00'
+  updated_by: 296
+region_2:
+  id: 2
+  country_id: 1
+  main_city_id: 97209
+  active: true
+  label: Martinique
+  insee_code: '02'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:42:03.513+02:00'
+  updated_by: 296
+region_3:
+  id: 3
+  country_id: 1
+  main_city_id: 97302
+  active: true
+  label: Guyane
+  insee_code: '03'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:42:03.513+02:00'
+  updated_by: 296
+region_4:
+  id: 4
+  country_id: 1
+  main_city_id: 97411
+  active: true
+  label: La Réunion
+  insee_code: '04'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:42:03.513+02:00'
+  updated_by: 296
+region_5:
+  id: 5
+  country_id: 1
+  main_city_id: 97608
+  active: true
+  label: Mayotte
+  insee_code: '06'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:42:03.513+02:00'
+  updated_by: 296
+region_6:
+  id: 6
+  country_id: 1
+  main_city_id: 75056
+  active: true
+  label: Île-de-France
+  insee_code: '11'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:42:03.513+02:00'
+  updated_by: 296
+region_7:
+  id: 7
+  country_id: 1
+  main_city_id: 45234
+  active: true
+  label: Centre-Val de Loire
+  insee_code: '24'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:42:03.513+02:00'
+  updated_by: 296
+region_8:
+  id: 8
+  country_id: 1
+  main_city_id: 21231
+  active: true
+  label: Bourgogne-Franche-Comté
+  insee_code: '27'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:42:03.513+02:00'
+  updated_by: 296
+region_9:
+  id: 9
+  country_id: 1
+  main_city_id: 76540
+  active: true
+  label: Normandie
+  insee_code: '28'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:42:03.513+02:00'
+  updated_by: 296
+region_12:
+  id: 12
+  country_id: 1
+  main_city_id: 44109
+  active: true
+  label: Pays de la Loire
+  insee_code: '52'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:42:03.513+02:00'
+  updated_by: 296
+region_13:
+  id: 13
+  country_id: 1
+  main_city_id: 35238
+  active: true
+  label: Bretagne
+  insee_code: '53'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:42:03.513+02:00'
+  updated_by: 296
+region_16:
+  id: 16
+  country_id: 1
+  main_city_id: 69123
+  active: true
+  label: Auvergne-Rhône-Alpes
+  insee_code: '84'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:42:03.513+02:00'
+  updated_by: 296
+region_17:
+  id: 17
+  country_id: 1
+  main_city_id: 13055
+  active: true
+  label: Provence-Alpes-Côte d'Azur
+  insee_code: '93'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:42:03.513+02:00'
+  updated_by: 296
+region_18:
+  id: 18
+  country_id: 1
+  main_city_id: 20004
+  active: true
+  label: Corse
+  insee_code: '94'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:42:03.513+02:00'
+  updated_by: 296
+region_10:
+  id: 10
+  country_id: 1
+  main_city_id: 59350
+  active: true
+  label: Hauts-de-France
+  insee_code: '32'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-15T08:52:54.211+02:00'
+  updated_by: 296
+region_11:
+  id: 11
+  country_id: 1
+  main_city_id: 67482
+  active: true
+  label: Grand Est
+  insee_code: '44'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-15T08:52:54.486+02:00'
+  updated_by: 296
+region_14:
+  id: 14
+  country_id: 1
+  main_city_id: 33063
+  active: true
+  label: Nouvelle-Aquitaine
+  insee_code: '75'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-15T08:52:54.495+02:00'
+  updated_by: 296
+region_15:
+  id: 15
+  country_id: 1
+  main_city_id: 31555
+  active: true
+  label: Occitanie
+  insee_code: '76'
+  insee_deleted: false
+  created_at: '2020-09-10T22:42:03.513+02:00'
+  created_by: 296
+  updated_at: '2020-09-15T08:52:54.502+02:00'
+  updated_by: 296
+region_19:
+  id: 19
+  country_id: 1
+  main_city_id: 
+  active: true
+  label: Saint-Pierre-et-Miquelon
+  insee_code: '975'
+  insee_deleted: false
+  created_at: '2020-12-08T10:20:12.519+01:00'
+  created_by: 42
+  updated_at: '2020-12-08T10:20:12.519+01:00'
+  updated_by: 42
+region_20:
+  id: 20
+  country_id: 1
+  main_city_id: 
+  active: true
+  label: Saint-Barthélemy
+  insee_code: '977'
+  insee_deleted: false
+  created_at: '2020-12-08T10:20:12.519+01:00'
+  created_by: 42
+  updated_at: '2020-12-08T10:20:12.519+01:00'
+  updated_by: 42
+region_21:
+  id: 21
+  country_id: 1
+  main_city_id: 
+  active: true
+  label: Saint-Martin
+  insee_code: '978'
+  insee_deleted: false
+  created_at: '2020-12-08T10:20:12.519+01:00'
+  created_by: 42
+  updated_at: '2020-12-08T10:20:12.519+01:00'
+  updated_by: 42
+region_22:
+  id: 22
+  country_id: 1
+  main_city_id: 
+  active: true
+  label: Wallis-et-Futuna
+  insee_code: '986'
+  insee_deleted: false
+  created_at: '2020-12-08T10:20:12.519+01:00'
+  created_by: 42
+  updated_at: '2020-12-08T10:20:12.519+01:00'
+  updated_by: 42
+region_23:
+  id: 23
+  country_id: 1
+  main_city_id: 
+  active: true
+  label: Polynésie française
+  insee_code: '987'
+  insee_deleted: false
+  created_at: '2020-12-08T10:20:12.519+01:00'
+  created_by: 42
+  updated_at: '2020-12-08T10:20:12.519+01:00'
+  updated_by: 42
+region_24:
+  id: 24
+  country_id: 1
+  main_city_id: 
+  active: true
+  label: Monaco
+  insee_code: '980'
+  insee_deleted: false
+  created_at: '2020-12-08T10:20:12.519+01:00'
+  created_by: 42
+  updated_at: '2020-12-08T10:20:12.519+01:00'
+  updated_by: 42
+region_25:
+  id: 25
+  country_id: 1
+  main_city_id: 
+  active: true
+  label: Nouvelle-Calédonie
+  insee_code: '988'
+  insee_deleted: false
+  created_at: '2020-12-08T10:20:12.519+01:00'
+  created_by: 42
+  updated_at: '2020-12-08T10:20:12.519+01:00'
+  updated_by: 42

@@ -1,0 +1,765 @@
+'333259':
+  id: 333259
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 7510
+  filename: 06510.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:42:44.068+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:42:44.068+02:00'
+  updated_by: 296
+'334293':
+  id: 334293
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 16803
+  filename: 15803.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:42:50.817+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:42:50.817+02:00'
+  updated_by: 296
+'335623':
+  id: 335623
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 9486
+  filename: '08486.pdf'
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:42:59.512+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:42:59.512+02:00'
+  updated_by: 296
+'336927':
+  id: 336927
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 17234
+  filename: 16234.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:43:06.619+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:43:06.619+02:00'
+  updated_by: 296
+'337993':
+  id: 337993
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 13304
+  filename: 12304.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:43:13.050+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:43:13.050+02:00'
+  updated_by: 296
+'339180':
+  id: 339180
+  document_type_id: 81
+  document_format_id: 11
+  tier_id: 15219
+  filename: 14219.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:43:21.108+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:43:21.108+02:00'
+  updated_by: 296
+'341041':
+  id: 341041
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 12450
+  filename: 11450.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:43:31.775+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:43:31.775+02:00'
+  updated_by: 296
+'341500':
+  id: 341500
+  document_type_id: 81
+  document_format_id: 11
+  tier_id: 8314
+  filename: 07314.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:43:33.645+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:43:33.645+02:00'
+  updated_by: 296
+'342853':
+  id: 342853
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 4575
+  filename: 03575.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:43:43.306+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:43:43.306+02:00'
+  updated_by: 296
+'344073':
+  id: 344073
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 15596
+  filename: 14596.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:43:50.979+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:43:50.979+02:00'
+  updated_by: 296
+'344891':
+  id: 344891
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 12968
+  filename: 11968.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:43:56.400+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:43:56.400+02:00'
+  updated_by: 296
+'346205':
+  id: 346205
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 7652
+  filename: 06652.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:44:04.160+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:44:04.160+02:00'
+  updated_by: 296
+'347552':
+  id: 347552
+  document_type_id: 81
+  document_format_id: 11
+  tier_id: 12672
+  filename: 11672.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:44:12.563+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:44:12.563+02:00'
+  updated_by: 296
+'348690':
+  id: 348690
+  document_type_id: 81
+  document_format_id: 11
+  tier_id: 6081
+  filename: '05081.pdf'
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:44:18.558+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:44:18.558+02:00'
+  updated_by: 296
+'350551':
+  id: 350551
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 9453
+  filename: '08453.pdf'
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:44:29.427+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:44:29.427+02:00'
+  updated_by: 296
+'351794':
+  id: 351794
+  document_type_id: 81
+  document_format_id: 11
+  tier_id: 16508
+  filename: 15508.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:44:35.824+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:44:35.824+02:00'
+  updated_by: 296
+'352766':
+  id: 352766
+  document_type_id: 81
+  document_format_id: 11
+  tier_id: 13716
+  filename: 12716.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:44:41.228+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:44:41.228+02:00'
+  updated_by: 296
+'354039':
+  id: 354039
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 7811
+  filename: '06811.pdf'
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:44:48.317+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:44:48.317+02:00'
+  updated_by: 296
+'355120':
+  id: 355120
+  document_type_id: 81
+  document_format_id: 11
+  tier_id: 10072
+  filename: '09072.pdf'
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:44:54.863+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:44:54.863+02:00'
+  updated_by: 296
+'356399':
+  id: 356399
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 16816
+  filename: 15816.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:45:02.011+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:45:02.011+02:00'
+  updated_by: 296
+'357680':
+  id: 357680
+  document_type_id: 81
+  document_format_id: 11
+  tier_id: 9732
+  filename: '08732.pdf'
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:45:10.367+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:45:10.367+02:00'
+  updated_by: 296
+'359144':
+  id: 359144
+  document_type_id: 81
+  document_format_id: 11
+  tier_id: 16930
+  filename: 15930.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:45:18.667+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:45:18.667+02:00'
+  updated_by: 296
+'360048':
+  id: 360048
+  document_type_id: 81
+  document_format_id: 11
+  tier_id: 14931
+  filename: 13931.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:45:24.653+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:45:24.653+02:00'
+  updated_by: 296
+'361075':
+  id: 361075
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 7806
+  filename: '06806.pdf'
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:45:30.814+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:45:30.814+02:00'
+  updated_by: 296
+'361923':
+  id: 361923
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 7646
+  filename: 06646.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:45:36.703+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:45:36.703+02:00'
+  updated_by: 296
+'363200':
+  id: 363200
+  document_type_id: 81
+  document_format_id: 11
+  tier_id: 17973
+  filename: 16973.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:45:44.014+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:45:44.014+02:00'
+  updated_by: 296
+'364987':
+  id: 364987
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 17811
+  filename: 16811.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:45:54.134+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:45:54.134+02:00'
+  updated_by: 296
+'366097':
+  id: 366097
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 17727
+  filename: 16727.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:45:59.622+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:45:59.622+02:00'
+  updated_by: 296
+'367305':
+  id: 367305
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 15645
+  filename: 14645.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:05.764+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:05.764+02:00'
+  updated_by: 296
+'368527':
+  id: 368527
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 9436
+  filename: '08436.pdf'
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:13.546+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:13.546+02:00'
+  updated_by: 296
+'369225':
+  id: 369225
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 17068
+  filename: 16068.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:16.060+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:16.060+02:00'
+  updated_by: 296
+'370772':
+  id: 370772
+  document_type_id: 81
+  document_format_id: 11
+  tier_id: 14999
+  filename: 13999.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:24.959+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:24.959+02:00'
+  updated_by: 296
+'369356':
+  id: 369356
+  document_type_id: 81
+  document_format_id: 11
+  tier_id: 8415
+  filename: 07415.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:16.541+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:16.541+02:00'
+  updated_by: 296
+'370679':
+  id: 370679
+  document_type_id: 82
+  document_format_id: 11
+  tier_id: 18166
+  filename: 17166.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:24.614+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:24.614+02:00'
+  updated_by: 296
+'prospect_doc1':
+  id: 370670
+  document_type_id: 251
+  document_format_id: 11
+  tier_id: 189342
+  filename: sample1.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:24.614+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:24.614+02:00'
+  updated_by: 296
+'prospect_doc2':
+  id: 370671
+  document_type_id: 1
+  document_format_id: 11
+  tier_id: 189342
+  filename: sample1.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:24.614+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:24.614+02:00'
+  updated_by: 296
+'prospect_doc3':
+  id: 370673
+  document_type_id: 2
+  document_format_id: 11
+  tier_id: 189342
+  filename: sample1.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:24.614+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:24.614+02:00'
+  updated_by: 296
+'prospect_doc4':
+  id: 370674
+  document_type_id: 17
+  document_format_id: 11
+  tier_id: 189342
+  filename: sample1.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:24.614+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:24.614+02:00'
+  updated_by: 296
+'prospect_doc5':
+  id: 370675
+  document_type_id: 7
+  document_format_id: 11
+  tier_id: 189342
+  filename: sample1.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:24.614+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:24.614+02:00'
+  updated_by: 296
+'prospect_doc6':
+  id: 370676
+  document_type_id: 19
+  document_format_id: 11
+  tier_id: 189342
+  filename: sample1.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:24.614+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:24.614+02:00'
+  updated_by: 296
+'prospect_doc7':
+  id: 370677
+  document_type_id: 31
+  document_format_id: 11
+  tier_id: 189342
+  filename: sample1.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:24.614+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:24.614+02:00'
+  updated_by: 296
+'prospect_doc8':
+  id: 370678
+  document_type_id: 20
+  document_format_id: 11
+  tier_id: 189342
+  filename: sample1.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:24.614+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:24.614+02:00'
+  updated_by: 296
+'prospect_do9':
+  id: 370680
+  document_type_id: 111
+  document_format_id: 11
+  tier_id: 189342
+  filename: sample1.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:24.614+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:24.614+02:00'
+  updated_by: 296
+'9999123':
+  id: 9999123
+  document_type_id: 45
+  document_format_id: 11
+  tier_id: 9786
+  filename: sample1.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:24.614+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:24.614+02:00'
+  updated_by: 296
+'99999999':
+  id: 99999999
+  document_type_id: 251
+  document_format_id: 11
+  tier_id: 9786
+  filename: sample1.pdf
+  valid_from:
+  valid_until:
+  delivery_authority: ''
+  delivery_place: ''
+  delivery_number: ''
+  tier_validation:
+  itg_validation:
+  created_at: '2019-08-02T23:46:24.614+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:46:24.614+02:00'
+  updated_by: 296

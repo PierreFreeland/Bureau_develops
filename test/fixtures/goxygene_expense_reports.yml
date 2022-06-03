@@ -1,0 +1,7428 @@
+jackie_denesik_172465:
+  id: 172465
+  itg_company_id: 9
+  disbursement_id: 324786
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2013-12-31'
+  total: '1657.47'
+  vat: '109.83'
+  total_with_taxes: '1767.3'
+  accounting_document: 0154NA1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Décembre 2013
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:27:34.135+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:34.135+02:00'
+  updated_by: 296
+jackie_denesik_172466:
+  id: 172466
+  itg_company_id: 9
+  disbursement_id: 324785
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2013-12-31'
+  total: '627.08'
+  vat: '34.57'
+  total_with_taxes: '661.65'
+  accounting_document: 0153NA1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Décembre 2013
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:27:34.145+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:34.145+02:00'
+  updated_by: 296
+jackie_denesik_173125:
+  id: 173125
+  itg_company_id: 9
+  disbursement_id: 327571
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-01-31'
+  total: '995.32'
+  vat: '14.01'
+  total_with_taxes: '1009.33'
+  accounting_document: '0158NB1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Janvier 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:27:38.310+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:38.310+02:00'
+  updated_by: 296
+jackie_denesik_173129:
+  id: 173129
+  itg_company_id: 9
+  disbursement_id: 326758
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-01-31'
+  total: '2769.22'
+  vat: '5.1'
+  total_with_taxes: '2774.32'
+  accounting_document: 0064NB1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Janvier 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:27:38.333+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:38.333+02:00'
+  updated_by: 296
+jackie_denesik_174617:
+  id: 174617
+  itg_company_id: 9
+  disbursement_id: 329350
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-02-28'
+  total: '1712.27'
+  vat: '28.51'
+  total_with_taxes: '1740.78'
+  accounting_document: '0078NC1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Février 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:27:48.513+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:48.513+02:00'
+  updated_by: 296
+jackie_denesik_174620:
+  id: 174620
+  itg_company_id: 9
+  disbursement_id: 329351
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-02-28'
+  total: '1985.94'
+  vat: '31.87'
+  total_with_taxes: '2017.81'
+  accounting_document: '0079NC1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Février 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:27:48.526+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:48.526+02:00'
+  updated_by: 296
+jackie_denesik_175737:
+  id: 175737
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-03-31'
+  total: '603.6'
+  vat: '7.95'
+  total_with_taxes: '611.55'
+  accounting_document: '0029ND1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mars 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-1500.0"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:27:56.265+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:56.265+02:00'
+  updated_by: 296
+jackie_denesik_175744:
+  id: 175744
+  itg_company_id: 9
+  disbursement_id: 331934
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-03-31'
+  total: '3298.5'
+  vat: '8.53'
+  total_with_taxes: '3307.03'
+  accounting_document: '0069ND1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mars 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:27:56.313+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:56.313+02:00'
+  updated_by: 296
+jackie_denesik_176870:
+  id: 176870
+  itg_company_id: 9
+  disbursement_id: 333886
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-04-30'
+  total: '2944.62'
+  vat: '0.0'
+  total_with_taxes: '2944.62'
+  accounting_document: 0020NE1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Avril 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:28:04.457+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:04.457+02:00'
+  updated_by: 296
+jackie_denesik_176871:
+  id: 176871
+  itg_company_id: 9
+  disbursement_id: 333885
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-04-30'
+  total: '1062.77'
+  vat: '14.28'
+  total_with_taxes: '1077.05'
+  accounting_document: '0019NE1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Avril 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:28:04.466+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:04.466+02:00'
+  updated_by: 296
+jackie_denesik_178818:
+  id: 178818
+  itg_company_id: 9
+  disbursement_id: 337736
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-05-31'
+  total: '1313.58'
+  vat: '32.9'
+  total_with_taxes: '1346.48'
+  accounting_document: 0155NF1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mai 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:28:18.221+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:18.221+02:00'
+  updated_by: 296
+jackie_denesik_178819:
+  id: 178819
+  itg_company_id: 9
+  disbursement_id: 337735
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-05-31'
+  total: '406.99'
+  vat: '13.31'
+  total_with_taxes: '420.3'
+  accounting_document: 0154NF1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mai 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:28:18.227+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:18.227+02:00'
+  updated_by: 296
+jackie_denesik_179685:
+  id: 179685
+  itg_company_id: 9
+  disbursement_id: 339716
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-06-30'
+  total: '2435.68'
+  vat: '87.68'
+  total_with_taxes: '2523.36'
+  accounting_document: 0072NG1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juin 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:28:24.595+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:24.595+02:00'
+  updated_by: 296
+jackie_denesik_180146:
+  id: 180146
+  itg_company_id: 9
+  disbursement_id: 339788
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-06-30'
+  total: '756.71'
+  vat: '9.2'
+  total_with_taxes: '765.91'
+  accounting_document: '0083NG1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juin 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:28:27.848+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:27.848+02:00'
+  updated_by: 296
+jackie_denesik_180944:
+  id: 180944
+  itg_company_id: 9
+  disbursement_id: 342500
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-07-31'
+  total: '1648.79'
+  vat: '263.03'
+  total_with_taxes: '1911.82'
+  accounting_document: 0060NH1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juillet 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:28:33.503+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:33.503+02:00'
+  updated_by: 296
+jackie_denesik_180945:
+  id: 180945
+  itg_company_id: 9
+  disbursement_id: 342499
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-07-31'
+  total: '488.6'
+  vat: '48.1'
+  total_with_taxes: '536.7'
+  accounting_document: '0059NH1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juillet 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:28:33.511+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:33.511+02:00'
+  updated_by: 296
+jackie_denesik_182767:
+  id: 182767
+  itg_company_id: 9
+  disbursement_id: 344590
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-08-31'
+  total: '2830.91'
+  vat: '319.53'
+  total_with_taxes: '3150.44'
+  accounting_document: 0067NI1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Août 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:28:46.316+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:46.316+02:00'
+  updated_by: 296
+jackie_denesik_182768:
+  id: 182768
+  itg_company_id: 9
+  disbursement_id: 344589
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-08-31'
+  total: '669.88'
+  vat: '48.65'
+  total_with_taxes: '718.53'
+  accounting_document: 0066NI1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Août 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:28:46.325+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:46.325+02:00'
+  updated_by: 296
+jackie_denesik_184748:
+  id: 184748
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-09-30'
+  total: '519.59'
+  vat: '0.0'
+  total_with_taxes: '519.59'
+  accounting_document: '0148NJ1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Septembre 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-2000.0"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:29:00.011+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:00.011+02:00'
+  updated_by: 296
+jackie_denesik_184749:
+  id: 184749
+  itg_company_id: 9
+  disbursement_id: 348151
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-09-30'
+  total: '3137.2'
+  vat: '28.56'
+  total_with_taxes: '3165.76'
+  accounting_document: 0150NJ1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Septembre 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-1480.4"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:29:00.020+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:00.020+02:00'
+  updated_by: 296
+jackie_denesik_186395:
+  id: 186395
+  itg_company_id: 9
+  disbursement_id: 351035
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-10-31'
+  total: '314.36'
+  vat: '33.11'
+  total_with_taxes: '347.47'
+  accounting_document: 0131NK1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Octobre 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:29:11.280+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:11.280+02:00'
+  updated_by: 296
+jackie_denesik_186396:
+  id: 186396
+  itg_company_id: 9
+  disbursement_id: 351036
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-10-31'
+  total: '3149.7'
+  vat: '13.28'
+  total_with_taxes: '3162.98'
+  accounting_document: 0132NK1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Octobre 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:29:11.287+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:11.287+02:00'
+  updated_by: 296
+jackie_denesik_187882:
+  id: 187882
+  itg_company_id: 9
+  disbursement_id: 353795
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-11-30'
+  total: '697.2'
+  vat: '0.0'
+  total_with_taxes: '697.2'
+  accounting_document: 0143NL1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Novembre 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:29:21.820+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:21.820+02:00'
+  updated_by: 296
+jackie_denesik_187883:
+  id: 187883
+  itg_company_id: 9
+  disbursement_id: 354132
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-11-30'
+  total: '2920.46'
+  vat: '192.82'
+  total_with_taxes: '3113.28'
+  accounting_document: 0150NL1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Novembre 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:29:21.826+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:21.826+02:00'
+  updated_by: 296
+jackie_denesik_189688:
+  id: 189688
+  itg_company_id: 9
+  disbursement_id: 357221
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-12-31'
+  total: '1764.92'
+  vat: '23.58'
+  total_with_taxes: '1788.5'
+  accounting_document: '0190NA1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Décembre 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:29:35.387+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:35.387+02:00'
+  updated_by: 296
+jackie_denesik_189689:
+  id: 189689
+  itg_company_id: 9
+  disbursement_id: 357222
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2014-12-31'
+  total: '1209.65'
+  vat: '0.0'
+  total_with_taxes: '1209.65'
+  accounting_document: '0191NA1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Décembre 2014
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:29:35.394+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:35.394+02:00'
+  updated_by: 296
+jackie_denesik_191303:
+  id: 191303
+  itg_company_id: 9
+  disbursement_id: 360149
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-01-31'
+  total: '1605.81'
+  vat: '162.97'
+  total_with_taxes: '1768.78'
+  accounting_document: 0145NB1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Janvier 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:29:46.396+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:46.396+02:00'
+  updated_by: 296
+jackie_denesik_191305:
+  id: 191305
+  itg_company_id: 9
+  disbursement_id: 360152
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-01-31'
+  total: '2730.63'
+  vat: '56.24'
+  total_with_taxes: '2786.87'
+  accounting_document: 0147NB1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Janvier 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:29:46.410+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:46.410+02:00'
+  updated_by: 296
+jackie_denesik_192346:
+  id: 192346
+  itg_company_id: 9
+  disbursement_id: 362670
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-02-28'
+  total: '5689.37'
+  vat: '240.86'
+  total_with_taxes: '5930.23'
+  accounting_document: '0108NC1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Février 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:29:53.824+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:53.824+02:00'
+  updated_by: 296
+jackie_denesik_192347:
+  id: 192347
+  itg_company_id: 9
+  disbursement_id: 362668
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-02-28'
+  total: '463.5'
+  vat: '0.0'
+  total_with_taxes: '463.5'
+  accounting_document: 0107NC1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Février 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:29:53.832+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:53.832+02:00'
+  updated_by: 296
+jackie_denesik_194233:
+  id: 194233
+  itg_company_id: 9
+  disbursement_id: 365367
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-03-31'
+  total: '3768.4'
+  vat: '26.38'
+  total_with_taxes: '3794.78'
+  accounting_document: 0132ND1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mars 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:30:07.294+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:07.294+02:00'
+  updated_by: 296
+jackie_denesik_194234:
+  id: 194234
+  itg_company_id: 9
+  disbursement_id: 365366
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-03-31'
+  total: '1275.51'
+  vat: '54.52'
+  total_with_taxes: '1330.03'
+  accounting_document: 0131ND1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mars 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:30:07.301+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:07.301+02:00'
+  updated_by: 296
+jackie_denesik_195543:
+  id: 195543
+  itg_company_id: 9
+  disbursement_id: 368019
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-04-30'
+  total: '636.96'
+  vat: '63.5'
+  total_with_taxes: '700.46'
+  accounting_document: 0077NE1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Avril 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:30:15.948+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:15.948+02:00'
+  updated_by: 296
+jackie_denesik_195547:
+  id: 195547
+  itg_company_id: 9
+  disbursement_id: 368022
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-04-30'
+  total: '3351.05'
+  vat: '9.97'
+  total_with_taxes: '3361.02'
+  accounting_document: '0078NE1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Avril 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:30:15.972+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:15.972+02:00'
+  updated_by: 296
+jackie_denesik_197265:
+  id: 197265
+  itg_company_id: 9
+  disbursement_id: 371051
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-05-31'
+  total: '4758.96'
+  vat: '16.16'
+  total_with_taxes: '4775.12'
+  accounting_document: 0131NF1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mai 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:30:28.277+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:28.277+02:00'
+  updated_by: 296
+jackie_denesik_197465:
+  id: 197465
+  itg_company_id: 9
+  disbursement_id: 371499
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-05-31'
+  total: '598.0'
+  vat: '0.0'
+  total_with_taxes: '598.0'
+  accounting_document: 0165NF1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mai 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:30:29.504+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:29.504+02:00'
+  updated_by: 296
+jackie_denesik_198544:
+  id: 198544
+  itg_company_id: 9
+  disbursement_id: 374070
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-06-30'
+  total: '749.39'
+  vat: '69.06'
+  total_with_taxes: '818.45'
+  accounting_document: 0112NG1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juin 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:30:36.841+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:36.841+02:00'
+  updated_by: 296
+jackie_denesik_198545:
+  id: 198545
+  itg_company_id: 9
+  disbursement_id: 374073
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-06-30'
+  total: '3968.23'
+  vat: '46.01'
+  total_with_taxes: '4014.24'
+  accounting_document: 0113NG1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juin 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:30:36.847+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:36.847+02:00'
+  updated_by: 296
+jackie_denesik_200273:
+  id: 200273
+  itg_company_id: 9
+  disbursement_id: 376919
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-07-31'
+  total: '253.87'
+  vat: '14.73'
+  total_with_taxes: '268.6'
+  accounting_document: '0091NH1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juillet 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:30:48.983+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:48.983+02:00'
+  updated_by: 296
+jackie_denesik_200274:
+  id: 200274
+  itg_company_id: 9
+  disbursement_id: 376922
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-07-31'
+  total: '3487.78'
+  vat: '349.38'
+  total_with_taxes: '3837.16'
+  accounting_document: '0092NH1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juillet 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:30:48.989+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:48.989+02:00'
+  updated_by: 296
+jackie_denesik_201407:
+  id: 201407
+  itg_company_id: 9
+  disbursement_id: 379369
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-08-31'
+  total: '305.8'
+  vat: '20.05'
+  total_with_taxes: '325.85'
+  accounting_document: 0067NI1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Août 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:30:57.492+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:57.492+02:00'
+  updated_by: 296
+jackie_denesik_201412:
+  id: 201412
+  itg_company_id: 9
+  disbursement_id: 379370
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-08-31'
+  total: '2812.35'
+  vat: '393.54'
+  total_with_taxes: '3205.89'
+  accounting_document: '0068NI1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Août 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:30:57.525+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:57.525+02:00'
+  updated_by: 296
+jackie_denesik_206212:
+  id: 206212
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-09-30'
+  total: '238.05'
+  vat: '20.4'
+  total_with_taxes: '258.45'
+  accounting_document: '0097NL1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Septembre 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-9256.5"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:31:32.560+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.560+02:00'
+  updated_by: 296
+jackie_denesik_206213:
+  id: 206213
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-09-30'
+  total: '2239.84'
+  vat: '68.89'
+  total_with_taxes: '2308.73'
+  accounting_document: 0100NL1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Septembre 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-7902.6"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:31:32.566+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.566+02:00'
+  updated_by: 296
+jackie_denesik_206214:
+  id: 206214
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-10-31'
+  total: '3177.12'
+  vat: '146.32'
+  total_with_taxes: '3323.44'
+  accounting_document: 0101NL1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Octobre 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-5593.9"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:31:32.573+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.573+02:00'
+  updated_by: 296
+jackie_denesik_206215:
+  id: 206215
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-10-31'
+  total: '549.5'
+  vat: '57.85'
+  total_with_taxes: '607.35'
+  accounting_document: '0099NL1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Octobre 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-8510.0"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:31:32.579+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.579+02:00'
+  updated_by: 296
+jackie_denesik_206216:
+  id: 206216
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-11-30'
+  total: '453.82'
+  vat: '34.27'
+  total_with_taxes: '488.09'
+  accounting_document: '0098NL1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA NOVEMBRE 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-8998.1"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:31:32.585+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.585+02:00'
+  updated_by: 296
+jackie_denesik_206217:
+  id: 206217
+  itg_company_id: 9
+  disbursement_id: 388638
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-11-30'
+  total: '8805.9'
+  vat: '32.65'
+  total_with_taxes: '8838.55'
+  accounting_document: 0102NL1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Novembre 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-2270.5"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:31:32.592+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.592+02:00'
+  updated_by: 296
+jackie_denesik_208747:
+  id: 208747
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-12-31'
+  total: '780.08'
+  vat: '33.46'
+  total_with_taxes: '813.54'
+  accounting_document: 0007ND1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Décembre 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-18056.1"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:31:50.922+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:50.922+02:00'
+  updated_by: 296
+jackie_denesik_208756:
+  id: 208756
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2015-12-31'
+  total: '3172.7'
+  vat: '217.68'
+  total_with_taxes: '3390.38'
+  accounting_document: 0011ND1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Décembre 2015
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-14326.4"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:31:50.970+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:50.970+02:00'
+  updated_by: 296
+jackie_denesik_208757:
+  id: 208757
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-01-31'
+  total: '279.47'
+  vat: '19.72'
+  total_with_taxes: '299.19'
+  accounting_document: 0005ND1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Janvier 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-18355.3"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:31:50.977+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:50.977+02:00'
+  updated_by: 296
+jackie_denesik_208758:
+  id: 208758
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-01-31'
+  total: '2649.85'
+  vat: '266.31'
+  total_with_taxes: '2916.16'
+  accounting_document: '0009ND1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Janvier 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-17242.6"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:31:50.984+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:50.984+02:00'
+  updated_by: 296
+jackie_denesik_212715:
+  id: 212715
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-02-29'
+  total: '544.94'
+  vat: '23.77'
+  total_with_taxes: '568.71'
+  accounting_document: '0109ND1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Février 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-9832.9"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:32:20.749+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.749+02:00'
+  updated_by: 296
+jackie_denesik_212716:
+  id: 212716
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-03-31'
+  total: '1108.56'
+  vat: '66.36'
+  total_with_taxes: '1174.92'
+  accounting_document: 0007NF1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mars 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-12993.6"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:32:20.755+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.755+02:00'
+  updated_by: 296
+jackie_denesik_212720:
+  id: 212720
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-03-31'
+  total: '2624.17'
+  vat: '6.69'
+  total_with_taxes: '2630.86'
+  accounting_document: 0110ND1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mars 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-9264.2"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:32:20.781+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.781+02:00'
+  updated_by: 296
+jackie_denesik_212722:
+  id: 212722
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-02-29'
+  total: '1714.9'
+  vat: '28.43'
+  total_with_taxes: '1743.33'
+  accounting_document: '0008NF1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Février 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-11818.7"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:32:20.795+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.795+02:00'
+  updated_by: 296
+jackie_denesik_216375:
+  id: 216375
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-04-30'
+  total: '614.14'
+  vat: '0.0'
+  total_with_taxes: '614.14'
+  accounting_document: 0125NF1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Avril 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-18013.1"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:32:47.346+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:47.346+02:00'
+  updated_by: 296
+jackie_denesik_216376:
+  id: 216376
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-05-31'
+  total: '4196.06'
+  vat: '3.27'
+  total_with_taxes: '4199.33'
+  accounting_document: 0042NH1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mai 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-15819.4"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:32:47.352+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:47.352+02:00'
+  updated_by: 296
+jackie_denesik_216377:
+  id: 216377
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-04-30'
+  total: '1984.78'
+  vat: '36.45'
+  total_with_taxes: '2021.23'
+  accounting_document: '0039NH1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Avril 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-23998.0"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:32:47.358+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:47.358+02:00'
+  updated_by: 296
+jackie_denesik_216378:
+  id: 216378
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-05-31'
+  total: '2944.6'
+  vat: '298.14'
+  total_with_taxes: '3242.74'
+  accounting_document: 0041NH1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mai 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-19062.2"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:32:47.367+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:47.367+02:00'
+  updated_by: 296
+jackie_denesik_218127:
+  id: 218127
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-06-30'
+  total: '1413.75'
+  vat: '6.68'
+  total_with_taxes: '1420.43'
+  accounting_document: '0038NH1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juin 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-25418.4"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:32:59.895+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:59.895+02:00'
+  updated_by: 296
+jackie_denesik_218128:
+  id: 218128
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-06-30'
+  total: '2712.31'
+  vat: '202.3'
+  total_with_taxes: '2914.61'
+  accounting_document: 0040NH1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juin 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-21976.8"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:32:59.902+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:59.902+02:00'
+  updated_by: 296
+jackie_denesik_219173:
+  id: 219173
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-07-31'
+  total: '1092.63'
+  vat: '7.09'
+  total_with_taxes: '1099.72'
+  accounting_document: 0111NH1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juillet 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-13681.3"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:33:07.430+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:07.430+02:00'
+  updated_by: 296
+jackie_denesik_219174:
+  id: 219174
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-07-31'
+  total: '520.24'
+  vat: '20.11'
+  total_with_taxes: '540.35'
+  accounting_document: 0110NH1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juillet 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-14221.6"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:33:07.437+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:07.437+02:00'
+  updated_by: 296
+jackie_denesik_220605:
+  id: 220605
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-08-31'
+  total: '626.12'
+  vat: '0.0'
+  total_with_taxes: '626.12'
+  accounting_document: 0116NI1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Août 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-16019.8"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:33:17.277+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:17.277+02:00'
+  updated_by: 296
+jackie_denesik_220606:
+  id: 220606
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-08-31'
+  total: '3330.85'
+  vat: '170.0'
+  total_with_taxes: '3500.85'
+  accounting_document: 0117NI1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Août 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-15393.6"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:33:17.282+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:17.282+02:00'
+  updated_by: 296
+jackie_denesik_221828:
+  id: 221828
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-09-30'
+  total: '348.12'
+  vat: '16.18'
+  total_with_taxes: '364.3'
+  accounting_document: '0091NJ1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Septembre 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-16331.0"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:33:25.671+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:25.671+02:00'
+  updated_by: 296
+jackie_denesik_221829:
+  id: 221829
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-09-30'
+  total: '1353.74'
+  vat: '41.27'
+  total_with_taxes: '1395.01'
+  accounting_document: '0094NJ1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Septembre 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-15966.7"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:33:25.677+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:25.677+02:00'
+  updated_by: 296
+jackie_denesik_223986:
+  id: 223986
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-10-31'
+  total: '1915.28'
+  vat: '69.48'
+  total_with_taxes: '1984.76'
+  accounting_document: '0184NK1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Octobre 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-19466.6"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:33:41.685+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:41.685+02:00'
+  updated_by: 296
+jackie_denesik_223990:
+  id: 223990
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-10-31'
+  total: '798.6'
+  vat: '0.0'
+  total_with_taxes: '798.6'
+  accounting_document: '0187NK1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Octobre 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-17481.9"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:33:41.713+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:41.713+02:00'
+  updated_by: 296
+jackie_denesik_225182:
+  id: 225182
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-11-30'
+  total: '590.65'
+  vat: '0.0'
+  total_with_taxes: '590.65'
+  accounting_document: 0212NL1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Novembre 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-28558.7"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:33:49.977+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:49.977+02:00'
+  updated_by: 296
+jackie_denesik_225185:
+  id: 225185
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-11-30'
+  total: '3133.11'
+  vat: '0.0'
+  total_with_taxes: '3133.11'
+  accounting_document: 0213NL1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Novembre 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-27968.1"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:33:49.994+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:49.994+02:00'
+  updated_by: 296
+jackie_denesik_227894:
+  id: 227894
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-12-31'
+  total: '2133.96'
+  vat: '115.62'
+  total_with_taxes: '2249.58'
+  accounting_document: 0127NA1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Décembre 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-19405.4"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:34:08.971+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:08.971+02:00'
+  updated_by: 296
+jackie_denesik_227895:
+  id: 227895
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2016-12-31'
+  total: '456.6'
+  vat: '0.0'
+  total_with_taxes: '456.6'
+  accounting_document: 0126NA1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Décembre 2016
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-19862.0"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:34:08.979+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:08.979+02:00'
+  updated_by: 296
+jackie_denesik_229693:
+  id: 229693
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-01-31'
+  total: '804.82'
+  vat: '0.0'
+  total_with_taxes: '804.82'
+  accounting_document: '0169NB1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Janvier 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-20531.2"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:34:21.875+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:21.875+02:00'
+  updated_by: 296
+jackie_denesik_229695:
+  id: 229695
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-01-31'
+  total: '3348.32'
+  vat: '180.29'
+  total_with_taxes: '3528.61'
+  accounting_document: 0171NB1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Janvier 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-19726.4"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:34:21.885+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:21.885+02:00'
+  updated_by: 296
+jackie_denesik_230974:
+  id: 230974
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-02-28'
+  total: '2536.12'
+  vat: '97.32'
+  total_with_taxes: '2633.44'
+  accounting_document: 0110NC1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Février 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-11096.5"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:34:30.927+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:30.927+02:00'
+  updated_by: 296
+jackie_denesik_230975:
+  id: 230975
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-02-28'
+  total: '2615.48'
+  vat: '76.69'
+  total_with_taxes: '2692.17'
+  accounting_document: 0112NC1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Février 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-8463.0"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:34:30.934+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:30.934+02:00'
+  updated_by: 296
+jackie_denesik_231093:
+  id: 231093
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-01-31'
+  total: '411.26'
+  vat: '0.0'
+  total_with_taxes: '411.26'
+  accounting_document: 0136NC1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: COMPL 01/2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-5770.8"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:34:31.709+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:31.709+02:00'
+  updated_by: 296
+jackie_denesik_231917:
+  id: 231917
+  itg_company_id: 9
+  disbursement_id: 438946
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-03-31'
+  total: '2225.92'
+  vat: '44.06'
+  total_with_taxes: '2269.98'
+  accounting_document: '0068ND1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mars 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-266.1"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:34:37.770+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:37.770+02:00'
+  updated_by: 296
+jackie_denesik_231918:
+  id: 231918
+  itg_company_id: 9
+  disbursement_id: 439240
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-03-31'
+  total: '1412.16'
+  vat: '101.36'
+  total_with_taxes: '1513.52'
+  accounting_document: '0094ND1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mars 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:34:37.777+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:37.777+02:00'
+  updated_by: 296
+jackie_denesik_234669:
+  id: 234669
+  itg_company_id: 9
+  disbursement_id: 445319
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-04-30'
+  total: '3709.95'
+  vat: '139.32'
+  total_with_taxes: '3849.27'
+  accounting_document: 0051NF1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Avril 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:34:57.116+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:57.116+02:00'
+  updated_by: 296
+jackie_denesik_234670:
+  id: 234670
+  itg_company_id: 9
+  disbursement_id: 443406
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-04-30'
+  total: '1182.72'
+  vat: '42.23'
+  total_with_taxes: '1224.95'
+  accounting_document: 0177NE1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Avril 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:34:57.122+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:57.122+02:00'
+  updated_by: 296
+jackie_denesik_235495:
+  id: 235495
+  itg_company_id: 9
+  disbursement_id: 445312
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-05-31'
+  total: '588.52'
+  vat: '117.7'
+  total_with_taxes: '706.22'
+  accounting_document: 0050NF1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: COMPL DF 05-2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:35:02.988+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:02.988+02:00'
+  updated_by: 296
+jackie_denesik_236255:
+  id: 236255
+  itg_company_id: 9
+  disbursement_id: 457061
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-05-31'
+  total: '3145.46'
+  vat: '35.82'
+  total_with_taxes: '3181.28'
+  accounting_document: '0169NI1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mai 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:35:08.711+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:08.711+02:00'
+  updated_by: 296
+jackie_denesik_236256:
+  id: 236256
+  itg_company_id: 9
+  disbursement_id: 457060
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-05-31'
+  total: '1797.23'
+  vat: '53.01'
+  total_with_taxes: '1850.24'
+  accounting_document: '0168NI1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mai 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:35:08.719+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:08.719+02:00'
+  updated_by: 296
+jackie_denesik_237060:
+  id: 237060
+  itg_company_id: 9
+  disbursement_id: 473005
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-06-30'
+  total: '1540.1'
+  vat: '44.12'
+  total_with_taxes: '1584.22'
+  accounting_document: 0037NB1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juin 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:35:14.941+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:14.941+02:00'
+  updated_by: 296
+jackie_denesik_240006:
+  id: 240006
+  itg_company_id: 9
+  disbursement_id: 473019
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-07-31'
+  total: '1638.93'
+  vat: '0.0'
+  total_with_taxes: '1638.93'
+  accounting_document: 0042NB1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juillet 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:35:36.832+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:36.832+02:00'
+  updated_by: 296
+jackie_denesik_240011:
+  id: 240011
+  itg_company_id: 9
+  disbursement_id: 473022
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-06-30'
+  total: '3703.93'
+  vat: '285.69'
+  total_with_taxes: '3989.62'
+  accounting_document: 0045NB1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juin 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:35:36.845+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:36.845+02:00'
+  updated_by: 296
+jackie_denesik_240012:
+  id: 240012
+  itg_company_id: 9
+  disbursement_id: 473021
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-07-31'
+  total: '3112.31'
+  vat: '84.66'
+  total_with_taxes: '3196.97'
+  accounting_document: 0044NB1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juillet 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:35:36.852+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:36.852+02:00'
+  updated_by: 296
+jackie_denesik_241199:
+  id: 241199
+  itg_company_id: 9
+  disbursement_id: 473018
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-08-31'
+  total: '1557.96'
+  vat: '42.1'
+  total_with_taxes: '1600.06'
+  accounting_document: 0041NB1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Août 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:35:45.440+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:45.440+02:00'
+  updated_by: 296
+jackie_denesik_241200:
+  id: 241200
+  itg_company_id: 9
+  disbursement_id: 473002
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-08-31'
+  total: '1256.44'
+  vat: '66.62'
+  total_with_taxes: '1323.06'
+  accounting_document: 0036NB1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Août 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:35:45.448+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:45.448+02:00'
+  updated_by: 296
+jackie_denesik_242496:
+  id: 242496
+  itg_company_id: 9
+  disbursement_id: 473020
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-09-30'
+  total: '1952.22'
+  vat: '148.22'
+  total_with_taxes: '2100.44'
+  accounting_document: 0043NB1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Septembre 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:35:54.589+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:54.589+02:00'
+  updated_by: 296
+jackie_denesik_242497:
+  id: 242497
+  itg_company_id: 9
+  disbursement_id: 473001
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-09-30'
+  total: '1068.4'
+  vat: '0.0'
+  total_with_taxes: '1068.4'
+  accounting_document: 0035NB1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Septembre 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:35:54.595+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:54.595+02:00'
+  updated_by: 296
+jackie_denesik_244637:
+  id: 244637
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-10-31'
+  total: '2074.45'
+  vat: '80.51'
+  total_with_taxes: '2154.96'
+  accounting_document: 0124NJ1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Octobre 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-72332.8"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:36:09.745+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:09.745+02:00'
+  updated_by: 296
+jackie_denesik_244649:
+  id: 244649
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-10-31'
+  total: '2514.65'
+  vat: '131.42'
+  total_with_taxes: '2646.07'
+  accounting_document: 0127NJ1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Octobre 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-67711.4"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:36:09.800+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:09.800+02:00'
+  updated_by: 296
+jackie_denesik_248767:
+  id: 248767
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-11-30'
+  total: '1708.81'
+  vat: '0.0'
+  total_with_taxes: '1708.81'
+  accounting_document: 0123NJ1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Novembre 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-74041.6"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:36:39.102+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:39.102+02:00'
+  updated_by: 296
+jackie_denesik_248782:
+  id: 248782
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-12-31'
+  total: '2411.09'
+  vat: '281.19'
+  total_with_taxes: '2692.28'
+  accounting_document: '0128NJ1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Décembre 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-65065.4"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:36:39.207+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:39.207+02:00'
+  updated_by: 296
+jackie_denesik_248784:
+  id: 248784
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-11-30'
+  total: '4425.99'
+  vat: '586.3'
+  total_with_taxes: '5012.29'
+  accounting_document: 0130NJ1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Novembre 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-58081.5"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:36:39.220+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:39.220+02:00'
+  updated_by: 296
+jackie_denesik_249135:
+  id: 249135
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2017-12-31'
+  total: '7198.54'
+  vat: '629.55'
+  total_with_taxes: '7828.09'
+  accounting_document: 0131NJ1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Décembre 2017
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-53069.2"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:36:42.139+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:42.139+02:00'
+  updated_by: 296
+jackie_denesik_252972:
+  id: 252972
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-01-31'
+  total: '1358.42'
+  vat: '0.0'
+  total_with_taxes: '1358.42'
+  accounting_document: 0122NJ1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Janvier 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-75400.0"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:37:10.301+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:37:10.301+02:00'
+  updated_by: 296
+jackie_denesik_252973:
+  id: 252973
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-02-28'
+  total: '4253.83'
+  vat: '37.73'
+  total_with_taxes: '4291.56'
+  accounting_document: '0129NJ1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Février 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-62373.1"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:37:10.307+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:37:10.307+02:00'
+  updated_by: 296
+jackie_denesik_254291:
+  id: 254291
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-03-31'
+  total: '2389.98'
+  vat: '76.4'
+  total_with_taxes: '2466.38'
+  accounting_document: 0125NJ1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mars 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-70177.8"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:37:20.022+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:37:20.022+02:00'
+  updated_by: 296
+jackie_denesik_270052:
+  id: 270052
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-01-31'
+  total: '5735.22'
+  vat: '83.92'
+  total_with_taxes: '5819.14'
+  accounting_document: '0158NA1909'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Janvier 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-11409.6"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:15.073+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.073+02:00'
+  updated_by: 296
+jackie_denesik_270053:
+  id: 270053
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-02-28'
+  total: '830.74'
+  vat: '1.83'
+  total_with_taxes: '832.57'
+  accounting_document: 0155NA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Février 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-15593.7"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:15.083+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.083+02:00'
+  updated_by: 296
+jackie_denesik_270054:
+  id: 270054
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-03-31'
+  total: '1490.28'
+  vat: '1.56'
+  total_with_taxes: '1491.84'
+  accounting_document: 0156NA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mars 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-14761.2"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:15.092+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.092+02:00'
+  updated_by: 296
+jackie_denesik_270055:
+  id: 270055
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-04-30'
+  total: '789.86'
+  vat: '0.0'
+  total_with_taxes: '789.86'
+  accounting_document: 0154NA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Avril 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-16383.6"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:15.100+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.100+02:00'
+  updated_by: 296
+jackie_denesik_270056:
+  id: 270056
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-05-31'
+  total: '563.34'
+  vat: '9.79'
+  total_with_taxes: '573.13'
+  accounting_document: 0153NA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mai 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-16956.7"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:15.109+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.109+02:00'
+  updated_by: 296
+jackie_denesik_270057:
+  id: 270057
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-06-30'
+  total: '1856.43'
+  vat: '3.27'
+  total_with_taxes: '1859.7'
+  accounting_document: 0157NA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juin 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-13269.3"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:15.117+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.117+02:00'
+  updated_by: 296
+jackie_denesik_270058:
+  id: 270058
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-07-31'
+  total: '411.09'
+  vat: '4.83'
+  total_with_taxes: '415.92'
+  accounting_document: '0038NB1909'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juillet 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-4600.5"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:15.125+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.125+02:00'
+  updated_by: 296
+jackie_denesik_270059:
+  id: 270059
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-08-31'
+  total: '966.48'
+  vat: '30.5'
+  total_with_taxes: '996.98'
+  accounting_document: 0044NB1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Août 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-2815.1"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:15.133+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.133+02:00'
+  updated_by: 296
+jackie_denesik_270060:
+  id: 270060
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-09-30'
+  total: '788.17'
+  vat: '0.0'
+  total_with_taxes: '788.17'
+  accounting_document: 0043NB1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Septembre 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-3603.3"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:15.141+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.141+02:00'
+  updated_by: 296
+jackie_denesik_270061:
+  id: 270061
+  itg_company_id: 9
+  disbursement_id: 515844
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-10-31'
+  total: '281.79'
+  vat: '28.75'
+  total_with_taxes: '310.54'
+  accounting_document: 0050NB1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Octobre 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-4184.6"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:15.147+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.147+02:00'
+  updated_by: 296
+jackie_denesik_270062:
+  id: 270062
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-11-30'
+  total: '1435.77'
+  vat: '0.0'
+  total_with_taxes: '1435.77'
+  accounting_document: 0045NB1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Novembre 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-1818.1"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:15.155+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.155+02:00'
+  updated_by: 296
+jackie_denesik_270063:
+  id: 270063
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-12-31'
+  total: '581.31'
+  vat: '0.0'
+  total_with_taxes: '581.31'
+  accounting_document: 0041NB1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Décembre 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-4184.6"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:15.161+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.161+02:00'
+  updated_by: 296
+jackie_denesik_270755:
+  id: 270755
+  itg_company_id: 9
+  disbursement_id: 515821
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-04-30'
+  total: '2436.57'
+  vat: '186.15'
+  total_with_taxes: '2622.72'
+  accounting_document: 0046NB1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Avril 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: "-382.4"
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:20.003+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.003+02:00'
+  updated_by: 296
+jackie_denesik_270756:
+  id: 270756
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-05-31'
+  total: '847.05'
+  vat: '56.0'
+  total_with_taxes: '903.05'
+  accounting_document: ''
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mai 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:20.010+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.010+02:00'
+  updated_by: 296
+jackie_denesik_270757:
+  id: 270757
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-06-30'
+  total: '2748.33'
+  vat: '140.71'
+  total_with_taxes: '2889.04'
+  accounting_document: ''
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juin 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:20.015+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.015+02:00'
+  updated_by: 296
+jackie_denesik_270758:
+  id: 270758
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-07-31'
+  total: '1593.7'
+  vat: '106.0'
+  total_with_taxes: '1699.7'
+  accounting_document: ''
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juillet 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:20.021+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.021+02:00'
+  updated_by: 296
+jackie_denesik_270759:
+  id: 270759
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-08-31'
+  total: '811.66'
+  vat: '35.98'
+  total_with_taxes: '847.64'
+  accounting_document: ''
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Août 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:20.027+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.027+02:00'
+  updated_by: 296
+jackie_denesik_270760:
+  id: 270760
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2018-09-30'
+  total: '1227.68'
+  vat: '27.85'
+  total_with_taxes: '1255.53'
+  accounting_document: ''
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Septembre 2018
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:20.034+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.034+02:00'
+  updated_by: 296
+jackie_denesik_270761:
+  id: 270761
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: done
+  date: '2019-10-31'
+  total: '790.8'
+  vat: '8.95'
+  total_with_taxes: '799.75'
+  accounting_document: 'ABCDEF010'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Octobre 2019
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:20.040+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.040+02:00'
+  updated_by: 296
+jackie_denesik_270762:
+  id: 270762
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: query
+  date: '2019-11-30'
+  total: '1464.95'
+  vat: '54.71'
+  total_with_taxes: '1519.66'
+  accounting_document: 'ABCDEF011'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Novembre 2019
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:20.046+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.046+02:00'
+  updated_by: 296
+jackie_denesik_271292:
+  id: 271292
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  disbursement_source_status: validated
+  date: '2019-12-31'
+  total: '1082.24'
+  vat: '72.96'
+  total_with_taxes: '1155.2'
+  accounting_document: 'ABCDEF012'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Décembre 2019
+  cancelled_at:
+  cancelled_by:
+  advance_return: '0.0'
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T09:39:23.792+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:23.792+02:00'
+  updated_by: 296
+consultant_8786_expense_report_122107:
+  id: 122107
+  itg_company_id: 9
+  disbursement_id: 233940
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2010-12-31'
+  total: '76.13'
+  vat: '2.35'
+  total_with_taxes: '78.48'
+  accounting_document: '0148NA1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Décembre 2010
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:06.474+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:06.474+02:00'
+  updated_by: 296
+consultant_8786_expense_report_122766:
+  id: 122766
+  itg_company_id: 9
+  disbursement_id: 233941
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2010-12-31'
+  total: '338.0'
+  vat: '0.0'
+  total_with_taxes: '338.0'
+  accounting_document: '0149NA1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: Regul NOV-DEC 10
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:08.558+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:08.558+02:00'
+  updated_by: 296
+consultant_8786_expense_report_123320:
+  id: 123320
+  itg_company_id: 9
+  disbursement_id: 234973
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-01-31'
+  total: '139.48'
+  vat: '2.02'
+  total_with_taxes: '141.5'
+  accounting_document: 0010NB1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Janvier 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:10.304+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:10.304+02:00'
+  updated_by: 296
+consultant_8786_expense_report_123321:
+  id: 123321
+  itg_company_id: 9
+  disbursement_id: 234977
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-01-31'
+  total: '133.53'
+  vat: '26.17'
+  total_with_taxes: '159.7'
+  accounting_document: 0011NB1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Janvier 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:10.307+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:10.307+02:00'
+  updated_by: 296
+consultant_8786_expense_report_124488:
+  id: 124488
+  itg_company_id: 9
+  disbursement_id: 237138
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-02-28'
+  total: '652.01'
+  vat: '33.09'
+  total_with_taxes: '685.1'
+  accounting_document: '0008NC1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: Regul Fevrier 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:13.980+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:13.980+02:00'
+  updated_by: 296
+consultant_8786_expense_report_124561:
+  id: 124561
+  itg_company_id: 9
+  disbursement_id: 237273
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-02-28'
+  total: '113.0'
+  vat: '0.0'
+  total_with_taxes: '113.0'
+  accounting_document: 0017NC1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Février 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:14.191+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:14.191+02:00'
+  updated_by: 296
+consultant_8786_expense_report_125634:
+  id: 125634
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-03-31'
+  total: '187.0'
+  vat: '9.55'
+  total_with_taxes: '196.55'
+  accounting_document: 0201NC1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mars 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:17.864+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:17.864+02:00'
+  updated_by: 296
+consultant_8786_expense_report_125635:
+  id: 125635
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-03-31'
+  total: '1167.48'
+  vat: '213.33'
+  total_with_taxes: '1380.81'
+  accounting_document: 0202NC1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mars 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:17.867+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:17.867+02:00'
+  updated_by: 296
+consultant_8786_expense_report_125636:
+  id: 125636
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-03-29'
+  total: '27.54'
+  vat: '1.51'
+  total_with_taxes: '29.05'
+  accounting_document: 0200NC1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: Regul DA Mars 11
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:17.870+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:17.870+02:00'
+  updated_by: 296
+consultant_8786_expense_report_127254:
+  id: 127254
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-04-30'
+  total: '1265.54'
+  vat: '229.24'
+  total_with_taxes: '1494.78'
+  accounting_document: 0040NE1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Avril 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:23.030+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:23.030+02:00'
+  updated_by: 296
+consultant_8786_expense_report_127255:
+  id: 127255
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-04-30'
+  total: '275.51'
+  vat: '11.69'
+  total_with_taxes: '287.2'
+  accounting_document: '0039NE1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Avril 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:23.033+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:23.033+02:00'
+  updated_by: 296
+consultant_8786_expense_report_127707:
+  id: 127707
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-05-12'
+  total: '1079.93'
+  vat: '0.0'
+  total_with_taxes: '1079.93'
+  accounting_document: 0105NE1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: 'DF Oct 10-Avril 11 '
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:24.489+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:24.489+02:00'
+  updated_by: 296
+consultant_8786_expense_report_128244:
+  id: 128244
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-05-31'
+  total: '329.98'
+  vat: '0.0'
+  total_with_taxes: '329.98'
+  accounting_document: 0172NF1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mai 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:26.160+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:26.160+02:00'
+  updated_by: 296
+consultant_8786_expense_report_128478:
+  id: 128478
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-05-31'
+  total: '640.65'
+  vat: '32.74'
+  total_with_taxes: '673.39'
+  accounting_document: 0173NF1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mai 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:26.834+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:26.834+02:00'
+  updated_by: 296
+consultant_8786_expense_report_128574:
+  id: 128574
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-05-31'
+  total: '707.2'
+  vat: '0.0'
+  total_with_taxes: '707.2'
+  accounting_document: 0174NF1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: REGUL C,O, 2010/2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:27.109+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:27.109+02:00'
+  updated_by: 296
+consultant_8786_expense_report_129519:
+  id: 129519
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-06-30'
+  total: '420.63'
+  vat: '22.69'
+  total_with_taxes: '443.32'
+  accounting_document: 0001NG1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juin 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:30.118+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:30.118+02:00'
+  updated_by: 296
+consultant_8786_expense_report_129766:
+  id: 129766
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-06-30'
+  total: '734.2'
+  vat: '61.57'
+  total_with_taxes: '795.77'
+  accounting_document: 0031NG1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juin 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:30.986+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:30.986+02:00'
+  updated_by: 296
+consultant_8786_expense_report_129994:
+  id: 129994
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-06-30'
+  total: '87.96'
+  vat: '0.0'
+  total_with_taxes: '87.96'
+  accounting_document: 0072NG1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: Complt DF JUIN 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:31.635+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:31.635+02:00'
+  updated_by: 296
+consultant_8786_expense_report_130737:
+  id: 130737
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-07-31'
+  total: '881.73'
+  vat: '9.1'
+  total_with_taxes: '890.83'
+  accounting_document: 0175NG1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juillet 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:34.128+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:34.128+02:00'
+  updated_by: 296
+consultant_8786_expense_report_131278:
+  id: 131278
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-07-31'
+  total: '834.49'
+  vat: '89.99'
+  total_with_taxes: '924.48'
+  accounting_document: 0046NH1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juillet 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:35.833+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:35.833+02:00'
+  updated_by: 296
+consultant_8786_expense_report_131847:
+  id: 131847
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-08-31'
+  total: '435.18'
+  vat: '38.12'
+  total_with_taxes: '473.3'
+  accounting_document: 0167NH1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Août 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:37.655+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:37.655+02:00'
+  updated_by: 296
+consultant_8786_expense_report_132344:
+  id: 132344
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-08-31'
+  total: '798.12'
+  vat: '74.9'
+  total_with_taxes: '873.02'
+  accounting_document: '0079NI1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Août 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:39.269+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:39.269+02:00'
+  updated_by: 296
+consultant_8786_expense_report_133158:
+  id: 133158
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-09-30'
+  total: '579.02'
+  vat: '36.16'
+  total_with_taxes: '615.18'
+  accounting_document: 0001NJ1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Septembre 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:41.792+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:41.792+02:00'
+  updated_by: 296
+consultant_8786_expense_report_133488:
+  id: 133488
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-09-30'
+  total: '401.49'
+  vat: '15.45'
+  total_with_taxes: '416.94'
+  accounting_document: 0062NJ1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Septembre 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:42.880+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:42.880+02:00'
+  updated_by: 296
+consultant_8786_expense_report_134608:
+  id: 134608
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-10-31'
+  total: '680.71'
+  vat: '59.29'
+  total_with_taxes: '740.0'
+  accounting_document: '0008NK1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Octobre 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:46.427+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:46.427+02:00'
+  updated_by: 296
+consultant_8786_expense_report_134925:
+  id: 134925
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-10-31'
+  total: '10474.63'
+  vat: '185.16'
+  total_with_taxes: '10659.79'
+  accounting_document: '0058NK1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Octobre 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:47.516+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:47.516+02:00'
+  updated_by: 296
+consultant_8786_expense_report_135821:
+  id: 135821
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-11-30'
+  total: '488.19'
+  vat: '30.16'
+  total_with_taxes: '518.35'
+  accounting_document: '0193NK1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Novembre 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:50.442+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:50.442+02:00'
+  updated_by: 296
+consultant_8786_expense_report_136366:
+  id: 136366
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-11-30'
+  total: '2382.77'
+  vat: '404.45'
+  total_with_taxes: '2787.22'
+  accounting_document: 0070NL1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Novembre 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:52.184+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:52.184+02:00'
+  updated_by: 296
+consultant_8786_expense_report_137551:
+  id: 137551
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-12-31'
+  total: '627.14'
+  vat: '44.96'
+  total_with_taxes: '672.1'
+  accounting_document: 0256NL1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Décembre 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:55.980+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:55.980+02:00'
+  updated_by: 296
+consultant_8786_expense_report_137923:
+  id: 137923
+  itg_company_id: 9
+  disbursement_id: 262322
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-12-31'
+  total: '6966.15'
+  vat: '157.9'
+  total_with_taxes: '7124.05'
+  accounting_document: 0051NA1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Décembre 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:57.221+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:57.221+02:00'
+  updated_by: 296
+consultant_8786_expense_report_137924:
+  id: 137924
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2011-12-31'
+  total: '72.35'
+  vat: '0.0'
+  total_with_taxes: '72.35'
+  accounting_document: 0050NA1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA Decembre 2011
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:08:57.224+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:08:57.224+02:00'
+  updated_by: 296
+consultant_8786_expense_report_139290:
+  id: 139290
+  itg_company_id: 9
+  disbursement_id: 265066
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-01-31'
+  total: '448.93'
+  vat: '28.72'
+  total_with_taxes: '477.65'
+  accounting_document: 0070NB1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Janvier 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:01.687+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:01.687+02:00'
+  updated_by: 296
+consultant_8786_expense_report_139549:
+  id: 139549
+  itg_company_id: 9
+  disbursement_id: 265067
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-01-31'
+  total: '722.64'
+  vat: '69.18'
+  total_with_taxes: '791.82'
+  accounting_document: 0071NB1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Janvier 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:02.427+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:02.427+02:00'
+  updated_by: 296
+consultant_8786_expense_report_140525:
+  id: 140525
+  itg_company_id: 9
+  disbursement_id: 266853
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-02-29'
+  total: '520.84'
+  vat: '44.67'
+  total_with_taxes: '565.51'
+  accounting_document: 0011NC1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Février 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:05.643+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:05.643+02:00'
+  updated_by: 296
+consultant_8786_expense_report_140652:
+  id: 140652
+  itg_company_id: 9
+  disbursement_id: 267205
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-02-29'
+  total: '1547.52'
+  vat: '180.27'
+  total_with_taxes: '1727.79'
+  accounting_document: 0031NC1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Février 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:06.008+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:06.008+02:00'
+  updated_by: 296
+consultant_8786_expense_report_141817:
+  id: 141817
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-03-31'
+  total: '891.51'
+  vat: '57.6'
+  total_with_taxes: '949.11'
+  accounting_document: 0012ND1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mars 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:09.697+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:09.697+02:00'
+  updated_by: 296
+consultant_8786_expense_report_141820:
+  id: 141820
+  itg_company_id: 9
+  disbursement_id: 269327
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-03-31'
+  total: '7702.54'
+  vat: '290.67'
+  total_with_taxes: '7993.21'
+  accounting_document: 0013ND1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mars 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:09.867+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:09.867+02:00'
+  updated_by: 296
+consultant_8786_expense_report_143101:
+  id: 143101
+  itg_company_id: 9
+  disbursement_id: 271823
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-04-30'
+  total: '546.39'
+  vat: '45.27'
+  total_with_taxes: '591.66'
+  accounting_document: 0013NE1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Avril 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:13.917+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:13.917+02:00'
+  updated_by: 296
+consultant_8786_expense_report_143265:
+  id: 143265
+  itg_company_id: 9
+  disbursement_id: 272202
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-04-30'
+  total: '2555.13'
+  vat: '310.88'
+  total_with_taxes: '2866.01'
+  accounting_document: '0039NE1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Avril 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:14.391+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:14.391+02:00'
+  updated_by: 296
+consultant_8786_expense_report_144436:
+  id: 144436
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-05-31'
+  total: '1011.63'
+  vat: '76.13'
+  total_with_taxes: '1087.76'
+  accounting_document: 0006NF1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mai 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:18.232+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:18.232+02:00'
+  updated_by: 296
+consultant_8786_expense_report_144439:
+  id: 144439
+  itg_company_id: 9
+  disbursement_id: 274409
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-05-31'
+  total: '8077.82'
+  vat: '255.08'
+  total_with_taxes: '8332.9'
+  accounting_document: 0007NF1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mai 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:18.241+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:18.241+02:00'
+  updated_by: 296
+consultant_8786_expense_report_145578:
+  id: 145578
+  itg_company_id: 9
+  disbursement_id: 276449
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-06-26'
+  total: '126.29'
+  vat: '16.34'
+  total_with_taxes: '142.63'
+  accounting_document: 0162NF1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF JUIN 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:21.877+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:21.877+02:00'
+  updated_by: 296
+consultant_8786_expense_report_145780:
+  id: 145780
+  itg_company_id: 9
+  disbursement_id: 276859
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-06-30'
+  total: '732.86'
+  vat: '33.87'
+  total_with_taxes: '766.73'
+  accounting_document: 0014NG1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juin 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:22.455+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:22.455+02:00'
+  updated_by: 296
+consultant_8786_expense_report_145943:
+  id: 145943
+  itg_company_id: 9
+  disbursement_id: 277374
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-06-30'
+  total: '6803.49'
+  vat: '59.8'
+  total_with_taxes: '6863.29'
+  accounting_document: 0030NG1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juin 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:23.077+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:23.077+02:00'
+  updated_by: 296
+consultant_8786_expense_report_147287:
+  id: 147287
+  itg_company_id: 9
+  disbursement_id: 279314
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-07-31'
+  total: '7865.18'
+  vat: '0.0'
+  total_with_taxes: '7865.18'
+  accounting_document: '0191NG1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juillet 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:27.257+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:27.257+02:00'
+  updated_by: 296
+consultant_8786_expense_report_147600:
+  id: 147600
+  itg_company_id: 9
+  disbursement_id: 280101
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-07-31'
+  total: '849.25'
+  vat: '58.4'
+  total_with_taxes: '907.65'
+  accounting_document: 0021NH1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juillet 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:28.288+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:28.288+02:00'
+  updated_by: 296
+consultant_8786_expense_report_148199:
+  id: 148199
+  itg_company_id: 9
+  disbursement_id: 281060
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-07-31'
+  total: '368.98'
+  vat: '0.0'
+  total_with_taxes: '368.98'
+  accounting_document: '0129NH1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF Juillet 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:30.171+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:30.171+02:00'
+  updated_by: 296
+consultant_8786_expense_report_148634:
+  id: 148634
+  itg_company_id: 9
+  disbursement_id: 282040
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-08-31'
+  total: '779.87'
+  vat: '51.73'
+  total_with_taxes: '831.6'
+  accounting_document: 0014NI1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Août 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:31.578+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:31.578+02:00'
+  updated_by: 296
+consultant_8786_expense_report_148818:
+  id: 148818
+  itg_company_id: 9
+  disbursement_id: 282428
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-08-31'
+  total: '1784.12'
+  vat: '159.33'
+  total_with_taxes: '1943.45'
+  accounting_document: 0034NI1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Août 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:32.099+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:32.099+02:00'
+  updated_by: 296
+consultant_8786_expense_report_149634:
+  id: 149634
+  itg_company_id: 9
+  disbursement_id: 284158
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-09-30'
+  total: '488.81'
+  vat: '17.03'
+  total_with_taxes: '505.84'
+  accounting_document: 0006NJ1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Septembre 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:34.764+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:34.764+02:00'
+  updated_by: 296
+consultant_8786_expense_report_149970:
+  id: 149970
+  itg_company_id: 9
+  disbursement_id: 284712
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-09-30'
+  total: '1020.55'
+  vat: '47.24'
+  total_with_taxes: '1067.79'
+  accounting_document: 0055NJ1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Septembre 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:35.893+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:35.893+02:00'
+  updated_by: 296
+consultant_8786_expense_report_151102:
+  id: 151102
+  itg_company_id: 9
+  disbursement_id: 286974
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-10-31'
+  total: '488.19'
+  vat: '4.41'
+  total_with_taxes: '492.6'
+  accounting_document: 0022NK1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Octobre 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:39.560+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:39.560+02:00'
+  updated_by: 296
+consultant_8786_expense_report_151103:
+  id: 151103
+  itg_company_id: 9
+  disbursement_id: 286975
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-10-31'
+  total: '1337.26'
+  vat: '162.23'
+  total_with_taxes: '1499.49'
+  accounting_document: 0023NK1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Octobre 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:39.563+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:39.563+02:00'
+  updated_by: 296
+consultant_8786_expense_report_152437:
+  id: 152437
+  itg_company_id: 9
+  disbursement_id: 288971
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-11-30'
+  total: '448.61'
+  vat: '11.33'
+  total_with_taxes: '459.94'
+  accounting_document: '0218NK1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Novembre 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:43.681+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:43.681+02:00'
+  updated_by: 296
+consultant_8786_expense_report_152893:
+  id: 152893
+  itg_company_id: 9
+  disbursement_id: 290033
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-11-30'
+  total: '782.72'
+  vat: '29.67'
+  total_with_taxes: '812.38'
+  accounting_document: 0063NL1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Novembre 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:45.152+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:45.152+02:00'
+  updated_by: 296
+consultant_8786_expense_report_154009:
+  id: 154009
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-12-31'
+  total: '527.84'
+  vat: '20.02'
+  total_with_taxes: '547.86'
+  accounting_document: 0015NA1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Décembre 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:48.682+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:48.682+02:00'
+  updated_by: 296
+consultant_8786_expense_report_154010:
+  id: 154010
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-12-31'
+  total: '1358.05'
+  vat: '88.77'
+  total_with_taxes: '1446.82'
+  accounting_document: 0016NA1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Décembre 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:48.685+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:48.685+02:00'
+  updated_by: 296
+consultant_8786_expense_report_154413:
+  id: 154413
+  itg_company_id: 9
+  disbursement_id: 292862
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-12-31'
+  total: '786.8'
+  vat: '154.21'
+  total_with_taxes: '941.01'
+  accounting_document: 0064NA1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: Cplmt DF Dec 2012
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:50.021+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:50.021+02:00'
+  updated_by: 296
+consultant_8786_expense_report_154474:
+  id: 154474
+  itg_company_id: 9
+  disbursement_id: 292966
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2012-12-31'
+  total: '141.77'
+  vat: '0.0'
+  total_with_taxes: '141.77'
+  accounting_document: '0090NA1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: 'Cplmt DF Dec 2012 '
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:50.208+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:50.208+02:00'
+  updated_by: 296
+consultant_8786_expense_report_155121:
+  id: 155121
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-01-18'
+  total: '3420.0'
+  vat: '0.0'
+  total_with_taxes: '3420.0'
+  accounting_document: 0167NA1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF Janvier 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:52.762+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:52.762+02:00'
+  updated_by: 296
+consultant_8786_expense_report_155755:
+  id: 155755
+  itg_company_id: 9
+  disbursement_id: 294783
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-01-31'
+  total: '944.68'
+  vat: '54.85'
+  total_with_taxes: '999.53'
+  accounting_document: 0232NA1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Janvier 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:54.725+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:54.725+02:00'
+  updated_by: 296
+consultant_8786_expense_report_155756:
+  id: 155756
+  itg_company_id: 9
+  disbursement_id: 294784
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-01-31'
+  total: '1166.44'
+  vat: '53.41'
+  total_with_taxes: '1219.85'
+  accounting_document: 0233NA1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Janvier 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:54.728+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:54.728+02:00'
+  updated_by: 296
+consultant_8786_expense_report_156007:
+  id: 156007
+  itg_company_id: 9
+  disbursement_id: 295551
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-01-31'
+  total: '145.44'
+  vat: '0.0'
+  total_with_taxes: '145.44'
+  accounting_document: 0032NB1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: Cplmt DF Janv 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:55.443+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:55.443+02:00'
+  updated_by: 296
+consultant_8786_expense_report_157078:
+  id: 157078
+  itg_company_id: 9
+  disbursement_id: 297343
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-02-28'
+  total: '2612.24'
+  vat: '133.79'
+  total_with_taxes: '2746.03'
+  accounting_document: 0011NC1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Février 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:58.831+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:58.831+02:00'
+  updated_by: 296
+consultant_8786_expense_report_157085:
+  id: 157085
+  itg_company_id: 9
+  disbursement_id: 297348
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-02-28'
+  total: '733.12'
+  vat: '60.64'
+  total_with_taxes: '793.76'
+  accounting_document: 0012NC1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Février 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:09:58.852+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:09:58.852+02:00'
+  updated_by: 296
+consultant_8786_expense_report_157753:
+  id: 157753
+  itg_company_id: 9
+  disbursement_id: 298479
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-03-13'
+  total: '441.61'
+  vat: '23.29'
+  total_with_taxes: '464.9'
+  accounting_document: 0106NC1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF Mars 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:01.122+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:01.122+02:00'
+  updated_by: 296
+consultant_8786_expense_report_157817:
+  id: 157817
+  itg_company_id: 9
+  disbursement_id: 298555
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-03-14'
+  total: '436.62'
+  vat: '85.58'
+  total_with_taxes: '522.2'
+  accounting_document: 0116NC1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: Cplmt DF Mars 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:01.307+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:01.307+02:00'
+  updated_by: 296
+consultant_8786_expense_report_158364:
+  id: 158364
+  itg_company_id: 9
+  disbursement_id: 299940
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-03-31'
+  total: '633.29'
+  vat: '20.81'
+  total_with_taxes: '654.1'
+  accounting_document: 0006ND1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mars 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:03.077+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:03.077+02:00'
+  updated_by: 296
+consultant_8786_expense_report_158455:
+  id: 158455
+  itg_company_id: 9
+  disbursement_id: 300167
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-03-31'
+  total: '2358.15'
+  vat: '242.75'
+  total_with_taxes: '2600.9'
+  accounting_document: 0022ND1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mars 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:03.345+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:03.345+02:00'
+  updated_by: 296
+consultant_8786_expense_report_158897:
+  id: 158897
+  itg_company_id: 9
+  disbursement_id: 300747
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-04-11'
+  total: '959.51'
+  vat: '188.06'
+  total_with_taxes: '1147.57'
+  accounting_document: 0101ND1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF Avril 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:04.803+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:04.803+02:00'
+  updated_by: 296
+consultant_8786_expense_report_159728:
+  id: 159728
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-04-30'
+  total: '1935.88'
+  vat: '200.99'
+  total_with_taxes: '2136.87'
+  accounting_document: 0023NE1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Avril 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:07.576+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:07.576+02:00'
+  updated_by: 296
+consultant_8786_expense_report_159729:
+  id: 159729
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-04-30'
+  total: '1231.17'
+  vat: '56.79'
+  total_with_taxes: '1287.96'
+  accounting_document: 0022NE1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Avril 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:07.579+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:07.579+02:00'
+  updated_by: 296
+consultant_8786_expense_report_160197:
+  id: 160197
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-04-30'
+  total: '394.82'
+  vat: '0.0'
+  total_with_taxes: '394.82'
+  accounting_document: '0086NE1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: Cplmt DF Avril 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:09.069+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:09.069+02:00'
+  updated_by: 296
+consultant_8786_expense_report_160978:
+  id: 160978
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-05-31'
+  total: '724.15'
+  vat: '20.68'
+  total_with_taxes: '744.83'
+  accounting_document: '0196NE1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mai 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:11.529+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:11.529+02:00'
+  updated_by: 296
+consultant_8786_expense_report_160979:
+  id: 160979
+  itg_company_id: 9
+  disbursement_id: 304820
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-05-31'
+  total: '7172.23'
+  vat: '46.72'
+  total_with_taxes: '7218.95'
+  accounting_document: 0010NF1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mai 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:11.532+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:11.532+02:00'
+  updated_by: 296
+consultant_8786_expense_report_161253:
+  id: 161253
+  itg_company_id: 9
+  disbursement_id: 305192
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-05-31'
+  total: '880.73'
+  vat: '22.39'
+  total_with_taxes: '903.12'
+  accounting_document: 0036NF1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: Cplmt DF Mai 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:12.503+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:12.503+02:00'
+  updated_by: 296
+consultant_8786_expense_report_162234:
+  id: 162234
+  itg_company_id: 9
+  disbursement_id: 307034
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-06-30'
+  total: '866.19'
+  vat: '27.74'
+  total_with_taxes: '893.93'
+  accounting_document: '0009NG1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juin 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:15.670+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:15.670+02:00'
+  updated_by: 296
+consultant_8786_expense_report_162235:
+  id: 162235
+  itg_company_id: 9
+  disbursement_id: 307035
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-06-30'
+  total: '3054.54'
+  vat: '211.48'
+  total_with_taxes: '3266.02'
+  accounting_document: 0010NG1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juin 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:15.673+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:15.673+02:00'
+  updated_by: 296
+consultant_8786_expense_report_162577:
+  id: 162577
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-07-08'
+  total: '107.21'
+  vat: '0.0'
+  total_with_taxes: '107.21'
+  accounting_document: '0058NG1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF Juillet 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:16.669+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:16.669+02:00'
+  updated_by: 296
+consultant_8786_expense_report_163820:
+  id: 163820
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-07-31'
+  total: '913.78'
+  vat: '63.18'
+  total_with_taxes: '976.96'
+  accounting_document: 0012NH1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juillet 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:20.819+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:20.819+02:00'
+  updated_by: 296
+consultant_8786_expense_report_163821:
+  id: 163821
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-07-31'
+  total: '3779.81'
+  vat: '323.69'
+  total_with_taxes: '4103.5'
+  accounting_document: 0013NH1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juillet 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:20.822+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:20.822+02:00'
+  updated_by: 296
+consultant_8786_expense_report_164238:
+  id: 164238
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-08-13'
+  total: '1748.56'
+  vat: '8.04'
+  total_with_taxes: '1756.6'
+  accounting_document: 0073NH1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF AOUT 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:22.197+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:22.197+02:00'
+  updated_by: 296
+consultant_8786_expense_report_165038:
+  id: 165038
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-08-31'
+  total: '1509.3'
+  vat: '89.06'
+  total_with_taxes: '1598.36'
+  accounting_document: 0032NI1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Août 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:24.770+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:24.770+02:00'
+  updated_by: 296
+consultant_8786_expense_report_165039:
+  id: 165039
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-08-31'
+  total: '2811.15'
+  vat: '108.32'
+  total_with_taxes: '2919.47'
+  accounting_document: 0033NI1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Août 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:24.773+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:24.773+02:00'
+  updated_by: 296
+consultant_8786_expense_report_166221:
+  id: 166221
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-09-30'
+  total: '2288.32'
+  vat: '118.5'
+  total_with_taxes: '2406.82'
+  accounting_document: 0030NJ1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Septembre 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:28.458+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:28.458+02:00'
+  updated_by: 296
+consultant_8786_expense_report_166222:
+  id: 166222
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-09-30'
+  total: '1927.64'
+  vat: '108.67'
+  total_with_taxes: '2036.31'
+  accounting_document: '0029NJ1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Septembre 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:28.461+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:28.461+02:00'
+  updated_by: 296
+consultant_8786_expense_report_166276:
+  id: 166276
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-09-30'
+  total: '416.65'
+  vat: '0.0'
+  total_with_taxes: '416.65'
+  accounting_document: 0043NJ1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: Cplmt DF Sept 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:28.779+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:28.779+02:00'
+  updated_by: 296
+consultant_8786_expense_report_166561:
+  id: 166561
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-10-09'
+  total: '856.0'
+  vat: '0.0'
+  total_with_taxes: '856.0'
+  accounting_document: '0082NJ1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF Octobre 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:29.589+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:29.589+02:00'
+  updated_by: 296
+consultant_8786_expense_report_167330:
+  id: 167330
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-10-23'
+  total: '1414.6'
+  vat: '24.42'
+  total_with_taxes: '1439.02'
+  accounting_document: '0186NJ1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: Cplt DF Oct 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:32.117+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:32.117+02:00'
+  updated_by: 296
+consultant_8786_expense_report_167732:
+  id: 167732
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-10-31'
+  total: '1079.91'
+  vat: '46.27'
+  total_with_taxes: '1126.18'
+  accounting_document: '0029NK1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Octobre 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:33.252+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:33.252+02:00'
+  updated_by: 296
+consultant_8786_expense_report_167733:
+  id: 167733
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-10-31'
+  total: '2859.78'
+  vat: '153.12'
+  total_with_taxes: '3012.9'
+  accounting_document: '0028NK1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Octobre 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:33.255+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:33.255+02:00'
+  updated_by: 296
+consultant_8786_expense_report_169446:
+  id: 169446
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-11-30'
+  total: '9927.17'
+  vat: '340.89'
+  total_with_taxes: '10268.06'
+  accounting_document: 0054NL1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Novembre 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:38.740+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:38.740+02:00'
+  updated_by: 296
+consultant_8786_expense_report_169447:
+  id: 169447
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-11-30'
+  total: '1374.41'
+  vat: '103.74'
+  total_with_taxes: '1478.15'
+  accounting_document: 0053NL1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Novembre 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:38.743+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:38.743+02:00'
+  updated_by: 296
+consultant_8786_expense_report_170860:
+  id: 170860
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-12-31'
+  total: '3904.33'
+  vat: '172.83'
+  total_with_taxes: '4077.16'
+  accounting_document: 0070ND1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Décembre 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:43.167+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:43.167+02:00'
+  updated_by: 296
+consultant_8786_expense_report_170861:
+  id: 170861
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2013-12-31'
+  total: '1123.19'
+  vat: '61.14'
+  total_with_taxes: '1184.33'
+  accounting_document: 0061NA1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Décembre 2013
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:43.170+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:43.170+02:00'
+  updated_by: 296
+consultant_8786_expense_report_173067:
+  id: 173067
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-01-31'
+  total: '990.68'
+  vat: '45.54'
+  total_with_taxes: '1036.22'
+  accounting_document: 0031NB1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Janvier 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:50.233+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:50.233+02:00'
+  updated_by: 296
+consultant_8786_expense_report_173142:
+  id: 173142
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-01-31'
+  total: '2549.1'
+  vat: '160.72'
+  total_with_taxes: '2709.82'
+  accounting_document: '0038ND1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Janvier 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:50.445+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:50.445+02:00'
+  updated_by: 296
+consultant_8786_expense_report_174615:
+  id: 174615
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-02-28'
+  total: '621.94'
+  vat: '36.86'
+  total_with_taxes: '658.8'
+  accounting_document: 0037ND1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Février 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:55.065+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:55.065+02:00'
+  updated_by: 296
+consultant_8786_expense_report_174616:
+  id: 174616
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-02-28'
+  total: '8789.73'
+  vat: '103.31'
+  total_with_taxes: '8893.04'
+  accounting_document: '0039ND1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Février 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:55.068+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:55.068+02:00'
+  updated_by: 296
+consultant_8786_expense_report_175979:
+  id: 175979
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-03-31'
+  total: '1679.97'
+  vat: '133.57'
+  total_with_taxes: '1813.54'
+  accounting_document: '0049ND1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mars 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:59.241+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:59.241+02:00'
+  updated_by: 296
+consultant_8786_expense_report_175980:
+  id: 175980
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-03-31'
+  total: '1298.07'
+  vat: '17.62'
+  total_with_taxes: '1315.69'
+  accounting_document: '0048ND1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mars 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:10:59.244+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:10:59.244+02:00'
+  updated_by: 296
+consultant_8786_expense_report_176872:
+  id: 176872
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-04-30'
+  total: '2126.64'
+  vat: '126.31'
+  total_with_taxes: '2252.95'
+  accounting_document: 0171NF1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Avril 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:02.086+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:02.086+02:00'
+  updated_by: 296
+consultant_8786_expense_report_176964:
+  id: 176964
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-04-30'
+  total: '1501.23'
+  vat: '31.61'
+  total_with_taxes: '1532.84'
+  accounting_document: 0170NF1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Avril 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:02.346+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:02.346+02:00'
+  updated_by: 296
+consultant_8786_expense_report_178538:
+  id: 178538
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-05-31'
+  total: '1128.73'
+  vat: '71.12'
+  total_with_taxes: '1199.85'
+  accounting_document: '0169NF1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mai 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:07.272+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:07.272+02:00'
+  updated_by: 296
+consultant_8786_expense_report_178539:
+  id: 178539
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-05-31'
+  total: '5517.42'
+  vat: '148.79'
+  total_with_taxes: '5666.21'
+  accounting_document: 0172NF1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mai 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:07.275+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:07.275+02:00'
+  updated_by: 296
+consultant_8786_expense_report_180142:
+  id: 180142
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-06-30'
+  total: '1691.28'
+  vat: '142.04'
+  total_with_taxes: '1833.32'
+  accounting_document: '0081NG1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juin 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:12.201+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:12.201+02:00'
+  updated_by: 296
+consultant_8786_expense_report_180144:
+  id: 180144
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-06-30'
+  total: '1723.57'
+  vat: '112.21'
+  total_with_taxes: '1835.78'
+  accounting_document: '0082NG1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juin 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:12.207+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:12.207+02:00'
+  updated_by: 296
+consultant_8786_expense_report_181212:
+  id: 181212
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-07-31'
+  total: '1371.91'
+  vat: '125.59'
+  total_with_taxes: '1497.5'
+  accounting_document: 0016NH1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juillet 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:15.511+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:15.511+02:00'
+  updated_by: 296
+consultant_8786_expense_report_181241:
+  id: 181241
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-07-31'
+  total: '14066.74'
+  vat: '1318.01'
+  total_with_taxes: '15384.75'
+  accounting_document: 0017NH1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juillet 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:15.597+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:15.597+02:00'
+  updated_by: 296
+consultant_8786_expense_report_183699:
+  id: 183699
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-08-31'
+  total: '851.22'
+  vat: '68.03'
+  total_with_taxes: '919.25'
+  accounting_document: '0182NI1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Août 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:23.305+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:23.305+02:00'
+  updated_by: 296
+consultant_8786_expense_report_183703:
+  id: 183703
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-08-31'
+  total: '12039.85'
+  vat: '38.98'
+  total_with_taxes: '12078.83'
+  accounting_document: 0021NJ1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Août 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:23.317+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:23.317+02:00'
+  updated_by: 296
+consultant_8786_expense_report_183875:
+  id: 183875
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-09-30'
+  total: '1896.04'
+  vat: '99.96'
+  total_with_taxes: '1996.0'
+  accounting_document: 0010NJ1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Septembre 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:23.801+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:23.801+02:00'
+  updated_by: 296
+consultant_8786_expense_report_183878:
+  id: 183878
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-10-03'
+  total: '3633.84'
+  vat: '277.19'
+  total_with_taxes: '3911.03'
+  accounting_document: 0020NJ1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF SEPTEMBRE 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:23.810+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:23.810+02:00'
+  updated_by: 296
+consultant_8786_expense_report_185682:
+  id: 185682
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-10-31'
+  total: '19519.4'
+  vat: '39.27'
+  total_with_taxes: '19558.67'
+  accounting_document: 0036NK1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Octobre 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:29.479+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:29.479+02:00'
+  updated_by: 296
+consultant_8786_expense_report_186261:
+  id: 186261
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-10-31'
+  total: '924.13'
+  vat: '33.37'
+  total_with_taxes: '957.5'
+  accounting_document: 0014NA1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Octobre 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:31.281+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:31.281+02:00'
+  updated_by: 296
+consultant_8786_expense_report_187009:
+  id: 187009
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-11-30'
+  total: '931.05'
+  vat: '71.87'
+  total_with_taxes: '1002.92'
+  accounting_document: 0015NA1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Novembre 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:33.534+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:33.534+02:00'
+  updated_by: 296
+consultant_8786_expense_report_187391:
+  id: 187391
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-11-30'
+  total: '4922.58'
+  vat: '102.16'
+  total_with_taxes: '5024.74'
+  accounting_document: 0016NA1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Novembre 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:34.791+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:34.791+02:00'
+  updated_by: 296
+consultant_8786_expense_report_189278:
+  id: 189278
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-12-31'
+  total: '2068.41'
+  vat: '129.78'
+  total_with_taxes: '2198.19'
+  accounting_document: 0036NB1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Décembre 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:40.822+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:40.822+02:00'
+  updated_by: 296
+consultant_8786_expense_report_189279:
+  id: 189279
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-12-31'
+  total: '3365.39'
+  vat: '312.89'
+  total_with_taxes: '3678.28'
+  accounting_document: 0037NB1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Décembre 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:40.825+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:40.825+02:00'
+  updated_by: 296
+consultant_8786_expense_report_189471:
+  id: 189471
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2014-12-31'
+  total: '99.5'
+  vat: '0.0'
+  total_with_taxes: '99.5'
+  accounting_document: 0035NB1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: COMPL DF DEC 2014
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:41.385+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:41.385+02:00'
+  updated_by: 296
+consultant_8786_expense_report_192343:
+  id: 192343
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-01-31'
+  total: '2381.77'
+  vat: '125.23'
+  total_with_taxes: '2507.0'
+  accounting_document: 0057NC1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Janvier 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:50.477+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:50.477+02:00'
+  updated_by: 296
+consultant_8786_expense_report_192405:
+  id: 192405
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-01-31'
+  total: '2174.0'
+  vat: '22.02'
+  total_with_taxes: '2196.02'
+  accounting_document: '0186ND1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Janvier 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:50.647+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:50.647+02:00'
+  updated_by: 296
+consultant_8786_expense_report_192406:
+  id: 192406
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-02-28'
+  total: '1277.51'
+  vat: '90.97'
+  total_with_taxes: '1368.48'
+  accounting_document: '0183ND1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Février 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:50.649+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:50.649+02:00'
+  updated_by: 296
+consultant_8786_expense_report_192407:
+  id: 192407
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-02-28'
+  total: '5001.34'
+  vat: '114.67'
+  total_with_taxes: '5116.01'
+  accounting_document: '0097NF1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Février 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:50.652+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:50.652+02:00'
+  updated_by: 296
+consultant_8786_expense_report_193405:
+  id: 193405
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-03-31'
+  total: '1658.6'
+  vat: '127.45'
+  total_with_taxes: '1786.05'
+  accounting_document: '0184ND1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mars 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:53.773+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:53.773+02:00'
+  updated_by: 296
+consultant_8786_expense_report_193406:
+  id: 193406
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-03-31'
+  total: '1906.8'
+  vat: '111.01'
+  total_with_taxes: '2017.81'
+  accounting_document: '0185ND1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mars 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:11:53.776+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:11:53.776+02:00'
+  updated_by: 296
+consultant_8786_expense_report_197594:
+  id: 197594
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-04-30'
+  total: '1767.91'
+  vat: '110.92'
+  total_with_taxes: '1878.83'
+  accounting_document: '0039NH1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Avril 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:07.317+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:07.317+02:00'
+  updated_by: 296
+consultant_8786_expense_report_197595:
+  id: 197595
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-04-30'
+  total: '1528.11'
+  vat: '160.66'
+  total_with_taxes: '1688.77'
+  accounting_document: '0038NH1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Avril 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:07.320+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:07.320+02:00'
+  updated_by: 296
+consultant_8786_expense_report_199841:
+  id: 199841
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-05-31'
+  total: '1318.91'
+  vat: '36.35'
+  total_with_taxes: '1355.25'
+  accounting_document: 0035NH1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mai 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:14.497+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:14.497+02:00'
+  updated_by: 296
+consultant_8786_expense_report_199842:
+  id: 199842
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-05-31'
+  total: '361.36'
+  vat: '6.26'
+  total_with_taxes: '367.62'
+  accounting_document: 0034NH1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mai 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:14.500+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:14.500+02:00'
+  updated_by: 296
+consultant_8786_expense_report_199843:
+  id: 199843
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-06-30'
+  total: '1346.56'
+  vat: '34.38'
+  total_with_taxes: '1380.94'
+  accounting_document: 0036NH1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juin 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:14.503+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:14.503+02:00'
+  updated_by: 296
+consultant_8786_expense_report_199844:
+  id: 199844
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-06-30'
+  total: '1489.0'
+  vat: '94.93'
+  total_with_taxes: '1583.93'
+  accounting_document: 0037NH1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juin 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:14.506+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:14.506+02:00'
+  updated_by: 296
+consultant_8786_expense_report_201468:
+  id: 201468
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-07-31'
+  total: '1588.59'
+  vat: '88.38'
+  total_with_taxes: '1676.97'
+  accounting_document: 0050NJ1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juillet 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:19.699+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:19.699+02:00'
+  updated_by: 296
+consultant_8786_expense_report_201469:
+  id: 201469
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-08-31'
+  total: '898.08'
+  vat: '51.32'
+  total_with_taxes: '949.4'
+  accounting_document: '0048NJ1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Août 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:19.702+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:19.702+02:00'
+  updated_by: 296
+consultant_8786_expense_report_201728:
+  id: 201728
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-07-31'
+  total: '2185.06'
+  vat: '12.09'
+  total_with_taxes: '2197.15'
+  accounting_document: 0052NJ1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF JUILLET 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:20.596+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:20.596+02:00'
+  updated_by: 296
+consultant_8786_expense_report_201729:
+  id: 201729
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-08-31'
+  total: '1555.96'
+  vat: '12.0'
+  total_with_taxes: '1567.96'
+  accounting_document: '0049NJ1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Août 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:20.599+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:20.599+02:00'
+  updated_by: 296
+consultant_8786_expense_report_202578:
+  id: 202578
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-09-30'
+  total: '1458.96'
+  vat: '93.14'
+  total_with_taxes: '1552.1'
+  accounting_document: 0152NJ1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Septembre 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:23.188+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:23.188+02:00'
+  updated_by: 296
+consultant_8786_expense_report_203501:
+  id: 203501
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-09-30'
+  total: '2586.68'
+  vat: '237.62'
+  total_with_taxes: '2824.3'
+  accounting_document: 0153NJ1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Septembre 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:26.116+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:26.116+02:00'
+  updated_by: 296
+consultant_8786_expense_report_203709:
+  id: 203709
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-10-31'
+  total: '852.29'
+  vat: '68.32'
+  total_with_taxes: '920.61'
+  accounting_document: 0001NK1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Octobre 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:26.875+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:26.875+02:00'
+  updated_by: 296
+consultant_8786_expense_report_205739:
+  id: 205739
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-11-30'
+  total: '1556.08'
+  vat: '110.98'
+  total_with_taxes: '1667.06'
+  accounting_document: 0127NL1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Novembre 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:33.280+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:33.280+02:00'
+  updated_by: 296
+consultant_8786_expense_report_205740:
+  id: 205740
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-10-31'
+  total: '2556.26'
+  vat: '313.7'
+  total_with_taxes: '2869.96'
+  accounting_document: '0128NL1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Octobre 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:33.283+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:33.283+02:00'
+  updated_by: 296
+consultant_8786_expense_report_206370:
+  id: 206370
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-11-30'
+  total: '4480.26'
+  vat: '112.34'
+  total_with_taxes: '4592.6'
+  accounting_document: '0129NL1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Novembre 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:35.243+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:35.243+02:00'
+  updated_by: 296
+consultant_8786_expense_report_210039:
+  id: 210039
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-12-31'
+  total: '1023.39'
+  vat: '56.21'
+  total_with_taxes: '1079.6'
+  accounting_document: '0028ND1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Décembre 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:46.795+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:46.795+02:00'
+  updated_by: 296
+consultant_8786_expense_report_210040:
+  id: 210040
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-01-31'
+  total: '795.42'
+  vat: '37.65'
+  total_with_taxes: '833.07'
+  accounting_document: 0026ND1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Janvier 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:46.798+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:46.798+02:00'
+  updated_by: 296
+consultant_8786_expense_report_210041:
+  id: 210041
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2015-12-31'
+  total: '1641.99'
+  vat: '33.8'
+  total_with_taxes: '1675.79'
+  accounting_document: 0030ND1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Décembre 2015
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:46.801+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:46.801+02:00'
+  updated_by: 296
+consultant_8786_expense_report_212057:
+  id: 212057
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-02-29'
+  total: '1014.04'
+  vat: '24.14'
+  total_with_taxes: '1038.18'
+  accounting_document: 0027ND1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Février 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:53.151+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:53.151+02:00'
+  updated_by: 296
+consultant_8786_expense_report_212058:
+  id: 212058
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-02-29'
+  total: '1407.18'
+  vat: '57.1'
+  total_with_taxes: '1464.28'
+  accounting_document: '0029ND1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Février 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:53.154+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:53.154+02:00'
+  updated_by: 296
+consultant_8786_expense_report_212059:
+  id: 212059
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-03-31'
+  total: '892.1'
+  vat: '22.25'
+  total_with_taxes: '914.35'
+  accounting_document: 0114NE1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mars 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:53.156+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:53.156+02:00'
+  updated_by: 296
+consultant_8786_expense_report_212060:
+  id: 212060
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-01-31'
+  total: '1167.14'
+  vat: '55.4'
+  total_with_taxes: '1222.54'
+  accounting_document: 0116NE1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Janvier 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:12:53.159+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:12:53.159+02:00'
+  updated_by: 296
+consultant_8786_expense_report_214465:
+  id: 214465
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-04-30'
+  total: '1122.85'
+  vat: '55.8'
+  total_with_taxes: '1178.65'
+  accounting_document: 0115NE1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Avril 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:00.861+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:00.861+02:00'
+  updated_by: 296
+consultant_8786_expense_report_214466:
+  id: 214466
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-03-31'
+  total: '1286.35'
+  vat: '58.64'
+  total_with_taxes: '1344.99'
+  accounting_document: 0117NE1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mars 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:00.864+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:00.864+02:00'
+  updated_by: 296
+consultant_8786_expense_report_216345:
+  id: 216345
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-04-30'
+  total: '992.63'
+  vat: '18.33'
+  total_with_taxes: '1010.96'
+  accounting_document: 0141NF1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Avril 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:06.737+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:06.737+02:00'
+  updated_by: 296
+consultant_8786_expense_report_216346:
+  id: 216346
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-05-31'
+  total: '725.78'
+  vat: '29.51'
+  total_with_taxes: '755.29'
+  accounting_document: 0140NF1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mai 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:06.740+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:06.740+02:00'
+  updated_by: 296
+consultant_8786_expense_report_216792:
+  id: 216792
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-06-30'
+  total: '1032.62'
+  vat: '47.27'
+  total_with_taxes: '1079.89'
+  accounting_document: '0078NH1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juin 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:08.188+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:08.188+02:00'
+  updated_by: 296
+consultant_8786_expense_report_216793:
+  id: 216793
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-05-31'
+  total: '1381.57'
+  vat: '118.01'
+  total_with_taxes: '1499.58'
+  accounting_document: '0080NH1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mai 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:08.191+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:08.191+02:00'
+  updated_by: 296
+consultant_8786_expense_report_218275:
+  id: 218275
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-07-31'
+  total: '2185.26'
+  vat: '82.08'
+  total_with_taxes: '2267.34'
+  accounting_document: '0081NH1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juillet 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:12.952+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:12.952+02:00'
+  updated_by: 296
+consultant_8786_expense_report_218276:
+  id: 218276
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-06-30'
+  total: '1261.61'
+  vat: '19.15'
+  total_with_taxes: '1280.76'
+  accounting_document: '0079NH1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juin 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:12.955+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:12.955+02:00'
+  updated_by: 296
+consultant_8786_expense_report_220629:
+  id: 220629
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-08-31'
+  total: '973.83'
+  vat: '27.59'
+  total_with_taxes: '1001.42'
+  accounting_document: '0118NI1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Août 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:20.401+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:20.401+02:00'
+  updated_by: 296
+consultant_8786_expense_report_220630:
+  id: 220630
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-07-31'
+  total: '3712.36'
+  vat: '68.85'
+  total_with_taxes: '3781.21'
+  accounting_document: '0119NI1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juillet 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:20.404+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:20.404+02:00'
+  updated_by: 296
+consultant_8786_expense_report_223476:
+  id: 223476
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-08-31'
+  total: '873.59'
+  vat: '0.0'
+  total_with_taxes: '873.59'
+  accounting_document: '0208NL1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Août 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:29.362+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:29.362+02:00'
+  updated_by: 296
+consultant_8786_expense_report_223478:
+  id: 223478
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-09-30'
+  total: '1339.09'
+  vat: '8.17'
+  total_with_taxes: '1347.26'
+  accounting_document: 0210NL1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Septembre 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:29.367+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:29.367+02:00'
+  updated_by: 296
+consultant_8786_expense_report_223481:
+  id: 223481
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-09-30'
+  total: '2510.5'
+  vat: '197.22'
+  total_with_taxes: '2707.72'
+  accounting_document: 0211NL1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Septembre 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:29.377+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:29.377+02:00'
+  updated_by: 296
+consultant_8786_expense_report_223485:
+  id: 223485
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-10-31'
+  total: '1104.24'
+  vat: '35.36'
+  total_with_taxes: '1139.6'
+  accounting_document: '0209NL1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Octobre 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:29.388+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:29.388+02:00'
+  updated_by: 296
+consultant_8786_expense_report_226608:
+  id: 226608
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-10-31'
+  total: '2059.8'
+  vat: '187.99'
+  total_with_taxes: '2247.79'
+  accounting_document: '0087ND1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Octobre 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:39.184+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:39.184+02:00'
+  updated_by: 296
+consultant_8786_expense_report_226609:
+  id: 226609
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-11-30'
+  total: '2541.34'
+  vat: '11.03'
+  total_with_taxes: '2552.37'
+  accounting_document: '0089ND1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Novembre 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:39.187+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:39.187+02:00'
+  updated_by: 296
+consultant_8786_expense_report_227900:
+  id: 227900
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-11-30'
+  total: '1603.18'
+  vat: '142.97'
+  total_with_taxes: '1746.15'
+  accounting_document: '0086ND1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Novembre 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:43.294+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:43.294+02:00'
+  updated_by: 296
+consultant_8786_expense_report_227903:
+  id: 227903
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-12-31'
+  total: '2429.87'
+  vat: '74.12'
+  total_with_taxes: '2503.99'
+  accounting_document: '0088ND1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Décembre 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:43.302+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:43.302+02:00'
+  updated_by: 296
+consultant_8786_expense_report_227904:
+  id: 227904
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2016-12-31'
+  total: '1532.96'
+  vat: '21.17'
+  total_with_taxes: '1554.13'
+  accounting_document: '0084ND1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Décembre 2016
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:43.305+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:43.305+02:00'
+  updated_by: 296
+consultant_8786_expense_report_228323:
+  id: 228323
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-01-31'
+  total: '2557.86'
+  vat: '133.85'
+  total_with_taxes: '2691.71'
+  accounting_document: '0090ND1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Janvier 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:44.463+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:44.463+02:00'
+  updated_by: 296
+consultant_8786_expense_report_230802:
+  id: 230802
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-02-28'
+  total: '3155.69'
+  vat: '24.33'
+  total_with_taxes: '3180.02'
+  accounting_document: '0029NG1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Février 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:52.410+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:52.410+02:00'
+  updated_by: 296
+consultant_8786_expense_report_230803:
+  id: 230803
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-01-31'
+  total: '3533.67'
+  vat: '239.22'
+  total_with_taxes: '3772.89'
+  accounting_document: 0031NG1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Janvier 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:52.413+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:52.413+02:00'
+  updated_by: 296
+consultant_8786_expense_report_231549:
+  id: 231549
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-02-28'
+  total: '2287.33'
+  vat: '81.32'
+  total_with_taxes: '2368.65'
+  accounting_document: 0027NG1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Février 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:54.853+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:54.853+02:00'
+  updated_by: 296
+consultant_8786_expense_report_231550:
+  id: 231550
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-03-31'
+  total: '2189.51'
+  vat: '107.92'
+  total_with_taxes: '2297.43'
+  accounting_document: 0025NG1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mars 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:54.856+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:54.856+02:00'
+  updated_by: 296
+consultant_8786_expense_report_232186:
+  id: 232186
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-03-31'
+  total: '2452.29'
+  vat: '99.77'
+  total_with_taxes: '2552.06'
+  accounting_document: '0028NG1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mars 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:13:56.946+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:13:56.946+02:00'
+  updated_by: 296
+consultant_8786_expense_report_233431:
+  id: 233431
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-04-30'
+  total: '3213.8'
+  vat: '255.13'
+  total_with_taxes: '3468.93'
+  accounting_document: 0030NG1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Avril 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:00.767+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:00.767+02:00'
+  updated_by: 296
+consultant_8786_expense_report_233445:
+  id: 233445
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-04-30'
+  total: '1865.12'
+  vat: '12.75'
+  total_with_taxes: '1877.87'
+  accounting_document: 0022NG1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Avril 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:00.809+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:00.809+02:00'
+  updated_by: 296
+consultant_8786_expense_report_235824:
+  id: 235824
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-05-31'
+  total: '1932.43'
+  vat: '62.75'
+  total_with_taxes: '1995.18'
+  accounting_document: 0023NG1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mai 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:08.408+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:08.408+02:00'
+  updated_by: 296
+consultant_8786_expense_report_235825:
+  id: 235825
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-05-31'
+  total: '2064.09'
+  vat: '237.74'
+  total_with_taxes: '2301.83'
+  accounting_document: 0026NG1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mai 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:08.411+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:08.411+02:00'
+  updated_by: 296
+consultant_8786_expense_report_237587:
+  id: 237587
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-06-30'
+  total: '2395.34'
+  vat: '172.92'
+  total_with_taxes: '2568.26'
+  accounting_document: 0175NF1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juin 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:13.860+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:13.860+02:00'
+  updated_by: 296
+consultant_8786_expense_report_239636:
+  id: 239636
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-07-31'
+  total: '8726.16'
+  vat: '544.5'
+  total_with_taxes: '9270.66'
+  accounting_document: '0184NF1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juillet 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:20.333+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:20.333+02:00'
+  updated_by: 296
+consultant_8786_expense_report_239637:
+  id: 239637
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-07-31'
+  total: '1867.78'
+  vat: '165.55'
+  total_with_taxes: '2033.33'
+  accounting_document: '0169NF1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juillet 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:20.336+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:20.336+02:00'
+  updated_by: 296
+consultant_8786_expense_report_239639:
+  id: 239639
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-06-30'
+  total: '2704.68'
+  vat: '205.32'
+  total_with_taxes: '2910.0'
+  accounting_document: '0179NF1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juin 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:20.342+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:20.342+02:00'
+  updated_by: 296
+consultant_8786_expense_report_240954:
+  id: 240954
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-08-31'
+  total: '2186.49'
+  vat: '87.99'
+  total_with_taxes: '2274.48'
+  accounting_document: 0170NF1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Août 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:24.453+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:24.453+02:00'
+  updated_by: 296
+consultant_8786_expense_report_242607:
+  id: 242607
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-09-30'
+  total: '2852.67'
+  vat: '139.5'
+  total_with_taxes: '2992.17'
+  accounting_document: '0180NF1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Septembre 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:29.500+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:29.500+02:00'
+  updated_by: 296
+consultant_8786_expense_report_244605:
+  id: 244605
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-09-30'
+  total: '2387.81'
+  vat: '182.96'
+  total_with_taxes: '2570.77'
+  accounting_document: 0176NF1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Septembre 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:35.692+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:35.692+02:00'
+  updated_by: 296
+consultant_8786_expense_report_244606:
+  id: 244606
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-10-31'
+  total: '3127.11'
+  vat: '169.24'
+  total_with_taxes: '3296.35'
+  accounting_document: '0181NF1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Octobre 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:35.695+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:35.695+02:00'
+  updated_by: 296
+consultant_8786_expense_report_246877:
+  id: 246877
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-11-30'
+  total: '2252.06'
+  vat: '44.68'
+  total_with_taxes: '2296.74'
+  accounting_document: 0171NF1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Novembre 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:42.670+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:42.670+02:00'
+  updated_by: 296
+consultant_8786_expense_report_246878:
+  id: 246878
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-08-31'
+  total: '2298.71'
+  vat: '216.01'
+  total_with_taxes: '2514.72'
+  accounting_document: 0173NF1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Août 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:42.673+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:42.673+02:00'
+  updated_by: 296
+consultant_8786_expense_report_246879:
+  id: 246879
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-10-31'
+  total: '1617.57'
+  vat: '80.72'
+  total_with_taxes: '1698.29'
+  accounting_document: 0167NF1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Octobre 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:42.676+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:42.676+02:00'
+  updated_by: 296
+consultant_8786_expense_report_246880:
+  id: 246880
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-11-30'
+  total: '2363.38'
+  vat: '166.67'
+  total_with_taxes: '2530.05'
+  accounting_document: 0174NF1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Novembre 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:42.680+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:42.680+02:00'
+  updated_by: 296
+consultant_8786_expense_report_249153:
+  id: 249153
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-12-31'
+  total: '3847.88'
+  vat: '193.48'
+  total_with_taxes: '4041.36'
+  accounting_document: '0182NF1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Décembre 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:49.627+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:49.627+02:00'
+  updated_by: 296
+consultant_8786_expense_report_249160:
+  id: 249160
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-12-31'
+  total: '3971.04'
+  vat: '282.44'
+  total_with_taxes: '4253.48'
+  accounting_document: '0183NF1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Décembre 2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:49.648+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:49.648+02:00'
+  updated_by: 296
+consultant_8786_expense_report_250781:
+  id: 250781
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2017-12-31'
+  total: '68.0'
+  vat: '0.0'
+  total_with_taxes: '68.0'
+  accounting_document: 0166NF1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: COMPL,DF 12/2017
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:14:54.697+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:14:54.697+02:00'
+  updated_by: 296
+consultant_8786_expense_report_256775:
+  id: 256775
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-01-31'
+  total: '2335.55'
+  vat: '58.38'
+  total_with_taxes: '2393.93'
+  accounting_document: 0172NF1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Janvier 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:13.585+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:13.585+02:00'
+  updated_by: 296
+consultant_8786_expense_report_256788:
+  id: 256788
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-02-28'
+  total: '2733.18'
+  vat: '78.9'
+  total_with_taxes: '2812.08'
+  accounting_document: '0178NF1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Février 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:13.622+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:13.622+02:00'
+  updated_by: 296
+consultant_8786_expense_report_256792:
+  id: 256792
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-03-31'
+  total: '1697.86'
+  vat: '98.72'
+  total_with_taxes: '1796.58'
+  accounting_document: '0168NF1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mars 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:13.634+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:13.634+02:00'
+  updated_by: 296
+consultant_8786_expense_report_256798:
+  id: 256798
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-04-30'
+  total: '2545.85'
+  vat: '149.33'
+  total_with_taxes: '2695.18'
+  accounting_document: 0177NF1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Avril 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:13.651+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:13.651+02:00'
+  updated_by: 296
+consultant_8786_expense_report_258553:
+  id: 258553
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-05-31'
+  total: '1072.23'
+  vat: '35.41'
+  total_with_taxes: '1107.64'
+  accounting_document: 0046NG1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Mai 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:19.106+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:19.106+02:00'
+  updated_by: 296
+consultant_8786_expense_report_258554:
+  id: 258554
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-06-30'
+  total: '2733.34'
+  vat: '124.97'
+  total_with_taxes: '2858.31'
+  accounting_document: 0047NG1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Juin 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:19.108+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:19.108+02:00'
+  updated_by: 296
+consultant_8786_expense_report_269058:
+  id: 269058
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-01-31'
+  total: '1341.97'
+  vat: '45.19'
+  total_with_taxes: '1387.16'
+  accounting_document: 0316NA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Janvier 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:51.080+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:51.080+02:00'
+  updated_by: 296
+consultant_8786_expense_report_269059:
+  id: 269059
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-02-28'
+  total: '860.64'
+  vat: '53.69'
+  total_with_taxes: '914.33'
+  accounting_document: 0314NA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Février 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:51.083+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:51.083+02:00'
+  updated_by: 296
+consultant_8786_expense_report_269060:
+  id: 269060
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-06-30'
+  total: '1437.21'
+  vat: '49.19'
+  total_with_taxes: '1486.4'
+  accounting_document: 0317NA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juin 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:51.086+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:51.086+02:00'
+  updated_by: 296
+consultant_8786_expense_report_269061:
+  id: 269061
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-08-31'
+  total: '5126.61'
+  vat: '583.77'
+  total_with_taxes: '5710.38'
+  accounting_document: 0322NA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Août 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:51.089+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:51.089+02:00'
+  updated_by: 296
+consultant_8786_expense_report_269062:
+  id: 269062
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-09-30'
+  total: '5165.49'
+  vat: '290.96'
+  total_with_taxes: '5456.45'
+  accounting_document: 0321NA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Septembre 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:51.093+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:51.093+02:00'
+  updated_by: 296
+consultant_8786_expense_report_269063:
+  id: 269063
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-12-31'
+  total: '6031.75'
+  vat: '310.97'
+  total_with_taxes: '6342.72'
+  accounting_document: '0339NA1909'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Décembre 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:51.096+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:51.096+02:00'
+  updated_by: 296
+consultant_8786_expense_report_269064:
+  id: 269064
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-11-30'
+  total: '5403.46'
+  vat: '532.6'
+  total_with_taxes: '5936.06'
+  accounting_document: 0323NA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Novembre 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:51.099+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:51.099+02:00'
+  updated_by: 296
+consultant_8786_expense_report_269065:
+  id: 269065
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-10-31'
+  total: '2698.37'
+  vat: '69.88'
+  total_with_taxes: '2768.25'
+  accounting_document: '0319NA1909'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Octobre 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:51.102+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:51.102+02:00'
+  updated_by: 296
+consultant_8786_expense_report_269066:
+  id: 269066
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-03-31'
+  total: '1037.38'
+  vat: '129.78'
+  total_with_taxes: '1167.16'
+  accounting_document: 0337NA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mars 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:51.105+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:51.105+02:00'
+  updated_by: 296
+consultant_8786_expense_report_269067:
+  id: 269067
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-04-30'
+  total: '871.11'
+  vat: '40.49'
+  total_with_taxes: '911.6'
+  accounting_document: 0313NA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Avril 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:51.108+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:51.108+02:00'
+  updated_by: 296
+consultant_8786_expense_report_269068:
+  id: 269068
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-05-31'
+  total: '1419.82'
+  vat: '159.93'
+  total_with_taxes: '1579.75'
+  accounting_document: '0338NA1909'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Mai 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:51.112+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:51.112+02:00'
+  updated_by: 296
+consultant_8786_expense_report_269069:
+  id: 269069
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: done
+  date: '2018-07-31'
+  total: '3817.85'
+  vat: '240.36'
+  total_with_taxes: '4058.21'
+  accounting_document: 0320NA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DF de Juillet 2018
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:15:51.115+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:15:51.115+02:00'
+  updated_by: 296
+consultant_8786_expense_report_272185:
+  id: 272185
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  disbursement_source_status: query
+  date: '2019-01-31'
+  total: '1570.39'
+  vat: '93.13'
+  total_with_taxes: '1663.52'
+  accounting_document: ''
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  comment: DA de Janvier 2019
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:16:00.922+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:16:00.922+02:00'
+  updated_by: 296

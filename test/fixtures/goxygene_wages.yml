@@ -1,0 +1,6941 @@
+consultant_8786_wage_151350:
+  id: 151350
+  itg_company_id: 9
+  disbursement_id: 227551
+  consultant_id: 8786
+  document_id:
+  document_old_id: 333259
+  disbursement_source_status: done
+  year: 2010
+  month: 10
+  hours: '70.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3299.98'
+  standard_gross_wage: '1274.26'
+  supplementary_gross_wage: '2025.72'
+  net_wage: '2620.08'
+  cost: '4990.41'
+  date: '2010-11-08'
+  company_savings_plan: '0.0'
+  accounting_document: '0139SJ1009'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2010-10-01'
+  period_end: '2010-10-31'
+  out_of_date_insertion:
+  wage_contribution: '679.9'
+  employer_contribution: '1690.43'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20101000145'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:22:57.126+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:22:57.126+02:00'
+  updated_by: 296
+consultant_8786_wage_152513:
+  id: 152513
+  itg_company_id: 9
+  disbursement_id: 229437
+  consultant_id: 8786
+  document_id:
+  document_old_id: 334293
+  disbursement_source_status: done
+  year: 2020
+  month: 8
+  hours: '33.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '605.28'
+  standard_gross_wage: '605.28'
+  supplementary_gross_wage: '0.0'
+  net_wage: '473.36'
+  cost: '919.4'
+  date: '2010-12-01'
+  company_savings_plan: '0.0'
+  accounting_document: '0098SK1009'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2010-11-01'
+  period_end: '2010-11-30'
+  out_of_date_insertion:
+  wage_contribution: '131.92'
+  employer_contribution: '314.12'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20101100106'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:23:00.523+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:00.523+02:00'
+  updated_by: 296
+consultant_8786_wage_154018:
+  id: 154018
+  itg_company_id: 9
+  disbursement_id: 232090
+  consultant_id: 8786
+  document_id:
+  document_old_id: 335623
+  disbursement_source_status: done
+  year: 2020
+  month: 8
+  hours: '50.75'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '923.85'
+  standard_gross_wage: '923.85'
+  supplementary_gross_wage: '0.0'
+  net_wage: '722.51'
+  cost: '1403.26'
+  date: '2010-12-30'
+  company_savings_plan: '0.0'
+  accounting_document: '0092SL1009'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2010-12-01'
+  period_end: '2010-12-31'
+  out_of_date_insertion:
+  wage_contribution: '201.34'
+  employer_contribution: '479.41'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20101200095'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:23:04.999+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:04.999+02:00'
+  updated_by: 296
+consultant_8786_wage_155555:
+  id: 155555
+  itg_company_id: 9
+  disbursement_id: 234872
+  consultant_id: 8786
+  document_id:
+  document_old_id: 336927
+  disbursement_source_status: done
+  year: 2011
+  month: 1
+  hours: '45.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '828.28'
+  standard_gross_wage: '828.28'
+  supplementary_gross_wage: '0.0'
+  net_wage: '641.32'
+  cost: '1270.15'
+  date: '2011-01-31'
+  company_savings_plan: '0.0'
+  accounting_document: '0083SA1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2011-01-01'
+  period_end: '2011-01-31'
+  out_of_date_insertion:
+  wage_contribution: '186.96'
+  employer_contribution: '441.87'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20110100088'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:23:09.240+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:09.240+02:00'
+  updated_by: 296
+consultant_8786_wage_156779:
+  id: 156779
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 337993
+  disbursement_source_status: done
+  year: 2011
+  month: 2
+  hours: '33.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '605.28'
+  standard_gross_wage: '605.28'
+  supplementary_gross_wage: '0.0'
+  net_wage: '468.64'
+  cost: '928.19'
+  date: '2011-02-28'
+  company_savings_plan: '0.0'
+  accounting_document: 0052SB1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2011-02-01'
+  period_end: '2011-02-28'
+  out_of_date_insertion:
+  wage_contribution: '136.64'
+  employer_contribution: '322.91'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20110200301'
+  advance_return: "-500.0"
+  created_at: '2019-04-04T10:23:12.758+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:12.758+02:00'
+  updated_by: 296
+consultant_8786_wage_158138:
+  id: 158138
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 339180
+  disbursement_source_status: done
+  year: 2011
+  month: 3
+  hours: '35.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '637.14'
+  standard_gross_wage: '637.14'
+  supplementary_gross_wage: '0.0'
+  net_wage: '493.32'
+  cost: '977.06'
+  date: '2011-03-29'
+  company_savings_plan: '0.0'
+  accounting_document: 0066SC1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2011-03-01'
+  period_end: '2011-03-31'
+  out_of_date_insertion:
+  wage_contribution: '143.82'
+  employer_contribution: '339.92'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20110300068'
+  advance_return: "-2793.59"
+  created_at: '2019-04-04T10:23:16.801+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:16.801+02:00'
+  updated_by: 296
+consultant_8786_wage_160235:
+  id: 160235
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 341041
+  disbursement_source_status: done
+  year: 2011
+  month: 4
+  hours: '31.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '573.42'
+  standard_gross_wage: '573.42'
+  supplementary_gross_wage: '0.0'
+  net_wage: '443.73'
+  cost: '879.15'
+  date: '2011-05-03'
+  company_savings_plan: '0.0'
+  accounting_document: 0150SD1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2011-04-01'
+  period_end: '2011-04-30'
+  out_of_date_insertion:
+  wage_contribution: '129.69'
+  employer_contribution: '305.73'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20110400157'
+  advance_return: "-6268.29"
+  created_at: '2019-04-04T10:23:22.817+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:22.817+02:00'
+  updated_by: 296
+consultant_8786_wage_160755:
+  id: 160755
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 341500
+  disbursement_source_status: done
+  year: 2011
+  month: 5
+  hours: '29.75'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '541.56'
+  standard_gross_wage: '541.56'
+  supplementary_gross_wage: '0.0'
+  net_wage: '419.08'
+  cost: '830.31'
+  date: '2011-05-30'
+  company_savings_plan: '0.0'
+  accounting_document: 0051SE1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2011-05-01'
+  period_end: '2011-05-31'
+  out_of_date_insertion:
+  wage_contribution: '122.48'
+  employer_contribution: '288.75'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20110500047'
+  advance_return: "-4744.63"
+  created_at: '2019-04-04T10:23:24.352+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:24.352+02:00'
+  updated_by: 296
+consultant_8786_wage_162264:
+  id: 162264
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 342853
+  disbursement_source_status: done
+  year: 2011
+  month: 6
+  hours: '35.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '637.14'
+  standard_gross_wage: '637.14'
+  supplementary_gross_wage: '0.0'
+  net_wage: '493.03'
+  cost: '976.9'
+  date: '2011-06-30'
+  company_savings_plan: '0.0'
+  accounting_document: 0065SF1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2011-06-01'
+  period_end: '2011-06-30'
+  out_of_date_insertion:
+  wage_contribution: '144.11'
+  employer_contribution: '339.76'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20110600059'
+  advance_return: "-6614.98"
+  created_at: '2019-04-04T10:23:28.888+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:28.888+02:00'
+  updated_by: 296
+consultant_8786_wage_163613:
+  id: 163613
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 344073
+  disbursement_source_status: done
+  year: 2011
+  month: 7
+  hours: '36.75'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '668.99'
+  standard_gross_wage: '668.99'
+  supplementary_gross_wage: '0.0'
+  net_wage: '517.66'
+  cost: '1025.7'
+  date: '2011-07-28'
+  company_savings_plan: '0.0'
+  accounting_document: 0056SG1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2011-07-01'
+  period_end: '2011-07-31'
+  out_of_date_insertion:
+  wage_contribution: '151.33'
+  employer_contribution: '356.71'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20110700057'
+  advance_return: "-6504.07"
+  created_at: '2019-04-04T10:23:32.838+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:32.838+02:00'
+  updated_by: 296
+consultant_8786_wage_164559:
+  id: 164559
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 344891
+  disbursement_source_status: done
+  year: 2011
+  month: 8
+  hours: '42.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '764.56'
+  standard_gross_wage: '764.56'
+  supplementary_gross_wage: '0.0'
+  net_wage: '591.65'
+  cost: '1172.23'
+  date: '2011-08-26'
+  company_savings_plan: '0.0'
+  accounting_document: 0030SH1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2011-08-01'
+  period_end: '2011-08-31'
+  out_of_date_insertion:
+  wage_contribution: '172.91'
+  employer_contribution: '407.67'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20110800029'
+  advance_return: "-8888.63"
+  created_at: '2019-04-04T10:23:35.599+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:35.599+02:00'
+  updated_by: 296
+consultant_8786_wage_166112:
+  id: 166112
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 346205
+  disbursement_source_status: done
+  year: 2011
+  month: 9
+  hours: '38.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '700.85'
+  standard_gross_wage: '700.85'
+  supplementary_gross_wage: '0.0'
+  net_wage: '542.34'
+  cost: '1074.53'
+  date: '2011-09-29'
+  company_savings_plan: '0.0'
+  accounting_document: 0050SI1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2011-09-01'
+  period_end: '2011-09-30'
+  out_of_date_insertion:
+  wage_contribution: '158.51'
+  employer_contribution: '373.68'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20110900047'
+  advance_return: "-9723.96"
+  created_at: '2019-04-04T10:23:39.997+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:39.997+02:00'
+  updated_by: 296
+consultant_8786_wage_167632:
+  id: 167632
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 347552
+  disbursement_source_status: done
+  year: 2011
+  month: 10
+  hours: '124.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3261.84'
+  standard_gross_wage: '2261.84'
+  supplementary_gross_wage: '1000.0'
+  net_wage: '2575.83'
+  cost: '4926.23'
+  date: '2011-10-31'
+  company_savings_plan: '0.0'
+  accounting_document: 0071SJ1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2011-10-01'
+  period_end: '2011-10-31'
+  out_of_date_insertion:
+  wage_contribution: '686.01'
+  employer_contribution: '1664.39'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20111000072'
+  advance_return: "-13449.5"
+  created_at: '2019-04-04T10:23:44.360+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:44.360+02:00'
+  updated_by: 296
+consultant_8786_wage_168920:
+  id: 168920
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 348690
+  disbursement_source_status: done
+  year: 2011
+  month: 11
+  hours: '136.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3499.99'
+  standard_gross_wage: '2484.84'
+  supplementary_gross_wage: '1015.15'
+  net_wage: '2770.42'
+  cost: '5276.48'
+  date: '2011-11-30'
+  company_savings_plan: '0.0'
+  accounting_document: 0052SK1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2011-11-01'
+  period_end: '2011-11-30'
+  out_of_date_insertion:
+  wage_contribution: '729.57'
+  employer_contribution: '1776.49'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20111100053'
+  advance_return: "-9273.88"
+  created_at: '2019-04-04T10:23:48.265+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:48.265+02:00'
+  updated_by: 296
+consultant_8786_wage_170966:
+  id: 170966
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 350551
+  disbursement_source_status: done
+  year: 2011
+  month: 12
+  hours: '108.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3499.99'
+  standard_gross_wage: '1975.12'
+  supplementary_gross_wage: '1524.87'
+  net_wage: '2781.78'
+  cost: '5275.54'
+  date: '2011-12-29'
+  company_savings_plan: '0.0'
+  accounting_document: 0114SL1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2011-12-01'
+  period_end: '2011-12-31'
+  out_of_date_insertion:
+  wage_contribution: '718.21'
+  employer_contribution: '1775.55'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20111200115'
+  advance_return: "-8838.92"
+  created_at: '2019-04-04T10:23:54.316+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:54.316+02:00'
+  updated_by: 296
+consultant_8786_wage_172412:
+  id: 172412
+  itg_company_id: 9
+  disbursement_id: 264407
+  consultant_id: 8786
+  document_id:
+  document_old_id: 351794
+  disbursement_source_status: done
+  year: 2012
+  month: 1
+  hours: '119.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '4299.98'
+  standard_gross_wage: '2166.26'
+  supplementary_gross_wage: '2133.72'
+  net_wage: '3385.06'
+  cost: '6512.1'
+  date: '2012-02-01'
+  company_savings_plan: '0.0'
+  accounting_document: '0091SA1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2012-01-01'
+  period_end: '2012-01-31'
+  out_of_date_insertion:
+  wage_contribution: '914.92'
+  employer_contribution: '2212.12'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20120100095'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:23:58.518+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:58.518+02:00'
+  updated_by: 296
+consultant_8786_wage_173561:
+  id: 173561
+  itg_company_id: 9
+  disbursement_id: 266667
+  consultant_id: 8786
+  document_id:
+  document_old_id: 352766
+  disbursement_source_status: done
+  year: 2012
+  month: 2
+  hours: '98.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3799.99'
+  standard_gross_wage: '1783.98'
+  supplementary_gross_wage: '2016.01'
+  net_wage: '3004.8'
+  cost: '5753.49'
+  date: '2012-02-29'
+  company_savings_plan: '0.0'
+  accounting_document: 0067SB1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2012-02-01'
+  period_end: '2012-02-29'
+  out_of_date_insertion:
+  wage_contribution: '795.19'
+  employer_contribution: '1953.5'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20120200068'
+  advance_return: "-1500.0"
+  created_at: '2019-04-04T10:24:01.762+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:24:01.762+02:00'
+  updated_by: 296
+consultant_8786_wage_175023:
+  id: 175023
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 354039
+  disbursement_source_status: done
+  year: 2012
+  month: 3
+  hours: '124.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '2261.84'
+  standard_gross_wage: '2261.84'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1763.69'
+  cost: '3437.48'
+  date: '2012-04-01'
+  company_savings_plan: '0.0'
+  accounting_document: '0093SC1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2012-03-01'
+  period_end: '2012-03-31'
+  out_of_date_insertion:
+  wage_contribution: '498.15'
+  employer_contribution: '1175.64'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20120300084'
+  advance_return: "-5500.0"
+  created_at: '2019-04-04T10:24:05.952+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:24:05.952+02:00'
+  updated_by: 296
+consultant_8786_wage_176272:
+  id: 176272
+  itg_company_id: 9
+  disbursement_id: 271529
+  consultant_id: 8786
+  document_id:
+  document_old_id: 355120
+  disbursement_source_status: done
+  year: 2012
+  month: 4
+  hours: '122.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3499.99'
+  standard_gross_wage: '2229.98'
+  supplementary_gross_wage: '1270.01'
+  net_wage: '2755.65'
+  cost: '5302.75'
+  date: '2012-04-30'
+  company_savings_plan: '0.0'
+  accounting_document: 0052SD1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2012-04-01'
+  period_end: '2012-04-30'
+  out_of_date_insertion:
+  wage_contribution: '744.34'
+  employer_contribution: '1802.76'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20120400055'
+  advance_return: "-2000.0"
+  created_at: '2019-04-04T10:24:09.555+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:24:09.555+02:00'
+  updated_by: 296
+consultant_8786_wage_177737:
+  id: 177737
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 356399
+  disbursement_source_status: done
+  year: 2012
+  month: 5
+  hours: '112.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '2038.84'
+  standard_gross_wage: '2038.84'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1589.95'
+  cost: '3096.73'
+  date: '2012-05-31'
+  company_savings_plan: '0.0'
+  accounting_document: '0084SE1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2012-05-01'
+  period_end: '2012-05-31'
+  out_of_date_insertion:
+  wage_contribution: '448.89'
+  employer_contribution: '1057.89'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20120500079'
+  advance_return: "-5500.0"
+  created_at: '2019-04-04T10:24:13.928+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:24:13.928+02:00'
+  updated_by: 296
+consultant_8786_wage_179222:
+  id: 179222
+  itg_company_id: 9
+  disbursement_id: 276892
+  consultant_id: 8786
+  document_id:
+  document_old_id: 357680
+  disbursement_source_status: done
+  year: 2012
+  month: 6
+  hours: '110.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '2499.99'
+  standard_gross_wage: '2006.98'
+  supplementary_gross_wage: '493.01'
+  net_wage: '1959.75'
+  cost: '3792.02'
+  date: '2012-07-02'
+  company_savings_plan: '0.0'
+  accounting_document: '0081SF1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2012-06-01'
+  period_end: '2012-06-30'
+  out_of_date_insertion:
+  wage_contribution: '540.24'
+  employer_contribution: '1292.03'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20120600082'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:24:18.103+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:24:18.103+02:00'
+  updated_by: 296
+consultant_8786_wage_180934:
+  id: 180934
+  itg_company_id: 9
+  disbursement_id: 279950
+  consultant_id: 8786
+  document_id:
+  document_old_id: 359144
+  disbursement_source_status: done
+  year: 2012
+  month: 7
+  hours: '112.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '2038.84'
+  standard_gross_wage: '2038.84'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1589.95'
+  cost: '3096.73'
+  date: '2012-08-02'
+  company_savings_plan: '0.0'
+  accounting_document: '0096SG1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2012-07-01'
+  period_end: '2012-07-31'
+  out_of_date_insertion:
+  wage_contribution: '448.89'
+  employer_contribution: '1057.89'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20120700094'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:24:22.963+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:24:22.963+02:00'
+  updated_by: 296
+consultant_8786_wage_182002:
+  id: 182002
+  itg_company_id: 9
+  disbursement_id: 282072
+  consultant_id: 8786
+  document_id:
+  document_old_id: 360048
+  disbursement_source_status: done
+  year: 2012
+  month: 8
+  hours: '106.75'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '4450.0'
+  standard_gross_wage: '1943.28'
+  supplementary_gross_wage: '2506.72'
+  net_wage: '3522.02'
+  cost: '6732.77'
+  date: '2012-09-03'
+  company_savings_plan: '0.0'
+  accounting_document: '0082SH1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2012-08-01'
+  period_end: '2012-08-31'
+  out_of_date_insertion:
+  wage_contribution: '927.98'
+  employer_contribution: '2282.77'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20120800079'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:24:26.005+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:24:26.005+02:00'
+  updated_by: 296
+consultant_8786_wage_183205:
+  id: 183205
+  itg_company_id: 9
+  disbursement_id: 284150
+  consultant_id: 8786
+  document_id:
+  document_old_id: 361075
+  disbursement_source_status: done
+  year: 2012
+  month: 9
+  hours: '94.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '4450.0'
+  standard_gross_wage: '1720.28'
+  supplementary_gross_wage: '2729.72'
+  net_wage: '3526.63'
+  cost: '6730.47'
+  date: '2012-10-01'
+  company_savings_plan: '0.0'
+  accounting_document: '0090SI1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2012-09-01'
+  period_end: '2012-09-30'
+  out_of_date_insertion:
+  wage_contribution: '923.37'
+  employer_contribution: '2280.47'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20120900087'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:24:29.413+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:24:29.413+02:00'
+  updated_by: 296
+consultant_8786_wage_184209:
+  id: 184209
+  itg_company_id: 9
+  disbursement_id: 286124
+  consultant_id: 8786
+  document_id:
+  document_old_id: 361923
+  disbursement_source_status: done
+  year: 2012
+  month: 10
+  hours: '101.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '5062.99'
+  standard_gross_wage: '1847.7'
+  supplementary_gross_wage: '3215.29'
+  net_wage: '4014.73'
+  cost: '7656.39'
+  date: '2012-10-29'
+  company_savings_plan: '0.0'
+  accounting_document: 0037SJ1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2012-10-01'
+  period_end: '2012-10-31'
+  out_of_date_insertion:
+  wage_contribution: '1048.26'
+  employer_contribution: '2593.4'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20121000035'
+  advance_return: "-1500.0"
+  created_at: '2019-04-04T10:24:32.401+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:24:32.401+02:00'
+  updated_by: 296
+consultant_8786_wage_185709:
+  id: 185709
+  itg_company_id: 9
+  disbursement_id: 288868
+  consultant_id: 8786
+  document_id:
+  document_old_id: 363200
+  disbursement_source_status: done
+  year: 2012
+  month: 11
+  hours: '136.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6874.98'
+  standard_gross_wage: '2484.83'
+  supplementary_gross_wage: '4390.15'
+  net_wage: '5443.3'
+  cost: '10402.21'
+  date: '2012-11-29'
+  company_savings_plan: '0.0'
+  accounting_document: 0043SK1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2012-11-01'
+  period_end: '2012-11-30'
+  out_of_date_insertion:
+  wage_contribution: '1431.68'
+  employer_contribution: '3527.23'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20121100043'
+  advance_return: "-1700.0"
+  created_at: '2019-04-04T10:24:36.592+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:24:36.592+02:00'
+  updated_by: 296
+consultant_8786_wage_187747:
+  id: 187747
+  itg_company_id: 9
+  disbursement_id: 292268
+  consultant_id: 8786
+  document_id:
+  document_old_id: 364987
+  disbursement_source_status: done
+  year: 2012
+  month: 12
+  hours: '129.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6900.0'
+  standard_gross_wage: '2357.42'
+  supplementary_gross_wage: '4542.58'
+  net_wage: '5472.11'
+  cost: '10435.3'
+  date: '2013-01-02'
+  company_savings_plan: '0.0'
+  accounting_document: 0103SL1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2012-12-01'
+  period_end: '2012-12-31'
+  out_of_date_insertion:
+  wage_contribution: '1427.89'
+  employer_contribution: '3535.3'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20121200101'
+  advance_return: "-3705.32"
+  created_at: '2019-04-04T10:24:42.742+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:24:42.742+02:00'
+  updated_by: 296
+consultant_8786_wage_189070:
+  id: 189070
+  itg_company_id: 9
+  disbursement_id: 294868
+  consultant_id: 8786
+  document_id:
+  document_old_id: 366097
+  disbursement_source_status: done
+  year: 2013
+  month: 1
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '5700.0'
+  standard_gross_wage: '2730.6'
+  supplementary_gross_wage: '2969.4'
+  net_wage: '4501.63'
+  cost: '8624.75'
+  date: '2013-01-31'
+  company_savings_plan: '0.0'
+  accounting_document: 0057SA1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2013-01-01'
+  period_end: '2013-01-31'
+  out_of_date_insertion:
+  wage_contribution: '1198.37'
+  employer_contribution: '2924.75'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20130100060'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:24:46.367+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:24:46.367+02:00'
+  updated_by: 296
+consultant_8786_wage_190460:
+  id: 190460
+  itg_company_id: 9
+  disbursement_id: 297351
+  consultant_id: 8786
+  document_id:
+  document_old_id: 367305
+  disbursement_source_status: done
+  year: 2013
+  month: 2
+  hours: '122.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '5199.98'
+  standard_gross_wage: '2229.97'
+  supplementary_gross_wage: '2970.01'
+  net_wage: '4113.15'
+  cost: '7864.77'
+  date: '2013-03-01'
+  company_savings_plan: '0.0'
+  accounting_document: 0071SB1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2013-02-01'
+  period_end: '2013-02-28'
+  out_of_date_insertion:
+  wage_contribution: '1086.83'
+  employer_contribution: '2664.79'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20130200070'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:24:50.461+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:24:50.461+02:00'
+  updated_by: 296
+consultant_8786_wage_191878:
+  id: 191878
+  itg_company_id: 9
+  disbursement_id: 299837
+  consultant_id: 8786
+  document_id:
+  document_old_id: 368527
+  disbursement_source_status: done
+  year: 2013
+  month: 3
+  hours: '106.75'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '4450.0'
+  standard_gross_wage: '1943.28'
+  supplementary_gross_wage: '2506.72'
+  net_wage: '3519.12'
+  cost: '6730.87'
+  date: '2013-04-02'
+  company_savings_plan: '0.0'
+  accounting_document: '0085SC1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2013-03-01'
+  period_end: '2013-03-31'
+  out_of_date_insertion:
+  wage_contribution: '930.88'
+  employer_contribution: '2280.87'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20130300090'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:24:54.424+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:24:54.424+02:00'
+  updated_by: 296
+consultant_8786_wage_192703:
+  id: 192703
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 369225
+  disbursement_source_status: done
+  year: 2013
+  month: 4
+  hours: '141.75'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '2599.99'
+  standard_gross_wage: '2580.41'
+  supplementary_gross_wage: '19.58'
+  net_wage: '2020.07'
+  cost: '3951.76'
+  date: '2013-04-26'
+  company_savings_plan: '0.0'
+  accounting_document: 0025SD1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2013-04-01'
+  period_end: '2013-04-30'
+  out_of_date_insertion:
+  wage_contribution: '579.92'
+  employer_contribution: '1351.77'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20130400022'
+  advance_return: "-10660.0"
+  created_at: '2019-04-04T10:24:56.670+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:24:56.670+02:00'
+  updated_by: 296
+consultant_8786_wage_194477:
+  id: 194477
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 370772
+  disbursement_source_status: done
+  year: 2013
+  month: 5
+  hours: '133.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3999.99'
+  standard_gross_wage: '2421.12'
+  supplementary_gross_wage: '1578.87'
+  net_wage: '3148.32'
+  cost: '6058.14'
+  date: '2013-05-31'
+  company_savings_plan: '0.0'
+  accounting_document: '0069SE1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2013-05-01'
+  period_end: '2013-05-31'
+  out_of_date_insertion:
+  wage_contribution: '851.67'
+  employer_contribution: '2058.15'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20130500062'
+  advance_return: "-8280.28"
+  created_at: '2019-04-04T10:25:01.974+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:25:01.974+02:00'
+  updated_by: 296
+consultant_8786_wage_195920:
+  id: 195920
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 371987
+  disbursement_source_status: done
+  year: 2013
+  month: 6
+  hours: '138.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3999.99'
+  standard_gross_wage: '2516.69'
+  supplementary_gross_wage: '1483.3'
+  net_wage: '3140.77'
+  cost: '6062.13'
+  date: '2013-07-01'
+  company_savings_plan: '0.0'
+  accounting_document: 0074SF1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2013-06-01'
+  period_end: '2013-06-30'
+  out_of_date_insertion:
+  wage_contribution: '859.22'
+  employer_contribution: '2062.14'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20130600071'
+  advance_return: "-4000.0"
+  created_at: '2019-04-04T10:25:05.979+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:25:05.979+02:00'
+  updated_by: 296
+consultant_8786_wage_197704:
+  id: 197704
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 373468
+  disbursement_source_status: done
+  year: 2013
+  month: 7
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '4199.98'
+  standard_gross_wage: '2730.58'
+  supplementary_gross_wage: '1469.4'
+  net_wage: '3300.85'
+  cost: '6367.81'
+  date: '2013-08-01'
+  company_savings_plan: '0.0'
+  accounting_document: '0082SG1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2013-07-01'
+  period_end: '2013-07-31'
+  out_of_date_insertion:
+  wage_contribution: '899.13'
+  employer_contribution: '2167.83'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20130700088'
+  advance_return: "-8392.79"
+  created_at: '2019-04-04T10:25:10.920+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:25:10.920+02:00'
+  updated_by: 296
+consultant_8786_wage_199115:
+  id: 199115
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 374624
+  disbursement_source_status: done
+  year: 2013
+  month: 8
+  hours: '140.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3163.99'
+  standard_gross_wage: '2548.55'
+  supplementary_gross_wage: '615.44'
+  net_wage: '2471.55'
+  cost: '4805.11'
+  date: '2013-09-05'
+  company_savings_plan: '0.0'
+  accounting_document: 0106SH1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2013-08-01'
+  period_end: '2013-08-31'
+  out_of_date_insertion:
+  wage_contribution: '692.44'
+  employer_contribution: '1641.12'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20130800107'
+  advance_return: "-7737.05"
+  created_at: '2019-04-04T10:25:14.690+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:25:14.690+02:00'
+  updated_by: 296
+consultant_8786_wage_200462:
+  id: 200462
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 375716
+  disbursement_source_status: done
+  year: 2013
+  month: 9
+  hours: '124.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3163.99'
+  standard_gross_wage: '2261.84'
+  supplementary_gross_wage: '902.15'
+  net_wage: '2482.64'
+  cost: '4799.22'
+  date: '2013-10-02'
+  company_savings_plan: '0.0'
+  accounting_document: 0101SI1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2013-09-01'
+  period_end: '2013-09-30'
+  out_of_date_insertion:
+  wage_contribution: '681.35'
+  employer_contribution: '1635.23'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20130900101'
+  advance_return: "-13265.5"
+  created_at: '2019-04-04T10:25:18.295+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:25:18.295+02:00'
+  updated_by: 296
+consultant_8786_wage_201931:
+  id: 201931
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 376952
+  disbursement_source_status: done
+  year: 2013
+  month: 10
+  hours: '56.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '1899.99'
+  standard_gross_wage: '1019.41'
+  supplementary_gross_wage: '880.58'
+  net_wage: '1498.35'
+  cost: '2877.96'
+  date: '2013-11-04'
+  company_savings_plan: '0.0'
+  accounting_document: 0112SJ1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2013-10-01'
+  period_end: '2013-10-31'
+  out_of_date_insertion:
+  wage_contribution: '401.64'
+  employer_contribution: '977.97'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20131000104'
+  advance_return: "-15988.98"
+  created_at: '2019-04-04T10:25:22.493+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:25:22.493+02:00'
+  updated_by: 296
+consultant_8786_wage_203634:
+  id: 203634
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 378403
+  disbursement_source_status: done
+  year: 2013
+  month: 11
+  hours: '35.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '637.14'
+  standard_gross_wage: '637.14'
+  supplementary_gross_wage: '0.0'
+  net_wage: '495.9'
+  cost: '968.58'
+  date: '2013-12-03'
+  company_savings_plan: '0.0'
+  accounting_document: 0103SK1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2013-11-01'
+  period_end: '2013-11-30'
+  out_of_date_insertion:
+  wage_contribution: '141.24'
+  employer_contribution: '331.44'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20131100100'
+  advance_return: "-14490.63"
+  created_at: '2019-04-04T10:25:27.325+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:25:27.325+02:00'
+  updated_by: 296
+consultant_8786_wage_205258:
+  id: 205258
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 379776
+  disbursement_source_status: done
+  year: 2013
+  month: 12
+  hours: '42.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '764.56'
+  standard_gross_wage: '764.56'
+  supplementary_gross_wage: '0.0'
+  net_wage: '595.07'
+  cost: '1162.26'
+  date: '2014-01-02'
+  company_savings_plan: '0.0'
+  accounting_document: '0086SL1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2013-12-01'
+  period_end: '2013-12-31'
+  out_of_date_insertion:
+  wage_contribution: '169.49'
+  employer_contribution: '397.7'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20131200076'
+  advance_return: "-5307.01"
+  created_at: '2019-04-04T10:25:31.731+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:25:31.731+02:00'
+  updated_by: 296
+consultant_8786_wage_207894:
+  id: 207894
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 382051
+  disbursement_source_status: done
+  year: 2014
+  month: 1
+  hours: '49.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '891.99'
+  standard_gross_wage: '891.99'
+  supplementary_gross_wage: '0.0'
+  net_wage: '685.94'
+  cost: '1369.39'
+  date: '2014-02-06'
+  company_savings_plan: '0.0'
+  accounting_document: '0119SA1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-01-01'
+  period_end: '2014-01-31'
+  out_of_date_insertion:
+  wage_contribution: '206.05'
+  employer_contribution: '477.4'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20140100141'
+  advance_return: "-14527.61"
+  created_at: '2019-04-04T10:25:39.454+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:25:39.454+02:00'
+  updated_by: 296
+consultant_8786_wage_209298:
+  id: 209298
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 383273
+  disbursement_source_status: done
+  year: 2014
+  month: 2
+  hours: '56.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '1019.42'
+  standard_gross_wage: '1019.42'
+  supplementary_gross_wage: '0.0'
+  net_wage: '783.93'
+  cost: '1565.04'
+  date: '2014-03-07'
+  company_savings_plan: '0.0'
+  accounting_document: 0110SB1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-02-01'
+  period_end: '2014-02-28'
+  out_of_date_insertion:
+  wage_contribution: '235.49'
+  employer_contribution: '545.62'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20140200109'
+  advance_return: "-20805.45"
+  created_at: '2019-04-04T10:25:43.444+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:25:43.444+02:00'
+  updated_by: 296
+consultant_8786_wage_210862:
+  id: 210862
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 384634
+  disbursement_source_status: done
+  year: 2014
+  month: 3
+  hours: '78.75'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '1433.56'
+  standard_gross_wage: '1433.56'
+  supplementary_gross_wage: '0.01'
+  net_wage: '1102.43'
+  cost: '2200.86'
+  date: '2014-04-07'
+  company_savings_plan: '0.0'
+  accounting_document: 0120SC1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-03-01'
+  period_end: '2014-03-31'
+  out_of_date_insertion:
+  wage_contribution: '331.13'
+  employer_contribution: '767.3'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20140300121'
+  advance_return: "-15759.86"
+  created_at: '2019-04-04T10:25:48.002+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:25:48.002+02:00'
+  updated_by: 296
+consultant_8786_wage_212197:
+  id: 212197
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 385803
+  disbursement_source_status: done
+  year: 2014
+  month: 4
+  hours: '120.75'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3169.99'
+  standard_gross_wage: '2198.12'
+  supplementary_gross_wage: '971.87'
+  net_wage: '2469.42'
+  cost: '4819.99'
+  date: '2014-05-05'
+  company_savings_plan: '0.0'
+  accounting_document: 0102SD1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-04-01'
+  period_end: '2014-04-30'
+  out_of_date_insertion:
+  wage_contribution: '700.57'
+  employer_contribution: '1650.0'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20140400100'
+  advance_return: "-22451.04"
+  created_at: '2019-04-04T10:25:52.113+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:25:52.113+02:00'
+  updated_by: 296
+consultant_8786_wage_213928:
+  id: 213928
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 387314
+  disbursement_source_status: done
+  year: 2014
+  month: 5
+  hours: '89.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3999.99'
+  standard_gross_wage: '1624.7'
+  supplementary_gross_wage: '2375.29'
+  net_wage: '3189.28'
+  cost: '6003.6'
+  date: '2014-06-10'
+  company_savings_plan: '0.0'
+  accounting_document: '0118SE1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-05-01'
+  period_end: '2014-05-31'
+  out_of_date_insertion:
+  wage_contribution: '810.71'
+  employer_contribution: '2003.61'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20140500116'
+  advance_return: "-18271.7"
+  created_at: '2019-04-04T10:25:57.136+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:25:57.136+02:00'
+  updated_by: 296
+consultant_8786_wage_215228:
+  id: 215228
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 388443
+  disbursement_source_status: done
+  year: 2014
+  month: 6
+  hours: '110.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '2499.99'
+  standard_gross_wage: '2006.98'
+  supplementary_gross_wage: '493.01'
+  net_wage: '1950.01'
+  cost: '3798.08'
+  date: '2014-07-03'
+  company_savings_plan: '0.0'
+  accounting_document: '0093SF1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-06-01'
+  period_end: '2014-06-30'
+  out_of_date_insertion:
+  wage_contribution: '549.98'
+  employer_contribution: '1298.09'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20140600091'
+  advance_return: "-14430.57"
+  created_at: '2019-04-04T10:26:01.037+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:26:01.037+02:00'
+  updated_by: 296
+consultant_8786_wage_216876:
+  id: 216876
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 389810
+  disbursement_source_status: done
+  year: 2014
+  month: 7
+  hours: '96.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3949.99'
+  standard_gross_wage: '1752.13'
+  supplementary_gross_wage: '2197.87'
+  net_wage: '3113.7'
+  cost: '5983.27'
+  date: '2014-08-01'
+  company_savings_plan: '0.0'
+  accounting_document: '0095SG1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-07-01'
+  period_end: '2014-07-31'
+  out_of_date_insertion:
+  wage_contribution: '836.29'
+  employer_contribution: '2033.28'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20140700101'
+  advance_return: "-3929.21"
+  created_at: '2019-04-04T10:26:05.655+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:26:05.655+02:00'
+  updated_by: 296
+consultant_8786_wage_219037:
+  id: 219037
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 391555
+  disbursement_source_status: done
+  year: 2014
+  month: 8
+  hours: '68.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '4399.98'
+  standard_gross_wage: '1242.4'
+  supplementary_gross_wage: '3157.58'
+  net_wage: '3484.76'
+  cost: '6656.03'
+  date: '2014-09-29'
+  company_savings_plan: '0.0'
+  accounting_document: 0135SH1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-08-01'
+  period_end: '2014-08-31'
+  out_of_date_insertion:
+  wage_contribution: '915.22'
+  employer_contribution: '2256.05'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20140800137'
+  advance_return: "-29815.51"
+  created_at: '2019-04-04T10:26:11.646+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:26:11.646+02:00'
+  updated_by: 296
+consultant_8786_wage_219699:
+  id: 219699
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 392113
+  disbursement_source_status: done
+  year: 2014
+  month: 9
+  hours: '103.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '1879.56'
+  standard_gross_wage: '1879.56'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1457.5'
+  cost: '2860.17'
+  date: '2014-10-03'
+  company_savings_plan: '0.0'
+  accounting_document: 0104SI1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-09-01'
+  period_end: '2014-09-30'
+  out_of_date_insertion:
+  wage_contribution: '422.06'
+  employer_contribution: '980.61'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20140900101'
+  advance_return: "-25411.5"
+  created_at: '2019-04-04T10:26:13.755+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:26:13.755+02:00'
+  updated_by: 296
+consultant_8786_wage_221792:
+  id: 221792
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 393872
+  disbursement_source_status: done
+  year: 2014
+  month: 10
+  hours: '73.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '1337.99'
+  standard_gross_wage: '1337.99'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1037.56'
+  cost: '2036.03'
+  date: '2014-11-07'
+  company_savings_plan: '0.0'
+  accounting_document: 0141SJ1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-10-01'
+  period_end: '2014-10-31'
+  out_of_date_insertion:
+  wage_contribution: '300.43'
+  employer_contribution: '698.04'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20141000137'
+  advance_return: "-8391.47"
+  created_at: '2019-04-04T10:26:19.768+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:26:19.768+02:00'
+  updated_by: 296
+consultant_8786_wage_223352:
+  id: 223352
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 395175
+  disbursement_source_status: done
+  year: 2014
+  month: 11
+  hours: '29.75'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '541.56'
+  standard_gross_wage: '541.56'
+  supplementary_gross_wage: '0.0'
+  net_wage: '419.96'
+  cost: '824.08'
+  date: '2014-12-03'
+  company_savings_plan: '0.0'
+  accounting_document: 0116SK1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-11-01'
+  period_end: '2014-11-30'
+  out_of_date_insertion:
+  wage_contribution: '121.6'
+  employer_contribution: '282.52'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20141100119'
+  advance_return: "-10353.91"
+  created_at: '2019-04-04T10:26:24.010+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:26:24.010+02:00'
+  updated_by: 296
+consultant_8786_wage_225354:
+  id: 225354
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 396897
+  disbursement_source_status: done
+  year: 2014
+  month: 12
+  hours: '63.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '1146.85'
+  standard_gross_wage: '1146.85'
+  supplementary_gross_wage: '0.0'
+  net_wage: '889.32'
+  cost: '1745.16'
+  date: '2015-01-06'
+  company_savings_plan: '0.0'
+  accounting_document: 0124SL1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-12-01'
+  period_end: '2014-12-31'
+  out_of_date_insertion:
+  wage_contribution: '257.53'
+  employer_contribution: '598.31'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20141200108'
+  advance_return: "-11948.79"
+  created_at: '2019-04-04T10:26:29.825+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:26:29.825+02:00'
+  updated_by: 296
+consultant_8786_wage_228770:
+  id: 228770
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 399842
+  disbursement_source_status: done
+  year: 2015
+  month: 1
+  hours: '70.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '1274.28'
+  standard_gross_wage: '1274.28'
+  supplementary_gross_wage: '0.0'
+  net_wage: '978.06'
+  cost: '1958.56'
+  date: '2015-03-05'
+  company_savings_plan: '0.0'
+  accounting_document: 0176SA1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-01-01'
+  period_end: '2015-01-31'
+  out_of_date_insertion:
+  wage_contribution: '296.22'
+  employer_contribution: '684.28'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20150100182'
+  advance_return: "-28583.5"
+  created_at: '2019-04-04T10:26:39.451+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:26:39.451+02:00'
+  updated_by: 296
+consultant_8786_wage_228889:
+  id: 228889
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 399944
+  disbursement_source_status: done
+  year: 2015
+  month: 2
+  hours: '45.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '2139.99'
+  standard_gross_wage: '828.27'
+  supplementary_gross_wage: '1311.72'
+  net_wage: '1694.53'
+  cost: '3226.75'
+  date: '2015-03-09'
+  company_savings_plan: '0.0'
+  accounting_document: 0150SB1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-02-01'
+  period_end: '2015-02-28'
+  out_of_date_insertion:
+  wage_contribution: '445.46'
+  employer_contribution: '1086.76'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20150200156'
+  advance_return: "-27605.44"
+  created_at: '2019-04-04T10:26:39.932+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:26:39.932+02:00'
+  updated_by: 296
+consultant_8786_wage_230222:
+  id: 230222
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 401106
+  disbursement_source_status: done
+  year: 2015
+  month: 3
+  hours: '136.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '5099.98'
+  standard_gross_wage: '2484.83'
+  supplementary_gross_wage: '2615.15'
+  net_wage: '4001.16'
+  cost: '7740.44'
+  date: '2015-04-03'
+  company_savings_plan: '0.0'
+  accounting_document: '0108SC1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-03-01'
+  period_end: '2015-03-31'
+  out_of_date_insertion:
+  wage_contribution: '1098.82'
+  employer_contribution: '2640.46'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20150300105'
+  advance_return: "-44103.91"
+  created_at: '2019-04-04T10:26:43.741+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:26:43.741+02:00'
+  updated_by: 296
+consultant_8786_wage_234393:
+  id: 234393
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 404676
+  disbursement_source_status: done
+  year: 2015
+  month: 4
+  hours: '66.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '1210.56'
+  standard_gross_wage: '1210.56'
+  supplementary_gross_wage: '0.0'
+  net_wage: '936.46'
+  cost: '1844.67'
+  date: '2015-06-24'
+  company_savings_plan: '0.0'
+  accounting_document: 0171SD1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-04-01'
+  period_end: '2015-04-30'
+  out_of_date_insertion:
+  wage_contribution: '274.1'
+  employer_contribution: '634.11'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20150400171'
+  advance_return: "-43318.38"
+  created_at: '2019-04-04T10:26:55.574+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:26:55.574+02:00'
+  updated_by: 296
+consultant_8786_wage_237420:
+  id: 237420
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 407263
+  disbursement_source_status: done
+  year: 2015
+  month: 5
+  hours: '84.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '1529.13'
+  standard_gross_wage: '1529.13'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1182.88'
+  cost: '2330.11'
+  date: '2015-08-03'
+  company_savings_plan: '0.0'
+  accounting_document: 0171SE1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-05-01'
+  period_end: '2015-05-31'
+  out_of_date_insertion:
+  wage_contribution: '346.25'
+  employer_contribution: '800.98'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20150500181'
+  advance_return: "-50381.92"
+  created_at: '2019-04-04T10:27:04.260+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:27:04.260+02:00'
+  updated_by: 296
+consultant_8786_wage_237477:
+  id: 237477
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 407307
+  disbursement_source_status: done
+  year: 2015
+  month: 6
+  hours: '134.75'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '2999.99'
+  standard_gross_wage: '2452.98'
+  supplementary_gross_wage: '547.01'
+  net_wage: '2333.82'
+  cost: '4564.18'
+  date: '2015-08-03'
+  company_savings_plan: '0.0'
+  accounting_document: 0171SF1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-06-01'
+  period_end: '2015-06-30'
+  out_of_date_insertion:
+  wage_contribution: '666.17'
+  employer_contribution: '1564.19'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20150600175'
+  advance_return: "-56699.04"
+  created_at: '2019-04-04T10:27:04.390+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:27:04.390+02:00'
+  updated_by: 296
+consultant_8786_wage_239112:
+  id: 239112
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 408626
+  disbursement_source_status: done
+  year: 2015
+  month: 7
+  hours: '112.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3164.99'
+  standard_gross_wage: '2038.84'
+  supplementary_gross_wage: '1126.15'
+  net_wage: '2475.3'
+  cost: '4812.67'
+  date: '2015-09-03'
+  company_savings_plan: '0.0'
+  accounting_document: 0164SG1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-07-01'
+  period_end: '2015-07-31'
+  out_of_date_insertion:
+  wage_contribution: '689.69'
+  employer_contribution: '1647.68'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20150700169'
+  advance_return: "-51159.88"
+  created_at: '2019-04-04T10:27:08.887+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:27:08.887+02:00'
+  updated_by: 296
+consultant_8786_wage_239113:
+  id: 239113
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 408627
+  disbursement_source_status: done
+  year: 2015
+  month: 8
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3799.99'
+  standard_gross_wage: '2730.59'
+  supplementary_gross_wage: '1069.4'
+  net_wage: '2965.15'
+  cost: '5782.02'
+  date: '2015-09-03'
+  company_savings_plan: '0.0'
+  accounting_document: 0145SH1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-08-01'
+  period_end: '2015-08-31'
+  out_of_date_insertion:
+  wage_contribution: '834.84'
+  employer_contribution: '1982.03'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20150800149'
+  advance_return: "-48684.58"
+  created_at: '2019-04-04T10:27:08.890+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:27:08.890+02:00'
+  updated_by: 296
+consultant_8786_wage_240514:
+  id: 240514
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 409819
+  disbursement_source_status: done
+  year: 2015
+  month: 9
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3899.99'
+  standard_gross_wage: '2730.59'
+  supplementary_gross_wage: '1169.4'
+  net_wage: '3044.9'
+  cost: '5933.23'
+  date: '2015-09-30'
+  company_savings_plan: '0.0'
+  accounting_document: '0158SI1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-09-01'
+  period_end: '2015-09-30'
+  out_of_date_insertion:
+  wage_contribution: '855.09'
+  employer_contribution: '2033.24'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20150900132'
+  advance_return: "-48219.43"
+  created_at: '2019-04-04T10:27:12.807+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:27:12.807+02:00'
+  updated_by: 296
+consultant_8786_wage_242167:
+  id: 242167
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 411247
+  disbursement_source_status: done
+  year: 2015
+  month: 10
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '4049.99'
+  standard_gross_wage: '2730.59'
+  supplementary_gross_wage: '1319.4'
+  net_wage: '3164.54'
+  cost: '6160.01'
+  date: '2015-10-29'
+  company_savings_plan: '0.0'
+  accounting_document: 0104SJ1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-10-01'
+  period_end: '2015-10-31'
+  out_of_date_insertion:
+  wage_contribution: '885.45'
+  employer_contribution: '2110.02'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20151000077'
+  advance_return: "-42906.65"
+  created_at: '2019-04-04T10:27:17.593+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:27:17.593+02:00'
+  updated_by: 296
+consultant_8786_wage_244119:
+  id: 244119
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 412953
+  disbursement_source_status: done
+  year: 2015
+  month: 11
+  hours: '126.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3199.98'
+  standard_gross_wage: '2293.68'
+  supplementary_gross_wage: '906.3'
+  net_wage: '2497.12'
+  cost: '4868.96'
+  date: '2015-12-01'
+  company_savings_plan: '0.0'
+  accounting_document: 0151SK1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-11-01'
+  period_end: '2015-11-30'
+  out_of_date_insertion:
+  wage_contribution: '702.86'
+  employer_contribution: '1668.98'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20151100120'
+  advance_return: "-48321.5"
+  created_at: '2019-04-04T10:27:23.389+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:27:23.389+02:00'
+  updated_by: 296
+consultant_8786_wage_246293:
+  id: 246293
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 414837
+  disbursement_source_status: done
+  year: 2015
+  month: 12
+  hours: '66.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '1210.56'
+  standard_gross_wage: '1210.56'
+  supplementary_gross_wage: '0.0'
+  net_wage: '936.46'
+  cost: '1846.48'
+  date: '2015-12-31'
+  company_savings_plan: '0.0'
+  accounting_document: 0172SL1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-12-01'
+  period_end: '2015-12-31'
+  out_of_date_insertion:
+  wage_contribution: '274.1'
+  employer_contribution: '635.92'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20151200165'
+  advance_return: "-43195.86"
+  created_at: '2019-04-04T10:27:29.542+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:27:29.542+02:00'
+  updated_by: 296
+consultant_8786_wage_247706:
+  id: 247706
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 416031
+  disbursement_source_status: done
+  year: 2016
+  month: 1
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3901.22'
+  standard_gross_wage: '2867.12'
+  supplementary_gross_wage: '1034.1'
+  net_wage: '3040.62'
+  cost: '5939.2'
+  date: '2016-02-01'
+  company_savings_plan: '0.0'
+  accounting_document: 0157SA1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-01-01'
+  period_end: '2016-01-31'
+  out_of_date_insertion:
+  wage_contribution: '860.6'
+  employer_contribution: '2037.98'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20160100117'
+  advance_return: "-52259.4"
+  created_at: '2019-04-04T10:27:33.677+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:27:33.677+02:00'
+  updated_by: 296
+consultant_8786_wage_249706:
+  id: 249706
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 417754
+  disbursement_source_status: done
+  year: 2016
+  month: 2
+  hours: '126.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3903.03'
+  standard_gross_wage: '2408.39'
+  supplementary_gross_wage: '1494.64'
+  net_wage: '3053.69'
+  cost: '5935.39'
+  date: '2016-02-29'
+  company_savings_plan: '0.0'
+  accounting_document: '0168SB1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-02-01'
+  period_end: '2016-02-29'
+  out_of_date_insertion:
+  wage_contribution: '849.34'
+  employer_contribution: '2032.36'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20160200150'
+  advance_return: "-54718.78"
+  created_at: '2019-04-04T10:27:39.357+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:27:39.357+02:00'
+  updated_by: 296
+consultant_8786_wage_251207:
+  id: 251207
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 418982
+  disbursement_source_status: done
+  year: 2016
+  month: 3
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '4501.22'
+  standard_gross_wage: '2867.12'
+  supplementary_gross_wage: '1634.1'
+  net_wage: '3518.82'
+  cost: '6846.69'
+  date: '2016-03-31'
+  company_savings_plan: '0.0'
+  accounting_document: 0126SC1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-03-01'
+  period_end: '2016-03-31'
+  out_of_date_insertion:
+  wage_contribution: '982.4'
+  employer_contribution: '2345.47'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20160300189'
+  advance_return: "-61665.09"
+  created_at: '2019-04-04T10:27:43.586+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:27:43.586+02:00'
+  updated_by: 296
+consultant_8786_wage_253160:
+  id: 253160
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 420680
+  disbursement_source_status: done
+  year: 2016
+  month: 4
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6501.21'
+  standard_gross_wage: '2867.11'
+  supplementary_gross_wage: '3634.1'
+  net_wage: '5112.79'
+  cost: '9754.61'
+  date: '2016-05-02'
+  company_savings_plan: '0.0'
+  accounting_document: 0142SD1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-04-01'
+  period_end: '2016-04-30'
+  out_of_date_insertion:
+  wage_contribution: '1388.42'
+  employer_contribution: '3253.4'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20160400127'
+  advance_return: "-57055.35"
+  created_at: '2019-04-04T10:27:49.203+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:27:49.203+02:00'
+  updated_by: 296
+consultant_8786_wage_255198:
+  id: 255198
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 422390
+  disbursement_source_status: done
+  year: 2016
+  month: 5
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6481.22'
+  standard_gross_wage: '2867.12'
+  supplementary_gross_wage: '3614.1'
+  net_wage: '5096.86'
+  cost: '9958.4'
+  date: '2016-06-01'
+  company_savings_plan: '0.0'
+  accounting_document: 0173SE1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-05-01'
+  period_end: '2016-05-31'
+  out_of_date_insertion:
+  wage_contribution: '1384.36'
+  employer_contribution: '3477.18'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20160500156'
+  advance_return: "-54282.03"
+  created_at: '2019-04-04T10:27:55.099+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:27:55.099+02:00'
+  updated_by: 296
+consultant_8786_wage_257115:
+  id: 257115
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 424048
+  disbursement_source_status: done
+  year: 2016
+  month: 6
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6481.22'
+  standard_gross_wage: '2867.12'
+  supplementary_gross_wage: '3614.1'
+  net_wage: '5096.86'
+  cost: '9841.38'
+  date: '2016-07-01'
+  company_savings_plan: '0.0'
+  accounting_document: 0157SF1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-06-01'
+  period_end: '2016-06-30'
+  out_of_date_insertion:
+  wage_contribution: '1384.36'
+  employer_contribution: '3360.16'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20160600140'
+  advance_return: "-52418.92"
+  created_at: '2019-04-04T10:28:00.601+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:28:00.601+02:00'
+  updated_by: 296
+consultant_8786_wage_258693:
+  id: 258693
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 425407
+  disbursement_source_status: done
+  year: 2016
+  month: 7
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '3615.32'
+  net_wage: '5097.83'
+  cost: '9843.25'
+  date: '2016-07-29'
+  company_savings_plan: '0.0'
+  accounting_document: 0163SG1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-07-01'
+  period_end: '2016-07-31'
+  out_of_date_insertion:
+  wage_contribution: '1384.62'
+  employer_contribution: '3360.8'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20160700131'
+  advance_return: "-47322.06"
+  created_at: '2019-04-04T10:28:05.279+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:28:05.279+02:00'
+  updated_by: 296
+consultant_8786_wage_260544:
+  id: 260544
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 427034
+  disbursement_source_status: done
+  year: 2016
+  month: 8
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '3615.32'
+  net_wage: '5097.83'
+  cost: '9843.25'
+  date: '2016-09-01'
+  company_savings_plan: '0.0'
+  accounting_document: 0164SH1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-08-01'
+  period_end: '2016-08-31'
+  out_of_date_insertion:
+  wage_contribution: '1384.62'
+  employer_contribution: '3360.8'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20160800164'
+  advance_return: "-48096.66"
+  created_at: '2019-04-04T10:28:10.752+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:28:10.752+02:00'
+  updated_by: 296
+consultant_8786_wage_261829:
+  id: 261829
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 428033
+  disbursement_source_status: done
+  year: 2016
+  month: 9
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '3615.32'
+  net_wage: '5097.83'
+  cost: '9843.25'
+  date: '2016-09-30'
+  company_savings_plan: '0.0'
+  accounting_document: 0131SI1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-09-01'
+  period_end: '2016-09-30'
+  out_of_date_insertion:
+  wage_contribution: '1384.62'
+  employer_contribution: '3360.8'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20160900109'
+  advance_return: "-42216.2"
+  created_at: '2019-04-04T10:28:14.116+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:28:14.116+02:00'
+  updated_by: 296
+consultant_8786_wage_264429:
+  id: 264429
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 430231
+  disbursement_source_status: done
+  year: 2016
+  month: 10
+  hours: '147.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6483.65'
+  standard_gross_wage: '2809.78'
+  supplementary_gross_wage: '3673.87'
+  net_wage: '5098.79'
+  cost: '9845.07'
+  date: '2016-11-02'
+  company_savings_plan: '0.0'
+  accounting_document: '0186SJ1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-10-01'
+  period_end: '2016-10-31'
+  out_of_date_insertion:
+  wage_contribution: '1384.86'
+  employer_contribution: '3361.42'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20161000195'
+  advance_return: "-42118.37"
+  created_at: '2019-04-04T10:28:21.460+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:28:21.460+02:00'
+  updated_by: 296
+consultant_8786_wage_266514:
+  id: 266514
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 431953
+  disbursement_source_status: done
+  year: 2016
+  month: 11
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6481.22'
+  standard_gross_wage: '2867.12'
+  supplementary_gross_wage: '3614.1'
+  net_wage: '5096.86'
+  cost: '9841.38'
+  date: '2016-12-01'
+  company_savings_plan: '0.0'
+  accounting_document: 0165SK1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-11-01'
+  period_end: '2016-11-30'
+  out_of_date_insertion:
+  wage_contribution: '1384.36'
+  employer_contribution: '3360.16'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20161100166'
+  advance_return: "-44019.58"
+  created_at: '2019-04-04T10:28:27.356+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:28:27.356+02:00'
+  updated_by: 296
+consultant_8786_wage_268811:
+  id: 268811
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 433841
+  disbursement_source_status: done
+  year: 2016
+  month: 12
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '3615.32'
+  net_wage: '5097.83'
+  cost: '9843.25'
+  date: '2016-12-30'
+  company_savings_plan: '0.0'
+  accounting_document: 0233SL1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-12-01'
+  period_end: '2016-12-31'
+  out_of_date_insertion:
+  wage_contribution: '1384.62'
+  employer_contribution: '3360.8'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20161200213'
+  advance_return: "-34854.55"
+  created_at: '2019-04-04T10:28:33.576+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:28:33.576+02:00'
+  updated_by: 296
+consultant_8786_wage_270539:
+  id: 270539
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 435223
+  disbursement_source_status: done
+  year: 2017
+  month: 1
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '3615.32'
+  net_wage: '5077.97'
+  cost: '9856.15'
+  date: '2017-01-30'
+  company_savings_plan: '0.0'
+  accounting_document: 0120SA1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-01-01'
+  period_end: '2017-01-31'
+  out_of_date_insertion:
+  wage_contribution: '1404.48'
+  employer_contribution: '3373.7'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20170100097'
+  advance_return: "-39756.72"
+  created_at: '2019-04-04T10:28:38.244+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:28:38.244+02:00'
+  updated_by: 296
+consultant_8786_wage_272658:
+  id: 272658
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 436959
+  disbursement_source_status: done
+  year: 2017
+  month: 2
+  hours: '140.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2675.99'
+  supplementary_gross_wage: '3806.46'
+  net_wage: '5077.97'
+  cost: '9856.15'
+  date: '2017-02-28'
+  company_savings_plan: '0.0'
+  accounting_document: '0158SB1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-02-01'
+  period_end: '2017-02-28'
+  out_of_date_insertion:
+  wage_contribution: '1404.48'
+  employer_contribution: '3373.7'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20170200138'
+  advance_return: "-41678.75"
+  created_at: '2019-04-04T10:28:44.163+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:28:44.163+02:00'
+  updated_by: 296
+consultant_8786_wage_274518:
+  id: 274518
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 438448
+  disbursement_source_status: done
+  year: 2017
+  month: 3
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '3615.32'
+  net_wage: '5077.97'
+  cost: '9856.15'
+  date: '2017-03-30'
+  company_savings_plan: '0.0'
+  accounting_document: 0130SC1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-03-01'
+  period_end: '2017-03-31'
+  out_of_date_insertion:
+  wage_contribution: '1404.48'
+  employer_contribution: '3373.7'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20170300119'
+  advance_return: "-44600.78"
+  created_at: '2019-04-04T10:28:49.170+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:28:49.170+02:00'
+  updated_by: 296
+consultant_8786_wage_277192:
+  id: 277192
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 440721
+  disbursement_source_status: done
+  year: 2017
+  month: 4
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '3615.32'
+  net_wage: '5077.97'
+  cost: '9862.63'
+  date: '2017-05-02'
+  company_savings_plan: '0.0'
+  accounting_document: 0162SD1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-04-01'
+  period_end: '2017-04-30'
+  out_of_date_insertion:
+  wage_contribution: '1404.48'
+  employer_contribution: '3380.18'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20170400127'
+  advance_return: "-40198.68"
+  created_at: '2019-04-04T10:28:56.804+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:28:56.804+02:00'
+  updated_by: 296
+consultant_8786_wage_278472:
+  id: 278472
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 441764
+  disbursement_source_status: done
+  year: 2017
+  month: 5
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '3615.32'
+  net_wage: '5077.97'
+  cost: '9862.63'
+  date: '2017-05-29'
+  company_savings_plan: '0.0'
+  accounting_document: 0122SE1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-05-01'
+  period_end: '2017-05-31'
+  out_of_date_insertion:
+  wage_contribution: '1404.48'
+  employer_contribution: '3380.18'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20170500109'
+  advance_return: "-46282.71"
+  created_at: '2019-04-04T10:29:00.310+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:29:00.310+02:00'
+  updated_by: 296
+consultant_8786_wage_281630:
+  id: 281630
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 444518
+  disbursement_source_status: done
+  year: 2017
+  month: 6
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '3615.32'
+  net_wage: '5077.97'
+  cost: '9862.63'
+  date: '2017-07-03'
+  company_savings_plan: '0.0'
+  accounting_document: 0012SG1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2017-06-01'
+  period_end: '2017-06-30'
+  out_of_date_insertion: '2017-07-01'
+  wage_contribution: '1404.48'
+  employer_contribution: '3380.18'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20170700008'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:29:09.659+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:29:09.659+02:00'
+  updated_by: 296
+consultant_8786_wage_283720:
+  id: 283720
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 446262
+  disbursement_source_status: done
+  year: 2017
+  month: 7
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '3615.32'
+  net_wage: '5077.97'
+  cost: '9862.63'
+  date: '2017-08-03'
+  company_savings_plan: '0.0'
+  accounting_document: 0007SH1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2017-07-01'
+  period_end: '2017-07-31'
+  out_of_date_insertion: '2017-08-01'
+  wage_contribution: '1404.48'
+  employer_contribution: '3380.18'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20170800005'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:29:15.404+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:29:15.404+02:00'
+  updated_by: 296
+consultant_8786_wage_285351:
+  id: 285351
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 447642
+  disbursement_source_status: done
+  year: 2017
+  month: 8
+  hours: '147.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2809.79'
+  supplementary_gross_wage: '3672.66'
+  net_wage: '5077.97'
+  cost: '9859.39'
+  date: '2017-09-04'
+  company_savings_plan: '0.0'
+  accounting_document: 0013SI1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2017-08-01'
+  period_end: '2017-08-31'
+  out_of_date_insertion: '2017-09-01'
+  wage_contribution: '1404.48'
+  employer_contribution: '3376.94'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20170900013'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:29:20.041+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:29:20.041+02:00'
+  updated_by: 296
+consultant_8786_wage_286793:
+  id: 286793
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 448846
+  disbursement_source_status: done
+  year: 2017
+  month: 9
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '3615.32'
+  net_wage: '5077.97'
+  cost: '9859.39'
+  date: '2017-09-30'
+  company_savings_plan: '0.0'
+  accounting_document: '0187SI1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-09-01'
+  period_end: '2017-09-30'
+  out_of_date_insertion:
+  wage_contribution: '1404.48'
+  employer_contribution: '3376.94'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20170900193'
+  advance_return: "-45959.17"
+  created_at: '2019-04-04T10:29:23.971+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:29:23.971+02:00'
+  updated_by: 296
+consultant_8786_wage_289507:
+  id: 289507
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 451174
+  disbursement_source_status: done
+  year: 2017
+  month: 10
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '3615.32'
+  net_wage: '5077.97'
+  cost: '9862.63'
+  date: '2017-11-02'
+  company_savings_plan: '0.0'
+  accounting_document: 0207SJ1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-10-01'
+  period_end: '2017-10-31'
+  out_of_date_insertion:
+  wage_contribution: '1404.48'
+  employer_contribution: '3380.18'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20171000216'
+  advance_return: "-40881.2"
+  created_at: '2019-04-04T10:29:31.860+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:29:31.860+02:00'
+  updated_by: 296
+consultant_8786_wage_291528:
+  id: 291528
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 452848
+  disbursement_source_status: done
+  year: 2017
+  month: 11
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '3615.32'
+  net_wage: '5077.97'
+  cost: '9862.63'
+  date: '2017-12-01'
+  company_savings_plan: '0.0'
+  accounting_document: '0187SK1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-11-01'
+  period_end: '2017-11-30'
+  out_of_date_insertion:
+  wage_contribution: '1404.48'
+  employer_contribution: '3380.18'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20171100174'
+  advance_return: "-46303.23"
+  created_at: '2019-04-04T10:29:37.437+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:29:37.437+02:00'
+  updated_by: 296
+consultant_8786_wage_293954:
+  id: 293954
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id:
+  document_old_id: 454888
+  disbursement_source_status: done
+  year: 2017
+  month: 12
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '3615.32'
+  net_wage: '5077.97'
+  cost: '9862.63'
+  date: '2017-12-29'
+  company_savings_plan: '0.0'
+  accounting_document: 0215SL1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-12-01'
+  period_end: '2017-12-31'
+  out_of_date_insertion:
+  wage_contribution: '1404.48'
+  employer_contribution: '3380.18'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20171200220'
+  advance_return: "-50725.26"
+  created_at: '2019-04-04T10:29:44.474+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:29:44.474+02:00'
+  updated_by: 296
+consultant_8786_wage_303363:
+  id: 303363
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id: 470296
+  document_old_id: 470297
+  disbursement_source_status: done
+  year: 2018
+  month: 1
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3077.39'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '210.26'
+  net_wage: '2369.56'
+  cost: '4689.72'
+  date: '2018-05-25'
+  company_savings_plan: '0.0'
+  accounting_document: '0059SE1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-01-01'
+  period_end: '2018-01-31'
+  out_of_date_insertion: '2018-05-01'
+  wage_contribution: '707.83'
+  employer_contribution: '1612.33'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20180500058'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:30:12.853+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:30:12.853+02:00'
+  updated_by: 296
+consultant_8786_wage_303364:
+  id: 303364
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id: 470298
+  document_old_id: 470299
+  disbursement_source_status: done
+  year: 2018
+  month: 2
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3077.39'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '210.26'
+  net_wage: '2369.56'
+  cost: '4689.72'
+  date: '2018-05-25'
+  company_savings_plan: '0.0'
+  accounting_document: '0059SE1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-02-01'
+  period_end: '2018-02-28'
+  out_of_date_insertion: '2018-05-01'
+  wage_contribution: '707.83'
+  employer_contribution: '1612.33'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20180500058'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:30:12.857+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:30:12.857+02:00'
+  updated_by: 296
+consultant_8786_wage_303584:
+  id: 303584
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id: 470710
+  document_old_id: 470711
+  disbursement_source_status: done
+  year: 2018
+  month: 3
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3077.39'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '210.26'
+  net_wage: '2369.56'
+  cost: '4689.72'
+  date: '2018-05-28'
+  company_savings_plan: '0.0'
+  accounting_document: '0059SE1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-03-01'
+  period_end: '2018-03-31'
+  out_of_date_insertion: '2018-05-01'
+  wage_contribution: '707.83'
+  employer_contribution: '1612.33'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20180500058'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:30:13.727+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:30:13.727+02:00'
+  updated_by: 296
+consultant_8786_wage_303585:
+  id: 303585
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id: 470712
+  document_old_id: 470713
+  disbursement_source_status: done
+  year: 2018
+  month: 4
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3077.36'
+  standard_gross_wage: '2867.1'
+  supplementary_gross_wage: '210.26'
+  net_wage: '2369.55'
+  cost: '4689.68'
+  date: '2018-05-28'
+  company_savings_plan: '0.0'
+  accounting_document: '0059SE1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-04-01'
+  period_end: '2018-04-30'
+  out_of_date_insertion: '2018-05-01'
+  wage_contribution: '707.81'
+  employer_contribution: '1612.32'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20180500058'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:30:13.730+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:30:13.730+02:00'
+  updated_by: 296
+consultant_8786_wage_307078:
+  id: 307078
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id: 476982
+  document_old_id: 476983
+  disbursement_source_status: done
+  year: 2018
+  month: 5
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3077.39'
+  standard_gross_wage: '2867.13'
+  supplementary_gross_wage: '210.26'
+  net_wage: '2473.9'
+  cost: '4552.51'
+  date: '2018-07-03'
+  company_savings_plan: '0.0'
+  accounting_document: 0020SG1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-05-01'
+  period_end: '2018-05-31'
+  out_of_date_insertion: '2018-07-01'
+  wage_contribution: '603.49'
+  employer_contribution: '1475.12'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20180700019'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:30:25.057+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:30:25.057+02:00'
+  updated_by: 296
+consultant_8786_wage_307079:
+  id: 307079
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id: 476984
+  document_old_id: 476985
+  disbursement_source_status: done
+  year: 2018
+  month: 6
+  hours: '150.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '3043.93'
+  standard_gross_wage: '2867.12'
+  supplementary_gross_wage: '176.81'
+  net_wage: '2440.43'
+  cost: '4519.06'
+  date: '2018-07-03'
+  company_savings_plan: '0.0'
+  accounting_document: 0020SG1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-06-01'
+  period_end: '2018-06-30'
+  out_of_date_insertion: '2018-07-01'
+  wage_contribution: '603.5'
+  employer_contribution: '1475.13'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20180700019'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:30:25.061+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:30:25.061+02:00'
+  updated_by: 296
+consultant_8786_wage_319639:
+  id: 319639
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id: 499112
+  document_old_id: 499113
+  disbursement_source_status: done
+  year: 2018
+  month: 12
+  hours: '7.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '133.79'
+  standard_gross_wage: '133.79'
+  supplementary_gross_wage: '0.0'
+  net_wage: '6.11'
+  cost: '298.25'
+  date: '2019-01-01'
+  company_savings_plan: '0.0'
+  accounting_document: '0269SL1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2018-12-01'
+  period_end: '2018-12-31'
+  out_of_date_insertion:
+  wage_contribution: '127.68'
+  employer_contribution: '164.46'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20181200276'
+  advance_return: "-48564.8"
+  created_at: '2019-04-04T10:31:05.454+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:05.454+02:00'
+  updated_by: 296
+consultant_8786_wage_321672:
+  id: 321672
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 8786
+  document_id: 502610
+  document_old_id: 502611
+  disbursement_source_status: done
+  year: 2019
+  month: 1
+  hours: '145.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '2776.34'
+  standard_gross_wage: '2776.34'
+  supplementary_gross_wage: '0.0'
+  net_wage: '2175.81'
+  cost: '4032.93'
+  date: '2019-01-31'
+  company_savings_plan: '0.0'
+  accounting_document: 0223SA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2019-01-01'
+  period_end: '2019-01-31'
+  out_of_date_insertion:
+  wage_contribution: '600.53'
+  employer_contribution: '1256.59'
+  tax_at_source: '409.01'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20190100229'
+  advance_return: "-15840.22"
+  created_at: '2019-04-04T10:31:11.995+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:11.995+02:00'
+  updated_by: 296
+jackie_denesik_207666:
+  id: 207666
+  itg_company_id: 9
+  disbursement_id: 325852
+  consultant_id: 9392
+  document_id:
+  document_old_id: 369356
+  disbursement_source_status: done
+  year: 2014
+  month: 1
+  hours: '52.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1492.43'
+  standard_gross_wage: '1492.42'
+  supplementary_gross_wage: '0.01'
+  net_wage: '1169.7'
+  cost: '2264.33'
+  date: '2014-02-04'
+  company_savings_plan: '0.0'
+  accounting_document: '0078SA1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-01-01'
+  period_end: '2014-01-31'
+  out_of_date_insertion:
+  wage_contribution: '322.73'
+  employer_contribution: '771.9'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1169.7'
+  wage_slip_number: '20140100100'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:33:55.823+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:33:55.823+02:00'
+  updated_by: 296
+jackie_denesik_209195:
+  id: 209195
+  itg_company_id: 9
+  disbursement_id: 328513
+  consultant_id: 9392
+  document_id:
+  document_old_id: 370679
+  disbursement_source_status: done
+  year: 2014
+  month: 2
+  hours: '49.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1392.91'
+  standard_gross_wage: '1392.91'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1091.68'
+  cost: '2113.33'
+  date: '2014-03-05'
+  company_savings_plan: '0.0'
+  accounting_document: 0101SB1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-02-01'
+  period_end: '2014-02-28'
+  out_of_date_insertion:
+  wage_contribution: '301.23'
+  employer_contribution: '720.42'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1091.68'
+  wage_slip_number: '20140200102'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:34:05.369+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:34:05.369+02:00'
+  updated_by: 296
+jackie_denesik_210568:
+  id: 210568
+  itg_company_id: 9
+  disbursement_id: 331282
+  consultant_id: 9392
+  document_id:
+  document_old_id: 371873
+  disbursement_source_status: done
+  year: 2014
+  month: 3
+  hours: '56.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1591.91'
+  standard_gross_wage: '1591.91'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1247.65'
+  cost: '2415.27'
+  date: '2014-04-03'
+  company_savings_plan: '0.0'
+  accounting_document: '0098SC1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-03-01'
+  period_end: '2014-03-31'
+  out_of_date_insertion:
+  wage_contribution: '344.26'
+  employer_contribution: '823.36'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1247.65'
+  wage_slip_number: '20140300097'
+  advance_return: "-888.45"
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:34:13.816+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:34:13.816+02:00'
+  updated_by: 296
+jackie_denesik_211883:
+  id: 211883
+  itg_company_id: 9
+  disbursement_id: 333598
+  consultant_id: 9392
+  document_id:
+  document_old_id: 373008
+  disbursement_source_status: done
+  year: 2014
+  month: 4
+  hours: '64.75'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1840.65'
+  standard_gross_wage: '1840.64'
+  supplementary_gross_wage: '0.01'
+  net_wage: '1442.6'
+  cost: '2792.65'
+  date: '2014-05-02'
+  company_savings_plan: '0.0'
+  accounting_document: '0068SD1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-04-01'
+  period_end: '2014-04-30'
+  out_of_date_insertion:
+  wage_contribution: '398.05'
+  employer_contribution: '952.0'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1442.6'
+  wage_slip_number: '20140400064'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:34:22.191+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:34:22.191+02:00'
+  updated_by: 296
+jackie_denesik_214079:
+  id: 214079
+  itg_company_id: 9
+  disbursement_id: 337065
+  consultant_id: 9392
+  document_id:
+  document_old_id: 374925
+  disbursement_source_status: done
+  year: 2014
+  month: 5
+  hours: '35.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '2699.99'
+  standard_gross_wage: '994.94'
+  supplementary_gross_wage: '1705.05'
+  net_wage: '2141.27'
+  cost: '4082.81'
+  date: '2014-06-13'
+  company_savings_plan: '0.0'
+  accounting_document: 0135SE1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-05-01'
+  period_end: '2014-05-31'
+  out_of_date_insertion:
+  wage_contribution: '558.72'
+  employer_contribution: '1382.82'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '2141.27'
+  wage_slip_number: '20140500137'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:34:36.151+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:34:36.151+02:00'
+  updated_by: 296
+jackie_denesik_215404:
+  id: 215404
+  itg_company_id: 9
+  disbursement_id: 339353
+  consultant_id: 9392
+  document_id:
+  document_old_id: 376093
+  disbursement_source_status: done
+  year: 2014
+  month: 6
+  hours: '47.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1343.17'
+  standard_gross_wage: '1343.17'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1052.69'
+  cost: '2037.91'
+  date: '2014-07-04'
+  company_savings_plan: '0.0'
+  accounting_document: '0108SF1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-06-01'
+  period_end: '2014-06-30'
+  out_of_date_insertion:
+  wage_contribution: '290.48'
+  employer_contribution: '694.74'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1052.69'
+  wage_slip_number: '20140600112'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:34:44.639+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:34:44.639+02:00'
+  updated_by: 296
+jackie_denesik_216856:
+  id: 216856
+  itg_company_id: 9
+  disbursement_id: 341859
+  consultant_id: 9392
+  document_id:
+  document_old_id: 377290
+  disbursement_source_status: done
+  year: 2014
+  month: 7
+  hours: '57.75'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1641.65'
+  standard_gross_wage: '1641.65'
+  supplementary_gross_wage: '0.01'
+  net_wage: '1286.64'
+  cost: '2490.73'
+  date: '2014-07-22'
+  company_savings_plan: '0.0'
+  accounting_document: '0087SG1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-07-01'
+  period_end: '2014-07-31'
+  out_of_date_insertion:
+  wage_contribution: '355.01'
+  employer_contribution: '849.08'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1286.64'
+  wage_slip_number: '20140700102'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:34:53.666+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:34:53.666+02:00'
+  updated_by: 296
+jackie_denesik_218204:
+  id: 218204
+  itg_company_id: 9
+  disbursement_id: 344225
+  consultant_id: 9392
+  document_id:
+  document_old_id: 378424
+  disbursement_source_status: done
+  year: 2014
+  month: 8
+  hours: '42.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1193.93'
+  standard_gross_wage: '1193.93'
+  supplementary_gross_wage: '0.0'
+  net_wage: '935.77'
+  cost: '1811.43'
+  date: '2014-09-03'
+  company_savings_plan: '0.0'
+  accounting_document: '0093SH1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-08-01'
+  period_end: '2014-08-31'
+  out_of_date_insertion:
+  wage_contribution: '258.16'
+  employer_contribution: '617.5'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '935.77'
+  wage_slip_number: '20140800093'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:35:01.750+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:35:01.750+02:00'
+  updated_by: 296
+jackie_denesik_219565:
+  id: 219565
+  itg_company_id: 9
+  disbursement_id: 346412
+  consultant_id: 9392
+  document_id:
+  document_old_id: 379506
+  disbursement_source_status: done
+  year: 2014
+  month: 9
+  hours: '49.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1392.91'
+  standard_gross_wage: '1392.91'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1091.68'
+  cost: '2113.33'
+  date: '2014-10-01'
+  company_savings_plan: '0.0'
+  accounting_document: 0077SI1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-09-01'
+  period_end: '2014-09-30'
+  out_of_date_insertion:
+  wage_contribution: '301.23'
+  employer_contribution: '720.42'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1091.68'
+  wage_slip_number: '20140900083'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:35:09.766+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:35:09.766+02:00'
+  updated_by: 296
+jackie_denesik_221790:
+  id: 221790
+  itg_company_id: 9
+  disbursement_id: 350066
+  consultant_id: 9392
+  document_id:
+  document_old_id: 381372
+  disbursement_source_status: done
+  year: 2014
+  month: 10
+  hours: '56.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1591.91'
+  standard_gross_wage: '1591.91'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1247.65'
+  cost: '2415.27'
+  date: '2014-11-12'
+  company_savings_plan: '0.0'
+  accounting_document: '0138SJ1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-10-01'
+  period_end: '2014-10-31'
+  out_of_date_insertion:
+  wage_contribution: '344.26'
+  employer_contribution: '823.36'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1247.65'
+  wage_slip_number: '20141000139'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:35:23.608+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:35:23.608+02:00'
+  updated_by: 296
+jackie_denesik_223431:
+  id: 223431
+  itg_company_id: 9
+  disbursement_id: 352631
+  consultant_id: 9392
+  document_id:
+  document_old_id: 382749
+  disbursement_source_status: done
+  year: 2014
+  month: 11
+  hours: '59.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1691.42'
+  standard_gross_wage: '1691.41'
+  supplementary_gross_wage: '0.01'
+  net_wage: '1325.62'
+  cost: '2566.25'
+  date: '2014-12-04'
+  company_savings_plan: '0.0'
+  accounting_document: '0118SK1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-11-01'
+  period_end: '2014-11-30'
+  out_of_date_insertion:
+  wage_contribution: '365.8'
+  employer_contribution: '874.83'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1325.62'
+  wage_slip_number: '20141100121'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:35:33.799+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:35:33.799+02:00'
+  updated_by: 296
+jackie_denesik_225824:
+  id: 225824
+  itg_company_id: 9
+  disbursement_id: 356298
+  consultant_id: 9392
+  document_id:
+  document_old_id: 384780
+  disbursement_source_status: done
+  year: 2014
+  month: 12
+  hours: '56.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1591.91'
+  standard_gross_wage: '1591.91'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1247.65'
+  cost: '2415.27'
+  date: '2015-01-09'
+  company_savings_plan: '0.0'
+  accounting_document: 0157SL1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2014-12-01'
+  period_end: '2014-12-31'
+  out_of_date_insertion:
+  wage_contribution: '344.26'
+  employer_contribution: '823.36'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1247.65'
+  wage_slip_number: '20141200164'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:35:48.715+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:35:48.715+02:00'
+  updated_by: 296
+jackie_denesik_227409:
+  id: 227409
+  itg_company_id: 9
+  disbursement_id: 359477
+  consultant_id: 9392
+  document_id:
+  document_old_id: 386151
+  disbursement_source_status: done
+  year: 2015
+  month: 1
+  hours: '68.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1940.13'
+  standard_gross_wage: '1940.13'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1517.56'
+  cost: '2947.14'
+  date: '2015-02-10'
+  company_savings_plan: '0.0'
+  accounting_document: 0152SA1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-01-01'
+  period_end: '2015-01-31'
+  out_of_date_insertion:
+  wage_contribution: '422.57'
+  employer_contribution: '1007.01'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1517.56'
+  wage_slip_number: '20150100157'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:35:58.836+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:35:58.836+02:00'
+  updated_by: 296
+jackie_denesik_228809:
+  id: 228809
+  itg_company_id: 9
+  disbursement_id: 361961
+  consultant_id: 9392
+  document_id:
+  document_old_id: 387381
+  disbursement_source_status: done
+  year: 2015
+  month: 2
+  hours: '38.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1094.46'
+  standard_gross_wage: '1094.45'
+  supplementary_gross_wage: '0.01'
+  net_wage: '856.06'
+  cost: '1662.54'
+  date: '2015-03-05'
+  company_savings_plan: '0.0'
+  accounting_document: 0143SB1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-02-01'
+  period_end: '2015-02-28'
+  out_of_date_insertion:
+  wage_contribution: '238.4'
+  employer_contribution: '568.08'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '856.06'
+  wage_slip_number: '20150200149'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:36:07.893+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:36:07.893+02:00'
+  updated_by: 296
+jackie_denesik_230499:
+  id: 230499
+  itg_company_id: 9
+  disbursement_id: 364684
+  consultant_id: 9392
+  document_id:
+  document_old_id: 388850
+  disbursement_source_status: done
+  year: 2015
+  month: 3
+  hours: '42.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1193.93'
+  standard_gross_wage: '1193.93'
+  supplementary_gross_wage: '0.0'
+  net_wage: '933.88'
+  cost: '1813.62'
+  date: '2015-04-09'
+  company_savings_plan: '0.0'
+  accounting_document: '0138SC1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-03-01'
+  period_end: '2015-03-31'
+  out_of_date_insertion:
+  wage_contribution: '260.05'
+  employer_contribution: '619.69'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '933.88'
+  wage_slip_number: '20150300141'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:36:18.611+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:36:18.611+02:00'
+  updated_by: 296
+jackie_denesik_231971:
+  id: 231971
+  itg_company_id: 9
+  disbursement_id: 367076
+  consultant_id: 9392
+  document_id:
+  document_old_id: 390128
+  disbursement_source_status: done
+  year: 2015
+  month: 4
+  hours: '40.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1144.18'
+  standard_gross_wage: '1144.18'
+  supplementary_gross_wage: '0.0'
+  net_wage: '894.98'
+  cost: '1738.08'
+  date: '2015-05-05'
+  company_savings_plan: '0.0'
+  accounting_document: '0108SD1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-04-01'
+  period_end: '2015-04-30'
+  out_of_date_insertion:
+  wage_contribution: '249.2'
+  employer_contribution: '593.9'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '894.98'
+  wage_slip_number: '20150400108'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:36:27.925+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:36:27.925+02:00'
+  updated_by: 296
+jackie_denesik_233392:
+  id: 233392
+  itg_company_id: 9
+  disbursement_id: 369740
+  consultant_id: 9392
+  document_id:
+  document_old_id: 391336
+  disbursement_source_status: done
+  year: 2015
+  month: 5
+  hours: '42.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1193.93'
+  standard_gross_wage: '1193.93'
+  supplementary_gross_wage: '0.0'
+  net_wage: '933.88'
+  cost: '1813.62'
+  date: '2015-06-01'
+  company_savings_plan: '0.0'
+  accounting_document: '0090SE1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-05-01'
+  period_end: '2015-05-31'
+  out_of_date_insertion:
+  wage_contribution: '260.05'
+  employer_contribution: '619.69'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '933.88'
+  wage_slip_number: '20150500103'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:36:36.860+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:36:36.860+02:00'
+  updated_by: 296
+jackie_denesik_235223:
+  id: 235223
+  itg_company_id: 9
+  disbursement_id: 372687
+  consultant_id: 9392
+  document_id:
+  document_old_id: 392913
+  disbursement_source_status: done
+  year: 2015
+  month: 6
+  hours: '56.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1591.91'
+  standard_gross_wage: '1591.91'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1245.16'
+  cost: '2418.17'
+  date: '2015-06-30'
+  company_savings_plan: '0.0'
+  accounting_document: '0097SF1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-06-01'
+  period_end: '2015-06-30'
+  out_of_date_insertion:
+  wage_contribution: '346.75'
+  employer_contribution: '826.26'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1245.16'
+  wage_slip_number: '20150600090'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:36:48.388+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:36:48.388+02:00'
+  updated_by: 296
+jackie_denesik_237333:
+  id: 237333
+  itg_company_id: 9
+  disbursement_id: 375948
+  consultant_id: 9392
+  document_id:
+  document_old_id: 394693
+  disbursement_source_status: done
+  year: 2015
+  month: 7
+  hours: '14.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '397.97'
+  standard_gross_wage: '397.97'
+  supplementary_gross_wage: '0.0'
+  net_wage: '311.29'
+  cost: '605.11'
+  date: '2015-07-31'
+  company_savings_plan: '0.0'
+  accounting_document: '0119SG1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-07-01'
+  period_end: '2015-07-31'
+  out_of_date_insertion:
+  wage_contribution: '86.68'
+  employer_contribution: '207.14'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '311.29'
+  wage_slip_number: '20150700115'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:37:01.684+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:37:01.684+02:00'
+  updated_by: 296
+jackie_denesik_238958:
+  id: 238958
+  itg_company_id: 9
+  disbursement_id: 378740
+  consultant_id: 9392
+  document_id:
+  document_old_id: 396018
+  disbursement_source_status: done
+  year: 2015
+  month: 8
+  hours: '24.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '696.47'
+  standard_gross_wage: '696.46'
+  supplementary_gross_wage: '0.01'
+  net_wage: '544.77'
+  cost: '1058.99'
+  date: '2015-08-31'
+  company_savings_plan: '0.0'
+  accounting_document: 0127SH1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-08-01'
+  period_end: '2015-08-31'
+  out_of_date_insertion:
+  wage_contribution: '151.7'
+  employer_contribution: '362.52'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '544.77'
+  wage_slip_number: '20150800117'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:37:11.532+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:37:11.532+02:00'
+  updated_by: 296
+jackie_denesik_240661:
+  id: 240661
+  itg_company_id: 9
+  disbursement_id: 381517
+  consultant_id: 9392
+  document_id:
+  document_old_id: 397463
+  disbursement_source_status: done
+  year: 2015
+  month: 9
+  hours: '12.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '348.22'
+  standard_gross_wage: '348.22'
+  supplementary_gross_wage: '0.0'
+  net_wage: '272.39'
+  cost: '529.46'
+  date: '2015-09-30'
+  company_savings_plan: '0.0'
+  accounting_document: 0143SI1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-09-01'
+  period_end: '2015-09-30'
+  out_of_date_insertion:
+  wage_contribution: '75.83'
+  employer_contribution: '181.24'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '272.39'
+  wage_slip_number: '20150900134'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:37:22.596+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:37:22.596+02:00'
+  updated_by: 296
+jackie_denesik_242270:
+  id: 242270
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id:
+  document_old_id: 398840
+  disbursement_source_status: done
+  year: 2015
+  month: 10
+  hours: '47.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1343.17'
+  standard_gross_wage: '1343.17'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1050.6'
+  cost: '2042.35'
+  date: '2015-10-30'
+  company_savings_plan: '0.0'
+  accounting_document: 0143SJ1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-10-01'
+  period_end: '2015-10-31'
+  out_of_date_insertion:
+  wage_contribution: '292.57'
+  employer_contribution: '699.18'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1050.6'
+  wage_slip_number: '20151000129'
+  advance_return: "-2340.0"
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:37:32.909+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:37:32.909+02:00'
+  updated_by: 296
+jackie_denesik_244101:
+  id: 244101
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id:
+  document_old_id: 400445
+  disbursement_source_status: done
+  year: 2015
+  month: 11
+  hours: '42.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1193.93'
+  standard_gross_wage: '1193.93'
+  supplementary_gross_wage: '0.0'
+  net_wage: '933.88'
+  cost: '1815.41'
+  date: '2015-11-30'
+  company_savings_plan: '0.0'
+  accounting_document: 0140SK1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-11-01'
+  period_end: '2015-11-30'
+  out_of_date_insertion:
+  wage_contribution: '260.05'
+  employer_contribution: '621.48'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '933.88'
+  wage_slip_number: '20151100125'
+  advance_return: "-6289.4"
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:37:44.978+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:37:44.978+02:00'
+  updated_by: 296
+jackie_denesik_246263:
+  id: 246263
+  itg_company_id: 9
+  disbursement_id: 390786
+  consultant_id: 9392
+  document_id:
+  document_old_id: 402314
+  disbursement_source_status: done
+  year: 2015
+  month: 12
+  hours: '47.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1343.17'
+  standard_gross_wage: '1343.17'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1050.6'
+  cost: '2042.35'
+  date: '2015-12-31'
+  company_savings_plan: '0.0'
+  accounting_document: 0162SL1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2015-12-01'
+  period_end: '2015-12-31'
+  out_of_date_insertion:
+  wage_contribution: '292.57'
+  employer_contribution: '699.18'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1050.6'
+  wage_slip_number: '20151200167'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:37:58.963+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:37:58.963+02:00'
+  updated_by: 296
+jackie_denesik_246948:
+  id: 246948
+  itg_company_id: 9
+  disbursement_id: 392892
+  consultant_id: 9392
+  document_id:
+  document_old_id: 402842
+  disbursement_source_status: done
+  year: 2016
+  month: 1
+  hours: '42.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1253.63'
+  standard_gross_wage: '1253.63'
+  supplementary_gross_wage: '0.0'
+  net_wage: '980.13'
+  cost: '1906.82'
+  date: '2016-01-27'
+  company_savings_plan: '0.0'
+  accounting_document: '0048SA1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-01-01'
+  period_end: '2016-01-31'
+  out_of_date_insertion:
+  wage_contribution: '273.5'
+  employer_contribution: '653.19'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '980.13'
+  wage_slip_number: '20160100051'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:38:02.977+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:38:02.977+02:00'
+  updated_by: 296
+jackie_denesik_249678:
+  id: 249678
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id:
+  document_old_id: 405224
+  disbursement_source_status: done
+  year: 2016
+  month: 2
+  hours: '50.75'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1515.45'
+  standard_gross_wage: '1514.8'
+  supplementary_gross_wage: '0.65'
+  net_wage: '1184.84'
+  cost: '2305.03'
+  date: '2016-02-29'
+  company_savings_plan: '0.0'
+  accounting_document: 0154SB1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-02-01'
+  period_end: '2016-02-29'
+  out_of_date_insertion:
+  wage_contribution: '330.61'
+  employer_contribution: '789.58'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1184.84'
+  wage_slip_number: '20160200154'
+  advance_return: "-5658.12"
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:38:20.397+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:38:20.397+02:00'
+  updated_by: 296
+jackie_denesik_251513:
+  id: 251513
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id:
+  document_old_id: 406754
+  disbursement_source_status: done
+  year: 2016
+  month: 3
+  hours: '47.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1410.94'
+  standard_gross_wage: '1410.33'
+  supplementary_gross_wage: '0.61'
+  net_wage: '1103.12'
+  cost: '2146.06'
+  date: '2016-03-31'
+  company_savings_plan: '0.0'
+  accounting_document: 0153SC1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-03-01'
+  period_end: '2016-03-31'
+  out_of_date_insertion:
+  wage_contribution: '307.82'
+  employer_contribution: '735.12'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1103.12'
+  wage_slip_number: '20160300224'
+  advance_return: "-10936.01"
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:38:31.668+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:38:31.668+02:00'
+  updated_by: 296
+jackie_denesik_253715:
+  id: 253715
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id:
+  document_old_id: 408629
+  disbursement_source_status: done
+  year: 2016
+  month: 4
+  hours: '45.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1358.69'
+  standard_gross_wage: '1358.1'
+  supplementary_gross_wage: '0.59'
+  net_wage: '1062.26'
+  cost: '2042.12'
+  date: '2016-05-15'
+  company_savings_plan: '0.0'
+  accounting_document: '0019SE1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2016-04-01'
+  period_end: '2016-04-30'
+  out_of_date_insertion: '2016-05-01'
+  wage_contribution: '296.43'
+  employer_contribution: '683.43'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1062.26'
+  wage_slip_number: '20160500018'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:38:45.631+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:38:45.631+02:00'
+  updated_by: 296
+jackie_denesik_255656:
+  id: 255656
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id:
+  document_old_id: 410255
+  disbursement_source_status: done
+  year: 2016
+  month: 5
+  hours: '45.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1358.69'
+  standard_gross_wage: '1358.1'
+  supplementary_gross_wage: '0.59'
+  net_wage: '1062.26'
+  cost: '2042.12'
+  date: '2016-06-13'
+  company_savings_plan: '0.0'
+  accounting_document: 0012SF1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2016-05-01'
+  period_end: '2016-05-31'
+  out_of_date_insertion: '2016-06-01'
+  wage_contribution: '296.43'
+  employer_contribution: '683.43'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1062.26'
+  wage_slip_number: '20160600017'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:38:57.623+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:38:57.623+02:00'
+  updated_by: 296
+jackie_denesik_257455:
+  id: 257455
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id:
+  document_old_id: 411826
+  disbursement_source_status: done
+  year: 2016
+  month: 6
+  hours: '42.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1254.16'
+  standard_gross_wage: '1253.62'
+  supplementary_gross_wage: '0.54'
+  net_wage: '980.55'
+  cost: '1885.01'
+  date: '2016-07-08'
+  company_savings_plan: '0.0'
+  accounting_document: 0010SG1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2016-06-01'
+  period_end: '2016-06-30'
+  out_of_date_insertion: '2016-07-01'
+  wage_contribution: '273.61'
+  employer_contribution: '630.85'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '980.55'
+  wage_slip_number: '20160700009'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:39:09.344+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:39:09.344+02:00'
+  updated_by: 296
+jackie_denesik_259238:
+  id: 259238
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id:
+  document_old_id: 413393
+  disbursement_source_status: done
+  year: 2016
+  month: 7
+  hours: '38.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1149.16'
+  standard_gross_wage: '1149.16'
+  supplementary_gross_wage: '0.0'
+  net_wage: '898.47'
+  cost: '1727.23'
+  date: '2016-08-10'
+  company_savings_plan: '0.0'
+  accounting_document: 0012SH1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2016-07-01'
+  period_end: '2016-07-31'
+  out_of_date_insertion: '2016-08-01'
+  wage_contribution: '250.69'
+  employer_contribution: '578.07'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '898.47'
+  wage_slip_number: '20160800009'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:39:20.862+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:39:20.862+02:00'
+  updated_by: 296
+jackie_denesik_260754:
+  id: 260754
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id:
+  document_old_id: 414665
+  disbursement_source_status: done
+  year: 2016
+  month: 8
+  hours: '45.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1358.1'
+  standard_gross_wage: '1358.1'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1061.81'
+  cost: '2041.23'
+  date: '2016-09-15'
+  company_savings_plan: '0.0'
+  accounting_document: 0021SI1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2016-08-01'
+  period_end: '2016-08-31'
+  out_of_date_insertion: '2016-09-01'
+  wage_contribution: '296.29'
+  employer_contribution: '683.13'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1061.81'
+  wage_slip_number: '20160900024'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:39:30.550+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:39:30.550+02:00'
+  updated_by: 296
+jackie_denesik_261788:
+  id: 261788
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id:
+  document_old_id: 415481
+  disbursement_source_status: done
+  year: 2016
+  month: 9
+  hours: '45.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1358.1'
+  standard_gross_wage: '1358.1'
+  supplementary_gross_wage: '0.0'
+  net_wage: '1061.81'
+  cost: '2041.23'
+  date: '2016-09-30'
+  company_savings_plan: '0.0'
+  accounting_document: 0115SI1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-09-01'
+  period_end: '2016-09-30'
+  out_of_date_insertion:
+  wage_contribution: '296.29'
+  employer_contribution: '683.13'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1061.81'
+  wage_slip_number: '20160900138'
+  advance_return: "-17392.78"
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:39:36.346+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:39:36.346+02:00'
+  updated_by: 296
+jackie_denesik_264281:
+  id: 264281
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id:
+  document_old_id: 417591
+  disbursement_source_status: done
+  year: 2016
+  month: 10
+  hours: '42.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1410.32'
+  standard_gross_wage: '1253.62'
+  supplementary_gross_wage: '156.7'
+  net_wage: '1105.02'
+  cost: '2119.29'
+  date: '2016-11-01'
+  company_savings_plan: '0.0'
+  accounting_document: '0169SJ1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-10-01'
+  period_end: '2016-10-31'
+  out_of_date_insertion:
+  wage_contribution: '305.3'
+  employer_contribution: '708.97'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1105.02'
+  wage_slip_number: '20161000163'
+  advance_return: "-14571.66"
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:39:51.680+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:39:51.680+02:00'
+  updated_by: 296
+jackie_denesik_265898:
+  id: 265898
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id:
+  document_old_id: 418859
+  disbursement_source_status: done
+  year: 2016
+  month: 11
+  hours: '47.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1410.94'
+  standard_gross_wage: '1410.33'
+  supplementary_gross_wage: '0.61'
+  net_wage: '1103.12'
+  cost: '2120.58'
+  date: '2016-11-29'
+  company_savings_plan: '0.0'
+  accounting_document: 0116SK1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-11-01'
+  period_end: '2016-11-30'
+  out_of_date_insertion:
+  wage_contribution: '307.82'
+  employer_contribution: '709.64'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1103.12'
+  wage_slip_number: '20161100111'
+  advance_return: "-22683.28"
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:40:00.898+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:40:00.898+02:00'
+  updated_by: 296
+jackie_denesik_268334:
+  id: 268334
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id:
+  document_old_id: 420928
+  disbursement_source_status: done
+  year: 2016
+  month: 12
+  hours: '43.75'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '1306.42'
+  standard_gross_wage: '1305.86'
+  supplementary_gross_wage: '0.56'
+  net_wage: '1021.42'
+  cost: '1963.47'
+  date: '2016-12-29'
+  company_savings_plan: '0.0'
+  accounting_document: '0169SL1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2016-12-01'
+  period_end: '2016-12-31'
+  out_of_date_insertion:
+  wage_contribution: '285.0'
+  employer_contribution: '657.05'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '1021.42'
+  wage_slip_number: '20161200164'
+  advance_return: "-21580.16"
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:40:16.310+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:40:16.310+02:00'
+  updated_by: 296
+jackie_denesik_270377:
+  id: 270377
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id:
+  document_old_id: 422562
+  disbursement_source_status: done
+  year: 2017
+  month: 1
+  hours: '84.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2507.27'
+  supplementary_gross_wage: '3975.18'
+  net_wage: '5124.63'
+  cost: '9823.07'
+  date: '2017-01-31'
+  company_savings_plan: '0.0'
+  accounting_document: 0107SA1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-01-01'
+  period_end: '2017-01-31'
+  out_of_date_insertion:
+  wage_contribution: '1357.82'
+  employer_contribution: '3340.62'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5124.63'
+  wage_slip_number: '20170100099'
+  advance_return: "-17155.8"
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:40:28.164+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:40:28.164+02:00'
+  updated_by: 296
+jackie_denesik_272337:
+  id: 272337
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id:
+  document_old_id: 424168
+  disbursement_source_status: done
+  year: 2017
+  month: 2
+  hours: '134.75'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.45'
+  standard_gross_wage: '4022.08'
+  supplementary_gross_wage: '2460.37'
+  net_wage: '5101.29'
+  cost: '9836.22'
+  date: '2017-02-28'
+  company_savings_plan: '0.0'
+  accounting_document: '0108SB1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-02-01'
+  period_end: '2017-02-28'
+  out_of_date_insertion:
+  wage_contribution: '1381.16'
+  employer_contribution: '3353.77'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5101.29'
+  wage_slip_number: '20170200096'
+  advance_return: "-16197.74"
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:40:40.181+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:40:40.181+02:00'
+  updated_by: 296
+jackie_denesik_274932:
+  id: 274932
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id:
+  document_old_id: 426291
+  disbursement_source_status: done
+  year: 2017
+  month: 3
+  hours: '147.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.45'
+  standard_gross_wage: '4387.72'
+  supplementary_gross_wage: '2094.73'
+  net_wage: '5093.5'
+  cost: '9840.62'
+  date: '2017-03-31'
+  company_savings_plan: '0.0'
+  accounting_document: '0185SC1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-03-01'
+  period_end: '2017-03-31'
+  out_of_date_insertion:
+  wage_contribution: '1388.95'
+  employer_contribution: '3358.17'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5093.5'
+  wage_slip_number: '20170300188'
+  advance_return: "-5359.58"
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:40:55.842+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:40:55.842+02:00'
+  updated_by: 296
+jackie_denesik_276891:
+  id: 276891
+  itg_company_id: 9
+  disbursement_id: 440947
+  consultant_id: 9392
+  document_id:
+  document_old_id: 427913
+  disbursement_source_status: done
+  year: 2017
+  month: 4
+  hours: '98.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2925.15'
+  supplementary_gross_wage: '3557.3'
+  net_wage: '5118.19'
+  cost: '9833.17'
+  date: '2017-05-01'
+  company_savings_plan: '0.0'
+  accounting_document: 0141SD1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-04-01'
+  period_end: '2017-04-30'
+  out_of_date_insertion:
+  wage_contribution: '1364.26'
+  employer_contribution: '3350.72'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5118.19'
+  wage_slip_number: '20170400129'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:41:07.918+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:41:07.918+02:00'
+  updated_by: 296
+jackie_denesik_279589:
+  id: 279589
+  itg_company_id: 9
+  disbursement_id: 445288
+  consultant_id: 9392
+  document_id:
+  document_old_id: 430229
+  disbursement_source_status: done
+  year: 2017
+  month: 5
+  hours: '91.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.45'
+  standard_gross_wage: '2716.21'
+  supplementary_gross_wage: '3766.24'
+  net_wage: '5121.41'
+  cost: '9831.35'
+  date: '2017-06-06'
+  company_savings_plan: '0.0'
+  accounting_document: 0016SF1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2017-05-01'
+  period_end: '2017-05-31'
+  out_of_date_insertion: '2017-06-01'
+  wage_contribution: '1361.04'
+  employer_contribution: '3348.9'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5121.41'
+  wage_slip_number: '20170600016'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:41:25.014+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:41:25.014+02:00'
+  updated_by: 296
+jackie_denesik_280979:
+  id: 280979
+  itg_company_id: 9
+  disbursement_id: 447803
+  consultant_id: 9392
+  document_id:
+  document_old_id: 431411
+  disbursement_source_status: done
+  year: 2017
+  month: 6
+  hours: '140.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.49'
+  standard_gross_wage: '4178.77'
+  supplementary_gross_wage: '2303.72'
+  net_wage: '5093.54'
+  cost: '9847.16'
+  date: '2017-06-30'
+  company_savings_plan: '0.0'
+  accounting_document: 0155SF1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-06-01'
+  period_end: '2017-06-30'
+  out_of_date_insertion:
+  wage_contribution: '1388.95'
+  employer_contribution: '3364.67'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5093.54'
+  wage_slip_number: '20170600161'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:41:33.305+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:41:33.305+02:00'
+  updated_by: 296
+jackie_denesik_283222:
+  id: 283222
+  itg_company_id: 9
+  disbursement_id: 451129
+  consultant_id: 9392
+  document_id:
+  document_old_id: 433338
+  disbursement_source_status: done
+  year: 2017
+  month: 7
+  hours: '126.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.48'
+  standard_gross_wage: '3760.9'
+  supplementary_gross_wage: '2721.58'
+  net_wage: '5105.34'
+  cost: '9840.48'
+  date: '2017-07-31'
+  company_savings_plan: '0.0'
+  accounting_document: 0130SG1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-07-01'
+  period_end: '2017-07-31'
+  out_of_date_insertion:
+  wage_contribution: '1377.14'
+  employer_contribution: '3358.0'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5105.34'
+  wage_slip_number: '20170700129'
+  advance_return: '4846.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:41:46.830+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:41:46.830+02:00'
+  updated_by: 296
+jackie_denesik_285256:
+  id: 285256
+  itg_company_id: 9
+  disbursement_id: 454516
+  consultant_id: 9392
+  document_id:
+  document_old_id: 435047
+  disbursement_source_status: done
+  year: 2017
+  month: 8
+  hours: '98.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.47'
+  standard_gross_wage: '2925.14'
+  supplementary_gross_wage: '3557.33'
+  net_wage: '5118.21'
+  cost: '9829.96'
+  date: '2017-09-01'
+  company_savings_plan: '0.0'
+  accounting_document: 0146SH1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-08-01'
+  period_end: '2017-08-31'
+  out_of_date_insertion:
+  wage_contribution: '1364.26'
+  employer_contribution: '3347.49'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5118.21'
+  wage_slip_number: '20170800146'
+  advance_return: '4846.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:41:59.125+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:41:59.125+02:00'
+  updated_by: 296
+jackie_denesik_286424:
+  id: 286424
+  itg_company_id: 9
+  disbursement_id: 456942
+  consultant_id: 9392
+  document_id:
+  document_old_id: 435973
+  disbursement_source_status: done
+  year: 2017
+  month: 9
+  hours: '84.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.46'
+  standard_gross_wage: '2507.26'
+  supplementary_gross_wage: '3975.2'
+  net_wage: '5124.64'
+  cost: '9826.32'
+  date: '2017-09-28'
+  company_savings_plan: '0.0'
+  accounting_document: 0110SI1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-09-01'
+  period_end: '2017-09-30'
+  out_of_date_insertion:
+  wage_contribution: '1357.82'
+  employer_contribution: '3343.86'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5124.64'
+  wage_slip_number: '20170900111'
+  advance_return: '4846.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:42:06.182+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:42:06.182+02:00'
+  updated_by: 296
+jackie_denesik_289516:
+  id: 289516
+  itg_company_id: 9
+  disbursement_id: 461828
+  consultant_id: 9392
+  document_id:
+  document_old_id: 438660
+  disbursement_source_status: done
+  year: 2017
+  month: 10
+  hours: '126.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.49'
+  standard_gross_wage: '3760.9'
+  supplementary_gross_wage: '2721.59'
+  net_wage: '5105.35'
+  cost: '9840.49'
+  date: '2017-11-02'
+  company_savings_plan: '0.0'
+  accounting_document: '0009SK1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2017-10-01'
+  period_end: '2017-10-31'
+  out_of_date_insertion: '2017-11-01'
+  wage_contribution: '1377.14'
+  employer_contribution: '3358.0'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5105.35'
+  wage_slip_number: '20171100009'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:42:26.055+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:42:26.055+02:00'
+  updated_by: 296
+jackie_denesik_293960:
+  id: 293960
+  itg_company_id: 9
+  disbursement_id: 468466
+  consultant_id: 9392
+  document_id:
+  document_old_id: 442373
+  disbursement_source_status: done
+  year: 2017
+  month: 11
+  hours: '119.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.49'
+  standard_gross_wage: '3551.97'
+  supplementary_gross_wage: '2930.52'
+  net_wage: '5108.55'
+  cost: '9838.68'
+  date: '2017-12-29'
+  company_savings_plan: '0.0'
+  accounting_document: 0002SA1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2017-11-01'
+  period_end: '2017-11-30'
+  out_of_date_insertion: '2017-12-01'
+  wage_contribution: '1373.94'
+  employer_contribution: '3356.19'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5108.55'
+  wage_slip_number: '20171200231'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:42:53.792+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:42:53.792+02:00'
+  updated_by: 296
+jackie_denesik_294143:
+  id: 294143
+  itg_company_id: 9
+  disbursement_id: 468829
+  consultant_id: 9392
+  document_id:
+  document_old_id: 442542
+  disbursement_source_status: done
+  year: 2017
+  month: 12
+  hours: '108.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.49'
+  standard_gross_wage: '3238.56'
+  supplementary_gross_wage: '3243.93'
+  net_wage: '5113.39'
+  cost: '9835.95'
+  date: '2018-01-02'
+  company_savings_plan: '0.0'
+  accounting_document: 0252SL1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2017-12-01'
+  period_end: '2017-12-31'
+  out_of_date_insertion:
+  wage_contribution: '1369.1'
+  employer_contribution: '3353.46'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5113.39'
+  wage_slip_number: '20171200268'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:42:55.052+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:42:55.052+02:00'
+  updated_by: 296
+jackie_denesik_298882:
+  id: 298882
+  itg_company_id: 9
+  disbursement_id: 477849
+  consultant_id: 9392
+  document_id: 450035
+  document_old_id: 450036
+  disbursement_source_status: done
+  year: 2018
+  month: 1
+  hours: '87.5'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.49'
+  standard_gross_wage: '2611.74'
+  supplementary_gross_wage: '3870.75'
+  net_wage: '5143.28'
+  cost: '9844.83'
+  date: '2018-03-19'
+  company_savings_plan: '0.0'
+  accounting_document: 0053SC1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-01-01'
+  period_end: '2018-01-31'
+  out_of_date_insertion: '2018-03-01'
+  wage_contribution: '1339.21'
+  employer_contribution: '3362.34'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5143.28'
+  wage_slip_number: '20180300052'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:43:29.165+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:43:29.165+02:00'
+  updated_by: 296
+jackie_denesik_298883:
+  id: 298883
+  itg_company_id: 9
+  disbursement_id: 477849
+  consultant_id: 9392
+  document_id: 450037
+  document_old_id: 450038
+  disbursement_source_status: done
+  year: 2018
+  month: 2
+  hours: '140.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.49'
+  standard_gross_wage: '4178.78'
+  supplementary_gross_wage: '2303.71'
+  net_wage: '5143.27'
+  cost: '9844.83'
+  date: '2018-03-20'
+  company_savings_plan: '0.0'
+  accounting_document: 0053SC1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-02-01'
+  period_end: '2018-02-28'
+  out_of_date_insertion: '2018-03-01'
+  wage_contribution: '1339.22'
+  employer_contribution: '3362.34'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5143.27'
+  wage_slip_number: '20180300052'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:43:29.178+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:43:29.178+02:00'
+  updated_by: 296
+jackie_denesik_300800:
+  id: 300800
+  itg_company_id: 9
+  disbursement_id: 480640
+  consultant_id: 9392
+  document_id: 453427
+  document_old_id: 453428
+  disbursement_source_status: done
+  year: 2018
+  month: 3
+  hours: '91.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.48'
+  standard_gross_wage: '2716.2'
+  supplementary_gross_wage: '3766.28'
+  net_wage: '5153.91'
+  cost: '9838.85'
+  date: '2018-04-08'
+  company_savings_plan: '0.0'
+  accounting_document: 0022SD1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-03-01'
+  period_end: '2018-03-31'
+  out_of_date_insertion: '2018-04-01'
+  wage_contribution: '1328.57'
+  employer_contribution: '3356.37'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5153.91'
+  wage_slip_number: '20180400022'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:43:44.733+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:43:44.733+02:00'
+  updated_by: 296
+jackie_denesik_319183:
+  id: 319183
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id: 485755
+  document_old_id: 485756
+  disbursement_source_status: done
+  year: 2018
+  month: 4
+  hours: '126.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '4500.0'
+  standard_gross_wage: '3760.91'
+  supplementary_gross_wage: '739.09'
+  net_wage: '3632.91'
+  cost: '6779.29'
+  date: '2018-12-27'
+  company_savings_plan: '0.0'
+  accounting_document: 0002SA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-04-01'
+  period_end: '2018-04-30'
+  out_of_date_insertion: '2018-12-01'
+  wage_contribution: '867.09'
+  employer_contribution: '2279.29'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '3632.91'
+  wage_slip_number: '20181200218'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:46:11.619+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:46:11.619+02:00'
+  updated_by: 296
+jackie_denesik_319184:
+  id: 319184
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id: 485757
+  document_old_id: 485758
+  disbursement_source_status: done
+  year: 2018
+  month: 5
+  hours: '63.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '4500.0'
+  standard_gross_wage: '1880.45'
+  supplementary_gross_wage: '2619.55'
+  net_wage: '3632.91'
+  cost: '6779.29'
+  date: '2018-12-27'
+  company_savings_plan: '0.0'
+  accounting_document: 0002SA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-05-01'
+  period_end: '2018-05-31'
+  out_of_date_insertion: '2018-12-01'
+  wage_contribution: '867.09'
+  employer_contribution: '2279.29'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '3632.91'
+  wage_slip_number: '20181200218'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:46:11.627+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:46:11.627+02:00'
+  updated_by: 296
+jackie_denesik_319185:
+  id: 319185
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id: 485759
+  document_old_id: 485760
+  disbursement_source_status: done
+  year: 2018
+  month: 6
+  hours: '119.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '4500.0'
+  standard_gross_wage: '3551.97'
+  supplementary_gross_wage: '948.03'
+  net_wage: '3632.91'
+  cost: '6779.29'
+  date: '2018-12-28'
+  company_savings_plan: '0.0'
+  accounting_document: 0002SA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-06-01'
+  period_end: '2018-06-30'
+  out_of_date_insertion: '2018-12-01'
+  wage_contribution: '867.09'
+  employer_contribution: '2279.29'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '3632.91'
+  wage_slip_number: '20181200218'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:46:11.636+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:46:11.636+02:00'
+  updated_by: 296
+jackie_denesik_319186:
+  id: 319186
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id: 485761
+  document_old_id: 485762
+  disbursement_source_status: done
+  year: 2018
+  month: 7
+  hours: '105.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.5'
+  standard_gross_wage: '3134.09'
+  supplementary_gross_wage: '3348.41'
+  net_wage: '5181.87'
+  cost: '9901.44'
+  date: '2018-12-28'
+  company_savings_plan: '0.0'
+  accounting_document: 0002SA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-07-01'
+  period_end: '2018-07-31'
+  out_of_date_insertion: '2018-12-01'
+  wage_contribution: '1300.63'
+  employer_contribution: '3418.94'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5181.87'
+  wage_slip_number: '20181200218'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:46:11.644+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:46:11.644+02:00'
+  updated_by: 296
+jackie_denesik_319187:
+  id: 319187
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id: 485763
+  document_old_id: 485764
+  disbursement_source_status: done
+  year: 2018
+  month: 8
+  hours: '84.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.5'
+  standard_gross_wage: '2507.27'
+  supplementary_gross_wage: '3975.23'
+  net_wage: '5181.87'
+  cost: '9901.44'
+  date: '2018-12-28'
+  company_savings_plan: '0.0'
+  accounting_document: 0002SA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-08-01'
+  period_end: '2018-08-31'
+  out_of_date_insertion: '2018-12-01'
+  wage_contribution: '1300.63'
+  employer_contribution: '3418.94'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5181.87'
+  wage_slip_number: '20181200218'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:46:11.656+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:46:11.656+02:00'
+  updated_by: 296
+jackie_denesik_319347:
+  id: 319347
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id: 486049
+  document_old_id: 486050
+  disbursement_source_status: done
+  year: 2018
+  month: 9
+  hours: '91.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '4500.0'
+  standard_gross_wage: '2716.21'
+  supplementary_gross_wage: '1783.79'
+  net_wage: '3632.91'
+  cost: '6779.29'
+  date: '2018-12-28'
+  company_savings_plan: '0.0'
+  accounting_document: 0002SA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-09-01'
+  period_end: '2018-09-30'
+  out_of_date_insertion: '2018-12-01'
+  wage_contribution: '867.09'
+  employer_contribution: '2279.29'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '3632.91'
+  wage_slip_number: '20181200218'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:46:12.910+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:46:12.910+02:00'
+  updated_by: 296
+jackie_denesik_319348:
+  id: 319348
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id: 486051
+  document_old_id: 486052
+  disbursement_source_status: done
+  year: 2018
+  month: 10
+  hours: '91.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.5'
+  standard_gross_wage: '2716.21'
+  supplementary_gross_wage: '3766.29'
+  net_wage: '5181.87'
+  cost: '9901.44'
+  date: '2018-12-28'
+  company_savings_plan: '0.0'
+  accounting_document: 0002SA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-10-01'
+  period_end: '2018-10-31'
+  out_of_date_insertion: '2018-12-01'
+  wage_contribution: '1300.63'
+  employer_contribution: '3418.94'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5181.87'
+  wage_slip_number: '20181200218'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:46:12.919+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:46:12.919+02:00'
+  updated_by: 296
+jackie_denesik_319349:
+  id: 319349
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id: 369356
+  document_old_id: 486054
+  disbursement_source_status: done
+  year: 2018
+  month: 11
+  hours: '119.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.47'
+  standard_gross_wage: '3551.94'
+  supplementary_gross_wage: '2930.53'
+  net_wage: '5181.86'
+  cost: '9901.4'
+  date: '2018-12-28'
+  company_savings_plan: '0.0'
+  accounting_document: 0002SA1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: true
+  period_start: '2018-11-01'
+  period_end: '2018-11-30'
+  out_of_date_insertion: '2018-12-01'
+  wage_contribution: '1300.61'
+  employer_contribution: '3418.93'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5181.86'
+  wage_slip_number: '20181200218'
+  advance_return: '0.0'
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:46:12.928+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:46:12.928+02:00'
+  updated_by: 296
+jackie_denesik_319675:
+  id: 319675
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id: 370679
+  document_old_id: 486648
+  disbursement_source_status: validated
+  year: 2019
+  month: 12
+  hours: '70.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.49'
+  standard_gross_wage: '2089.38'
+  supplementary_gross_wage: '4393.11'
+  net_wage: '5225.31'
+  cost: '9833.31'
+  date: '2019-12-01'
+  company_savings_plan: '0.0'
+  accounting_document: 0264SL1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2018-12-01'
+  period_end: '2018-12-31'
+  out_of_date_insertion:
+  wage_contribution: '1257.18'
+  employer_contribution: '3350.82'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5225.31'
+  wage_slip_number: '20181200280'
+  advance_return: "-22182.03"
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:46:15.661+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:46:15.661+02:00'
+  updated_by: 296
+consultant_8388_wage_319676:
+  id: 319676
+  itg_company_id: 9
+  disbursement_id: 229437
+  consultant_id: 8388
+  document_id:
+  document_old_id: 334293
+  disbursement_source_status: done
+  year: 2020
+  month: 8
+  hours: '33.25'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '605.28'
+  standard_gross_wage: '605.28'
+  supplementary_gross_wage: '0.0'
+  net_wage: '473.36'
+  cost: '919.4'
+  date: '2010-12-01'
+  company_savings_plan: '0.0'
+  accounting_document: '0098SK1009'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2010-11-01'
+  period_end: '2010-11-30'
+  out_of_date_insertion:
+  wage_contribution: '131.92'
+  employer_contribution: '314.12'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20101100106'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:23:00.523+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:00.523+02:00'
+  updated_by: 296
+consultant_8388_wage_319677:
+  id: 319677
+  itg_company_id: 9
+  disbursement_id: 232090
+  consultant_id: 8388
+  document_id:
+  document_old_id: 335623
+  disbursement_source_status: done
+  year: 2020
+  month: 8
+  hours: '50.75'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '16.4'
+  gross_wage: '923.85'
+  standard_gross_wage: '923.85'
+  supplementary_gross_wage: '0.0'
+  net_wage: '722.51'
+  cost: '1403.26'
+  date: '2010-12-30'
+  company_savings_plan: '0.0'
+  accounting_document: '0092SL1009'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2010-12-01'
+  period_end: '2010-12-31'
+  out_of_date_insertion:
+  wage_contribution: '201.34'
+  employer_contribution: '479.41'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  wage_slip_number: '20101200095'
+  advance_return: '0.0'
+  created_at: '2019-04-04T10:23:04.999+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:23:04.999+02:00'
+  updated_by: 296
+jackie_denesik_319678:
+  id: 319678
+  itg_company_id: 9
+  disbursement_id:
+  consultant_id: 9392
+  document_id: 370679
+  document_old_id: 486648
+  disbursement_source_status: to_be_checked
+  year: 2020
+  month: 1
+  hours: '70.0'
+  holidays: '0.0'
+  sick_days: '0.0'
+  hourly_wage: '25.61'
+  gross_wage: '6482.49'
+  standard_gross_wage: '2089.38'
+  supplementary_gross_wage: '4393.11'
+  net_wage: '5225.31'
+  cost: '9833.31'
+  date: '2020-01-01'
+  company_savings_plan: '0.0'
+  accounting_document: 0264SL1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  out_of_period: false
+  period_start: '2018-12-01'
+  period_end: '2018-12-31'
+  out_of_date_insertion:
+  wage_contribution: '1257.18'
+  employer_contribution: '3350.82'
+  tax_at_source: '0.0'
+  allowance: '0.0'
+  third_party_notification: '0.0'
+  net_after_tax_at_source: '5225.31'
+  wage_slip_number: '20181200280'
+  advance_return: "-22182.03"
+  comment:
+  error_txt:
+  deleted_at:
+  deleted_by:
+  created_at: '2019-07-17T13:46:15.661+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T13:46:15.661+02:00'
+  updated_by: 296

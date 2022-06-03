@@ -1,0 +1,181 @@
+---
+euro:
+  id: 1
+  active: true
+  name: Euro
+  short_name: EUR
+  symbol: "€"
+  accountancy_code: EUR
+  default_currency: true
+  created_at: '2020-09-10T20:40:50.564+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:50.564+02:00'
+  updated_by: 296
+dollar_us:
+  id: 2
+  active: true
+  name: Dollar US
+  short_name: USD
+  symbol: US $
+  accountancy_code: 
+  default_currency: false
+  created_at: '2020-09-10T20:40:50.613+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:50.613+02:00'
+  updated_by: 296
+livre_anglaise:
+  id: 3
+  active: true
+  name: Livre Anglaise
+  short_name: GBP
+  symbol: "£"
+  accountancy_code: 
+  default_currency: false
+  created_at: '2020-09-10T20:40:50.660+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:50.660+02:00'
+  updated_by: 296
+franc_suisse:
+  id: 5
+  active: true
+  name: Franc Suisse
+  short_name: CHF
+  symbol: CHF
+  accountancy_code: 
+  default_currency: false
+  created_at: '2020-09-10T20:40:50.706+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:50.706+02:00'
+  updated_by: 296
+dollar_canadien:
+  id: 6
+  active: true
+  name: Dollar Canadien
+  short_name: CAD
+  symbol: CA $
+  accountancy_code: 
+  default_currency: false
+  created_at: '2020-09-10T20:40:50.724+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:50.724+02:00'
+  updated_by: 296
+couronne_danoise:
+  id: 14
+  active: true
+  name: Couronne Danoise
+  short_name: DKK
+  symbol: DKK
+  accountancy_code: 
+  default_currency: false
+  created_at: '2020-09-10T20:40:50.735+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:50.735+02:00'
+  updated_by: 296
+yuan_chine:
+  id: 29
+  active: true
+  name: YUAN CHINE
+  short_name: CNY
+  symbol: "¥"
+  accountancy_code: 
+  default_currency: false
+  created_at: '2020-09-10T20:40:50.783+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:50.783+02:00'
+  updated_by: 296
+franc_cfa_beac:
+  id: 30
+  active: true
+  name: Franc CFA BEAC
+  short_name: XAF
+  symbol: F CFA
+  accountancy_code: 
+  default_currency: false
+  created_at: '2020-09-10T20:40:50.833+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:50.833+02:00'
+  updated_by: 296
+dollars_hk:
+  id: 32
+  active: true
+  name: Dollars HK
+  short_name: HKD
+  symbol: HK $
+  accountancy_code: 
+  default_currency: false
+  created_at: '2020-09-10T20:40:50.880+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:50.880+02:00'
+  updated_by: 296
+franc_pacifique:
+  id: 33
+  active: true
+  name: Franc Pacifique
+  short_name: XPF
+  symbol: F
+  accountancy_code: 
+  default_currency: false
+  created_at: '2020-09-10T20:40:50.931+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:50.931+02:00'
+  updated_by: 296
+yen_japon:
+  id: 35
+  active: true
+  name: Yen Japon
+  short_name: JPY
+  symbol: "¥"
+  accountancy_code: 
+  default_currency: false
+  created_at: '2020-09-10T20:40:50.982+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:50.982+02:00'
+  updated_by: 296
+singapour_dollar:
+  id: 36
+  active: true
+  name: Singapour Dollar
+  short_name: SGD
+  symbol: SG $
+  accountancy_code: 
+  default_currency: false
+  created_at: '2020-09-10T20:40:51.029+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:51.029+02:00'
+  updated_by: 296
+dirham_marocain:
+  id: 37
+  active: true
+  name: Dirham Marocain
+  short_name: MAD
+  symbol: MAD
+  accountancy_code: 
+  default_currency: false
+  created_at: '2020-09-10T20:40:51.065+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:51.065+02:00'
+  updated_by: 296
+couronne_norvège:
+  id: 38
+  active: true
+  name: Couronne Norvège
+  short_name: NOK
+  symbol: NOK
+  accountancy_code: 
+  default_currency: false
+  created_at: '2020-09-10T20:40:51.113+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:51.113+02:00'
+  updated_by: 296
+francs_cfa_uemoa:
+  id: 39
+  active: true
+  name: Francs CFA UEMOA
+  short_name: XOF
+  symbol: F CFA
+  accountancy_code: 
+  default_currency: false
+  created_at: '2020-09-10T20:40:51.164+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:51.164+02:00'
+  updated_by: 296

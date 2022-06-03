@@ -1,0 +1,198 @@
+liane_bahringer:
+  id: 4724
+  cas_user_type: Goxygene::Consultant
+  cas_user_id: 13894
+  login: Liane.Bahringer_13894@consulting-itg.fr
+  salt: ''
+  reset_password_send_at:
+  session_timeout: 28800
+  active: true
+  extra_attributes: ''
+  username: Liane.Bahringer_13894@consulting-itg.fr
+  created_at: '2019-06-15T19:08:43.790+02:00'
+  created_by: 296
+  updated_at: '2019-06-15T19:08:43.790+02:00'
+  updated_by: 296
+
+jackie_denesik:
+  id: 1755
+  cas_user_type: Goxygene::Consultant
+  cas_user_id: 9392
+  login: jackie.denesik_9392@consulting-itg.fr
+  salt: ''
+  reset_password_send_at:
+  session_timeout: 28800
+  active: true
+  extra_attributes: ''
+  username: Jackie.Denesik_9392@consulting-itg.fr
+  created_at: '2018-12-20T08:22:18.610+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T21:49:59.745+01:00'
+  updated_by: 296
+
+kurtis_grant:
+  id: 12599
+  cas_user_type: Goxygene::Consultant
+  cas_user_id: 10042
+  login: Kurtis.Grant_10042@consulting-itg.fr
+  salt: ''
+  reset_password_send_at:
+  session_timeout: 28800
+  active: true
+  extra_attributes: ''
+  username: Kurtis.Grant_10042@consulting-itg.fr
+  created_at: '2019-06-15T19:08:46.612+02:00'
+  created_by: 296
+  updated_at: '2019-06-15T19:08:46.612+02:00'
+  updated_by: 296
+
+administrator:
+  id: 53
+  cas_user_type: Goxygene::Individual
+  cas_user_id: 53
+  login: administrateur@itg.fr
+  encrypted_password: ""
+  session_timeout: 28800
+  active: true
+  sign_in_count: 0
+  username: administrateur@itg.fr
+  created_at: 2019-01-21 22:55:50.260365000 +07:00
+  created_by: 296
+  updated_at: 2019-01-23 04:37:42.030472000 +07:00
+  updated_by: 296
+
+individual_1:
+  id: 5
+  cas_user_type: Goxygene::Individual
+  cas_user_id: 5
+  login: carolef@itg.fr
+  encrypted_password: ""
+  session_timeout: 28800
+  active: true
+  sign_in_count: 0
+  username: carolef@itg.fr
+  created_at: 2019-01-21 22:55:50.245829000 +07:00
+  created_by: 296
+  updated_at: 2019-01-21 22:55:50.245829000 +07:00
+  updated_by: 296
+
+individual_2:
+  id: 24
+  cas_user_type: Goxygene::Individual
+  cas_user_id: 24
+  login: danieleA@itg.fr
+  encrypted_password: ""
+  session_timeout: 28800
+  active: true
+  sign_in_count: 0
+  username: danieleA@itg.fr
+  created_at: 2019-01-21 22:55:50.250535000 +07:00
+  created_by: 296
+  updated_at: 2019-01-21 22:55:50.250535000 +07:00
+  updated_by: 296
+
+individual_3:
+  id: 26
+  cas_user_type: Goxygene::Individual
+  cas_user_id: 26
+  login: guilaineL@itg.fr
+  encrypted_password: ""
+  session_timeout: 28800
+  active: true
+  sign_in_count: 0
+  username: guilaineL@itg.fr
+  created_at: 2019-01-21 22:55:50.251564000 +07:00
+  created_by: 296
+  updated_at: 2019-01-21 22:55:50.251564000 +07:00
+  updated_by: 296
+
+consultant_3:
+  id: 361
+  cas_user_type: Goxygene::Consultant
+  cas_user_id: 2350
+  login: Margot.Boehm_2350@consulting-itg.fr
+  encrypted_password: "$2a$10$aGJr5UV6WcVcf90qsQgDUOTyw44EJ5wPmSF03aH7aIGXBlXwW81oa"
+  session_timeout: 28800
+  active: true
+  sign_in_count: 0
+  username: Margot.Boehm_2350@consulting-itg.fr
+  created_at: 2019-01-21 22:55:50.389449000 +07:00
+  created_by: 296
+  updated_at: 2019-01-21 22:55:50.389449000 +07:00
+  updated_by: 296
+
+consultant_2:
+  id: 365
+  cas_user_type: Goxygene::Consultant
+  cas_user_id: 2254
+  login: Ginette.Oberbrunner_2254@consulting-itg.fr
+  encrypted_password: "$2a$10$0nWta8qy4EE/vYAygZHf9.xXSVJjKyjUz4N7.MvMLCURJfqC9vsgu"
+  session_timeout: 28800
+  active: true
+  sign_in_count: 0
+  username: Ginette.Oberbrunner_2254@consulting-itg.fr
+  created_at: 2019-01-21 22:55:50.396817000 +07:00
+  created_by: 296
+  updated_at: 2019-01-21 22:55:50.396817000 +07:00
+  updated_by: 296
+
+consultant_3:
+  id: 369
+  cas_user_type: Goxygene::Consultant
+  cas_user_id: 14979
+  login: Branden.Stracke_14979@consulting-itg.fr
+  encrypted_password: "$2a$10$/Nd0SnpSdLCkkRgCNE.o0uUdnCG0fFeqaBIxZWkNwXxzeYu2ivb7e"
+  session_timeout: 28800
+  active: true
+  sign_in_count: 0
+  username: Branden.Stracke_14979@consulting-itg.fr
+  created_at: 2019-01-21 22:55:50.399992000 +07:00
+  created_by: 296
+  updated_at: 2019-01-21 22:55:50.399992000 +07:00
+  updated_by: 296
+
+future_prospect:
+  id: 9999
+  cas_user_type: Goxygene::ProspectingDatum
+  cas_user_id: 5030
+  login: future.prospect_9999@consulting-itg.fr
+  salt: ''
+  reset_password_send_at:
+  session_timeout: 28800
+  active: true
+  extra_attributes: ''
+  username: future.prospect_9999@consulting-itg.fr
+  created_at: '2018-12-20T08:22:18.610+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T21:49:59.745+01:00'
+  updated_by: 296
+
+subcontractor_1:
+  id: 371
+  cas_user_type: Goxygene::Subcontractor
+  cas_user_id: 1
+  login: Jean.Soutretan@subcontracting-itg.fr
+  encrypted_password: "$2a$10$/Nd0SnpSdLCkkRgCNE.o0uUdnCG0fFeqaBIxZWkNwXxzeYu2ivb7e"
+  session_timeout: 28800
+  active: true
+  sign_in_count: 0
+  username: Jean.Soutretan@subcontracting-itg.fr
+  created_at: 2019-01-21 22:55:50.399992000 +07:00
+  created_by: 296
+  updated_at: 2019-01-21 22:55:50.399992000 +07:00
+  updated_by: 296
+
+subcontractor_prospect_2:
+  id: 373
+  cas_user_type: Goxygene::Subcontractor
+  cas_user_id: 2
+  login: Pierre.Prospect@subcontracting-itg.fr
+  encrypted_password: "$2a$10$/Nd0SnpSdLCkkRgCNE.o0uUdnCG0fFeqaBIxZWkNwXxzeYu2ivb7e"
+  session_timeout: 28800
+  active: true
+  sign_in_count: 0
+  username: Pierre.Prospect@subcontracting-itg.fr
+  created_at: 2019-01-21 22:55:50.399992000 +07:00
+  created_by: 296
+  updated_at: 2019-01-21 22:55:50.399992000 +07:00
+  updated_by: 296

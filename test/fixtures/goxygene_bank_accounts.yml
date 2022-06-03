@@ -1,0 +1,52 @@
+bank_account_9786:
+  id: 9786
+  active: true
+  banking_domiciliation: LCL
+  account_holder: Drew Gutkowski
+  swift: CRLYFRPP
+  iban: FR5630002006890000054686N48
+  document_id:
+  comment: Reprise du 03/04/2019 23:53:00
+  created_at: '2019-04-03T23:53:00.312+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:53:00.312+02:00'
+  updated_by: 296
+bank_account_10392:
+  id: 10392
+  active: true
+  banking_domiciliation: LCL
+  account_holder: jackie denesik
+  swift: CRLYFRPP
+  iban: FR5630002006890000054686N48
+  document_id:
+  comment: Reprise du 03/04/2019 23:53:00
+  created_at: '2019-04-03T23:53:00.312+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:53:00.312+02:00'
+  updated_by: 296
+bank_account_9388:
+  id: 9388
+  active: true
+  banking_domiciliation: LCL
+  account_holder: Carey M Beier
+  swift: CRLYFRPP
+  iban: FR5630002006890000054686N48
+  document_id:
+  comment: Reprise du 03/04/2019 23:53:00
+  created_at: '2019-04-03T23:53:00.312+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:53:00.312+02:00'
+  updated_by: 296
+bank_account_19068:
+  id: 19068
+  active: true
+  banking_domiciliation: MR OU MME NUGON LUDOVIC
+  account_holder: MR OU MME NUGON LUDOVIC
+  swift: CCBPFRPPNAN
+  iban: FR7613807000533061912392631
+  document_id: 
+  comment: Reprise du 09/08/2020 02:55:39
+  created_at: '2020-08-09T00:55:39.602+02:00'
+  created_by: 296
+  updated_at: '2020-08-09T00:55:39.602+02:00'
+  updated_by: 296

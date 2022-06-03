@@ -1,0 +1,77 @@
+consultant_8388_accountancy_data_8388:
+  id: 8388
+  consultant_id: 8388
+  itg_company_id: 1
+  accountancy_consultant_group_id: 62
+  accountancy_code: '8388'
+  payroll_code: '08388'
+  created_at: '2019-04-03T23:53:00.312+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:53:00.312+02:00'
+  updated_by: 296
+consultant_8786_accountancy_data_8786:
+  id: 8786
+  consultant_id: 8786
+  itg_company_id: 9
+  accountancy_consultant_group_id: 1
+  accountancy_code: '8786'
+  payroll_code: '08786'
+  created_at: '2019-04-03T23:51:22.558+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:51:22.558+02:00'
+  updated_by: 296
+consultant_8787_accountancy_data_8787:
+  id: 8787
+  consultant_id: 9392
+  itg_company_id: 9
+  accountancy_consultant_group_id: 62
+  accountancy_code: '9392'
+  payroll_code: '09392'
+  created_at: '2019-04-03T23:51:22.558+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:51:22.558+02:00'
+  updated_by: 296
+consultant_8788_accountancy_data_8788:
+  id: 8788
+  consultant_id: 8788
+  itg_company_id: 9
+  accountancy_consultant_group_id: 62
+  accountancy_code: '8788'
+  payroll_code: '8788'
+  created_at: '2019-04-03T23:51:22.558+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:51:22.558+02:00'
+  updated_by: 296
+consultant_10042_accountancy_data_8789:
+  id: 8789
+  consultant_id: 10042
+  itg_company_id: 9
+  accountancy_consultant_group_id: 1
+  accountancy_code: '10042'
+  payroll_code: '10042'
+  created_at: '2019-04-03T23:51:22.558+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:51:22.558+02:00'
+  updated_by: 296
+consultant_13894_accountancy_data_8790:
+  id: 8790
+  consultant_id: 13894
+  itg_company_id: 9
+  accountancy_consultant_group_id: 1
+  accountancy_code: '13894'
+  payroll_code: '13894'
+  created_at: '2019-04-03T23:51:22.558+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:51:22.558+02:00'
+  updated_by: 296
+consultant_182_accountancy_data_182:
+  id: 182
+  consultant_id: 182
+  itg_company_id: 9
+  accountancy_consultant_group_id: 1
+  accountancy_code: '182'
+  payroll_code: '00182'
+  created_at: '2019-04-03T23:51:22.558+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:51:22.558+02:00'
+  updated_by: 296

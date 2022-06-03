@@ -1,0 +1,73 @@
+'2':
+  id: 2
+  insurance_company_id: 3
+  insurance_type_id: 3
+  label: Allianz - RCP - 2015
+  reference_number: A534 65 985
+  valid_from: '2015-01-01T00:00:00.000+01:00'
+  valid_until: '2019-12-31T00:00:00.000+01:00'
+  comment:
+  maximum_amount_of_guarantee:
+  created_at: '2019-08-18T20:35:05.622+02:00'
+  created_by: 296
+  updated_at: '2019-08-18T20:35:05.622+02:00'
+  updated_by: 296
+'5':
+  id: 5
+  insurance_company_id: 5
+  insurance_type_id: 5
+  label: ATRADIUS - 382407
+  reference_number: '382407'
+  valid_from: '2015-01-01T00:00:00.000+01:00'
+  valid_until: '2019-12-31T00:00:00.000+01:00'
+  comment:
+  maximum_amount_of_guarantee: '1590185.0'
+  created_at: '2019-08-18T20:35:05.715+02:00'
+  created_by: 296
+  updated_at: '2019-08-18T20:35:05.715+02:00'
+  updated_by: 296
+
+'6':
+  id: 6
+  insurance_company_id: 1
+  insurance_type_id: 1
+  label: "GENERALI - RCP - 2015"
+  reference_number: 'AL 254 757'
+  valid_from: '2015-01-01T00:00:00.000+01:00'
+  valid_until: '2019-12-31T00:00:00.000+01:00'
+  comment:
+  maximum_amount_of_guarantee:
+  created_at: '2019-08-18T20:35:05.715+02:00'
+  created_by: 296
+  updated_at: '2019-08-18T20:35:05.715+02:00'
+  updated_by: 296
+
+'7':
+  id: 7
+  insurance_company_id: 1
+  insurance_type_id: 4
+  label: "ATRADIUS - 382411"
+  reference_number: '382411'
+  valid_from: '2015-01-01T00:00:00.000+01:00'
+  valid_until: '2019-12-31T00:00:00.000+01:00'
+  comment:
+  maximum_amount_of_guarantee:
+  created_at: '2019-08-18T20:35:05.715+02:00'
+  created_by: 296
+  updated_at: '2019-08-18T20:35:05.715+02:00'
+  updated_by: 296
+
+'8':
+  id: 8
+  insurance_company_id: 1
+  insurance_type_id: 2
+  label: "ATRADIUS - 382408"
+  reference_number: '382408'
+  valid_from: '2015-01-01T00:00:00.000+01:00'
+  valid_until: '2019-12-31T00:00:00.000+01:00'
+  comment:
+  maximum_amount_of_guarantee:
+  created_at: '2019-08-18T20:35:05.715+02:00'
+  created_by: 296
+  updated_at: '2019-08-18T20:35:05.715+02:00'
+  updated_by: 296

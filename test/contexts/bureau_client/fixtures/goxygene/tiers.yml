@@ -1,0 +1,71 @@
+pascal:
+    tier_type: individual
+    active: true
+    comment: "Reprise de données du 07/07/2019 19:00:25"
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2019-07-07T17:00:06.457+02:00'
+    updated_by: 296
+
+sophia:
+    tier_type: individual
+    active: true
+    comment: "Reprise de données du 07/07/2019 19:00:25"
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2019-07-07T17:00:06.457+02:00'
+    updated_by: 296
+
+monika:
+    tier_type: individual
+    active: true
+    comment: "Reprise de données du 07/07/2019 19:00:25"
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2019-07-07T17:00:06.457+02:00'
+    updated_by: 296
+
+goldman:
+    tier_type: individual
+    active: true
+    comment: "Reprise de données du 07/07/2019 19:00:25"
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2019-07-07T17:00:06.457+02:00'
+    updated_by: 296
+
+jean:
+    tier_type: individual
+    active: true
+    comment: "Reprise de données du 07/07/2019 19:00:25"
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2019-07-07T17:00:06.457+02:00'
+    updated_by: 296
+
+michel:
+    tier_type: individual
+    active: true
+    comment: "Reprise de données du 07/07/2019 19:00:25"
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2019-07-07T17:00:06.457+02:00'
+    updated_by: 296
+
+gertrude:
+    tier_type: individual
+    active: true
+    comment: "Reprise de données du 07/07/2019 19:00:25"
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2019-07-07T17:00:06.457+02:00'
+    updated_by: 296
+
+santa_claus:
+    tier_type: individual
+    active: true
+    comment: "Reprise de données du 07/07/2019 19:00:25"
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2019-07-07T17:00:06.457+02:00'
+    updated_by: 296

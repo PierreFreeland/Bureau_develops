@@ -1,0 +1,41 @@
+<style>
+.btn-orange {
+  background: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
+  border: 1px solid <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
+}
+</style>
+
+<%= form_for(resource, as: resource_name, url: cas_authentication_password_path, html: { method: :post }) do |f| %>
+  <div class="login-box">
+    <% if Goxygene.is_freeteam? %>
+      <%= image_tag 'goxygene/freeteam', style: 'height:100px' %>
+      <div class="trait_dessus"></div>
+    <% else %>
+      <a href="https://www.freeland.com" class="logo-group"></a>
+      <div class="trait_dessus"></div>
+      <div class="div">
+        <a href="https://www.itg.fr" class="logo-soc logo-itg"></a>
+        <a href="https://porteo-portage-salarial.com" class="logo-soc logo-porteo"></a>
+        <a href="https://www.acpi.fr" class="logo-soc logo-acpi"></a>
+      </div>
+    <% end %>
+
+    <div class="form-section">
+      <h1>Réinitialisation du mot de passe</h1>
+      <div>Un e-mail vous sera envoyé avec un lien pour définir votre mot de passe.</div>
+
+      <div class="field-new">
+        <%= f.email_field :login, autofocus: true, placeholder: "Email" %>
+      </div>
+
+      <div class="actions">
+        <%= f.submit "Réinitialiser  > ", class: 'btn-orange' %>
+      </div>
+
+
+      <div class="back-link">
+        <%= link_to '< retour connexion', '/goxygene', class: 'text-white' %>
+      </div>
+    </div>
+  </div>
+<% end %>

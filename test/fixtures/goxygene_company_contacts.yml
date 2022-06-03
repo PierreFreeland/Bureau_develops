@@ -1,0 +1,75 @@
+company_contact_1:
+  id: 1
+  individual_id: 14894
+  available_on_sunday: null
+  contact_role_id: 1
+  available_until: null
+  active: true
+  updated_at: "2020-08-09 05:16:01.0938"
+  updated_by: 296
+  available_on_thursday: null
+  available_at: null
+  contact_department_id: 1
+  available_on_wenesday: null
+  main_contact: false
+  available_on_monday: null
+  company_id: 68003
+  contact_datum_id: 160084
+  available_on_tuesday: null
+  available_on_friday: null
+  available_on_saturday: null
+  contact_mean: null
+  created_at: "2020-08-09 05:16:01.0938"
+  created_by: 296
+  comment: "paris | "
+  contact_type_id: 8
+company_contact_2:
+  id: 2
+  individual_id: 10392
+  available_on_sunday: null
+  contact_role_id: 1
+  available_until: null
+  active: true
+  updated_at: "2020-08-09 05:16:01.1048"
+  updated_by: 296
+  available_on_thursday: null
+  available_at: null
+  contact_department_id: 12
+  available_on_wenesday: null
+  main_contact: true
+  available_on_monday: null
+  company_id: 68004
+  contact_datum_id: 160046
+  available_on_tuesday: null
+  available_on_friday: null
+  available_on_saturday: null
+  contact_mean: null
+  created_at: "2020-08-09 05:16:01.1048"
+  created_by: 296
+  comment: " | "
+  contact_type_id: 8
+company_contact_3:
+  id: 3
+  individual_id: 11042
+  available_on_sunday: null
+  contact_role_id: 1
+  available_until: null
+  active: true
+  updated_at: "2020-08-09 05:16:01.1248"
+  updated_by: 296
+  available_on_thursday: null
+  available_at: null
+  contact_department_id: 13
+  available_on_wenesday: null
+  main_contact: false
+  available_on_monday: null
+  company_id: 14077
+  contact_datum_id: 159858
+  available_on_tuesday: null
+  available_on_friday: null
+  available_on_saturday: null
+  contact_mean: null
+  created_at: "2020-08-09 05:16:01.1248"
+  created_by: 296
+  comment: " | "
+  contact_type_id: 8

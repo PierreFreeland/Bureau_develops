@@ -1,0 +1,20 @@
+cir_1:
+  id: 1
+  label: "Formation"
+  accountancy_code: "FORM"
+  active: true
+  rate: 0
+  created_by: 296
+  created_at: "2020-08-09 00:37:35.498775"
+  updated_by: 296
+  updated_at: "2020-08-09 00:37:35.498775"
+cir_2:
+  id: 2
+  label: "Conseil"
+  accountancy_code: "CONS"
+  active: true
+  rate: 3
+  created_by: 296
+  created_at: "2020-08-09 00:37:35.509033"
+  updated_by: 296
+  updated_at: "2020-08-09 00:37:35.509033"

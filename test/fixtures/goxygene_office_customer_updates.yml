@@ -1,0 +1,429 @@
+liane_bahringer_40004_849:
+  id: 849
+  customer_id: 4970
+  contact_datum_id: 159858
+  status: data_input
+  siret: '48190173400022'
+  vat_number: ''
+  corporate_name: ''
+  establishment_name: ''
+  created_at: '2019-06-14T21:24:55.966+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:24:55.966+02:00'
+  updated_by: 296
+liane_bahringer_35708_1037:
+  id: 1037
+  customer_id: 5374
+  contact_datum_id: 160046
+  status: data_input
+  siret: '53215765800024'
+  vat_number: ''
+  corporate_name: ''
+  establishment_name: ''
+  created_at: '2019-06-14T21:24:57.881+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:24:57.881+02:00'
+  updated_by: 296
+liane_bahringer_40018_1075:
+  id: 1075
+  customer_id: 5411
+  contact_datum_id: 160084
+  status: data_input
+  siret: '52438130800013'
+  vat_number: ''
+  corporate_name: ''
+  establishment_name: ''
+  created_at: '2019-06-14T21:24:58.259+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:24:58.259+02:00'
+  updated_by: 296
+liane_bahringer_40015_1076:
+  id: 1076
+  customer_id: 5412
+  contact_datum_id: 160085
+  status: data_input
+  siret: '51134664500019'
+  vat_number: ''
+  corporate_name: ''
+  establishment_name: ''
+  created_at: '2019-06-14T21:24:58.269+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:24:58.269+02:00'
+  updated_by: 296
+liane_bahringer_40005_1095:
+  id: 1095
+  customer_id: 5476
+  contact_datum_id: 160104
+  status: data_input
+  siret: '51491631100012'
+  vat_number: ''
+  corporate_name: ''
+  establishment_name: ''
+  created_at: '2019-06-14T21:24:58.453+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:24:58.453+02:00'
+  updated_by: 296
+liane_bahringer_39464_1134:
+  id: 1134
+  customer_id: 5578
+  contact_datum_id: 160143
+  status: data_input
+  siret: '38423995000015'
+  vat_number: ''
+  corporate_name: ''
+  establishment_name: ''
+  created_at: '2019-06-14T21:24:58.842+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:24:58.842+02:00'
+  updated_by: 296
+liane_bahringer_39457_1135:
+  id: 1135
+  customer_id: 5579
+  contact_datum_id: 160144
+  status: data_input
+  siret: '47818098700016'
+  vat_number: ''
+  corporate_name: ''
+  establishment_name: ''
+  created_at: '2019-06-14T21:24:58.852+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:24:58.852+02:00'
+  updated_by: 296
+liane_bahringer_39780_1173:
+  id: 1173
+  customer_id: 5656
+  contact_datum_id: 160182
+  status: data_input
+  siret: '83847330400015'
+  vat_number: ''
+  corporate_name: ''
+  establishment_name: ''
+  created_at: '2019-06-14T21:24:59.229+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:24:59.229+02:00'
+  updated_by: 296
+liane_bahringer_40090_2863:
+  id: 2863
+  customer_id: 9201
+  contact_datum_id: 161872
+  status: data_input
+  siret: '830725420'
+  vat_number: ''
+  corporate_name: ''
+  establishment_name: ''
+  created_at: '2019-06-14T21:25:16.161+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:16.161+02:00'
+  updated_by: 296
+liane_bahringer_32143_5018:
+  id: 5018
+  customer_id: 13000
+  contact_datum_id: 164027
+  status: data_input
+  siret: '49152469000030'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:38.185+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:38.185+02:00'
+  updated_by: 296
+liane_bahringer_31304_5141:
+  id: 5141
+  customer_id: 13080
+  contact_datum_id: 164150
+  status: data_input
+  siret: '40540279300013'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:39.434+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:39.434+02:00'
+  updated_by: 296
+liane_bahringer_31298_5178:
+  id: 5178
+  customer_id: 13131
+  contact_datum_id: 164187
+  status: data_input
+  siret: '38935492900017'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:39.807+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:39.807+02:00'
+  updated_by: 296
+liane_bahringer_31306_5216:
+  id: 5216
+  customer_id: 13196
+  contact_datum_id: 164225
+  status: data_input
+  siret: '50069711500011'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:40.197+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:40.197+02:00'
+  updated_by: 296
+liane_bahringer_31297_5316:
+  id: 5316
+  customer_id: 13269
+  contact_datum_id: 164325
+  status: data_input
+  siret: '40751668100019'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:41.210+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:41.210+02:00'
+  updated_by: 296
+liane_bahringer_31309_5432:
+  id: 5432
+  customer_id: 13470
+  contact_datum_id: 164441
+  status: data_input
+  siret: '52200280700025'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:42.385+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:42.385+02:00'
+  updated_by: 296
+liane_bahringer_31295_5460:
+  id: 5460
+  customer_id: 13525
+  contact_datum_id: 164469
+  status: data_input
+  siret: '44368634000037'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:42.672+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:42.672+02:00'
+  updated_by: 296
+liane_bahringer_33310_5461:
+  id: 5461
+  customer_id: 13525
+  contact_datum_id: 164470
+  status: data_input
+  siret: '44368634000037'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:42.682+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:42.682+02:00'
+  updated_by: 296
+liane_bahringer_39623_5462:
+  id: 5462
+  customer_id: 13525
+  contact_datum_id: 164471
+  status: data_input
+  siret: '44368634000037'
+  vat_number: ''
+  corporate_name: ''
+  establishment_name: ''
+  created_at: '2019-06-14T21:25:42.691+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:42.691+02:00'
+  updated_by: 296
+liane_bahringer_31312_5539:
+  id: 5539
+  customer_id: 13656
+  contact_datum_id: 164548
+  status: data_input
+  siret: '45409375800034'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:43.520+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:43.520+02:00'
+  updated_by: 296
+liane_bahringer_31300_5599:
+  id: 5599
+  customer_id: 13729
+  contact_datum_id: 164608
+  status: data_input
+  siret: '40769736600018'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:44.117+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:44.117+02:00'
+  updated_by: 296
+liane_bahringer_31305_5605:
+  id: 5605
+  customer_id: 13734
+  contact_datum_id: 164614
+  status: data_input
+  siret: '52500392700015'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:44.179+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:44.179+02:00'
+  updated_by: 296
+liane_bahringer_31308_5606:
+  id: 5606
+  customer_id: 13735
+  contact_datum_id: 164615
+  status: data_input
+  siret: '52849986600010'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:44.189+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:44.189+02:00'
+  updated_by: 296
+liane_bahringer_31301_5607:
+  id: 5607
+  customer_id: 13736
+  contact_datum_id: 164616
+  status: data_input
+  siret: '34362756800029'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:44.199+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:44.199+02:00'
+  updated_by: 296
+liane_bahringer_31255_5608:
+  id: 5608
+  customer_id: 13737
+  contact_datum_id: 164617
+  status: data_input
+  siret: '50913987900019'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:44.209+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:44.209+02:00'
+  updated_by: 296
+liane_bahringer_31307_5609:
+  id: 5609
+  customer_id: 13738
+  contact_datum_id: 164618
+  status: data_input
+  siret: '61920014000025'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:44.219+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:44.219+02:00'
+  updated_by: 296
+liane_bahringer_30931_5935:
+  id: 5935
+  customer_id: 14180
+  contact_datum_id: 164944
+  status: data_input
+  siret: '44474226600026'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:47.531+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:47.531+02:00'
+  updated_by: 296
+liane_bahringer_31313_5936:
+  id: 5936
+  customer_id: 14180
+  contact_datum_id: 164945
+  status: data_input
+  siret: '44474226600026'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:47.542+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:47.542+02:00'
+  updated_by: 296
+liane_bahringer_32928_5937:
+  id: 5937
+  customer_id: 14180
+  contact_datum_id: 164946
+  status: data_input
+  siret: '44474226600026'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:47.553+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:47.553+02:00'
+  updated_by: 296
+liane_bahringer_33311_5938:
+  id: 5938
+  customer_id: 14180
+  contact_datum_id: 164947
+  status: data_input
+  siret: '44474226600026'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:47.563+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:47.563+02:00'
+  updated_by: 296
+liane_bahringer_33312_5939:
+  id: 5939
+  customer_id: 14180
+  contact_datum_id: 164948
+  status: data_input
+  siret: '44474226600026'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:47.572+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:47.572+02:00'
+  updated_by: 296
+liane_bahringer_35660_5940:
+  id: 5940
+  customer_id: 14180
+  contact_datum_id: 164949
+  status: data_input
+  siret: '44474226600026'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:47.582+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:47.582+02:00'
+  updated_by: 296
+liane_bahringer_39466_5941:
+  id: 5941
+  customer_id: 14180
+  contact_datum_id: 164950
+  status: data_input
+  siret: '44474226600026'
+  vat_number: "              "
+  corporate_name: "                                   "
+  establishment_name: "                                   "
+  created_at: '2019-06-14T21:25:47.591+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:47.591+02:00'
+  updated_by: 296
+liane_bahringer_35709_32540:
+  id: 32540
+  customer_id:
+  contact_datum_id: 191549
+  status: data_input
+  siret: '49777130300037'
+  vat_number: ''
+  corporate_name: ''
+  establishment_name: ''
+  created_at: '2019-06-14T21:30:16.079+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:30:16.079+02:00'
+  updated_by: 296

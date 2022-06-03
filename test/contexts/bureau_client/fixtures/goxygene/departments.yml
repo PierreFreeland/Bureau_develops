@@ -1,0 +1,9 @@
+rhone:
+    label: "Rhone"
+    main_city: lyon
+    region: auvergne_rhone_alpes
+    zip_code: '6900'
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-12-19T20:44:41.630+01:00'
+    updated_by: 296

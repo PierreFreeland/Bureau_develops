@@ -1,0 +1,45 @@
+legal_form_1:
+  active: true
+  created_by: 296
+  id: 1
+  created_at: "2020-08-09 00:37:39.390561"
+  updated_by: 296
+  acronym: "SA"
+  label: "Société Anonyme"
+  updated_at: "2020-08-09 00:37:39.390561"
+legal_form_2:
+  active: true
+  created_by: 296
+  id: 2
+  created_at: "2020-08-09 00:37:39.437106"
+  updated_by: 296
+  acronym: "SARL"
+  label: "Société à responsabilité limitée"
+  updated_at: "2020-08-09 00:37:39.437106"
+legal_form_3:
+  active: true
+  created_by: 296
+  id: 3
+  created_at: "2020-08-09 00:37:39.467674"
+  updated_by: 296
+  acronym: "SARLU"
+  label: "Société à responsabilité limitée unipersonnelle"
+  updated_at: "2020-08-09 00:37:39.467674"
+legal_form_4:
+  active: true
+  created_by: 296
+  id: 4
+  created_at: "2020-08-09 00:37:39.476136"
+  updated_by: 296
+  acronym: "EURL"
+  label: "Entreprise Unipersonnelle à Responsabilité Limitée"
+  updated_at: "2020-08-09 00:37:39.476136"
+legal_form_5:
+  active: true
+  created_by: 296
+  id: 5
+  created_at: "2020-08-09 00:37:39.523554"
+  updated_by: 296
+  acronym: "SAS"
+  label: "Société par Action Simplifiée"
+  updated_at: "2020-08-09 00:37:39.523554"

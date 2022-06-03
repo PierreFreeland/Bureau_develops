@@ -1,0 +1,196 @@
+---
+mission:
+  id: 1
+  active: true
+  label: Mission
+  is_work: true
+  is_enhancement: false
+  is_holidays: false
+  is_sick_day: false
+  created_at: '2020-09-10T20:41:21.680+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:21.680+02:00'
+  updated_by: 296
+  has_expenses_allowed: true
+développement:
+  id: 2
+  active: true
+  label: Développement
+  is_work: false
+  is_enhancement: true
+  is_holidays: false
+  is_sick_day: false
+  created_at: '2020-09-10T20:41:21.691+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:21.691+02:00'
+  updated_by: 296
+  has_expenses_allowed: true
+prestation_interne:
+  id: 4
+  active: false
+  label: Prestation Interne
+  is_work: true
+  is_enhancement: false
+  is_holidays: false
+  is_sick_day: false
+  created_at: '2020-09-10T20:41:21.714+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:21.714+02:00'
+  updated_by: 296
+  has_expenses_allowed: true
+congés:
+  id: 5
+  active: false
+  label: Congés
+  is_work: false
+  is_enhancement: false
+  is_holidays: true
+  is_sick_day: false
+  created_at: '2020-09-10T20:41:21.725+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:21.725+02:00'
+  updated_by: 296
+  has_expenses_allowed: false
+développement_délégué:
+  id: 6
+  active: false
+  label: Développement délégué
+  is_work: false
+  is_enhancement: true
+  is_holidays: false
+  is_sick_day: false
+  created_at: '2020-09-10T20:41:21.737+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:21.737+02:00'
+  updated_by: 296
+  has_expenses_allowed: true
+rappel_de_frais:
+  id: 7
+  active: false
+  label: Rappel de frais
+  is_work: false
+  is_enhancement: false
+  is_holidays: false
+  is_sick_day: false
+  created_at: '2020-09-10T20:41:21.760+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:21.760+02:00'
+  updated_by: 296
+  has_expenses_allowed: true
+chômage_partiel:
+  id: 8
+  active: true
+  label: Chômage partiel
+  is_work: false
+  is_enhancement: false
+  is_holidays: false
+  is_sick_day: false
+  created_at: '2020-09-10T20:41:21.773+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:21.773+02:00'
+  updated_by: 296
+  has_expenses_allowed: false
+maladie:
+  id: 9
+  active: false
+  label: Maladie
+  is_work: false
+  is_enhancement: false
+  is_holidays: false
+  is_sick_day: true
+  created_at: '2020-09-10T20:41:21.805+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:21.805+02:00'
+  updated_by: 296
+  has_expenses_allowed: false
+  payroll_code: '2000'
+formation:
+  id: 10
+  active: true
+  label: Formation
+  is_work: false
+  is_enhancement: true
+  is_holidays: false
+  is_sick_day: false
+  created_at: '2021-07-07 16:22:35.177404'
+  created_by: 42
+  updated_at: '2021-07-07 16:22:35.177404'
+  updated_by: 42
+  has_expenses_allowed: true
+  is_unpaid_absences: false
+  payroll_code:
+accident:
+  id: 11
+  active: true
+  label: Accident
+  is_work: false
+  is_enhancement: false
+  is_holidays: false
+  is_sick_day: true
+  created_at: '2021-10-29 16:20:43.300054'
+  created_by: 42
+  updated_at: '2021-10-29 16:20:43.300054'
+  updated_by: 42
+  has_expenses_allowed: false
+  is_unpaid_absences: false
+  payroll_code: '2020'
+congés_maternité:
+  id: 12
+  active: true
+  label: Congés Maternité
+  is_work: false
+  is_enhancement: false
+  is_holidays: true
+  is_sick_day: false
+  created_at: '2021-10-29 16:20:43.300054'
+  created_by: 42
+  updated_at: '2021-10-29 16:20:43.300054'
+  updated_by: 42
+  has_expenses_allowed: false
+  is_unpaid_absences: false
+  payroll_code: '2010'
+congés_paternité:
+  id: 13
+  active: true
+  label: Congés Paternité
+  is_work: false
+  is_enhancement: false
+  is_holidays: true
+  is_sick_day: false
+  created_at: '2021-10-29 16:20:43.300054'
+  created_by: 42
+  updated_at: '2021-10-29 16:20:43.300054'
+  updated_by: 42
+  has_expenses_allowed: false
+  is_unpaid_absences: false
+  payroll_code: '2040'
+congés_exceptionnels:
+  id: 14
+  active: true
+  label: Congés Exceptionnels
+  is_work: false
+  is_enhancement: false
+  is_holidays: true
+  is_sick_day: false
+  created_at: '2021-10-29 16:20:43.300054'
+  created_by: 42
+  updated_at: '2021-10-29 16:20:43.300054'
+  updated_by: 42
+  has_expenses_allowed: false
+  is_unpaid_absences: false
+  payroll_code: '650'
+absence_non_rémunérée:
+  id: 15
+  active: true
+  label: Absence non-rémunérée
+  is_work: false
+  is_enhancement: false
+  is_holidays: false
+  is_sick_day: false
+  created_at: '2021-10-29 16:20:43.300054'
+  created_by: 42
+  updated_at: '2021-10-29 16:20:43.300054'
+  updated_by: 42
+  has_expenses_allowed: false
+  is_unpaid_absences: true
+  payroll_code: '0980'

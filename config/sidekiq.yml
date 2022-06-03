@@ -1,0 +1,16 @@
+# Sample configuration file for Sidekiq.
+# Options here can still be overridden by cmd line args.
+# Place this file at config/sidekiq.yml and Sidekiq will
+# pick it up automatically.
+---
+:verbose: false
+:concurrency: 10
+
+# Set timeout to 8 on Heroku, longer if you manage your own systems.
+:timeout: 30
+
+:queues:
+  - [ default, 2 ]
+  - [ mailers, 2 ]
+  - [ tiq,     2 ]
+  - intercom

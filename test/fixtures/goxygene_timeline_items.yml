@@ -1,0 +1,228 @@
+timeline_item_1:
+  id: 1
+  arrival_referring_website: null
+  read_by: null
+  consultant_id: 13433
+  additional_data: null
+  created_at: "2017-05-18 14:58:51.937"
+  rush: null
+  context: "prospect_folow_up"
+  updated_by: 296
+  source_timeline_item_id: null
+  communication_motive_id: 11
+  company_contact_id: null
+  customer_bill_payment_id: null
+  subject: "Autre"
+  notification_acknowledged: false
+  establishment_id: null
+  disbursement_id: null
+  comment: "Suite contact important demande d'échanges pour stratégie relationnelle et type de communication."
+  customer_id: 19605
+  arrival_url: null
+  seen: true
+  created_by: 69
+  activity_report_id: null
+  date: "2017-05-18 14:47:00"
+  status: "to_do"
+  timeline_type_id: 9
+  intercom_code: null
+  customer_bill_id: null
+  updated_at: "2017-05-18 14:58:51.937"
+  business_contract_id: null
+  wage_id: null
+  arrival_formulaire_type: null
+  operating_expense_id: null
+  service_id: null
+  establishment_contact_id: null
+  employee_id: 69
+  read_at: null
+timeline_item_2:
+  id: 2
+  arrival_referring_website: null
+  read_by: null
+  consultant_id: 80716
+  additional_data: null
+  created_at: "2018-10-02 09:46:39.94"
+  rush: null
+  context: "prospect_folow_up"
+  updated_by: 296
+  source_timeline_item_id: null
+  communication_motive_id: 8
+  company_contact_id: null
+  customer_bill_payment_id: null
+  subject: "Demande de renseignements"
+  notification_acknowledged: false
+  establishment_id: null
+  disbursement_id: null
+  comment: "A travaillé en tant que coach en micro depuis suite pb de santé et autres se pose la question d'un repositionnement et de faire émerger une nouvelle expertise car usure sur le job telle qu'elle le pratique actuellement. S'intéresse du coup aux aspects immobilier car dispose d'un contact. Risque d'exploser son CA en micro et donc intérêt portage et RC. Remercie la réactivité d'ITG qu'elle trouve pas courante."
+  customer_id: 17080
+  arrival_url: null
+  seen: true
+  created_by: 69
+  activity_report_id: null
+  date: "2018-10-02 09:42:00"
+  status: "to_do"
+  timeline_type_id: 9
+  intercom_code: null
+  customer_bill_id: null
+  updated_at: "2018-10-02 09:46:39.94"
+  business_contract_id: null
+  wage_id: null
+  arrival_formulaire_type: null
+  operating_expense_id: null
+  service_id: null
+  establishment_contact_id: null
+  employee_id: 69
+  read_at: null
+timeline_item_3:
+  id: 3
+  arrival_referring_website: null
+  read_by: null
+  consultant_id: 12569
+  additional_data: null
+  created_at: "2016-12-07 12:13:12.503"
+  rush: null
+  context: "prospect_folow_up"
+  updated_by: 296
+  source_timeline_item_id: null
+  communication_motive_id: 11
+  company_contact_id: 3
+  customer_bill_payment_id: null
+  subject: "Autre"
+  notification_acknowledged: false
+  establishment_id: null
+  disbursement_id: null
+  comment: "RV Skype à sa demande pour entretien conseil qu'il a énormément apprécié au sujet de son besoin en formation. \r\nFloréal Glaizal rochelais expert bâtiment depuis 2 ans chez ITG était intéressé a priori par le M2 et/ou Missioneo. \r\n\r\nRésultat des courses : niet M2 car il sait faire des propositions et en a fait pas mal ; en revanche le prochain groupe Missioneo début 2017 est vraiment nécessaire pour le mettre en action mieux prospecter prendre des RV pitcher bénéfices clients plutôt que son offre technique être plus à l’aise commercialement et comportementalement. Ensuite le M11 qu’il n’avait pas vu lui sera vraiment utile. Il avait vu le M4 pensant que ça l’aiderait à développer son second souffle mais a priori pas vraiment adapté car il ne change pas d’expertise (très bien définie et avec une vraie valeur ajoutée) ni de cible finale sauf qu’il a été principalement en sous-traitance de bureaux d’étude et a besoin de travailler en direct avec les maîtres d’ouvrage et gestionnaires de parcs immobilier pour les auditer conseiller accompagner dans l’optimisation de leur exploitation énergétique.\r\n"
+  customer_id: 13067
+  arrival_url: null
+  seen: true
+  created_by: 65
+  activity_report_id: null
+  date: "2016-12-07 10:15:00"
+  status: "to_do"
+  timeline_type_id: 9
+  intercom_code: null
+  customer_bill_id: null
+  updated_at: "2016-12-07 12:13:12.503"
+  business_contract_id: null
+  wage_id: null
+  arrival_formulaire_type: null
+  operating_expense_id: null
+  service_id: null
+  establishment_contact_id: null
+  employee_id: 65
+  read_at: null
+timeline_item_4:
+  id: 4
+  arrival_referring_website: null
+  read_by: null
+  consultant_id: 13433
+  additional_data: null
+  created_at: "2017-05-18 14:58:51.937"
+  rush: null
+  context: "customer_folow_up"
+  updated_by: 296
+  source_timeline_item_id: null
+  communication_motive_id: 11
+  company_contact_id: null
+  customer_bill_payment_id: null
+  subject: "test"
+  notification_acknowledged: false
+  establishment_id: 63167
+  disbursement_id: null
+  comment: ""
+  customer_id: 19605
+  arrival_url: null
+  seen: true
+  created_by: 69
+  activity_report_id: null
+  date: <%= Date.current %>
+  status: "to_do"
+  timeline_type_id: 9
+  intercom_code: null
+  customer_bill_id: null
+  updated_at: "2017-05-18 14:58:51.937"
+  business_contract_id: null
+  wage_id: null
+  arrival_formulaire_type: null
+  operating_expense_id: null
+  service_id: null
+  establishment_contact_id: null
+  employee_id: 69
+  read_at: null
+timeline_item_5:
+  id: 5
+  arrival_referring_website: null
+  read_by: null
+  consultant_id: 13894
+  additional_data: "{\"business_contract_status\":[\"office_validated\"\"itg_rejected\"]}"
+  created_at: "2021-01-07 16:49:28.764728"
+  rush: null
+  context: "consultant_folow_up"
+  updated_by: 5
+  source_timeline_item_id: null
+  communication_motive_id: null
+  company_contact_id: null
+  customer_bill_payment_id: null
+  subject: null
+  notification_acknowledged: false
+  establishment_id: null
+  disbursement_id: null
+  comment: "RV Skype à sa demande pour entretien conseil qu'il a énormément apprécié au sujet de son besoin en formation. \r\nFloréal Glaizal rochelais expert bâtiment depuis 2 ans chez ITG était intéressé a priori par le M2 et/ou Missioneo. \r\n\r\nRésultat des courses : niet M2 car il sait faire des propositions et en a fait pas mal ; en revanche le prochain groupe Missioneo début 2017 est vraiment nécessaire pour le mettre en action mieux prospecter prendre des RV pitcher bénéfices clients plutôt que son offre technique être plus à l’aise commercialement et comportementalement. Ensuite le M11 qu’il n’avait pas vu lui sera vraiment utile. Il avait vu le M4 pensant que ça l’aiderait à développer son second souffle mais a priori pas vraiment adapté car il ne change pas d’expertise (très bien définie et avec une vraie valeur ajoutée) ni de cible finale sauf qu’il a été principalement en sous-traitance de bureaux d’étude et a besoin de travailler en direct avec les maîtres d’ouvrage et gestionnaires de parcs immobilier pour les auditer conseiller accompagner dans l’optimisation de leur exploitation énergétique.\r\n"
+  customer_id: null
+  arrival_url: null
+  seen: false
+  created_by: 5
+  activity_report_id: null
+  date: "2021-01-07 16:49:28.762419"
+  status: "done"
+  timeline_type_id: 9
+  intercom_code: null
+  customer_bill_id: null
+  updated_at: "2021-01-07 16:49:28.764728"
+  business_contract_id: null
+  wage_id: null
+  arrival_formulaire_type: null
+  operating_expense_id: null
+  service_id: null
+  establishment_contact_id: null
+  employee_id: null
+  read_at: null
+timeline_item_6:
+  id: 6
+  arrival_referring_website: null
+  read_by: null
+  consultant_id: 10042
+  additional_data: "{\"business_contract_status\":[\"validated\"\"itg_rejected\"]}"
+  created_at: "2021-01-07 16:49:15.8706"
+  rush: null
+  context: "consultant_folow_up"
+  updated_by: 5
+  source_timeline_item_id: null
+  communication_motive_id: null
+  company_contact_id: null
+  customer_bill_payment_id: null
+  subject: null
+  notification_acknowledged: false
+  establishment_id: null
+  disbursement_id: null
+  comment: "RV Skype à sa demande pour entretien conseil qu'il a énormément apprécié au sujet de son besoin en formation. \r\nFloréal Glaizal rochelais expert bâtiment depuis 2 ans chez ITG était intéressé a priori par le M2 et/ou Missioneo. \r\n\r\nRésultat des courses : niet M2 car il sait faire des propositions et en a fait pas mal ; en revanche le prochain groupe Missioneo début 2017 est vraiment nécessaire pour le mettre en action mieux prospecter prendre des RV pitcher bénéfices clients plutôt que son offre technique être plus à l’aise commercialement et comportementalement. Ensuite le M11 qu’il n’avait pas vu lui sera vraiment utile. Il avait vu le M4 pensant que ça l’aiderait à développer son second souffle mais a priori pas vraiment adapté car il ne change pas d’expertise (très bien définie et avec une vraie valeur ajoutée) ni de cible finale sauf qu’il a été principalement en sous-traitance de bureaux d’étude et a besoin de travailler en direct avec les maîtres d’ouvrage et gestionnaires de parcs immobilier pour les auditer conseiller accompagner dans l’optimisation de leur exploitation énergétique.\r\n"
+  customer_id: null
+  arrival_url: null
+  seen: false
+  created_by: 5
+  activity_report_id: null
+  date: "2021-01-07 16:49:15.751227"
+  status: "done"
+  timeline_type_id: 3
+  intercom_code: null
+  customer_bill_id: null
+  updated_at: "2021-01-07 16:49:15.8706"
+  business_contract_id: 158864
+  wage_id: null
+  arrival_formulaire_type: null
+  operating_expense_id: null
+  service_id: null
+  establishment_contact_id: null
+  employee_id: null
+  read_at: null

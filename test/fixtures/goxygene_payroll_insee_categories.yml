@@ -1,0 +1,3727 @@
+---
+agricul./_eleveu._de_leur_exploita.:
+  id: 21
+  active: true
+  label: Agricul./ Eleveu. de leur exploita.
+  payroll_insee_categorie_code: 131F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+artis._/salariés_de_leur_entreprise:
+  id: 55
+  active: true
+  label: Artis. /salariés de leur entreprise
+  payroll_insee_categorie_code: 219A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+commer.,salariés_de_leur_entrepr.:
+  id: 80
+  active: true
+  label: Commer.,salariés de leur entrepr.
+  payroll_insee_categorie_code: 227D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+chef_grande_entreprise_500sal_et_+:
+  id: 81
+  active: true
+  label: Chef grande entreprise 500sal et +
+  payroll_insee_categorie_code: 231A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+chefs_moyenne_entreprise,_50/499:
+  id: 82
+  active: true
+  label: Chefs moyenne entreprise, 50/499
+  payroll_insee_categorie_code: 232A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+chefs_entreprise_du_bâtiment:
+  id: 83
+  active: true
+  label: Chefs entreprise du bâtiment
+  payroll_insee_categorie_code: 233A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+chefs_entreprise_industrie_transp:
+  id: 84
+  active: true
+  label: Chefs entreprise industrie transp
+  payroll_insee_categorie_code: 233B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+chefs_entreprise_commerciale:
+  id: 85
+  active: true
+  label: Chefs entreprise commerciale
+  payroll_insee_categorie_code: 233C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+chefs_entreprise_de_services:
+  id: 86
+  active: true
+  label: Chefs entreprise de services
+  payroll_insee_categorie_code: 233D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+inutilisé:
+  id: 506
+  active: true
+  label: Inutilisé
+  payroll_insee_categorie_code: 671B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+chirurgiens_dentistes:
+  id: 89
+  active: true
+  label: Chirurgiens dentistes
+  payroll_insee_categorie_code: 311C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+psycho_psychanal_psychothérap:
+  id: 90
+  active: true
+  label: Psycho psychanal psychothérap
+  payroll_insee_categorie_code: 311D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+vétérinaires_(libéraux/_salariés):
+  id: 91
+  active: true
+  label: Vétérinaires (libéraux/ salariés)
+  payroll_insee_categorie_code: 311E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+avocats:
+  id: 93
+  active: true
+  label: Avocats
+  payroll_insee_categorie_code: 312A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+personnel_direction_fonction_publiq:
+  id: 101
+  active: true
+  label: Personnel direction fonction publiq
+  payroll_insee_categorie_code: 331A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingénieurs_de_l'etat_et_assimilés:
+  id: 102
+  active: true
+  label: Ingénieurs de l'Etat et assimilés
+  payroll_insee_categorie_code: 332A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_collectivité_local_et_hopital:
+  id: 103
+  active: true
+  label: Ingén collectivité local et hopital
+  payroll_insee_categorie_code: 332B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_de_la_poste:
+  id: 106
+  active: true
+  label: Cadres de la poste
+  payroll_insee_categorie_code: 333C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_administratif_francetélécom:
+  id: 107
+  active: true
+  label: Cadres administratif FranceTélécom
+  payroll_insee_categorie_code: 333D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+autres_person_cat_a_etat_et_assimil:
+  id: 108
+  active: true
+  label: Autres person cat A Etat et assimil
+  payroll_insee_categorie_code: 333E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+person_adm_cata_collect_local_§_hop:
+  id: 109
+  active: true
+  label: Person adm catA collect local § hop
+  payroll_insee_categorie_code: 333F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+prof_agrégés_certif_ens_secondaire:
+  id: 112
+  active: true
+  label: Prof agrégés certif ens secondaire
+  payroll_insee_categorie_code: 341A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+chefs_étab_enseignement_secondaire:
+  id: 113
+  active: true
+  label: Chefs étab enseignement secondaire
+  payroll_insee_categorie_code: 341B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+enseignants_enseignement_supérieur:
+  id: 114
+  active: true
+  label: Enseignants enseignement supérieur
+  payroll_insee_categorie_code: 342A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+prof_agrég_certif_fonction_ens_sup:
+  id: 116
+  active: true
+  label: Prof agrég certif fonction ens sup
+  payroll_insee_categorie_code: 342C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+pers._enseig._temp._ens._supérieur:
+  id: 117
+  active: true
+  label: Pers. enseig. temp. ens. supérieur
+  payroll_insee_categorie_code: 342D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+directeur_et_chargés_recherche_pub:
+  id: 119
+  active: true
+  label: Directeur et chargés recherche pub
+  payroll_insee_categorie_code: 342F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingénieurs_d'étude_recherche_pub:
+  id: 120
+  active: true
+  label: Ingénieurs d'étude recherche pub
+  payroll_insee_categorie_code: 342G
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+allocataires_recherche_publique:
+  id: 121
+  active: true
+  label: Allocataires recherche publique
+  payroll_insee_categorie_code: 342H
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+psy_orientation_scolaire_et_profes:
+  id: 122
+  active: true
+  label: Psy orientation scolaire et profes
+  payroll_insee_categorie_code: 343A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+médecin_hosp_sans_activité_libérale:
+  id: 123
+  active: true
+  label: Médecin hosp sans activité libérale
+  payroll_insee_categorie_code: 344A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+médecin_salarié_non_hospitalier:
+  id: 124
+  active: true
+  label: Médecin salarié non hospitalier
+  payroll_insee_categorie_code: 344B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+intern_en_méd_odontologie_pharmacie:
+  id: 125
+  active: true
+  label: Intern en méd odontologie pharmacie
+  payroll_insee_categorie_code: 344C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+pharmaciens_salariés:
+  id: 126
+  active: true
+  label: Pharmaciens salariés
+  payroll_insee_categorie_code: 344D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+bibliot.,_archiviste,_conservateur:
+  id: 127
+  active: true
+  label: Bibliot., archiviste, conservateur
+  payroll_insee_categorie_code: 351A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+journalistes_y_c_rédacteurs_en_chef:
+  id: 128
+  active: true
+  label: Journalistes y c rédacteurs en chef
+  payroll_insee_categorie_code: 352A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+auteur_littér_scénariste_dialoguis:
+  id: 129
+  active: true
+  label: Auteur littér scénariste dialoguis
+  payroll_insee_categorie_code: 352B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+directeurs_journaux_et_editions:
+  id: 130
+  active: true
+  label: Directeurs journaux et editions
+  payroll_insee_categorie_code: 353A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+dir_program_prod_audiovisuel_spect:
+  id: 131
+  active: true
+  label: Dir program prod audiovisuel spect
+  payroll_insee_categorie_code: 353B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadre_artiste_de_réalisation_audio:
+  id: 132
+  active: true
+  label: Cadre artiste de réalisation audio
+  payroll_insee_categorie_code: 353C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+artistes_plasticiens:
+  id: 133
+  active: true
+  label: Artistes plasticiens
+  payroll_insee_categorie_code: 354A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+artistes_musique_et_chant:
+  id: 134
+  active: true
+  label: Artistes musique et chant
+  payroll_insee_categorie_code: 354B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+artistes_dramatiques:
+  id: 135
+  active: true
+  label: Artistes dramatiques
+  payroll_insee_categorie_code: 354C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+artistes_de_la_danse:
+  id: 137
+  active: true
+  label: Artistes de la danse
+  payroll_insee_categorie_code: 354E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+artistes_cirque,_spect._divers:
+  id: 138
+  active: true
+  label: Artistes cirque, spect. divers
+  payroll_insee_categorie_code: 354F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+professeurs_d_art_hors_étab_scol:
+  id: 139
+  active: true
+  label: Professeurs d art hors étab scol
+  payroll_insee_categorie_code: 354G
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadre_état_major_grande_entreprise:
+  id: 140
+  active: true
+  label: Cadre état major grande entreprise
+  payroll_insee_categorie_code: 371A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_chargés_études:
+  id: 141
+  active: true
+  label: Cadres chargés études
+  payroll_insee_categorie_code: 372A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_organisation_ou_controle:
+  id: 142
+  active: true
+  label: Cadres organisation ou controle
+  payroll_insee_categorie_code: 372B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_gestion_service_personnel:
+  id: 143
+  active: true
+  label: Cadres gestion service personnel
+  payroll_insee_categorie_code: 372C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_spécialistes_de_la_formation:
+  id: 144
+  active: true
+  label: Cadres spécialistes de la formation
+  payroll_insee_categorie_code: 372D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+juristes:
+  id: 145
+  active: true
+  label: Juristes
+  payroll_insee_categorie_code: 372E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_document.,_archivage:
+  id: 146
+  active: true
+  label: Cadres document., archivage
+  payroll_insee_categorie_code: 372F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_serv_financ_ou_compt_gde_ent:
+  id: 147
+  active: true
+  label: Cadres serv financ ou compt gde ent
+  payroll_insee_categorie_code: 373A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_autres_services_administrat:
+  id: 148
+  active: true
+  label: Cadres autres services administrat
+  payroll_insee_categorie_code: 373B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_serv_financ_ou_compt_pte_ent:
+  id: 149
+  active: true
+  label: Cadres serv financ ou compt pte ent
+  payroll_insee_categorie_code: 373C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_autres_serv._administratifs:
+  id: 150
+  active: true
+  label: Cadres autres serv. administratifs
+  payroll_insee_categorie_code: 373D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_exploit_mag_vente_com_détail:
+  id: 151
+  active: true
+  label: Cadres exploit mag vente com détail
+  payroll_insee_categorie_code: 374A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+chefs_prod_autres_cadres_mercatique:
+  id: 152
+  active: true
+  label: Chefs prod autres cadres mercatique
+  payroll_insee_categorie_code: 374B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_comm_grde_entrp_hors_détail:
+  id: 153
+  active: true
+  label: Cadres comm grde entrp hors détail
+  payroll_insee_categorie_code: 374C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_comm_pte_moy_entreprises:
+  id: 154
+  active: true
+  label: Cadres comm pte moy entreprises
+  payroll_insee_categorie_code: 374D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_de_la_publicité:
+  id: 155
+  active: true
+  label: Cadres de la publicité
+  payroll_insee_categorie_code: 375A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_relat__publiq_communication:
+  id: 156
+  active: true
+  label: Cadres relat  publiq communication
+  payroll_insee_categorie_code: 375B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_des_marchés_financiers:
+  id: 157
+  active: true
+  label: Cadres des marchés financiers
+  payroll_insee_categorie_code: 376A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_des_opérations_bancaires:
+  id: 158
+  active: true
+  label: Cadres des opérations bancaires
+  payroll_insee_categorie_code: 376B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_commerciaux_de_la_banque:
+  id: 159
+  active: true
+  label: Cadres commerciaux de la banque
+  payroll_insee_categorie_code: 376C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+chefs_étab./resp._exploit._bancaire:
+  id: 160
+  active: true
+  label: Chefs étab./resp. exploit. bancaire
+  payroll_insee_categorie_code: 376D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_services_techniq_assurances:
+  id: 161
+  active: true
+  label: Cadres services techniq assurances
+  payroll_insee_categorie_code: 376E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_serv._tech._org._séc._soc.:
+  id: 162
+  active: true
+  label: Cadres serv. tech. org. séc. soc.
+  payroll_insee_categorie_code: 376F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_de_l'immobilier:
+  id: 163
+  active: true
+  label: Cadres de l'immobilier
+  payroll_insee_categorie_code: 376G
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_hotellerie_restauration:
+  id: 164
+  active: true
+  label: Cadres hotellerie restauration
+  payroll_insee_categorie_code: 377A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+direct_techniq_grandes_etreprises:
+  id: 165
+  active: true
+  label: Direct techniq grandes etreprises
+  payroll_insee_categorie_code: 380A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_étude/dev_agri_pêche_eaux_for:
+  id: 167
+  active: true
+  label: Ingén étude/dev agri pêche eaux for
+  payroll_insee_categorie_code: 381B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_prod/exp_agri_pêche_eaux_for:
+  id: 168
+  active: true
+  label: Ingén prod/exp agri pêche eaux for
+  payroll_insee_categorie_code: 381C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadres_étude_bâtiment_et_tp:
+  id: 169
+  active: true
+  label: Ingén cadres étude bâtiment et TP
+  payroll_insee_categorie_code: 382A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+architectes_salariés:
+  id: 170
+  active: true
+  label: Architectes salariés
+  payroll_insee_categorie_code: 382B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_chant_cond_bat_et_tp:
+  id: 171
+  active: true
+  label: Ingén cadre chant cond bat et TP
+  payroll_insee_categorie_code: 382C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_tech_comm_batiment_tp:
+  id: 172
+  active: true
+  label: Ingén cadre tech comm batiment TP
+  payroll_insee_categorie_code: 382D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_rech_dev_électricité_électron:
+  id: 173
+  active: true
+  label: Ingén rech dev électricité électron
+  payroll_insee_categorie_code: 383A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_fabric_électriq_élect:
+  id: 174
+  active: true
+  label: Ingén cadre fabric électriq élect
+  payroll_insee_categorie_code: 383B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_tech_comm_mat_électriq:
+  id: 175
+  active: true
+  label: Ingén cadre tech comm mat électriq
+  payroll_insee_categorie_code: 383C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_rech_dev_mécanique_métaux:
+  id: 176
+  active: true
+  label: Ingén rech dev mécanique métaux
+  payroll_insee_categorie_code: 384A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_fabric_mécanique:
+  id: 177
+  active: true
+  label: Ingén cadre fabric mécanique
+  payroll_insee_categorie_code: 384B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_tech_comm_mat_mécaniq:
+  id: 178
+  active: true
+  label: Ingén cadre tech comm mat mécaniq
+  payroll_insee_categorie_code: 384C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadres_industries_transformat:
+  id: 179
+  active: true
+  label: Ingén cadres industries transformat
+  payroll_insee_categorie_code: 385A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_fab_ind_transformat:
+  id: 180
+  active: true
+  label: Ingén cadre fab ind transformat
+  payroll_insee_categorie_code: 385B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_tech_comm_transfomat:
+  id: 181
+  active: true
+  label: Ingén cadre tech comm transfomat
+  payroll_insee_categorie_code: 385C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadr_rech_dev_distrib_énerg:
+  id: 183
+  active: true
+  label: Ingén cadr rech dev distrib énerg
+  payroll_insee_categorie_code: 386B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadres_autres_industries:
+  id: 184
+  active: true
+  label: Ingén cadres autres industries
+  payroll_insee_categorie_code: 386C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_produc_distrib_énergie:
+  id: 185
+  active: true
+  label: Ingén cadre produc distrib énergie
+  payroll_insee_categorie_code: 386D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_fab_autres_industries:
+  id: 186
+  active: true
+  label: Ingén cadre fab autres industries
+  payroll_insee_categorie_code: 386E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_achat_appro_industriel:
+  id: 187
+  active: true
+  label: Ingén cadre achat appro industriel
+  payroll_insee_categorie_code: 387A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_logistiq_planning_ord:
+  id: 188
+  active: true
+  label: Ingén cadre logistiq planning ord
+  payroll_insee_categorie_code: 387B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_méthodes_production:
+  id: 189
+  active: true
+  label: Ingén cadre méthodes production
+  payroll_insee_categorie_code: 387C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_et_cadres_contrôle_qualité:
+  id: 190
+  active: true
+  label: Ingén et cadres contrôle qualité
+  payroll_insee_categorie_code: 387D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_maint_entretien_trav:
+  id: 191
+  active: true
+  label: Ingén cadre maint entretien trav
+  payroll_insee_categorie_code: 387E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_techniq._environnement:
+  id: 192
+  active: true
+  label: Ingén cadre techniq. environnement
+  payroll_insee_categorie_code: 387F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_rech_dev_informatique:
+  id: 193
+  active: true
+  label: Ingén cadre rech dev informatique
+  payroll_insee_categorie_code: 388A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_admin,_maint_informatiq:
+  id: 194
+  active: true
+  label: Ingén cadre admin, maint informatiq
+  payroll_insee_categorie_code: 388B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+chefs_projets/responsables_informat:
+  id: 195
+  active: true
+  label: Chefs projets/responsables informat
+  payroll_insee_categorie_code: 388C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_tech_comm_informatiq:
+  id: 196
+  active: true
+  label: Ingén cadre tech comm informatiq
+  payroll_insee_categorie_code: 388D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_spéc._télécommunication:
+  id: 197
+  active: true
+  label: Ingén cadre spéc. télécommunication
+  payroll_insee_categorie_code: 388E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ingén_cadre_techniq_exploit_transp:
+  id: 198
+  active: true
+  label: Ingén cadre techniq exploit transp
+  payroll_insee_categorie_code: 389A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+offic_cadre_navigu_aviation_civil:
+  id: 199
+  active: true
+  label: Offic cadre navigu aviation civil
+  payroll_insee_categorie_code: 389B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+offic_cadre_navigu_marine_marchan:
+  id: 200
+  active: true
+  label: Offic cadre navigu marine marchan
+  payroll_insee_categorie_code: 389C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+instituteurs:
+  id: 201
+  active: true
+  label: Instituteurs
+  payroll_insee_categorie_code: 421A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+professeurs_des_écoles:
+  id: 202
+  active: true
+  label: Professeurs des écoles
+  payroll_insee_categorie_code: 421B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+professeurs_enseign_gén_collèges:
+  id: 203
+  active: true
+  label: Professeurs enseign gén collèges
+  payroll_insee_categorie_code: 422A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+professeurs_lycée_professionnel:
+  id: 204
+  active: true
+  label: Professeurs lycée professionnel
+  payroll_insee_categorie_code: 422B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+maître_auxiliaire_enseign_second:
+  id: 205
+  active: true
+  label: Maître auxiliaire enseign second
+  payroll_insee_categorie_code: 422C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+conseillers_principaux_éducation:
+  id: 206
+  active: true
+  label: Conseillers principaux éducation
+  payroll_insee_categorie_code: 422D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+surv._aides-éducateurs_étab._enseig:
+  id: 207
+  active: true
+  label: Surv. aides-éducateurs étab. enseig
+  payroll_insee_categorie_code: 422E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+moniteurs_écoles_de_conduite:
+  id: 208
+  active: true
+  label: Moniteurs écoles de conduite
+  payroll_insee_categorie_code: 423A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+formateurs/animat_form._continue:
+  id: 209
+  active: true
+  label: Formateurs/animat form. continue
+  payroll_insee_categorie_code: 423B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+moniteur_éducateur_sportif:
+  id: 210
+  active: true
+  label: Moniteur éducateur sportif
+  payroll_insee_categorie_code: 424A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+sous_bibliothécaires:
+  id: 211
+  active: true
+  label: Sous bibliothécaires
+  payroll_insee_categorie_code: 425A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_infirmiers_et_assimilés:
+  id: 212
+  active: true
+  label: Cadres infirmiers et assimilés
+  payroll_insee_categorie_code: 431A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+infirmiers_psychiatriques:
+  id: 213
+  active: true
+  label: Infirmiers psychiatriques
+  payroll_insee_categorie_code: 431B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+puéricultrices:
+  id: 214
+  active: true
+  label: Puéricultrices
+  payroll_insee_categorie_code: 431C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+infirm_spécial_autre_que_psy_puér:
+  id: 215
+  active: true
+  label: Infirm spécial autre que psy puér
+  payroll_insee_categorie_code: 431D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+sages_femmes:
+  id: 216
+  active: true
+  label: Sages femmes
+  payroll_insee_categorie_code: 431E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+infirmiers_en_soins_généraux:
+  id: 217
+  active: true
+  label: Infirmiers en soins généraux
+  payroll_insee_categorie_code: 431F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+masseurs_kiné_rééducateurs:
+  id: 220
+  active: true
+  label: Masseurs kiné rééducateurs
+  payroll_insee_categorie_code: 432B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+autres_spéc_rééducation,_salariés:
+  id: 222
+  active: true
+  label: Autres spéc rééducation, salariés
+  payroll_insee_categorie_code: 432D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+techniciens_médicaux:
+  id: 223
+  active: true
+  label: Techniciens médicaux
+  payroll_insee_categorie_code: 433A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+opticien_lunetier_audioprothésist:
+  id: 224
+  active: true
+  label: Opticien lunetier audioprothésist
+  payroll_insee_categorie_code: 433B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+autres_spéc_appareillage_médical:
+  id: 225
+  active: true
+  label: Autres spéc appareillage médical
+  payroll_insee_categorie_code: 433C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+préparateurs_en_pharmacie:
+  id: 226
+  active: true
+  label: Préparateurs en pharmacie
+  payroll_insee_categorie_code: 433D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cadres_intervention_socio_éducative:
+  id: 227
+  active: true
+  label: Cadres intervention socio éducative
+  payroll_insee_categorie_code: 434A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+assistant_de_service_social:
+  id: 228
+  active: true
+  label: Assistant de service social
+  payroll_insee_categorie_code: 434B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+conseiller_économie_socio_famille:
+  id: 229
+  active: true
+  label: Conseiller économie socio famille
+  payroll_insee_categorie_code: 434C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+educateurs_spécialisés:
+  id: 230
+  active: true
+  label: Educateurs spécialisés
+  payroll_insee_categorie_code: 434D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+moniteurs_éducateurs:
+  id: 231
+  active: true
+  label: Moniteurs éducateurs
+  payroll_insee_categorie_code: 434E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+educateurs_tech_spéc,_monit_atelier:
+  id: 232
+  active: true
+  label: Educateurs tech spéc, monit atelier
+  payroll_insee_categorie_code: 434F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+educateurs_de_jeunes_enfants:
+  id: 233
+  active: true
+  label: Educateurs de jeunes enfants
+  payroll_insee_categorie_code: 434G
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+directeurs_centres_sociocul/loisir:
+  id: 234
+  active: true
+  label: Directeurs centres sociocul/loisir
+  payroll_insee_categorie_code: 435A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+animateur_socioculturel_et_loisirs:
+  id: 235
+  active: true
+  label: Animateur socioculturel et loisirs
+  payroll_insee_categorie_code: 435B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+clergé_séclier:
+  id: 236
+  active: true
+  label: Clergé séclier
+  payroll_insee_categorie_code: 441A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+clergé_régulier:
+  id: 237
+  active: true
+  label: Clergé régulier
+  payroll_insee_categorie_code: 441B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+profession_intermédiaire_poste:
+  id: 238
+  active: true
+  label: Profession intermédiaire poste
+  payroll_insee_categorie_code: 451A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+prof_interm_adm_francetélécom:
+  id: 239
+  active: true
+  label: Prof interm adm FranceTélécom
+  payroll_insee_categorie_code: 451B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+autre_person_adm_cat_b_de_etat:
+  id: 242
+  active: true
+  label: Autre person adm cat B de Etat
+  payroll_insee_categorie_code: 451E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+profess_interméd_adm_collectivité:
+  id: 244
+  active: true
+  label: Profess interméd adm collectivité
+  payroll_insee_categorie_code: 451G
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+profession_intermed_adm_hopitaux:
+  id: 245
+  active: true
+  label: Profession intermed adm hopitaux
+  payroll_insee_categorie_code: 451H
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+secrét_assist_direction_non_cadre:
+  id: 249
+  active: true
+  label: Secrét assist direction non cadre
+  payroll_insee_categorie_code: 461B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+secrétaires_de_niveau_supérieur:
+  id: 250
+  active: true
+  label: Secrétaires de niveau supérieur
+  payroll_insee_categorie_code: 461C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+maîtrise_et_techniciens_services:
+  id: 251
+  active: true
+  label: Maîtrise et techniciens services
+  payroll_insee_categorie_code: 461D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+maîtrise_technicien_adm_juridique:
+  id: 252
+  active: true
+  label: Maîtrise technicien adm juridique
+  payroll_insee_categorie_code: 461E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+maîtrise_technicien_admin_autres:
+  id: 253
+  active: true
+  label: Maîtrise technicien admin autres
+  payroll_insee_categorie_code: 461F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+chefs_petite_surface_de_vente:
+  id: 254
+  active: true
+  label: Chefs petite surface de vente
+  payroll_insee_categorie_code: 462A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+maîtrise_exploit_magasin_vente:
+  id: 255
+  active: true
+  label: Maîtrise exploit magasin vente
+  payroll_insee_categorie_code: 462B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+acheteur_non_classé_cadre:
+  id: 256
+  active: true
+  label: Acheteur non classé cadre
+  payroll_insee_categorie_code: 462C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+animat_commerc_ds_magasin_vente:
+  id: 257
+  active: true
+  label: Animat commerc ds magasin vente
+  payroll_insee_categorie_code: 462D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+autre_profess_interméd_commercial:
+  id: 258
+  active: true
+  label: Autre profess interméd commercial
+  payroll_insee_categorie_code: 462E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_commerc_informatique:
+  id: 259
+  active: true
+  label: Technic commerc informatique
+  payroll_insee_categorie_code: 463A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_commerc_bien_équipement:
+  id: 260
+  active: true
+  label: Technic commerc bien équipement
+  payroll_insee_categorie_code: 463B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technicien_commerc_bien_consommat:
+  id: 261
+  active: true
+  label: Technicien commerc bien consommat
+  payroll_insee_categorie_code: 463C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_commerc_service_entrepris:
+  id: 262
+  active: true
+  label: Technic commerc service entrepris
+  payroll_insee_categorie_code: 463D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_commerc_service_particuli:
+  id: 263
+  active: true
+  label: Technic commerc service particuli
+  payroll_insee_categorie_code: 463E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+assist_publicité_relation_publique:
+  id: 264
+  active: true
+  label: Assist publicité relation publique
+  payroll_insee_categorie_code: 464A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+interprètes_traducteurs:
+  id: 265
+  active: true
+  label: Interprètes traducteurs
+  payroll_insee_categorie_code: 464B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+concepteur_art_graphiq_décoration:
+  id: 266
+  active: true
+  label: Concepteur art graphiq décoration
+  payroll_insee_categorie_code: 465A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+assist_tech_réalisat_spectacles:
+  id: 267
+  active: true
+  label: Assist tech réalisat spectacles
+  payroll_insee_categorie_code: 465B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+photographes:
+  id: 268
+  active: true
+  label: Photographes
+  payroll_insee_categorie_code: 465C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+resp_commerc_transp_voyageurs:
+  id: 269
+  active: true
+  label: Resp commerc transp voyageurs
+  payroll_insee_categorie_code: 466A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+resp_commerc_admi_transp_marchandis:
+  id: 270
+  active: true
+  label: Resp commerc admi transp marchandis
+  payroll_insee_categorie_code: 466B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+resp_exploit_transp_voyageurs:
+  id: 271
+  active: true
+  label: Resp exploit transp voyageurs
+  payroll_insee_categorie_code: 466C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+chargés_de_clientèle_bancaire:
+  id: 272
+  active: true
+  label: Chargés de clientèle bancaire
+  payroll_insee_categorie_code: 467A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technicien_opérations_bancaires:
+  id: 273
+  active: true
+  label: Technicien opérations bancaires
+  payroll_insee_categorie_code: 467B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+profession_interm_éd_assurances:
+  id: 274
+  active: true
+  label: Profession interm éd assurances
+  payroll_insee_categorie_code: 467C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+profess_interméd_tech_séc_sociale:
+  id: 275
+  active: true
+  label: Profess interméd tech séc sociale
+  payroll_insee_categorie_code: 467D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+maîtrise_restauration_salle_servi:
+  id: 276
+  active: true
+  label: Maîtrise restauration salle servi
+  payroll_insee_categorie_code: 468A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+maîtrise_hébergement_hall_étages:
+  id: 277
+  active: true
+  label: Maîtrise hébergement hall étages
+  payroll_insee_categorie_code: 468B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_étude_agriculture_eaux:
+  id: 278
+  active: true
+  label: Technic étude agriculture eaux
+  payroll_insee_categorie_code: 471A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_exploit_prod_agriculture:
+  id: 279
+  active: true
+  label: Technic exploit prod agriculture
+  payroll_insee_categorie_code: 471B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+dessinateurs_bâtiment_et_tp:
+  id: 280
+  active: true
+  label: Dessinateurs bâtiment et TP
+  payroll_insee_categorie_code: 472A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+géomètres_topographes:
+  id: 281
+  active: true
+  label: Géomètres topographes
+  payroll_insee_categorie_code: 472B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+métreurs_technic_divers_bât_tp:
+  id: 282
+  active: true
+  label: Métreurs technic divers bât TP
+  payroll_insee_categorie_code: 472C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technicien_tp_etat_collectivité:
+  id: 283
+  active: true
+  label: Technicien TP Etat collectivité
+  payroll_insee_categorie_code: 472D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+dessinateur_électricit_électroméc:
+  id: 284
+  active: true
+  label: Dessinateur électricit électroméc
+  payroll_insee_categorie_code: 473A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_r_et_d_électricité:
+  id: 285
+  active: true
+  label: Technic R et D électricité
+  payroll_insee_categorie_code: 473B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_fab_et_contrôle_qualité:
+  id: 286
+  active: true
+  label: Technic fab et contrôle qualité
+  payroll_insee_categorie_code: 473C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+dessin_construct_mécaniq_ue:
+  id: 287
+  active: true
+  label: Dessin construct mécaniq ue
+  payroll_insee_categorie_code: 474A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_r_et_d_construction_mécaniq:
+  id: 288
+  active: true
+  label: Technic R et D construction mécaniq
+  payroll_insee_categorie_code: 474B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_fabrication_const_mécani:
+  id: 289
+  active: true
+  label: Technic fabrication const mécani
+  payroll_insee_categorie_code: 474C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_r_et_d_prod_indust_transfor:
+  id: 290
+  active: true
+  label: Technic R et D prod indust transfor
+  payroll_insee_categorie_code: 475A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_prod_indust_transform:
+  id: 291
+  active: true
+  label: Technic prod indust transform
+  payroll_insee_categorie_code: 475B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+assistant_tech_imprimerie_édition:
+  id: 292
+  active: true
+  label: Assistant tech imprimerie édition
+  payroll_insee_categorie_code: 476A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_indust_métaux_souple_bois:
+  id: 293
+  active: true
+  label: Technic indust métaux souple bois
+  payroll_insee_categorie_code: 476B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_logistiq_planning_ordonn:
+  id: 294
+  active: true
+  label: Technic logistiq planning ordonn
+  payroll_insee_categorie_code: 477A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_instal_maintenance_indust:
+  id: 295
+  active: true
+  label: Technic instal maintenance indust
+  payroll_insee_categorie_code: 477B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_instal_maint_équip_non_ind:
+  id: 296
+  active: true
+  label: Technic instal maint équip non ind
+  payroll_insee_categorie_code: 477C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_envir_et_trait_pollutions:
+  id: 297
+  active: true
+  label: Technic envir et trait pollutions
+  payroll_insee_categorie_code: 477D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_étude_développ_informatique:
+  id: 298
+  active: true
+  label: Technic étude développ informatique
+  payroll_insee_categorie_code: 478A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_prod_exploit_informatique:
+  id: 299
+  active: true
+  label: Technic prod exploit informatique
+  payroll_insee_categorie_code: 478B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_inst_maint_en_informatique:
+  id: 300
+  active: true
+  label: Technic inst maint en informatique
+  payroll_insee_categorie_code: 478C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_télécom_informatiq_réseau:
+  id: 301
+  active: true
+  label: Technic télécom informatiq réseau
+  payroll_insee_categorie_code: 478D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+technic_lab_recherche_publique:
+  id: 302
+  active: true
+  label: Technic lab recherche publique
+  payroll_insee_categorie_code: 479A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+expert_salarié_ou_indépendant_:
+  id: 303
+  active: true
+  label: 'Expert salarié ou indépendant '
+  payroll_insee_categorie_code: 479B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+contremaître_agriculture_sylvicultu:
+  id: 304
+  active: true
+  label: Contremaître agriculture sylvicultu
+  payroll_insee_categorie_code: 480A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+maître_équipage_marine_march_pêche:
+  id: 305
+  active: true
+  label: Maître équipage marine march pêche
+  payroll_insee_categorie_code: 480B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+conducteurs_travaux_non_cadres:
+  id: 306
+  active: true
+  label: Conducteurs travaux non cadres
+  payroll_insee_categorie_code: 481A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+chefs_de_chantier_non_cadre:
+  id: 307
+  active: true
+  label: Chefs de chantier non cadre
+  payroll_insee_categorie_code: 481B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+am_fabrication_mat_électricque:
+  id: 308
+  active: true
+  label: AM fabrication mat électricque
+  payroll_insee_categorie_code: 482A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+am_construct_mécanique_métaux:
+  id: 309
+  active: true
+  label: AM construct mécanique métaux
+  payroll_insee_categorie_code: 483A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+am_fabricat_agroalim_chimie_plast:
+  id: 310
+  active: true
+  label: AM fabricat agroalim chimie plast
+  payroll_insee_categorie_code: 484A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+am_fabricat_métal_mat_lourds_:
+  id: 311
+  active: true
+  label: 'AM fabricat métal mat lourds '
+  payroll_insee_categorie_code: 484B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+am_produc_distrib_énergie_:
+  id: 312
+  active: true
+  label: 'AM produc distrib énergie '
+  payroll_insee_categorie_code: 485A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+am_fabricat_autres_industries:
+  id: 313
+  active: true
+  label: AM fabricat autres industries
+  payroll_insee_categorie_code: 485B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+am_maintenan_instal_électricité:
+  id: 315
+  active: true
+  label: AM maintenan instal électricité
+  payroll_insee_categorie_code: 486B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+am_maintenance_instal_électromé:
+  id: 316
+  active: true
+  label: AM maintenance instal électromé
+  payroll_insee_categorie_code: 486C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+am_maintenance_instal_mécanique:
+  id: 317
+  active: true
+  label: AM maintenance instal mécanique
+  payroll_insee_categorie_code: 486D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+am_entret_général_install_travaux:
+  id: 318
+  active: true
+  label: AM entret général install travaux
+  payroll_insee_categorie_code: 486E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+responsable_d'entrepôt_et_magasinag:
+  id: 319
+  active: true
+  label: Responsable d'entrepôt et magasinag
+  payroll_insee_categorie_code: 487A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+responsable_tri_emballage_expédit:
+  id: 320
+  active: true
+  label: Responsable tri emballage expédit
+  payroll_insee_categorie_code: 487B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+maîtrise_restau_cuisine/production:
+  id: 321
+  active: true
+  label: Maîtrise restau cuisine/production
+  payroll_insee_categorie_code: 488A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+maîtrise_restau_gestion_étab:
+  id: 322
+  active: true
+  label: Maîtrise restau gestion étab
+  payroll_insee_categorie_code: 488B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+employé_à_la_poste:
+  id: 323
+  active: true
+  label: Employé à la poste
+  payroll_insee_categorie_code: 521A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+employé_de_france_télécom:
+  id: 324
+  active: true
+  label: Employé de France Télécom
+  payroll_insee_categorie_code: 521B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+adjoint_administrat_etat_et_assim:
+  id: 327
+  active: true
+  label: Adjoint administrat Etat et assim
+  payroll_insee_categorie_code: 523B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+adjoint_adm_collectivité_locale:
+  id: 328
+  active: true
+  label: Adjoint adm collectivité locale
+  payroll_insee_categorie_code: 523C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+adjoint_adm_hôpitaux_publics:
+  id: 329
+  active: true
+  label: Adjoint adm hôpitaux publics
+  payroll_insee_categorie_code: 523D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+agent_administratif_de_l'état:
+  id: 331
+  active: true
+  label: Agent administratif de l'état
+  payroll_insee_categorie_code: 524B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+agent_admnistratif_collectivités:
+  id: 332
+  active: true
+  label: Agent admnistratif collectivités
+  payroll_insee_categorie_code: 524C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+agent_admin_hôpitaux_publics:
+  id: 333
+  active: true
+  label: Agent admin hôpitaux publics
+  payroll_insee_categorie_code: 524D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+agent_service_étab_primaire:
+  id: 334
+  active: true
+  label: Agent service étab primaire
+  payroll_insee_categorie_code: 525A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+agent_service_autres_étab_enseign:
+  id: 335
+  active: true
+  label: Agent service autres étab enseign
+  payroll_insee_categorie_code: 525B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+agent_service_fonction_publique:
+  id: 336
+  active: true
+  label: Agent service fonction publique
+  payroll_insee_categorie_code: 525C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+agent_de_services_hospitaliers:
+  id: 337
+  active: true
+  label: Agent de services hospitaliers
+  payroll_insee_categorie_code: 525D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+aides_soignants:
+  id: 338
+  active: true
+  label: Aides soignants
+  payroll_insee_categorie_code: 526A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ass_dent.,_médicaux_et_vétérinaires:
+  id: 339
+  active: true
+  label: Ass dent., médicaux et vétérinaires
+  payroll_insee_categorie_code: 526B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+auxiliaires_de_puériculture:
+  id: 340
+  active: true
+  label: Auxiliaires de puériculture
+  payroll_insee_categorie_code: 526C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+aides_médico-psychologiques:
+  id: 341
+  active: true
+  label: Aides médico-psychologiques
+  payroll_insee_categorie_code: 526D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ambulanciers:
+  id: 342
+  active: true
+  label: Ambulanciers
+  payroll_insee_categorie_code: 526E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+pompiers:
+  id: 349
+  active: true
+  label: Pompiers
+  payroll_insee_categorie_code: 533A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+agent_techn_forestier_garde_espace:
+  id: 350
+  active: true
+  label: Agent techn forestier garde espace
+  payroll_insee_categorie_code: 533B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+agent_surveillance_patrimoine:
+  id: 351
+  active: true
+  label: Agent surveillance patrimoine
+  payroll_insee_categorie_code: 533C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+agents_civils_sécurité_surveillance:
+  id: 352
+  active: true
+  label: Agents civils sécurité surveillance
+  payroll_insee_categorie_code: 534A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+convoyeurs_fonds,_gardes_du_corps:
+  id: 353
+  active: true
+  label: Convoyeurs fonds, gardes du corps
+  payroll_insee_categorie_code: 534B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+agent_accueil_qualifié_hotesse:
+  id: 355
+  active: true
+  label: Agent accueil qualifié hotesse
+  payroll_insee_categorie_code: 541B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+agents_d'accueil_non_qualifiés:
+  id: 356
+  active: true
+  label: Agents d'accueil non qualifiés
+  payroll_insee_categorie_code: 541C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+sandardistes,_téléphonistes:
+  id: 357
+  active: true
+  label: Sandardistes, téléphonistes
+  payroll_insee_categorie_code: 541D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+secrétaires:
+  id: 358
+  active: true
+  label: Secrétaires
+  payroll_insee_categorie_code: 542A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+dactylo_sténo_opérateur_traitem:
+  id: 359
+  active: true
+  label: Dactylo sténo opérateur traitem
+  payroll_insee_categorie_code: 542B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+emp_qualifié_comptable_ou_financier:
+  id: 361
+  active: true
+  label: Emp qualifié comptable ou financier
+  payroll_insee_categorie_code: 543B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+emp_non_qual_comptable_financier:
+  id: 362
+  active: true
+  label: Emp non qual comptable financier
+  payroll_insee_categorie_code: 543C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+emp_qual_serv_personnel_§_juridique:
+  id: 364
+  active: true
+  label: Emp qual serv personnel § juridique
+  payroll_insee_categorie_code: 543E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+emp_qualif_serv_commerciaux:
+  id: 365
+  active: true
+  label: Emp qualif serv commerciaux
+  payroll_insee_categorie_code: 543F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+emp_adm_qualif_autre_serv:
+  id: 366
+  active: true
+  label: Emp adm qualif autre serv
+  payroll_insee_categorie_code: 543G
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+employé_administratif_non_qualifié:
+  id: 367
+  active: true
+  label: Employé administratif non qualifié
+  payroll_insee_categorie_code: 543H
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+emp_opérateur_exploit_informatique:
+  id: 368
+  active: true
+  label: Emp opérateur exploit informatique
+  payroll_insee_categorie_code: 544A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+emp_adm_service_techn_de_banque:
+  id: 369
+  active: true
+  label: Emp adm service techn de banque
+  payroll_insee_categorie_code: 545A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+emp_service_commercial_banque:
+  id: 370
+  active: true
+  label: Emp service commercial banque
+  payroll_insee_categorie_code: 545B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+emp_service_techn_assurance:
+  id: 371
+  active: true
+  label: Emp service techn assurance
+  payroll_insee_categorie_code: 545C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+emp_service_tech_orga_sécu_sociale:
+  id: 372
+  active: true
+  label: Emp service tech orga sécu sociale
+  payroll_insee_categorie_code: 545D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+contrôleur_transport_person_roulant:
+  id: 373
+  active: true
+  label: Contrôleur transport person roulant
+  payroll_insee_categorie_code: 546A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+agent_serv_commerc_transp_voy:
+  id: 374
+  active: true
+  label: Agent serv commerc transp voy
+  payroll_insee_categorie_code: 546B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+emp_adm_exploit_transp_march:
+  id: 375
+  active: true
+  label: Emp adm exploit transp march
+  payroll_insee_categorie_code: 546C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+hôtesses_de_l'air_et_stewards:
+  id: 376
+  active: true
+  label: Hôtesses de l'air et stewards
+  payroll_insee_categorie_code: 546D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+autre_agent_et_hotesse_accompagne:
+  id: 377
+  active: true
+  label: Autre agent et hotesse accompagne
+  payroll_insee_categorie_code: 546E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+employé_libre_service_commerce:
+  id: 378
+  active: true
+  label: Employé libre service commerce
+  payroll_insee_categorie_code: 551A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+caissier_de_magasin:
+  id: 379
+  active: true
+  label: Caissier de magasin
+  payroll_insee_categorie_code: 552A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+vendeur_polyvalent_grand_magasin:
+  id: 381
+  active: true
+  label: Vendeur polyvalent grand magasin
+  payroll_insee_categorie_code: 553B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+autres_vendeurs_non_spécialisés:
+  id: 382
+  active: true
+  label: Autres vendeurs non spécialisés
+  payroll_insee_categorie_code: 553C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+vendeur_en_alimentation:
+  id: 383
+  active: true
+  label: Vendeur en alimentation
+  payroll_insee_categorie_code: 554A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+vendeur_ameublement_décore:
+  id: 384
+  active: true
+  label: Vendeur ameublement décore
+  payroll_insee_categorie_code: 554B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+vendeur_droguerie_bazar_quincaill:
+  id: 385
+  active: true
+  label: Vendeur droguerie bazar quincaill
+  payroll_insee_categorie_code: 554C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+vendeurs_du_commerce_de_fleurs:
+  id: 386
+  active: true
+  label: Vendeurs du commerce de fleurs
+  payroll_insee_categorie_code: 554D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+vendeur_habit_article_sport:
+  id: 387
+  active: true
+  label: Vendeur habit article sport
+  payroll_insee_categorie_code: 554E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+vendeur_prod_beauté,_luxe,_optique:
+  id: 388
+  active: true
+  label: Vendeur prod beauté, luxe, optique
+  payroll_insee_categorie_code: 554F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+vendeur_en_biens_culturels:
+  id: 389
+  active: true
+  label: Vendeur en biens culturels
+  payroll_insee_categorie_code: 554G
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+vendeurs_tabac/presse/articles_dive:
+  id: 390
+  active: true
+  label: Vendeurs tabac/presse/articles dive
+  payroll_insee_categorie_code: 554H
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+pompiste_gérant_station_service:
+  id: 391
+  active: true
+  label: Pompiste gérant station service
+  payroll_insee_categorie_code: 554J
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+vendeurs_correspond,_télévendeurs:
+  id: 392
+  active: true
+  label: Vendeurs correspond, télévendeurs
+  payroll_insee_categorie_code: 555A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+vendeur_en_gros_bien_équip:
+  id: 393
+  active: true
+  label: Vendeur en gros bien équip
+  payroll_insee_categorie_code: 556A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+serveur_commis_restaur_garçon_qual:
+  id: 395
+  active: true
+  label: Serveur commis restaur garçon qual
+  payroll_insee_categorie_code: 561B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+serveur_commis_rest_garçon_non_qual:
+  id: 396
+  active: true
+  label: Serveur commis rest garçon non qual
+  payroll_insee_categorie_code: 561C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+aide_cuisine,_apprentis_de_cuisine:
+  id: 397
+  active: true
+  label: Aide cuisine, apprentis de cuisine
+  payroll_insee_categorie_code: 561D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+emp_hôtellerie_reception_§_hall:
+  id: 398
+  active: true
+  label: Emp hôtellerie reception § hall
+  payroll_insee_categorie_code: 561E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+emp_étage_et_polyvalent_hôtellerie:
+  id: 399
+  active: true
+  label: Emp étage et polyvalent hôtellerie
+  payroll_insee_categorie_code: 561F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+manucures,_esthéticiens:
+  id: 400
+  active: true
+  label: Manucures, esthéticiens
+  payroll_insee_categorie_code: 562A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+coiffeurs_salariés:
+  id: 401
+  active: true
+  label: Coiffeurs salariés
+  payroll_insee_categorie_code: 562B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+assistantes_maternelles,_gardes_enf:
+  id: 402
+  active: true
+  label: Assistantes maternelles, gardes enf
+  payroll_insee_categorie_code: 563A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+aide_domicile,_aides_ménagères:
+  id: 403
+  active: true
+  label: Aide domicile, aides ménagères
+  payroll_insee_categorie_code: 563B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+employés_maison,_pers_ménage_partic:
+  id: 404
+  active: true
+  label: Employés maison, pers ménage partic
+  payroll_insee_categorie_code: 563C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+concierges,_gardiens_d'immeuble:
+  id: 405
+  active: true
+  label: Concierges, gardiens d'immeuble
+  payroll_insee_categorie_code: 564A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+employés_des_services_divers:
+  id: 406
+  active: true
+  label: Employés des services divers
+  payroll_insee_categorie_code: 564B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+chef_équipe_gros_oeuvre_trav_public:
+  id: 407
+  active: true
+  label: Chef équipe gros oeuvre trav public
+  payroll_insee_categorie_code: 621A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._qual._travail_du_béton:
+  id: 408
+  active: true
+  label: Ouv. qual. travail du béton
+  payroll_insee_categorie_code: 621B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+conducteurs_qual_engins_chantiers:
+  id: 409
+  active: true
+  label: Conducteurs qual engins chantiers
+  payroll_insee_categorie_code: 621C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv_trav_publ_inst_élect/télécomm:
+  id: 410
+  active: true
+  label: Ouv trav publ inst élect/télécomm
+  payroll_insee_categorie_code: 621D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+autres_ouv_qual_travaux_publics:
+  id: 411
+  active: true
+  label: Autres ouv qual travaux publics
+  payroll_insee_categorie_code: 621E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv_qualifiés_des_travaux_publics:
+  id: 412
+  active: true
+  label: Ouv qualifiés des travaux publics
+  payroll_insee_categorie_code: 621F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+mineurs_de_fond_qual_ind_extraction:
+  id: 413
+  active: true
+  label: Mineurs de fond qual ind extraction
+  payroll_insee_categorie_code: 621G
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+opérateurs_qual_machines_automatiq:
+  id: 414
+  active: true
+  label: Opérateurs qual machines automatiq
+  payroll_insee_categorie_code: 622A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+monteurs_câbleurs_qual_électricité:
+  id: 416
+  active: true
+  label: Monteurs câbleurs qual électricité
+  payroll_insee_categorie_code: 622C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+câbleurs_qual_en_électronique:
+  id: 417
+  active: true
+  label: Câbleurs qual en électronique
+  payroll_insee_categorie_code: 622D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+autres_monteurs_câbleurs_electroniq:
+  id: 418
+  active: true
+  label: Autres monteurs câbleurs electroniq
+  payroll_insee_categorie_code: 622E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+bobiniers_qualifiés:
+  id: 419
+  active: true
+  label: Bobiniers qualifiés
+  payroll_insee_categorie_code: 622F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+plateformiste/contrôleurs_qual_élec:
+  id: 420
+  active: true
+  label: Plateformiste/contrôleurs qual élec
+  payroll_insee_categorie_code: 622G
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+chaudronniers_tôliers_indust:
+  id: 421
+  active: true
+  label: Chaudronniers tôliers indust
+  payroll_insee_categorie_code: 623A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+tuyauteurs_industriels_qualifiés:
+  id: 422
+  active: true
+  label: Tuyauteurs industriels qualifiés
+  payroll_insee_categorie_code: 623B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+opérateurs_qual_machine_soudage:
+  id: 424
+  active: true
+  label: Opérateurs qual machine soudage
+  payroll_insee_categorie_code: 623D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+soudeurs_manuels:
+  id: 425
+  active: true
+  label: Soudeurs manuels
+  payroll_insee_categorie_code: 623E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+opérat._qual_usin_métaux_pte_série:
+  id: 426
+  active: true
+  label: Opérat. qual usin métaux pte série
+  payroll_insee_categorie_code: 623F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+opérateurs_qual_usinage_métaux:
+  id: 427
+  active: true
+  label: Opérateurs qual usinage métaux
+  payroll_insee_categorie_code: 623G
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+monteurs,_metteurs_au_point_ens_méc:
+  id: 429
+  active: true
+  label: Monteurs, metteurs au point ens méc
+  payroll_insee_categorie_code: 624B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+monteurs_qual_ensemble_mécanique:
+  id: 430
+  active: true
+  label: Monteurs qual ensemble mécanique
+  payroll_insee_categorie_code: 624C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+monteurs_qual_en_struct_métalliques:
+  id: 431
+  active: true
+  label: Monteurs qual en struct métalliques
+  payroll_insee_categorie_code: 624D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv_qual_contrôle,_éssais_mécanique:
+  id: 432
+  active: true
+  label: Ouv qual contrôle, éssais mécanique
+  payroll_insee_categorie_code: 624E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv_qual_trait_thermi,_surf_métal:
+  id: 433
+  active: true
+  label: Ouv qual trait thermi, surf métal
+  payroll_insee_categorie_code: 624F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+autres_mécaniciens,_ajusteurs_qual.:
+  id: 434
+  active: true
+  label: Autres mécaniciens, ajusteurs qual.
+  payroll_insee_categorie_code: 624G
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+pilotes_instal_lourde_indus_agroali:
+  id: 435
+  active: true
+  label: Pilotes instal lourde indus agroali
+  payroll_insee_categorie_code: 625A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv_qual,_agent_labo_agroali,_chimi:
+  id: 436
+  active: true
+  label: Ouv qual, agent labo agroali, chimi
+  payroll_insee_categorie_code: 625B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+autres_opérat.,_ouv._qualif._chimie:
+  id: 437
+  active: true
+  label: Autres opérat., ouv. qualif. chimie
+  payroll_insee_categorie_code: 625C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+opérateurs_transformation_viandes:
+  id: 438
+  active: true
+  label: Opérateurs transformation viandes
+  payroll_insee_categorie_code: 625D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+autres_opér._instal,_machine_agroal:
+  id: 440
+  active: true
+  label: Autres opér. instal, machine agroal
+  payroll_insee_categorie_code: 625F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+autres_ouv._produc,_machine_agroal:
+  id: 441
+  active: true
+  label: Autres ouv. produc, machine agroal
+  payroll_insee_categorie_code: 625G
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouvriers_qual._autres_industries:
+  id: 442
+  active: true
+  label: Ouvriers qual. autres industries
+  payroll_insee_categorie_code: 625H
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+pilotes_instal_lourde_indus_transfo:
+  id: 443
+  active: true
+  label: Pilotes instal lourde indus transfo
+  payroll_insee_categorie_code: 626A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+autres_opé,_ouv_qual_métal_vérrière:
+  id: 444
+  active: true
+  label: Autres opé, ouv qual métal vérrière
+  payroll_insee_categorie_code: 626B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+opérat.,_ouv._qual_ind._lourde_bois:
+  id: 445
+  active: true
+  label: Opérat., ouv. qual ind. lourde bois
+  payroll_insee_categorie_code: 626C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+opérateurs_qual_textile_et_mégisser:
+  id: 446
+  active: true
+  label: Opérateurs qual textile et mégisser
+  payroll_insee_categorie_code: 627A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv_qual_coupe_vêtement_habillement:
+  id: 447
+  active: true
+  label: Ouv qual coupe vêtement habillement
+  payroll_insee_categorie_code: 627B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._qual_travail_industriel_cuir:
+  id: 448
+  active: true
+  label: Ouv. qual travail industriel cuir
+  payroll_insee_categorie_code: 627C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._qual_scierie,_menuiserie_indus:
+  id: 449
+  active: true
+  label: Ouv. qual scierie, menuiserie indus
+  payroll_insee_categorie_code: 627D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._photogravure,_labo_photo,_ciné:
+  id: 450
+  active: true
+  label: Ouv. photogravure, labo photo, ciné
+  payroll_insee_categorie_code: 627E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._compo._et_impress.,_reliure:
+  id: 451
+  active: true
+  label: Ouv. compo. et impress., reliure
+  payroll_insee_categorie_code: 627F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+mécaniciens_qual_mainten._entretien:
+  id: 452
+  active: true
+  label: Mécaniciens qual mainten. entretien
+  payroll_insee_categorie_code: 628A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+electroméca,_électriciens_qual_entr:
+  id: 453
+  active: true
+  label: Electroméca, électriciens qual entr
+  payroll_insee_categorie_code: 628B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+régl_qual_équipt_fabric_sur_métaux:
+  id: 454
+  active: true
+  label: Régl qual équipt fabric sur métaux
+  payroll_insee_categorie_code: 628C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+régl_qual_équipt_fabric_hors_métaux:
+  id: 455
+  active: true
+  label: Régl qual équipt fabric hors métaux
+  payroll_insee_categorie_code: 628D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv_qual_assainis/trait_déchets:
+  id: 456
+  active: true
+  label: Ouv qual assainis/trait déchets
+  payroll_insee_categorie_code: 628E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+agents_qualifiés_de_laboratoire:
+  id: 457
+  active: true
+  label: Agents qualifiés de laboratoire
+  payroll_insee_categorie_code: 628F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._qual._divers_type_industriel:
+  id: 458
+  active: true
+  label: Ouv. qual. divers type industriel
+  payroll_insee_categorie_code: 628G
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+jardiniers:
+  id: 459
+  active: true
+  label: Jardiniers
+  payroll_insee_categorie_code: 631A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+maçons_qualifiés:
+  id: 460
+  active: true
+  label: Maçons qualifiés
+  payroll_insee_categorie_code: 632A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouvriers_qual_travail_de_la_pierre:
+  id: 461
+  active: true
+  label: Ouvriers qual travail de la pierre
+  payroll_insee_categorie_code: 632B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+charpentiers_en_bois_qualifiés:
+  id: 462
+  active: true
+  label: Charpentiers en bois qualifiés
+  payroll_insee_categorie_code: 632C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+menuisiers_qualifiés_du_bâtiment:
+  id: 463
+  active: true
+  label: Menuisiers qualifiés du bâtiment
+  payroll_insee_categorie_code: 632D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+couvreurs_qualifiés:
+  id: 464
+  active: true
+  label: Couvreurs qualifiés
+  payroll_insee_categorie_code: 632E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+pombiers,_chauffagistes_qualifiés:
+  id: 465
+  active: true
+  label: Pombiers, chauffagistes qualifiés
+  payroll_insee_categorie_code: 632F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+peintres,_ouv_qual_pose_revêt_mural:
+  id: 466
+  active: true
+  label: Peintres, ouv qual pose revêt mural
+  payroll_insee_categorie_code: 632G
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+sol_moq/ouv_qual_pose_revêt_souples:
+  id: 467
+  active: true
+  label: Sol moq/ouv qual pose revêt souples
+  payroll_insee_categorie_code: 632H
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+monteurs_qual_agencement,_isolation:
+  id: 468
+  active: true
+  label: Monteurs qual agencement, isolation
+  payroll_insee_categorie_code: 632J
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv_qual_entretien_général_bâtiment:
+  id: 469
+  active: true
+  label: Ouv qual entretien général bâtiment
+  payroll_insee_categorie_code: 632K
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+electriciens_qualif._type_artisanal:
+  id: 470
+  active: true
+  label: Electriciens qualif. type artisanal
+  payroll_insee_categorie_code: 633A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+dépanneurs_qual_radiotélé,_électrom:
+  id: 471
+  active: true
+  label: Dépanneurs qual radiotélé, électrom
+  payroll_insee_categorie_code: 633B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+elect,_électron_qual_maint_automobi:
+  id: 472
+  active: true
+  label: Elect, électron qual maint automobi
+  payroll_insee_categorie_code: 633C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+elect,_électron_qual_maint_entretie:
+  id: 473
+  active: true
+  label: Elect, électron qual maint entretie
+  payroll_insee_categorie_code: 633D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+carrossiers_automobiles_qualifiés:
+  id: 474
+  active: true
+  label: Carrossiers automobiles qualifiés
+  payroll_insee_categorie_code: 634A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+métalliers,_serruriers_qualifiés:
+  id: 475
+  active: true
+  label: Métalliers, serruriers qualifiés
+  payroll_insee_categorie_code: 634B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+mécaniciens_qual_maint,_entret,_rép:
+  id: 476
+  active: true
+  label: Mécaniciens qual maint, entret, rép
+  payroll_insee_categorie_code: 634C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+mécaniciens_qual_maintenance_entret:
+  id: 477
+  active: true
+  label: Mécaniciens qual maintenance entret
+  payroll_insee_categorie_code: 634D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+tailleurs,_couturiers_travail_cuir:
+  id: 478
+  active: true
+  label: Tailleurs, couturiers travail cuir
+  payroll_insee_categorie_code: 635A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+bouchers:
+  id: 479
+  active: true
+  label: Bouchers
+  payroll_insee_categorie_code: 636A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+charcutiers:
+  id: 480
+  active: true
+  label: Charcutiers
+  payroll_insee_categorie_code: 636B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+boulangers,_pâtissiers:
+  id: 481
+  active: true
+  label: Boulangers, pâtissiers
+  payroll_insee_categorie_code: 636C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+cuisiniers,_commis_de_cuisine:
+  id: 482
+  active: true
+  label: Cuisiniers, commis de cuisine
+  payroll_insee_categorie_code: 636D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+modeleurs,_mouleurs,_noyaut._verre:
+  id: 483
+  active: true
+  label: Modeleurs, mouleurs, noyaut. verre
+  payroll_insee_categorie_code: 637A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouvriers_d'art:
+  id: 484
+  active: true
+  label: Ouvriers d'art
+  payroll_insee_categorie_code: 637B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._tech._spectacle_vivant,_audio.:
+  id: 485
+  active: true
+  label: Ouv. tech. spectacle vivant, audio.
+  payroll_insee_categorie_code: 637C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._qualif_divers_type_artisanal:
+  id: 486
+  active: true
+  label: Ouv. qualif divers type artisanal
+  payroll_insee_categorie_code: 637D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+conduct._routiers,_grands_routiers:
+  id: 487
+  active: true
+  label: Conduct. routiers, grands routiers
+  payroll_insee_categorie_code: 641A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+conduct._véhicule_transport_commun:
+  id: 488
+  active: true
+  label: Conduct. véhicule transport commun
+  payroll_insee_categorie_code: 641B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+conducteurs_de_taxi:
+  id: 489
+  active: true
+  label: Conducteurs de taxi
+  payroll_insee_categorie_code: 642A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+conducteurs_voiture_particulière:
+  id: 490
+  active: true
+  label: Conducteurs voiture particulière
+  payroll_insee_categorie_code: 642B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+conducteurs,_livreurs,_coursiers:
+  id: 491
+  active: true
+  label: Conducteurs, livreurs, coursiers
+  payroll_insee_categorie_code: 643A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+conduct_véh_ramass_ordures_ménagèr:
+  id: 492
+  active: true
+  label: Conduct véh ramass ordures ménagèr
+  payroll_insee_categorie_code: 644A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+conducteurs_engin_lourd_levage:
+  id: 493
+  active: true
+  label: Conducteurs engin lourd levage
+  payroll_insee_categorie_code: 651A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+conducteurs_engin_lourd_manoeuvre:
+  id: 494
+  active: true
+  label: Conducteurs engin lourd manoeuvre
+  payroll_insee_categorie_code: 651B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv_qual_manut,_cond_char_élév,_car:
+  id: 495
+  active: true
+  label: Ouv qual manut, cond char élév, car
+  payroll_insee_categorie_code: 652A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+dockers:
+  id: 496
+  active: true
+  label: Dockers
+  payroll_insee_categorie_code: 652B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+magasiniers_qualifiés:
+  id: 497
+  active: true
+  label: Magasiniers qualifiés
+  payroll_insee_categorie_code: 653A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+conduct_qual_engins_transport_guidé:
+  id: 499
+  active: true
+  label: Conduct qual engins transport guidé
+  payroll_insee_categorie_code: 654B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+conduct_qual_syst_remontées_mécaniq:
+  id: 500
+  active: true
+  label: Conduct qual syst remontées mécaniq
+  payroll_insee_categorie_code: 654C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+aut_agents,_ouv_qual_exploit_transp:
+  id: 501
+  active: true
+  label: Aut agents, ouv qual exploit transp
+  payroll_insee_categorie_code: 655A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+matelots_marine_marchande:
+  id: 503
+  active: true
+  label: Matelots marine marchande
+  payroll_insee_categorie_code: 656B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+capit,_matelo,_timon_navig_fluviale:
+  id: 504
+  active: true
+  label: Capit, matelo, timon navig fluviale
+  payroll_insee_categorie_code: 656C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv_non_qual_trav_publics_etat:
+  id: 505
+  active: true
+  label: Ouv non qual trav publics Etat
+  payroll_insee_categorie_code: 671A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._non_qual._trav_public_et_béton:
+  id: 507
+  active: true
+  label: Ouv. non qual. trav public et béton
+  payroll_insee_categorie_code: 671C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+aides-mineurs,_ouv._non_qual_extrac:
+  id: 508
+  active: true
+  label: Aides-mineurs, Ouv. non qual extrac
+  payroll_insee_categorie_code: 671D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._non_qual_électric,_électroniq.:
+  id: 509
+  active: true
+  label: Ouv. non qual électric, électroniq.
+  payroll_insee_categorie_code: 672A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._non_qual._enlèvement_métal:
+  id: 510
+  active: true
+  label: Ouv. non qual. enlèvement métal
+  payroll_insee_categorie_code: 673A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._non_qual._formatage_métal:
+  id: 511
+  active: true
+  label: Ouv. non qual. formatage métal
+  payroll_insee_categorie_code: 673B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._non_qual._mont,_cont._mécaniq.:
+  id: 512
+  active: true
+  label: Ouv. non qual. mont, cont. mécaniq.
+  payroll_insee_categorie_code: 673C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._non_qual._chimie,_pharm,_plas.:
+  id: 513
+  active: true
+  label: Ouv. non qual. chimie, pharm, plas.
+  payroll_insee_categorie_code: 674A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._non_qual._transform._viande:
+  id: 514
+  active: true
+  label: Ouv. non qual. transform. viande
+  payroll_insee_categorie_code: 674B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+autres_ouv._prod_non_qual_agroalim.:
+  id: 515
+  active: true
+  label: Autres ouv. prod non qual agroalim.
+  payroll_insee_categorie_code: 674C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._non_qual._métal,_ver,_céramiq.:
+  id: 516
+  active: true
+  label: Ouv. non qual. métal, ver, céramiq.
+  payroll_insee_categorie_code: 674D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._non_qual._indust._lourde_bois:
+  id: 517
+  active: true
+  label: Ouv. non qual. indust. lourde bois
+  payroll_insee_categorie_code: 674E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._non_qual_text,_conf,_tan,_cuir:
+  id: 518
+  active: true
+  label: Ouv. non qual text, conf, tan, cuir
+  payroll_insee_categorie_code: 675A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._prod_non_qual_trav_bois_ameubl:
+  id: 519
+  active: true
+  label: Ouv. prod non qual trav bois ameubl
+  payroll_insee_categorie_code: 675B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._non_qual._divers_type_industr.:
+  id: 520
+  active: true
+  label: Ouv. non qual. divers type industr.
+  payroll_insee_categorie_code: 675C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+manutentionnaires_non_qualifiés:
+  id: 521
+  active: true
+  label: Manutentionnaires non qualifiés
+  payroll_insee_categorie_code: 676A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+déménageurs:
+  id: 522
+  active: true
+  label: Déménageurs
+  payroll_insee_categorie_code: 676B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._tri,_embal.,_expéd._non_qual.:
+  id: 523
+  active: true
+  label: Ouv. tri, embal., expéd. non qual.
+  payroll_insee_categorie_code: 676C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+agent_non_qual_serv_expl_transports:
+  id: 524
+  active: true
+  label: Agent non qual serv expl transports
+  payroll_insee_categorie_code: 676D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv_non_qual_divers_type_industriel:
+  id: 525
+  active: true
+  label: Ouv non qual divers type industriel
+  payroll_insee_categorie_code: 676E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._non_qual._gros_oeuvre_bâtiment:
+  id: 526
+  active: true
+  label: Ouv. non qual. gros oeuvre bâtiment
+  payroll_insee_categorie_code: 681A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._non_qual._second_oeuvre_bâtim.:
+  id: 527
+  active: true
+  label: Ouv. non qual. second oeuvre bâtim.
+  payroll_insee_categorie_code: 681B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+métal.,_serrur.,_rép._méc._non_qual:
+  id: 528
+  active: true
+  label: Métal., serrur., rép. méc. non qual
+  payroll_insee_categorie_code: 682A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+app._boulanger,_boucher,_charcutier:
+  id: 529
+  active: true
+  label: App. boulanger, boucher, charcutier
+  payroll_insee_categorie_code: 683A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+nettoyeurs:
+  id: 530
+  active: true
+  label: Nettoyeurs
+  payroll_insee_categorie_code: 684A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv_non_qual_assaini/trait_déchets:
+  id: 531
+  active: true
+  label: Ouv non qual assaini/trait déchets
+  payroll_insee_categorie_code: 684B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._non_qualif._divers_type_artis.:
+  id: 532
+  active: true
+  label: Ouv. non qualif. divers type artis.
+  payroll_insee_categorie_code: 685A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+conducteurs_engin_agric._ou_forest.:
+  id: 533
+  active: true
+  label: Conducteurs engin agric. ou forest.
+  payroll_insee_categorie_code: 691A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouvriers_de_l'élevage:
+  id: 534
+  active: true
+  label: Ouvriers de l'élevage
+  payroll_insee_categorie_code: 691B
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._du_maraîchage_ou_horticulture:
+  id: 535
+  active: true
+  label: Ouv. du maraîchage ou horticulture
+  payroll_insee_categorie_code: 691C
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._viticult._ou_arboricul._fruit.:
+  id: 536
+  active: true
+  label: Ouv. viticult. ou arboricul. fruit.
+  payroll_insee_categorie_code: 691D
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._agricoles_sans_spéc._particul.:
+  id: 537
+  active: true
+  label: Ouv. agricoles sans spéc. particul.
+  payroll_insee_categorie_code: 691E
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+ouv._exploit._forest._ou_sylvicult.:
+  id: 538
+  active: true
+  label: Ouv. exploit. forest. ou sylvicult.
+  payroll_insee_categorie_code: 691F
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+marins-pêcheurs_et_ouv._aquaculture:
+  id: 539
+  active: true
+  label: Marins-pêcheurs et ouv. aquaculture
+  payroll_insee_categorie_code: 692A
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296
+sans_catégorie_socioprofessionnelle:
+  id: 540
+  active: true
+  label: Sans catégorie socioprofessionnelle
+  payroll_insee_categorie_code: '9999'
+  created_at: '2020-09-10T22:47:11.577+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T22:47:11.577+02:00'
+  updated_by: 296

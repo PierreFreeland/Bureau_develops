@@ -1,0 +1,11 @@
+dispatching_156643:
+  id: 156643
+  tier_id: 10392
+  customer_bill_id: 498344
+  dispatching: "consultant_share"
+  amount_euros: 3696
+  rate: 88
+  created_by: 296
+  created_at: "2014-07-03 13:40:05"
+  updated_by: 296
+  updated_at: "2020-09-11 11:06:02.9104"

@@ -1,0 +1,7476 @@
+tier_9786_disbursement_227551:
+  id: 227551
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2315
+  source: wages
+  date: '2010-11-08'
+  amount: '2620.08'
+  label: PMT OCT SALAIRE
+  accounting_document: 0137VK1009
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:47:41.179+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:47:41.179+02:00'
+  updated_by: 296
+tier_9786_disbursement_229437:
+  id: 229437
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2416
+  source: wages
+  date: '2010-12-02'
+  amount: '473.36'
+  label: PMT NOV SALAIRE
+  accounting_document: '0058VL1009'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:47:46.617+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:47:46.617+02:00'
+  updated_by: 296
+tier_9786_disbursement_232090:
+  id: 232090
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2534
+  source: wages
+  date: '2010-12-31'
+  amount: '722.51'
+  label: PMT DEC SALAIRE
+  accounting_document: '0494VL1009'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:47:54.316+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:47:54.316+02:00'
+  updated_by: 296
+tier_9786_disbursement_233940:
+  id: 233940
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2615
+  source: expenses
+  date: '2011-01-21'
+  amount: '78.48'
+  label: PMT NDF 122107
+  accounting_document: 0240VA1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:47:59.521+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:47:59.521+02:00'
+  updated_by: 296
+tier_9786_disbursement_233941:
+  id: 233941
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2615
+  source: expenses
+  date: '2011-01-21'
+  amount: '338.0'
+  label: PMT NDF 122766
+  accounting_document: 0241VA1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:47:59.523+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:47:59.523+02:00'
+  updated_by: 296
+tier_9786_disbursement_234872:
+  id: 234872
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2656
+  source: wages
+  date: '2011-02-01'
+  amount: '641.32'
+  label: PMT JAN SALAIRE
+  accounting_document: 0010VB1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:02.246+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:02.246+02:00'
+  updated_by: 296
+tier_9786_disbursement_234973:
+  id: 234973
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2662
+  source: expenses
+  date: '2011-02-01'
+  amount: '141.5'
+  label: PMT NDF 123320
+  accounting_document: 0031VB1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:02.645+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:02.645+02:00'
+  updated_by: 296
+tier_9786_disbursement_234977:
+  id: 234977
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2662
+  source: expenses
+  date: '2011-02-01'
+  amount: '159.7'
+  label: PMT NDF 123321
+  accounting_document: 0032VB1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:02.656+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:02.656+02:00'
+  updated_by: 296
+tier_9786_disbursement_235692:
+  id: 235692
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2692
+  source: wages_advance
+  date: '2011-02-08'
+  amount: '500.0'
+  label: PMT AVANCE
+  accounting_document: 0125VB1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:04.688+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:04.688+02:00'
+  updated_by: 296
+tier_9786_disbursement_237138:
+  id: 237138
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2770
+  source: expenses
+  date: '2011-03-01'
+  amount: '653.74'
+  label: PMT NDF 124488
+  accounting_document: 0021VC1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:08.934+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:08.934+02:00'
+  updated_by: 296
+tier_9786_disbursement_237273:
+  id: 237273
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2775
+  source: expenses
+  date: '2011-03-01'
+  amount: '113.0'
+  label: PMT NDF 124561
+  accounting_document: 0047VC1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:09.293+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:09.293+02:00'
+  updated_by: 296
+tier_9786_disbursement_237850:
+  id: 237850
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2793
+  source: wages_advance
+  date: '2011-03-07'
+  amount: '1100.0'
+  label: PMT AVANCE
+  accounting_document: '0149VC1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:10.926+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:10.926+02:00'
+  updated_by: 296
+tier_9786_disbursement_238255:
+  id: 238255
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2816
+  source: wages_advance
+  date: '2011-03-11'
+  amount: '1300.0'
+  label: PMT AVANCE
+  accounting_document: 0233VC1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:12.119+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:12.119+02:00'
+  updated_by: 296
+tier_9786_disbursement_239311:
+  id: 239311
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2889
+  source: wages_advance
+  date: '2011-03-30'
+  amount: '2000.0'
+  label: PMT AVANCE
+  accounting_document: '0381VC1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:15.117+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:15.117+02:00'
+  updated_by: 296
+tier_9786_disbursement_240313:
+  id: 240313
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2931
+  source: wages_advance
+  date: '2011-04-08'
+  amount: '1500.0'
+  label: PMT AVANCE
+  accounting_document: '0139VD1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:17.966+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:17.966+02:00'
+  updated_by: 296
+tier_9786_disbursement_240640:
+  id: 240640
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2943
+  source: wages_advance
+  date: '2011-04-12'
+  amount: '550.0'
+  label: PMT AVANCE
+  accounting_document: '0208VD1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:18.944+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:18.944+02:00'
+  updated_by: 296
+tier_9786_disbursement_240831:
+  id: 240831
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2955
+  source: wages_advance
+  date: '2011-04-14'
+  amount: '350.0'
+  label: PMT AVANCE
+  accounting_document: 0230VD1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:19.432+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:19.432+02:00'
+  updated_by: 296
+tier_9786_disbursement_241092:
+  id: 241092
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 2978
+  source: wages_advance
+  date: '2011-04-21'
+  amount: '350.0'
+  label: PMT AVANCE
+  accounting_document: 0267VD1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:20.245+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:20.245+02:00'
+  updated_by: 296
+tier_9786_disbursement_242121:
+  id: 242121
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3019
+  source: wages_advance
+  date: '2011-05-03'
+  amount: '500.0'
+  label: PMT AVANCE
+  accounting_document: 0063VE1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:23.151+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:23.151+02:00'
+  updated_by: 296
+tier_9786_disbursement_242780:
+  id: 242780
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3043
+  source: wages_advance
+  date: '2011-05-09'
+  amount: '2500.0'
+  label: PMT AVANCE
+  accounting_document: 0172VE1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:24.969+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:24.969+02:00'
+  updated_by: 296
+tier_9786_disbursement_244810:
+  id: 244810
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3160
+  source: wages_advance
+  date: '2011-06-07'
+  amount: '1500.0'
+  label: PMT AVANCE
+  accounting_document: '0087VF1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:30.747+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:30.747+02:00'
+  updated_by: 296
+tier_9786_disbursement_245506:
+  id: 245506
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3196
+  source: wages_advance
+  date: '2011-06-16'
+  amount: '1500.0'
+  label: PMT AVANCE
+  accounting_document: '0193VF1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:32.826+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:32.826+02:00'
+  updated_by: 296
+tier_9786_disbursement_246515:
+  id: 246515
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3242
+  source: wages_advance
+  date: '2011-06-30'
+  amount: '1000.0'
+  label: PMT AVANCE
+  accounting_document: 0355VF1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:35.724+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:35.724+02:00'
+  updated_by: 296
+tier_9786_disbursement_247144:
+  id: 247144
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3259
+  source: wages_advance
+  date: '2011-07-05'
+  amount: '1000.0'
+  label: PMT AVANCE
+  accounting_document: '0095VG1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:37.492+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:37.492+02:00'
+  updated_by: 296
+tier_9786_disbursement_248018:
+  id: 248018
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3300
+  source: wages_advance
+  date: '2011-07-18'
+  amount: '1600.0'
+  label: PMT AVANCE
+  accounting_document: 0246VG1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:40.018+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:40.018+02:00'
+  updated_by: 296
+tier_9786_disbursement_249563:
+  id: 249563
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3363
+  source: wages_advance
+  date: '2011-08-02'
+  amount: '2800.0'
+  label: PMT AVANCE
+  accounting_document: 0063VH1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:44.448+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:44.448+02:00'
+  updated_by: 296
+tier_9786_disbursement_250213:
+  id: 250213
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3389
+  source: wages_advance
+  date: '2011-08-10'
+  amount: '500.0'
+  label: PMT AVANCE
+  accounting_document: 0160VH1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:46.360+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:46.360+02:00'
+  updated_by: 296
+tier_9786_disbursement_250285:
+  id: 250285
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3400
+  source: wages_advance
+  date: '2011-08-12'
+  amount: '1000.0'
+  label: PMT AVANCE
+  accounting_document: '0178VH1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:46.579+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:46.579+02:00'
+  updated_by: 296
+tier_9786_disbursement_252169:
+  id: 252169
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3498
+  source: wages_advance
+  date: '2011-09-09'
+  amount: '1200.0'
+  label: PMT AVANCE
+  accounting_document: '0180VI1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:52.003+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:52.003+02:00'
+  updated_by: 296
+tier_9786_disbursement_252519:
+  id: 252519
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3519
+  source: wages_advance
+  date: '2011-09-16'
+  amount: '1100.0'
+  label: PMT AVANCE
+  accounting_document: 0246VI1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:53.048+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:53.048+02:00'
+  updated_by: 296
+tier_9786_disbursement_253874:
+  id: 253874
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3594
+  source: wages_advance
+  date: '2011-10-04'
+  amount: '1500.0'
+  label: PMT AVANCE
+  accounting_document: '0083VJ1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:56.883+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:56.883+02:00'
+  updated_by: 296
+tier_9786_disbursement_254872:
+  id: 254872
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3640
+  source: wages_advance
+  date: '2011-10-17'
+  amount: '500.0'
+  label: PMT AVANCE
+  accounting_document: 0250VJ1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:48:59.747+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:48:59.747+02:00'
+  updated_by: 296
+tier_9786_disbursement_255055:
+  id: 255055
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3665
+  source: wages_advance
+  date: '2011-10-20'
+  amount: '3300.0'
+  label: PMT AVANCE
+  accounting_document: '0290VJ1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:00.356+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:00.356+02:00'
+  updated_by: 296
+tier_9786_disbursement_256005:
+  id: 256005
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3700
+  source: wages_advance
+  date: '2011-10-31'
+  amount: '4000.0'
+  label: PMT AVANCE
+  accounting_document: 0431VJ1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:03.208+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:03.208+02:00'
+  updated_by: 296
+tier_9786_disbursement_256279:
+  id: 256279
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3705
+  source: wages_advance
+  date: '2011-11-03'
+  amount: '1018.0'
+  label: PMT AVANCE
+  accounting_document: 0036VK1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:03.921+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:03.921+02:00'
+  updated_by: 296
+tier_9786_disbursement_256881:
+  id: 256881
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3723
+  source: wages_advance
+  date: '2011-11-08'
+  amount: '3500.0'
+  label: PMT AVANCE
+  accounting_document: 0136VK1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:05.654+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:05.654+02:00'
+  updated_by: 296
+tier_9786_disbursement_257480:
+  id: 257480
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3761
+  source: wages_advance
+  date: '2011-11-17'
+  amount: '2300.0'
+  label: PMT AVANCE
+  accounting_document: 0245VK1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:07.503+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:07.503+02:00'
+  updated_by: 296
+tier_9786_disbursement_258486:
+  id: 258486
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3810
+  source: wages_advance
+  date: '2011-11-30'
+  amount: '3000.0'
+  label: PMT AVANCE
+  accounting_document: '0387VK1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:10.414+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:10.414+02:00'
+  updated_by: 296
+tier_9786_disbursement_259928:
+  id: 259928
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3858
+  source: wages_advance
+  date: '2011-12-13'
+  amount: '2000.0'
+  label: PMT AVANCE
+  accounting_document: 0237VL1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:14.517+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:14.517+02:00'
+  updated_by: 296
+tier_9786_disbursement_260270:
+  id: 260270
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3887
+  source: wages_advance
+  date: '2011-12-20'
+  amount: '2500.0'
+  label: PMT AVANCE
+  accounting_document: 0301VL1109
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:15.534+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:15.534+02:00'
+  updated_by: 296
+tier_9786_disbursement_261613:
+  id: 261613
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3929
+  source: wages_advance
+  date: '2011-12-30'
+  amount: '3000.0'
+  label: PMT AVANCE
+  accounting_document: '0496VL1109'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:19.402+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:19.402+02:00'
+  updated_by: 296
+tier_9786_disbursement_262322:
+  id: 262322
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3959
+  source: expenses
+  date: '2012-01-06'
+  amount: '1139.26'
+  label: PMT NDF 137923
+  accounting_document: 0113VA1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:21.352+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:21.352+02:00'
+  updated_by: 296
+tier_9786_disbursement_264407:
+  id: 264407
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4061
+  source: wages
+  date: '2012-02-01'
+  amount: '3385.06'
+  label: PMT JAN SALAIRE
+  accounting_document: 0024VB1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:27.256+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:27.256+02:00'
+  updated_by: 296
+tier_9786_disbursement_265066:
+  id: 265066
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4090
+  source: expenses
+  date: '2012-02-07'
+  amount: '477.65'
+  label: PMT NDF 139290
+  accounting_document: 0151VB1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:29.232+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:29.232+02:00'
+  updated_by: 296
+tier_9786_disbursement_265067:
+  id: 265067
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4090
+  source: expenses
+  date: '2012-02-07'
+  amount: '791.82'
+  label: PMT NDF 139549
+  accounting_document: 0152VB1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:29.234+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:29.234+02:00'
+  updated_by: 296
+tier_9786_disbursement_265536:
+  id: 265536
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4118
+  source: wages_advance
+  date: '2012-02-15'
+  amount: '1500.0'
+  label: PMT AVANCE
+  accounting_document: '0218VB1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:30.582+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:30.582+02:00'
+  updated_by: 296
+tier_9786_disbursement_266667:
+  id: 266667
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4182
+  source: wages
+  date: '2012-03-01'
+  amount: '1504.8'
+  label: PMT FEV SALAIRE
+  accounting_document: '0008VC1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:33.771+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:33.771+02:00'
+  updated_by: 296
+tier_9786_disbursement_266853:
+  id: 266853
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4188
+  source: expenses
+  date: '2012-03-02'
+  amount: '565.51'
+  label: PMT NDF 140525
+  accounting_document: 0043VC1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:34.250+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:34.250+02:00'
+  updated_by: 296
+tier_9786_disbursement_267205:
+  id: 267205
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4200
+  source: expenses
+  date: '2012-03-06'
+  amount: '1727.79'
+  label: PMT NDF 140652
+  accounting_document: 0101VC1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:35.291+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:35.291+02:00'
+  updated_by: 296
+tier_9786_disbursement_267555:
+  id: 267555
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4218
+  source: wages_advance
+  date: '2012-03-09'
+  amount: '1500.0'
+  label: PMT AVANCE
+  accounting_document: 0157VC1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:36.315+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:36.315+02:00'
+  updated_by: 296
+tier_9786_disbursement_267694:
+  id: 267694
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4229
+  source: wages_advance
+  date: '2012-03-13'
+  amount: '1000.0'
+  label: PMT AVANCE
+  accounting_document: '0180VC1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:36.675+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:36.675+02:00'
+  updated_by: 296
+tier_9786_disbursement_268913:
+  id: 268913
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4300
+  source: wages_advance
+  date: '2012-03-29'
+  amount: '3000.0'
+  label: PMT AVANCE
+  accounting_document: 0347VC1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:40.125+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:40.125+02:00'
+  updated_by: 296
+tier_9786_disbursement_269327:
+  id: 269327
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4311
+  source: expenses
+  date: '2012-04-02'
+  amount: '5206.01'
+  label: PMT NDF 141820
+  accounting_document: 0046VD1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:41.328+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:41.328+02:00'
+  updated_by: 296
+tier_9786_disbursement_270763:
+  id: 270763
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4382
+  source: wages_advance
+  date: '2012-04-19'
+  amount: '2000.0'
+  label: PMT AVANCE
+  accounting_document: 0271VD1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:45.433+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:45.433+02:00'
+  updated_by: 296
+tier_9786_disbursement_271529:
+  id: 271529
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4429
+  source: wages
+  date: '2012-04-30'
+  amount: '755.65'
+  label: PMT AVR SALAIRE
+  accounting_document: '0379VD1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:47.675+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:47.675+02:00'
+  updated_by: 296
+tier_9786_disbursement_271823:
+  id: 271823
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4429
+  source: expenses
+  date: '2012-05-02'
+  amount: '591.66'
+  label: PMT NDF 143101
+  accounting_document: 0056VE1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:48.430+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:48.430+02:00'
+  updated_by: 296
+tier_9786_disbursement_272202:
+  id: 272202
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4441
+  source: expenses
+  date: '2012-05-04'
+  amount: '2866.01'
+  label: PMT NDF 143265
+  accounting_document: 0113VE1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:49.558+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:49.558+02:00'
+  updated_by: 296
+tier_9786_disbursement_272357:
+  id: 272357
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4453
+  source: wages_advance
+  date: '2012-05-09'
+  amount: '500.0'
+  label: PMT AVANCE
+  accounting_document: '0139VE1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:49.958+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:49.958+02:00'
+  updated_by: 296
+tier_9786_disbursement_272610:
+  id: 272610
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4464
+  source: wages_advance
+  date: '2012-05-14'
+  amount: '2000.0'
+  label: PMT AVANCE
+  accounting_document: '0197VE1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:50.753+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:50.753+02:00'
+  updated_by: 296
+tier_9786_disbursement_272829:
+  id: 272829
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4476
+  source: wages_advance
+  date: '2012-05-16'
+  amount: '1500.0'
+  label: PMT AVANCE
+  accounting_document: 0216VE1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:51.322+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:51.322+02:00'
+  updated_by: 296
+tier_9786_disbursement_274150:
+  id: 274150
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4524
+  source: wages_advance
+  date: '2012-05-31'
+  amount: '1500.0'
+  label: PMT AVANCE
+  accounting_document: 0400VE1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:55.129+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:55.129+02:00'
+  updated_by: 296
+tier_9786_disbursement_274409:
+  id: 274409
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4536
+  source: expenses
+  date: '2012-06-04'
+  amount: '5510.61'
+  label: PMT NDF 144439
+  accounting_document: 0031VF1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:49:55.792+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:49:55.792+02:00'
+  updated_by: 296
+tier_9786_disbursement_276449:
+  id: 276449
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4643
+  source: expenses
+  date: '2012-06-27'
+  amount: '142.63'
+  label: PMT NDF 145578
+  accounting_document: '0309VF1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:01.592+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:01.592+02:00'
+  updated_by: 296
+tier_9786_disbursement_276527:
+  id: 276527
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4643
+  source: wages_advance
+  date: '2012-06-28'
+  amount: '300.0'
+  label: PMT AVANCE
+  accounting_document: 0327VF1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:01.941+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:01.941+02:00'
+  updated_by: 296
+tier_9786_disbursement_276859:
+  id: 276859
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4655
+  source: expenses
+  date: '2012-07-03'
+  amount: '466.73'
+  label: PMT NDF 145780
+  accounting_document: 0031VG1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:02.815+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:02.815+02:00'
+  updated_by: 296
+tier_9786_disbursement_276892:
+  id: 276892
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4655
+  source: wages
+  date: '2012-07-03'
+  amount: '1959.75'
+  label: PMT JUN SALAIRE
+  accounting_document: 0035VG1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:02.902+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:02.902+02:00'
+  updated_by: 296
+tier_9786_disbursement_277374:
+  id: 277374
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4667
+  source: expenses
+  date: '2012-07-05'
+  amount: '6863.29'
+  label: PMT NDF 145943
+  accounting_document: '0094VG1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:04.307+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:04.307+02:00'
+  updated_by: 296
+tier_9786_disbursement_277994:
+  id: 277994
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4697
+  source: wages_advance
+  date: '2012-07-12'
+  amount: '1500.0'
+  label: PMT AVANCE
+  accounting_document: '0181VG1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:06.213+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:06.213+02:00'
+  updated_by: 296
+tier_9786_disbursement_278478:
+  id: 278478
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4727
+  source: wages_advance
+  date: '2012-07-19'
+  amount: '2000.0'
+  label: PMT AVANCE
+  accounting_document: 0236VG1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:07.609+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:07.609+02:00'
+  updated_by: 296
+tier_9786_disbursement_278944:
+  id: 278944
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4748
+  source: wages_advance
+  date: '2012-07-25'
+  amount: '350.0'
+  label: PMT AVANCE
+  accounting_document: 0314VG1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:08.801+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:08.801+02:00'
+  updated_by: 296
+tier_9786_disbursement_279314:
+  id: 279314
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4765
+  source: expenses
+  date: '2012-07-30'
+  amount: '4015.18'
+  label: PMT NDF 147287
+  accounting_document: 0365VG1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:09.886+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:09.886+02:00'
+  updated_by: 296
+tier_9786_disbursement_279786:
+  id: 279786
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4776
+  source: wages_advance
+  date: '2012-07-31'
+  amount: '3496.5'
+  label: PMT AVANCE
+  accounting_document: '0429VG1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:11.242+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:11.242+02:00'
+  updated_by: 296
+tier_9786_disbursement_279950:
+  id: 279950
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4782
+  source: wages
+  date: '2012-08-02'
+  amount: '1589.95'
+  label: PMT JUI SALAIRE
+  accounting_document: '0028VH1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:11.665+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:11.665+02:00'
+  updated_by: 296
+tier_9786_disbursement_280101:
+  id: 280101
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4793
+  source: expenses
+  date: '2012-08-03'
+  amount: '907.65'
+  label: PMT NDF 147600
+  accounting_document: 0055VH1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:12.189+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:12.189+02:00'
+  updated_by: 296
+tier_9786_disbursement_281060:
+  id: 281060
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4828
+  source: expenses
+  date: '2012-08-20'
+  amount: '368.98'
+  label: PMT NDF 148199
+  accounting_document: 0203VH1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:14.938+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:14.938+02:00'
+  updated_by: 296
+tier_9786_disbursement_282040:
+  id: 282040
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4890
+  source: expenses
+  date: '2012-09-03'
+  amount: '831.6'
+  label: PMT NDF 148634
+  accounting_document: 0040VI1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:17.746+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:17.746+02:00'
+  updated_by: 296
+tier_9786_disbursement_282072:
+  id: 282072
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4890
+  source: wages
+  date: '2012-09-04'
+  amount: '3522.02'
+  label: PMT AOU SALAIRE
+  accounting_document: 0046VI1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:17.831+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:17.831+02:00'
+  updated_by: 296
+tier_9786_disbursement_282428:
+  id: 282428
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4901
+  source: expenses
+  date: '2012-09-06'
+  amount: '1943.45'
+  label: PMT NDF 148818
+  accounting_document: '0086VI1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:18.744+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:18.744+02:00'
+  updated_by: 296
+tier_9786_disbursement_282505:
+  id: 282505
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4901
+  source: wages_advance
+  date: '2012-09-06'
+  amount: '928.53'
+  label: PMT AVANCE
+  accounting_document: '0095VI1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:19.083+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:19.083+02:00'
+  updated_by: 296
+tier_9786_disbursement_284150:
+  id: 284150
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4990
+  source: wages
+  date: '2012-10-01'
+  amount: '3526.63'
+  label: PMT SEP SALAIRE
+  accounting_document: 0037VJ1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:23.714+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:23.714+02:00'
+  updated_by: 296
+tier_9786_disbursement_284158:
+  id: 284158
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4996
+  source: expenses
+  date: '2012-10-01'
+  amount: '505.84'
+  label: PMT NDF 149634
+  accounting_document: 0041VJ1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:23.734+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:23.734+02:00'
+  updated_by: 296
+tier_9786_disbursement_284712:
+  id: 284712
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5014
+  source: expenses
+  date: '2012-10-05'
+  amount: '1067.79'
+  label: PMT NDF 149970
+  accounting_document: 0121VJ1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:25.305+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:25.305+02:00'
+  updated_by: 296
+tier_9786_disbursement_284957:
+  id: 284957
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5026
+  source: wages_advance
+  date: '2012-10-08'
+  amount: '500.0'
+  label: PMT AVANCE
+  accounting_document: 0164VJ1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:25.936+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:25.936+02:00'
+  updated_by: 296
+tier_9786_disbursement_285342:
+  id: 285342
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5047
+  source: wages_advance
+  date: '2012-10-15'
+  amount: '500.0'
+  label: PMT AVANCE
+  accounting_document: '0208VJ1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:27.127+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:27.127+02:00'
+  updated_by: 296
+tier_9786_disbursement_285598:
+  id: 285598
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5070
+  source: wages_advance
+  date: '2012-10-19'
+  amount: '500.0'
+  label: PMT AVANCE
+  accounting_document: 0260VJ1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:27.939+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:27.939+02:00'
+  updated_by: 296
+tier_9786_disbursement_286124:
+  id: 286124
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5105
+  source: wages
+  date: '2012-10-29'
+  amount: '2514.73'
+  label: PMT OCT SALAIRE
+  accounting_document: 0344VJ1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:29.419+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:29.419+02:00'
+  updated_by: 296
+tier_9786_disbursement_286974:
+  id: 286974
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5127
+  source: expenses
+  date: '2012-11-05'
+  amount: '492.6'
+  label: PMT NDF 151102
+  accounting_document: '0068VK1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:31.876+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:31.876+02:00'
+  updated_by: 296
+tier_9786_disbursement_286975:
+  id: 286975
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5127
+  source: expenses
+  date: '2012-11-05'
+  amount: '1499.49'
+  label: PMT NDF 151103
+  accounting_document: '0069VK1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:31.879+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:31.879+02:00'
+  updated_by: 296
+tier_9786_disbursement_287584:
+  id: 287584
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5156
+  source: wages_advance
+  date: '2012-11-12'
+  amount: '700.0'
+  label: PMT AVANCE
+  accounting_document: '0179VK1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:33.595+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:33.595+02:00'
+  updated_by: 296
+tier_9786_disbursement_287756:
+  id: 287756
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5168
+  source: wages_advance
+  date: '2012-11-14'
+  amount: '1000.0'
+  label: PMT AVANCE
+  accounting_document: '0209VK1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:34.034+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:34.034+02:00'
+  updated_by: 296
+tier_9786_disbursement_288868:
+  id: 288868
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5231
+  source: wages
+  date: '2012-11-29'
+  amount: '3743.3'
+  label: PMT NOV SALAIRE
+  accounting_document: 0370VK1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:37.186+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:37.186+02:00'
+  updated_by: 296
+tier_9786_disbursement_288971:
+  id: 288971
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5237
+  source: expenses
+  date: '2012-11-30'
+  amount: '459.94'
+  label: PMT NDF 152437
+  accounting_document: '0388VK1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:37.595+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:37.595+02:00'
+  updated_by: 296
+tier_9786_disbursement_290033:
+  id: 290033
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5260
+  source: expenses
+  date: '2012-12-06'
+  amount: '812.38'
+  label: PMT NDF 152893
+  accounting_document: '0129VL1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:40.623+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:40.623+02:00'
+  updated_by: 296
+tier_9786_disbursement_290453:
+  id: 290453
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5283
+  source: wages_advance
+  date: '2012-12-12'
+  amount: '2000.0'
+  label: PMT AVANCE
+  accounting_document: '0193VL1209'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:41.713+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:41.713+02:00'
+  updated_by: 296
+tier_9786_disbursement_291018:
+  id: 291018
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5323
+  source: wages_advance
+  date: '2012-12-21'
+  amount: '2700.0'
+  label: PMT AVANCE
+  accounting_document: 0274VL1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:43.447+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:43.447+02:00'
+  updated_by: 296
+tier_9786_disbursement_291692:
+  id: 291692
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5341
+  source: wages_advance
+  date: '2012-12-28'
+  amount: '1000.0'
+  label: PMT AVANCE
+  accounting_document: 0346VL1209
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:45.314+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:45.314+02:00'
+  updated_by: 296
+tier_9786_disbursement_292268:
+  id: 292268
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5359
+  source: wages
+  date: '2013-01-03'
+  amount: '1766.79'
+  label: PMT DEC SALAIRE
+  accounting_document: 0071VA1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:46.930+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:46.930+02:00'
+  updated_by: 296
+tier_9786_disbursement_292862:
+  id: 292862
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5377
+  source: expenses
+  date: '2013-01-08'
+  amount: '941.01'
+  label: PMT NDF 154413
+  accounting_document: 0140VA1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:48.594+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:48.594+02:00'
+  updated_by: 296
+tier_9786_disbursement_292966:
+  id: 292966
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5383
+  source: expenses
+  date: '2013-01-09'
+  amount: '141.77'
+  label: PMT NDF 154474
+  accounting_document: 0175VA1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:48.860+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:48.860+02:00'
+  updated_by: 296
+tier_9786_disbursement_293580:
+  id: 293580
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5400
+  source: wages_advance
+  date: '2013-01-15'
+  amount: '2000.0'
+  label: PMT AVANCE
+  accounting_document: '0248VA1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:50.713+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:50.713+02:00'
+  updated_by: 296
+tier_9786_disbursement_293874:
+  id: 293874
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5418
+  source: wages_advance
+  date: '2013-01-18'
+  amount: '2000.0'
+  label: PMT AVANCE
+  accounting_document: '0285VA1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:51.476+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:51.476+02:00'
+  updated_by: 296
+tier_9786_disbursement_294783:
+  id: 294783
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5471
+  source: expenses
+  date: '2013-01-31'
+  amount: '419.53'
+  label: PMT NDF 155755
+  accounting_document: '0388VA1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:54.094+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:54.094+02:00'
+  updated_by: 296
+tier_9786_disbursement_294784:
+  id: 294784
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5471
+  source: expenses
+  date: '2013-01-31'
+  amount: '1219.85'
+  label: PMT NDF 155756
+  accounting_document: '0389VA1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:54.096+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:54.096+02:00'
+  updated_by: 296
+tier_9786_disbursement_294868:
+  id: 294868
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5471
+  source: wages
+  date: '2013-01-31'
+  amount: '4501.63'
+  label: PMT JAN SALAIRE
+  accounting_document: 0404VA1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:54.309+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:54.309+02:00'
+  updated_by: 296
+tier_9786_disbursement_295551:
+  id: 295551
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5500
+  source: expenses
+  date: '2013-02-07'
+  amount: '145.44'
+  label: PMT NDF 156007
+  accounting_document: '0080VB1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:56.350+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:56.350+02:00'
+  updated_by: 296
+tier_9786_disbursement_295986:
+  id: 295986
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5523
+  source: wages_advance
+  date: '2013-02-13'
+  amount: '2000.0'
+  label: PMT AVANCE
+  accounting_document: 0142VB1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:50:57.609+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:50:57.609+02:00'
+  updated_by: 296
+tier_9786_disbursement_297343:
+  id: 297343
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5593
+  source: expenses
+  date: '2013-03-01'
+  amount: '746.03'
+  label: PMT NDF 157078
+  accounting_document: 0023VC1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:01.371+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:01.371+02:00'
+  updated_by: 296
+tier_9786_disbursement_297348:
+  id: 297348
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5593
+  source: expenses
+  date: '2013-03-01'
+  amount: '793.76'
+  label: PMT NDF 157085
+  accounting_document: 0024VC1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:01.384+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:01.384+02:00'
+  updated_by: 296
+tier_9786_disbursement_297351:
+  id: 297351
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5593
+  source: wages
+  date: '2013-03-01'
+  amount: '4113.15'
+  label: PMT FEV SALAIRE
+  accounting_document: 0027VC1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:01.392+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:01.392+02:00'
+  updated_by: 296
+tier_9786_disbursement_298479:
+  id: 298479
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5641
+  source: expenses
+  date: '2013-03-13'
+  amount: '464.9'
+  label: PMT NDF 157753
+  accounting_document: '0188VC1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:04.771+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:04.771+02:00'
+  updated_by: 296
+tier_9786_disbursement_298555:
+  id: 298555
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5653
+  source: expenses
+  date: '2013-03-14'
+  amount: '522.2'
+  label: PMT NDF 157817
+  accounting_document: 0205VC1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:04.976+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:04.976+02:00'
+  updated_by: 296
+tier_9786_disbursement_299837:
+  id: 299837
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5715
+  source: wages
+  date: '2013-04-02'
+  amount: '3519.12'
+  label: PMT MAR SALAIRE
+  accounting_document: 0034VD1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:08.617+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:08.617+02:00'
+  updated_by: 296
+tier_9786_disbursement_299940:
+  id: 299940
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5721
+  source: expenses
+  date: '2013-04-03'
+  amount: '654.1'
+  label: PMT NDF 158364
+  accounting_document: 0044VD1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:08.885+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:08.885+02:00'
+  updated_by: 296
+tier_9786_disbursement_300167:
+  id: 300167
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5738
+  source: expenses
+  date: '2013-04-05'
+  amount: '2600.9'
+  label: PMT NDF 158455
+  accounting_document: 0077VD1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:09.607+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:09.607+02:00'
+  updated_by: 296
+tier_9786_disbursement_300747:
+  id: 300747
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5762
+  source: expenses
+  date: '2013-04-11'
+  amount: '1147.57'
+  label: PMT NDF 158897
+  accounting_document: 0164VD1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:11.234+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:11.234+02:00'
+  updated_by: 296
+tier_9786_disbursement_301329:
+  id: 301329
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2013-04-22'
+  amount: '10660.0'
+  label: PMT AVANCE
+  accounting_document: 0001CD1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:12.865+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:12.865+02:00'
+  updated_by: 296
+tier_9786_disbursement_302895:
+  id: 302895
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5871
+  source: wages_advance
+  date: '2013-05-13'
+  amount: '3460.0'
+  label: PMT AVANCE
+  accounting_document: 0116VE1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:17.296+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:17.296+02:00'
+  updated_by: 296
+tier_9786_disbursement_304820:
+  id: 304820
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5948
+  source: expenses
+  date: '2013-06-03'
+  amount: '2831.82'
+  label: PMT NDF 160979
+  accounting_document: 0034VF1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:22.821+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:22.821+02:00'
+  updated_by: 296
+tier_9786_disbursement_305192:
+  id: 305192
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5965
+  source: expenses
+  date: '2013-06-06'
+  amount: '903.12'
+  label: PMT NDF 161253
+  accounting_document: '0090VF1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:23.915+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:23.915+02:00'
+  updated_by: 296
+tier_9786_disbursement_305506:
+  id: 305506
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 5977
+  source: wages_advance
+  date: '2013-06-10'
+  amount: '4000.0'
+  label: PMT AVANCE
+  accounting_document: 0132VF1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:24.858+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:24.858+02:00'
+  updated_by: 296
+tier_9786_disbursement_307034:
+  id: 307034
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6062
+  source: expenses
+  date: '2013-07-02'
+  amount: '34.7'
+  label: PMT NDF 162234
+  accounting_document: 0056VG1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:29.232+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:29.232+02:00'
+  updated_by: 296
+tier_9786_disbursement_307035:
+  id: 307035
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6062
+  source: expenses
+  date: '2013-07-02'
+  amount: '3266.02'
+  label: PMT NDF 162235
+  accounting_document: 0057VG1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:29.235+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:29.235+02:00'
+  updated_by: 296
+tier_9786_disbursement_307799:
+  id: 307799
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6092
+  source: wages_advance
+  date: '2013-07-08'
+  amount: '5000.0'
+  label: PMT AVANCE
+  accounting_document: '0159VG1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:31.341+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:31.341+02:00'
+  updated_by: 296
+tier_9786_disbursement_308181:
+  id: 308181
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6114
+  source: wages_advance
+  date: '2013-07-12'
+  amount: '2500.0'
+  label: PMT AVANCE
+  accounting_document: 0217VG1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:32.470+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:32.470+02:00'
+  updated_by: 296
+tier_9786_disbursement_308303:
+  id: 308303
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6114
+  source: wages_advance
+  date: '2013-07-15'
+  amount: '1000.0'
+  label: PMT AVANCE
+  accounting_document: '0238VG1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:32.783+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:32.783+02:00'
+  updated_by: 296
+tier_9786_disbursement_310114:
+  id: 310114
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6203
+  source: wages_advance
+  date: '2013-08-02'
+  amount: '4500.0'
+  label: PMT AVANCE
+  accounting_document: 0037VH1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:38.038+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:38.038+02:00'
+  updated_by: 296
+tier_9786_disbursement_310721:
+  id: 310721
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6231
+  source: wages_advance
+  date: '2013-08-12'
+  amount: '7500.0'
+  label: PMT AVANCE
+  accounting_document: 0132VH1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:39.742+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:39.742+02:00'
+  updated_by: 296
+tier_9786_disbursement_311986:
+  id: 311986
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6293
+  source: wages_advance
+  date: '2013-09-02'
+  amount: '2000.0'
+  label: PMT AVANCE
+  accounting_document: '0019VI1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:43.426+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:43.426+02:00'
+  updated_by: 296
+tier_9786_disbursement_312608:
+  id: 312608
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6310
+  source: wages_advance
+  date: '2013-09-06'
+  amount: '5000.0'
+  label: PMT AVANCE
+  accounting_document: '0138VI1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:45.162+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:45.162+02:00'
+  updated_by: 296
+tier_9786_disbursement_313264:
+  id: 313264
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6351
+  source: wages_advance
+  date: '2013-09-17'
+  amount: '3000.0'
+  label: PMT AVANCE
+  accounting_document: '0259VI1309'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:46.975+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:46.975+02:00'
+  updated_by: 296
+tier_9786_disbursement_314720:
+  id: 314720
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6423
+  source: wages_advance
+  date: '2013-10-04'
+  amount: '838.0'
+  label: PMT AVANCE
+  accounting_document: 0077VJ1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:51.136+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:51.136+02:00'
+  updated_by: 296
+tier_9786_disbursement_315503:
+  id: 315503
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2013-10-15'
+  amount: '6500.0'
+  label: PMT AVANCE
+  accounting_document: 0001CJ1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:53.413+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:53.413+02:00'
+  updated_by: 296
+tier_9786_disbursement_317332:
+  id: 317332
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2013-11-06'
+  amount: '10000.0'
+  label: PMT AVANCE
+  accounting_document: 0001CK1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:51:58.516+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:51:58.516+02:00'
+  updated_by: 296
+tier_9786_disbursement_320430:
+  id: 320430
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6681
+  source: wages_advance
+  date: '2013-12-09'
+  amount: '8000.0'
+  label: PMT AVANCE
+  accounting_document: 0120VL1309
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:52:07.509+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:52:07.509+02:00'
+  updated_by: 296
+tier_9786_disbursement_323782:
+  id: 323782
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6805
+  source: wages_advance
+  date: '2014-01-10'
+  amount: '11000.0'
+  label: PMT AVANCE
+  accounting_document: 0144VA1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:52:17.094+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:52:17.094+02:00'
+  updated_by: 296
+tier_9786_disbursement_326394:
+  id: 326394
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6905
+  source: wages_advance
+  date: '2014-02-10'
+  amount: '8000.0'
+  label: PMT AVANCE
+  accounting_document: 0130VB1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:52:24.478+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:52:24.478+02:00'
+  updated_by: 296
+tier_9786_disbursement_326482:
+  id: 326482
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6905
+  source: wages_advance
+  date: '2014-02-10'
+  amount: '1489.82'
+  label: PMT AVANCE
+  accounting_document: 0135VB1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:52:24.843+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:52:24.843+02:00'
+  updated_by: 296
+tier_9786_disbursement_328728:
+  id: 328728
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2014-03-07'
+  amount: '8000.0'
+  label: PMT AVANCE
+  accounting_document: 0001CC1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:52:31.175+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:52:31.175+02:00'
+  updated_by: 296
+tier_9786_disbursement_331933:
+  id: 331933
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7155
+  source: wages_advance
+  date: '2014-04-10'
+  amount: '5500.0'
+  label: PMT AVANCE
+  accounting_document: 0151VD1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:52:40.227+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:52:40.227+02:00'
+  updated_by: 296
+tier_9786_disbursement_333734:
+  id: 333734
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7245
+  source: wages_advance
+  date: '2014-05-06'
+  amount: '9500.0'
+  label: PMT AVANCE
+  accounting_document: 0051VE1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:52:45.381+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:52:45.381+02:00'
+  updated_by: 296
+tier_9786_disbursement_336972:
+  id: 336972
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2014-06-13'
+  amount: '10000.0'
+  label: PMT AVANCE
+  accounting_document: 0002CF1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:52:54.622+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:52:54.622+02:00'
+  updated_by: 296
+tier_9786_disbursement_339541:
+  id: 339541
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2014-07-08'
+  amount: '10000.0'
+  label: PMT AVANCE
+  accounting_document: 0001CG1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:53:01.923+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:53:01.923+02:00'
+  updated_by: 296
+tier_9786_disbursement_339746:
+  id: 339746
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7509
+  source: wages_advance
+  date: '2014-07-11'
+  amount: '2000.0'
+  label: PMT AVANCE
+  accounting_document: '0182VG1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:53:02.458+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:53:02.458+02:00'
+  updated_by: 296
+tier_9786_disbursement_341723:
+  id: 341723
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7587
+  source: wages_advance
+  date: '2014-08-01'
+  amount: '1219.8'
+  label: PMT AVANCE
+  accounting_document: 0027VH1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:53:08.165+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:53:08.165+02:00'
+  updated_by: 296
+tier_9786_disbursement_341868:
+  id: 341868
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7599
+  source: wages_advance
+  date: '2014-08-05'
+  amount: '22000.0'
+  label: PMT AVANCE
+  accounting_document: 0052VH1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:53:08.542+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:53:08.542+02:00'
+  updated_by: 296
+tier_9786_disbursement_344532:
+  id: 344532
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2014-09-09'
+  amount: '7000.0'
+  label: PMT AVANCE
+  accounting_document: 0003CI1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:53:16.216+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:53:16.216+02:00'
+  updated_by: 296
+tier_9786_disbursement_346959:
+  id: 346959
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7848
+  source: wages_advance
+  date: '2014-10-08'
+  amount: '15000.0'
+  label: PMT AVANCE
+  accounting_document: 0114VJ1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:53:23.049+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:53:23.049+02:00'
+  updated_by: 296
+tier_9786_disbursement_347310:
+  id: 347310
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7865
+  source: wages_advance
+  date: '2014-10-13'
+  amount: '2055.0'
+  label: PMT AVANCE
+  accounting_document: 0176VJ1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:53:24.088+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:53:24.088+02:00'
+  updated_by: 296
+tier_9786_disbursement_349992:
+  id: 349992
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7982
+  source: wages_advance
+  date: '2014-11-12'
+  amount: '8000.0'
+  label: PMT AVANCE
+  accounting_document: 0125VK1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:53:31.821+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:53:31.821+02:00'
+  updated_by: 296
+tier_9786_disbursement_350169:
+  id: 350169
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7988
+  source: wages_advance
+  date: '2014-11-13'
+  amount: '3000.0'
+  label: PMT AVANCE
+  accounting_document: 0152VK1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:53:32.278+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:53:32.278+02:00'
+  updated_by: 296
+tier_9786_disbursement_352867:
+  id: 352867
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2014-12-10'
+  amount: '9000.0'
+  label: PMT AVANCE
+  accounting_document: 0002CL1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:53:39.923+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:53:39.923+02:00'
+  updated_by: 296
+tier_9786_disbursement_356210:
+  id: 356210
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8218
+  source: wages_advance
+  date: '2015-01-12'
+  amount: '2298.0'
+  label: PMT AVANCE
+  accounting_document: '0194VA1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:53:49.556+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:53:49.556+02:00'
+  updated_by: 296
+tier_9786_disbursement_356322:
+  id: 356322
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2015-01-13'
+  amount: '15000.0'
+  label: PMT AVANCE
+  accounting_document: 0001CA1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:53:49.844+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:53:49.844+02:00'
+  updated_by: 296
+tier_9786_disbursement_359074:
+  id: 359074
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8329
+  source: wages_advance
+  date: '2015-02-06'
+  amount: '8500.0'
+  label: PMT AVANCE
+  accounting_document: '0108VB1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:53:57.803+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:53:57.803+02:00'
+  updated_by: 296
+tier_9786_disbursement_362109:
+  id: 362109
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2015-03-11'
+  amount: '12200.0'
+  label: PMT AVANCE
+  accounting_document: 0002CC1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:54:06.688+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:54:06.688+02:00'
+  updated_by: 296
+tier_9786_disbursement_364187:
+  id: 364187
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8569
+  source: wages_advance
+  date: '2015-04-03'
+  amount: '8500.0'
+  label: PMT AVANCE
+  accounting_document: 0060VD1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:54:12.623+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:54:12.623+02:00'
+  updated_by: 296
+tier_9786_disbursement_367493:
+  id: 367493
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8712
+  source: wages_advance
+  date: '2015-05-07'
+  amount: '10000.0'
+  label: PMT AVANCE
+  accounting_document: '0109VE1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:54:22.189+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:54:22.189+02:00'
+  updated_by: 296
+tier_9786_disbursement_369195:
+  id: 369195
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8788
+  source: wages_advance
+  date: '2015-05-29'
+  amount: '3500.0'
+  label: PMT AVANCE
+  accounting_document: 0311VE1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:54:27.025+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:54:27.025+02:00'
+  updated_by: 296
+tier_9786_disbursement_370869:
+  id: 370869
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8850
+  source: wages_advance
+  date: '2015-06-12'
+  amount: '2200.0'
+  label: PMT AVANCE
+  accounting_document: 0231VF1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:54:31.760+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:54:31.760+02:00'
+  updated_by: 296
+tier_9786_disbursement_373266:
+  id: 373266
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8942
+  source: wages_advance
+  date: '2015-07-06'
+  amount: '8000.0'
+  label: PMT AVANCE
+  accounting_document: '0087VG1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:54:38.645+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:54:38.645+02:00'
+  updated_by: 296
+tier_9786_disbursement_376021:
+  id: 376021
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9047
+  source: wages_advance
+  date: '2015-08-03'
+  amount: '7500.0'
+  label: PMT AVANCE
+  accounting_document: '0029VH1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:54:46.692+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:54:46.692+02:00'
+  updated_by: 296
+tier_9786_disbursement_377139:
+  id: 377139
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9112
+  source: wages_advance
+  date: '2015-08-18'
+  amount: '550.0'
+  label: PMT AVANCE
+  accounting_document: 0175VH1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:54:49.833+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:54:49.833+02:00'
+  updated_by: 296
+tier_9786_disbursement_378884:
+  id: 378884
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9174
+  source: wages_advance
+  date: '2015-09-02'
+  amount: '4500.0'
+  label: PMT AVANCE
+  accounting_document: 0052VI1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:54:54.864+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:54:54.864+02:00'
+  updated_by: 296
+tier_9786_disbursement_379458:
+  id: 379458
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9211
+  source: wages_advance
+  date: '2015-09-10'
+  amount: '2000.0'
+  label: PMT AVANCE
+  accounting_document: 0131VI1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:54:56.473+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:54:56.473+02:00'
+  updated_by: 296
+tier_9786_disbursement_379867:
+  id: 379867
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9263
+  source: wages_advance
+  date: '2015-09-23'
+  amount: '500.0'
+  label: PMT AVANCE
+  accounting_document: '0183VI1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:54:57.662+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:54:57.662+02:00'
+  updated_by: 296
+tier_9786_disbursement_381590:
+  id: 381590
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9301
+  source: wages_advance
+  date: '2015-10-01'
+  amount: '4500.0'
+  label: PMT AVANCE
+  accounting_document: '0049VJ1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:55:02.679+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:55:02.679+02:00'
+  updated_by: 296
+tier_9786_disbursement_382343:
+  id: 382343
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9347
+  source: wages_advance
+  date: '2015-10-12'
+  amount: '4000.0'
+  label: PMT AVANCE
+  accounting_document: 0163VJ1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:55:04.804+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:55:04.804+02:00'
+  updated_by: 296
+tier_9786_disbursement_384420:
+  id: 384420
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9431
+  source: wages_advance
+  date: '2015-11-02'
+  amount: '4500.0'
+  label: PMT AVANCE
+  accounting_document: 0011VK1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:55:10.802+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:55:10.802+02:00'
+  updated_by: 296
+tier_9786_disbursement_385193:
+  id: 385193
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2015-11-10'
+  amount: '5000.0'
+  label: PMT AVANCE
+  accounting_document: 0001CK1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:55:13.070+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:55:13.070+02:00'
+  updated_by: 296
+tier_9786_disbursement_387749:
+  id: 387749
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9567
+  source: wages_advance
+  date: '2015-12-03'
+  amount: '4500.0'
+  label: PMT AVANCE
+  accounting_document: '0086VL1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:55:20.311+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:55:20.311+02:00'
+  updated_by: 296
+tier_9786_disbursement_390423:
+  id: 390423
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9671
+  source: wages_advance
+  date: '2015-12-31'
+  amount: '4500.0'
+  label: PMT AVANCE
+  accounting_document: 0404VL1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:55:27.873+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:55:27.873+02:00'
+  updated_by: 296
+tier_9786_disbursement_391313:
+  id: 391313
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2016-01-08'
+  amount: '10000.0'
+  label: PMT AVANCE
+  accounting_document: 0001CA1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:55:30.474+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:55:30.474+02:00'
+  updated_by: 296
+tier_9786_disbursement_391358:
+  id: 391358
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9701
+  source: wages_advance
+  date: '2016-01-08'
+  amount: '10000.0'
+  label: PMT AVANCE
+  accounting_document: '0108VA1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:55:30.591+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:55:30.591+02:00'
+  updated_by: 296
+tier_9786_disbursement_394481:
+  id: 394481
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9823
+  source: wages_advance
+  date: '2016-02-08'
+  amount: '5500.0'
+  label: PMT AVANCE
+  accounting_document: '0118VB1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:55:39.659+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:55:39.659+02:00'
+  updated_by: 296
+tier_9786_disbursement_397537:
+  id: 397537
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2016-03-07'
+  amount: '5000.0'
+  label: PMT AVANCE
+  accounting_document: '0159VC1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:55:48.373+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:55:48.373+02:00'
+  updated_by: 296
+tier_9786_disbursement_398473:
+  id: 398473
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2016-03-23'
+  amount: '5000.0'
+  label: PMT AVANCE
+  accounting_document: 0003CC1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:55:51.055+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:55:51.055+02:00'
+  updated_by: 296
+tier_9786_disbursement_400713:
+  id: 400713
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2016-04-12'
+  amount: '2000.0'
+  label: PMT AVANCE
+  accounting_document: 0001CD1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:55:57.364+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:55:57.364+02:00'
+  updated_by: 296
+tier_9786_disbursement_402028:
+  id: 402028
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10139
+  source: wages_advance
+  date: '2016-04-27'
+  amount: '3000.0'
+  label: PMT AVANCE
+  accounting_document: 0352VD1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:56:01.182+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:56:01.182+02:00'
+  updated_by: 296
+tier_9786_disbursement_403278:
+  id: 403278
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10175
+  source: wages_advance
+  date: '2016-05-09'
+  amount: '2000.0'
+  label: PMT AVANCE
+  accounting_document: 0133VE1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:56:04.728+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:56:04.728+02:00'
+  updated_by: 296
+tier_9786_disbursement_405911:
+  id: 405911
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10271
+  source: wages_advance
+  date: '2016-06-01'
+  amount: '5000.0'
+  label: PMT AVANCE
+  accounting_document: 0036VF1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:56:12.215+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:56:12.215+02:00'
+  updated_by: 296
+tier_9786_disbursement_408379:
+  id: 408379
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10392
+  source: wages_advance
+  date: '2016-06-30'
+  amount: '5000.0'
+  label: PMT AVANCE
+  accounting_document: '0295VF1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:56:19.356+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:56:19.356+02:00'
+  updated_by: 296
+tier_9786_disbursement_412447:
+  id: 412447
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10528
+  source: wages_advance
+  date: '2016-08-04'
+  amount: '8000.0'
+  label: PMT AVANCE
+  accounting_document: '0095VH1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:56:30.893+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:56:30.893+02:00'
+  updated_by: 296
+tier_9786_disbursement_414366:
+  id: 414366
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10628
+  source: wages_advance
+  date: '2016-08-31'
+  amount: '4000.0'
+  label: PMT AVANCE
+  accounting_document: 0342VH1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:56:36.399+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:56:36.399+02:00'
+  updated_by: 296
+tier_9786_disbursement_416290:
+  id: 416290
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10736
+  source: wages_advance
+  date: '2016-09-27'
+  amount: '4000.0'
+  label: PMT AVANCE
+  accounting_document: 0223VI1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:56:42.068+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:56:42.068+02:00'
+  updated_by: 296
+tier_9786_disbursement_419683:
+  id: 419683
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10863
+  source: wages_advance
+  date: '2016-10-27'
+  amount: '5000.0'
+  label: PMT AVANCE
+  accounting_document: '0283VJ1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:56:52.470+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:56:52.470+02:00'
+  updated_by: 296
+tier_9786_disbursement_422753:
+  id: 422753
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10980
+  source: wages_advance
+  date: '2016-11-28'
+  amount: '7000.0'
+  label: PMT AVANCE
+  accounting_document: '0329VK1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:57:01.280+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:57:01.280+02:00'
+  updated_by: 296
+tier_9786_disbursement_424996:
+  id: 424996
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11034
+  source: wages_advance
+  date: '2016-12-09'
+  amount: '2000.0'
+  label: PMT AVANCE
+  accounting_document: '0159VL1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:57:07.799+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:57:07.799+02:00'
+  updated_by: 296
+tier_9786_disbursement_428326:
+  id: 428326
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11141
+  source: wages_advance
+  date: '2017-01-04'
+  amount: '5000.0'
+  label: PMT AVANCE
+  accounting_document: 0054VA1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:57:17.210+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:57:17.210+02:00'
+  updated_by: 296
+tier_9786_disbursement_430006:
+  id: 430006
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11236
+  source: wages_advance
+  date: '2017-01-27'
+  amount: '5000.0'
+  label: PMT AVANCE
+  accounting_document: 0270VA1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:57:22.093+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:57:22.093+02:00'
+  updated_by: 296
+tier_9786_disbursement_431834:
+  id: 431834
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11272
+  source: wages_advance
+  date: '2017-02-06'
+  amount: '7000.0'
+  label: PMT AVANCE
+  accounting_document: 0101VB1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:57:27.221+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:57:27.221+02:00'
+  updated_by: 296
+tier_9786_disbursement_434847:
+  id: 434847
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11377
+  source: wages_advance
+  date: '2017-03-02'
+  amount: '5000.0'
+  label: PMT AVANCE
+  accounting_document: 0072VC1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:57:35.823+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:57:35.823+02:00'
+  updated_by: 296
+tier_9786_disbursement_435590:
+  id: 435590
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11413
+  source: wages_advance
+  date: '2017-03-10'
+  amount: '3000.0'
+  label: PMT AVANCE
+  accounting_document: '0168VC1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:57:38.024+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:57:38.024+02:00'
+  updated_by: 296
+tier_9786_disbursement_437714:
+  id: 437714
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11500
+  source: wages_advance
+  date: '2017-03-31'
+  amount: '7000.0'
+  label: PMT AVANCE
+  accounting_document: '0439VC1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:57:46.429+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:57:46.429+02:00'
+  updated_by: 296
+tier_9786_disbursement_438332:
+  id: 438332
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2017-04-04'
+  amount: '3000.0'
+  label: PMT AVANCE
+  accounting_document: 0001CD1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:57:48.773+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:57:48.773+02:00'
+  updated_by: 296
+tier_9786_disbursement_438939:
+  id: 438939
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11541
+  source: wages_advance
+  date: '2017-04-11'
+  amount: '1000.0'
+  label: PMT AVANCE
+  accounting_document: 0140VD1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:57:51.729+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:57:51.729+02:00'
+  updated_by: 296
+tier_9786_disbursement_440396:
+  id: 440396
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11605
+  source: wages_advance
+  date: '2017-04-28'
+  amount: '5000.0'
+  label: PMT AVANCE
+  accounting_document: '0293VD1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:57:56.659+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:57:56.659+02:00'
+  updated_by: 296
+tier_9786_disbursement_441643:
+  id: 441643
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11629
+  source: wages_advance
+  date: '2017-05-05'
+  amount: '4000.0'
+  label: PMT AVANCE
+  accounting_document: 0111VE1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:58:00.977+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:58:00.977+02:00'
+  updated_by: 296
+tier_9786_disbursement_443750:
+  id: 443750
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11714
+  source: wages_advance
+  date: '2017-05-30'
+  amount: '10000.0'
+  label: PMT AVANCE
+  accounting_document: '0388VE1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:58:07.143+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:58:07.143+02:00'
+  updated_by: 296
+tier_9786_disbursement_448477:
+  id: 448477
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2017-07-05'
+  amount: '12000.0'
+  label: PMT AVANCE
+  accounting_document: 0074VG1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:58:21.625+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:58:21.625+02:00'
+  updated_by: 296
+tier_9786_disbursement_452113:
+  id: 452113
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12001
+  source: wages_advance
+  date: '2017-08-04'
+  amount: '10000.0'
+  label: PMT AVANCE
+  accounting_document: '0095VH1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:58:31.946+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:58:31.946+02:00'
+  updated_by: 296
+tier_9786_disbursement_453519:
+  id: 453519
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12077
+  source: wages_advance
+  date: '2017-08-28'
+  amount: '8500.0'
+  label: PMT AVANCE
+  accounting_document: '0281VH1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:58:36.008+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:58:36.008+02:00'
+  updated_by: 296
+tier_9786_disbursement_455944:
+  id: 455944
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12173
+  source: wages_advance
+  date: '2017-09-20'
+  amount: '1100.0'
+  label: PMT AVANCE
+  accounting_document: 0222VI1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:58:42.812+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:58:42.812+02:00'
+  updated_by: 296
+tier_9786_disbursement_456844:
+  id: 456844
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12214
+  source: wages_advance
+  date: '2017-09-29'
+  amount: '10000.0'
+  label: PMT AVANCE
+  accounting_document: 0331VI1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:58:45.416+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:58:45.416+02:00'
+  updated_by: 296
+tier_9786_disbursement_459163:
+  id: 459163
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12291
+  source: wages_advance
+  date: '2017-10-18'
+  amount: '1032.0'
+  label: PMT AVANCE
+  accounting_document: 0256VJ1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:58:52.171+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:58:52.171+02:00'
+  updated_by: 296
+tier_9786_disbursement_461527:
+  id: 461527
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12351
+  source: wages_advance
+  date: '2017-11-02'
+  amount: '10500.0'
+  label: PMT AVANCE
+  accounting_document: 0046VK1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:58:59.196+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:58:59.196+02:00'
+  updated_by: 296
+tier_9786_disbursement_465015:
+  id: 465015
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2017-12-05'
+  amount: '9500.0'
+  label: PMT AVANCE
+  accounting_document: 0001CL1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:59:09.257+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:59:09.257+02:00'
+  updated_by: 296
+tier_9786_disbursement_469064:
+  id: 469064
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12607
+  source: wages_advance
+  date: '2018-01-04'
+  amount: '12500.0'
+  label: PMT AVANCE
+  accounting_document: '0084VA1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:59:20.762+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:59:20.762+02:00'
+  updated_by: 296
+tier_9786_disbursement_473098:
+  id: 473098
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12748
+  source: wages_advance
+  date: '2018-02-06'
+  amount: '8000.0'
+  label: PMT AVANCE
+  accounting_document: 0123VB1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:59:32.268+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:59:32.268+02:00'
+  updated_by: 296
+tier_9786_disbursement_476613:
+  id: 476613
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id:
+  source: wages_advance
+  date: '2018-03-06'
+  amount: '7000.0'
+  label: PMT AVANCE
+  accounting_document: 0001CC1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:59:42.339+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:59:42.339+02:00'
+  updated_by: 296
+tier_9786_disbursement_478692:
+  id: 478692
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12967
+  source: wages_advance
+  date: '2018-03-28'
+  amount: '6000.0'
+  label: PMT AVANCE
+  accounting_document: '0369VC1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T09:59:48.254+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T09:59:48.254+02:00'
+  updated_by: 296
+tier_9786_disbursement_483878:
+  id: 483878
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 13133
+  source: wages_advance
+  date: '2018-05-09'
+  amount: '6000.0'
+  label: PMT AVANCE
+  accounting_document: 0142VE1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:00:03.137+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:00:03.137+02:00'
+  updated_by: 296
+tier_9786_disbursement_487151:
+  id: 487151
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 13239
+  source: wages_advance
+  date: '2018-06-06'
+  amount: '6000.0'
+  label: PMT AVANCE
+  accounting_document: 0107VF1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:00:12.905+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:00:12.905+02:00'
+  updated_by: 296
+tier_9786_disbursement_490369:
+  id: 490369
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 13349
+  source: wages_advance
+  date: '2018-07-03'
+  amount: '6000.0'
+  label: PMT AVANCE
+  accounting_document: '0096VG1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:00:22.031+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:00:22.031+02:00'
+  updated_by: 296
+tier_9786_disbursement_494143:
+  id: 494143
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 13497
+  source: wages_advance
+  date: '2018-08-03'
+  amount: '6000.0'
+  label: PMT AVANCE
+  accounting_document: 0104VH1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:00:32.967+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:00:32.967+02:00'
+  updated_by: 296
+tier_9786_disbursement_496697:
+  id: 496697
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 13601
+  source: wages_advance
+  date: '2018-08-31'
+  amount: '8000.0'
+  label: PMT AVANCE
+  accounting_document: 0454VH1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:00:40.324+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:00:40.324+02:00'
+  updated_by: 296
+tier_9786_disbursement_500134:
+  id: 500134
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 13761
+  source: wages_advance
+  date: '2018-10-02'
+  amount: '6000.0'
+  label: PMT AVANCE
+  accounting_document: '0098VJ1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:00:50.236+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:00:50.236+02:00'
+  updated_by: 296
+tier_9786_disbursement_501198:
+  id: 501198
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 13819
+  source: wages_advance
+  date: '2018-10-16'
+  amount: '1000.0'
+  label: PMT AVANCE
+  accounting_document: 0230VJ1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:00:53.289+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:00:53.289+02:00'
+  updated_by: 296
+tier_9786_disbursement_503931:
+  id: 503931
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 13898
+  source: wages_advance
+  date: '2018-11-05'
+  amount: '6000.0'
+  label: PMT AVANCE
+  accounting_document: '0008VK1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:01:01.070+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:01:01.070+02:00'
+  updated_by: 296
+tier_9786_disbursement_506954:
+  id: 506954
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 14012
+  source: wages_advance
+  date: '2018-12-03'
+  amount: '6000.0'
+  label: PMT AVANCE
+  accounting_document: 0001VL1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:01:09.926+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:01:09.926+02:00'
+  updated_by: 296
+tier_9786_disbursement_514476:
+  id: 514476
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 3
+  source: wages_advance
+  date: '2019-01-31'
+  amount: '5000.0'
+  label: PMT AVANCE
+  accounting_document: '0486VA1909'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:01:31.705+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:01:31.705+02:00'
+  updated_by: 296
+tier_9786_disbursement_515622:
+  id: 515622
+  tier_id: 9786
+  payment_type_id: 1
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 4
+  source: wages_advance
+  date: '2019-02-05'
+  amount: '5000.0'
+  label: PMT AVANCE
+  accounting_document:
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-04-04T10:01:34.955+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:01:34.955+02:00'
+  updated_by: 296
+jackie_denesik_323763:
+  id: 323763
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6805
+  source: expenses
+  date: '2014-01-10'
+  amount: '2967.63'
+  label: PMT NDF 170515
+  accounting_document: 0141VA1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:42:09.146+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:42:09.146+02:00'
+  updated_by: 296
+jackie_denesik_324005:
+  id: 324005
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6811
+  source: wages
+  date: '2014-01-13'
+  amount: '743.2'
+  label: PMT NOV SALAIRE
+  accounting_document: '0169VA1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:42:10.349+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:42:10.349+02:00'
+  updated_by: 296
+jackie_denesik_324023:
+  id: 324023
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6811
+  source: wages
+  date: '2014-01-13'
+  amount: '704.11'
+  label: PMT DEC SALAIRE
+  accounting_document: 0172VA1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:42:10.437+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:42:10.437+02:00'
+  updated_by: 296
+jackie_denesik_324785:
+  id: 324785
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6857
+  source: expenses
+  date: '2014-01-23'
+  amount: '661.65'
+  label: PMT NDF 172466
+  accounting_document: 0264VA1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:42:17.391+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:42:17.391+02:00'
+  updated_by: 296
+jackie_denesik_324786:
+  id: 324786
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6857
+  source: expenses
+  date: '2014-01-23'
+  amount: '1767.3'
+  label: PMT NDF 172465
+  accounting_document: 0265VA1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:42:17.396+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:42:17.396+02:00'
+  updated_by: 296
+jackie_denesik_325852:
+  id: 325852
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6887
+  source: wages
+  date: '2014-02-05'
+  amount: '1169.7'
+  label: PMT JAN SALAIRE
+  accounting_document: 0061VB1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:42:25.638+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:42:25.638+02:00'
+  updated_by: 296
+jackie_denesik_326758:
+  id: 326758
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6928
+  source: expenses
+  date: '2014-02-13'
+  amount: '2774.32'
+  label: PMT NDF 173129
+  accounting_document: '0178VB1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:42:32.978+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:42:32.978+02:00'
+  updated_by: 296
+jackie_denesik_327571:
+  id: 327571
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 6979
+  source: expenses
+  date: '2014-02-27'
+  amount: '1009.33'
+  label: PMT NDF 173125
+  accounting_document: '0318VB1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:42:40.040+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:42:40.040+02:00'
+  updated_by: 296
+jackie_denesik_328513:
+  id: 328513
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7008
+  source: wages
+  date: '2014-03-06'
+  amount: '1091.68'
+  label: PMT FEV SALAIRE
+  accounting_document: 0075VC1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:42:46.014+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:42:46.014+02:00'
+  updated_by: 296
+jackie_denesik_329350:
+  id: 329350
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7050
+  source: expenses
+  date: '2014-03-14'
+  amount: '1740.78'
+  label: PMT NDF 174617
+  accounting_document: 0163VC1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:42:53.038+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:42:53.038+02:00'
+  updated_by: 296
+jackie_denesik_329351:
+  id: 329351
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7050
+  source: expenses
+  date: '2014-03-14'
+  amount: '2017.81'
+  label: PMT NDF 174620
+  accounting_document: 0164VC1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:42:53.043+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:42:53.043+02:00'
+  updated_by: 296
+jackie_denesik_330343:
+  id: 330343
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7097
+  source: wages_advance
+  date: '2014-03-27'
+  amount: '1500.0'
+  label: PMT AVANCE
+  accounting_document: '0299VC1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:43:00.911+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:43:00.911+02:00'
+  updated_by: 296
+jackie_denesik_331282:
+  id: 331282
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7126
+  source: wages
+  date: '2014-04-03'
+  amount: '359.2'
+  label: PMT MAR SALAIRE
+  accounting_document: '0084VD1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:43:08.727+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:43:08.727+02:00'
+  updated_by: 296
+jackie_denesik_331934:
+  id: 331934
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7155
+  source: expenses
+  date: '2014-04-10'
+  amount: '3307.03'
+  label: PMT NDF 175744
+  accounting_document: 0152VD1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:43:13.701+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:43:13.701+02:00'
+  updated_by: 296
+jackie_denesik_333598:
+  id: 333598
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7239
+  source: wages
+  date: '2014-05-05'
+  amount: '1442.6'
+  label: PMT AVR SALAIRE
+  accounting_document: 0027VE1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:43:28.344+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:43:28.344+02:00'
+  updated_by: 296
+jackie_denesik_333885:
+  id: 333885
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7250
+  source: expenses
+  date: '2014-05-07'
+  amount: '1077.05'
+  label: PMT NDF 176871
+  accounting_document: '0085VE1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:43:29.916+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:43:29.916+02:00'
+  updated_by: 296
+jackie_denesik_333886:
+  id: 333886
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7250
+  source: expenses
+  date: '2014-05-07'
+  amount: '2944.62'
+  label: PMT NDF 176870
+  accounting_document: '0086VE1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:43:29.921+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:43:29.921+02:00'
+  updated_by: 296
+jackie_denesik_337065:
+  id: 337065
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7399
+  source: wages
+  date: '2014-06-16'
+  amount: '2141.27'
+  label: PMT MAI SALAIRE
+  accounting_document: '0194VF1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:43:56.039+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:43:56.039+02:00'
+  updated_by: 296
+jackie_denesik_337735:
+  id: 337735
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7440
+  source: expenses
+  date: '2014-06-25'
+  amount: '420.3'
+  label: PMT NDF 178819
+  accounting_document: '0287VF1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:44:00.757+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:44:00.757+02:00'
+  updated_by: 296
+jackie_denesik_337736:
+  id: 337736
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7440
+  source: expenses
+  date: '2014-06-25'
+  amount: '1346.48'
+  label: PMT NDF 178818
+  accounting_document: '0288VF1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:44:00.761+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:44:00.761+02:00'
+  updated_by: 296
+jackie_denesik_339353:
+  id: 339353
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7487
+  source: wages
+  date: '2014-07-07'
+  amount: '1052.69'
+  label: PMT JUN SALAIRE
+  accounting_document: 0125VG1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:44:13.088+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:44:13.088+02:00'
+  updated_by: 296
+jackie_denesik_339716:
+  id: 339716
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7504
+  source: expenses
+  date: '2014-07-10'
+  amount: '2523.36'
+  label: PMT NDF 179685
+  accounting_document: 0174VG1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:44:16.374+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:44:16.374+02:00'
+  updated_by: 296
+jackie_denesik_339788:
+  id: 339788
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7509
+  source: expenses
+  date: '2014-07-11'
+  amount: '765.91'
+  label: PMT NDF 180146
+  accounting_document: '0187VG1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:44:16.711+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:44:16.711+02:00'
+  updated_by: 296
+jackie_denesik_341859:
+  id: 341859
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7593
+  source: wages
+  date: '2014-08-04'
+  amount: '1286.64'
+  label: PMT JUI SALAIRE
+  accounting_document: 0043VH1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:44:32.720+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:44:32.720+02:00'
+  updated_by: 296
+jackie_denesik_342499:
+  id: 342499
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7635
+  source: expenses
+  date: '2014-08-13'
+  amount: '536.7'
+  label: PMT NDF 180945
+  accounting_document: 0132VH1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:44:37.533+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:44:37.533+02:00'
+  updated_by: 296
+jackie_denesik_342500:
+  id: 342500
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7635
+  source: expenses
+  date: '2014-08-13'
+  amount: '1911.82'
+  label: PMT NDF 180944
+  accounting_document: 0133VH1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:44:37.537+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:44:37.537+02:00'
+  updated_by: 296
+jackie_denesik_344225:
+  id: 344225
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7707
+  source: wages
+  date: '2014-09-04'
+  amount: '935.77'
+  label: PMT AOU SALAIRE
+  accounting_document: '0089VI1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:44:52.224+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:44:52.224+02:00'
+  updated_by: 296
+jackie_denesik_344589:
+  id: 344589
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7730
+  source: expenses
+  date: '2014-09-10'
+  amount: '718.53'
+  label: PMT NDF 182768
+  accounting_document: 0146VI1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:44:55.527+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:44:55.527+02:00'
+  updated_by: 296
+jackie_denesik_344590:
+  id: 344590
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7730
+  source: expenses
+  date: '2014-09-10'
+  amount: '3150.44'
+  label: PMT NDF 182767
+  accounting_document: 0147VI1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:44:55.531+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:44:55.531+02:00'
+  updated_by: 296
+jackie_denesik_346412:
+  id: 346412
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7824
+  source: wages
+  date: '2014-10-02'
+  amount: '1091.68'
+  label: PMT SEP SALAIRE
+  accounting_document: 0030VJ1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:45:08.777+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:45:08.777+02:00'
+  updated_by: 296
+jackie_denesik_346809:
+  id: 346809
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7842
+  source: wages_advance
+  date: '2014-10-07'
+  amount: '2000.0'
+  label: PMT AVANCE
+  accounting_document: '0087VJ1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:45:12.152+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:45:12.152+02:00'
+  updated_by: 296
+jackie_denesik_348151:
+  id: 348151
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7910
+  source: expenses
+  date: '2014-10-23'
+  amount: '1685.35'
+  label: PMT NDF 184749
+  accounting_document: '0269VJ1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:45:23.184+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:45:23.184+02:00'
+  updated_by: 296
+jackie_denesik_350066:
+  id: 350066
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 7982
+  source: wages
+  date: '2014-11-12'
+  amount: '1247.65'
+  label: PMT OCT SALAIRE
+  accounting_document: '0138VK1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:45:38.801+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:45:38.801+02:00'
+  updated_by: 296
+jackie_denesik_351035:
+  id: 351035
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8047
+  source: expenses
+  date: '2014-11-26'
+  amount: '347.47'
+  label: PMT NDF 186395
+  accounting_document: 0272VK1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:45:46.830+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:45:46.830+02:00'
+  updated_by: 296
+jackie_denesik_351036:
+  id: 351036
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8047
+  source: expenses
+  date: '2014-11-26'
+  amount: '3162.98'
+  label: PMT NDF 186396
+  accounting_document: 0273VK1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:45:46.835+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:45:46.835+02:00'
+  updated_by: 296
+jackie_denesik_352631:
+  id: 352631
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8089
+  source: wages
+  date: '2014-12-05'
+  amount: '1325.62'
+  label: PMT NOV SALAIRE
+  accounting_document: 0126VL1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:45:59.836+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:45:59.836+02:00'
+  updated_by: 296
+jackie_denesik_353795:
+  id: 353795
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8152
+  source: expenses
+  date: '2014-12-22'
+  amount: '697.2'
+  label: PMT NDF 187882
+  accounting_document: '0278VL1409'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:46:08.378+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:46:08.378+02:00'
+  updated_by: 296
+jackie_denesik_354132:
+  id: 354132
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8158
+  source: expenses
+  date: '2014-12-23'
+  amount: '3113.28'
+  label: PMT NDF 187883
+  accounting_document: 0316VL1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:46:11.522+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:46:11.522+02:00'
+  updated_by: 296
+jackie_denesik_354194:
+  id: 354194
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8158
+  source: wages_advance
+  date: '2014-12-23'
+  amount: '899.0'
+  label: PMT AVANCE
+  accounting_document: 0322VL1409
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:46:11.846+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:46:11.846+02:00'
+  updated_by: 296
+jackie_denesik_356298:
+  id: 356298
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8218
+  source: wages
+  date: '2015-01-12'
+  amount: '1247.65'
+  label: PMT DEC SALAIRE
+  accounting_document: 0203VA1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:46:27.867+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:46:27.867+02:00'
+  updated_by: 296
+jackie_denesik_357221:
+  id: 357221
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8271
+  source: expenses
+  date: '2015-01-23'
+  amount: '1788.5'
+  label: PMT NDF 189688
+  accounting_document: 0335VA1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:46:35.183+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:46:35.183+02:00'
+  updated_by: 296
+jackie_denesik_357222:
+  id: 357222
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8271
+  source: expenses
+  date: '2015-01-23'
+  amount: '1209.65'
+  label: PMT NDF 189689
+  accounting_document: 0336VA1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:46:35.187+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:46:35.187+02:00'
+  updated_by: 296
+jackie_denesik_359477:
+  id: 359477
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8348
+  source: wages
+  date: '2015-02-11'
+  amount: '1517.56'
+  label: PMT JAN SALAIRE
+  accounting_document: 0171VB1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:46:52.318+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:46:52.318+02:00'
+  updated_by: 296
+jackie_denesik_360149:
+  id: 360149
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8395
+  source: expenses
+  date: '2015-02-23'
+  amount: '1768.78'
+  label: PMT NDF 191303
+  accounting_document: 0270VB1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:46:58.566+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:46:58.566+02:00'
+  updated_by: 296
+jackie_denesik_360152:
+  id: 360152
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8395
+  source: expenses
+  date: '2015-02-23'
+  amount: '2786.87'
+  label: PMT NDF 191305
+  accounting_document: 0272VB1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:46:58.579+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:46:58.579+02:00'
+  updated_by: 296
+jackie_denesik_361961:
+  id: 361961
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8459
+  source: wages
+  date: '2015-03-09'
+  amount: '856.06'
+  label: PMT FEV SALAIRE
+  accounting_document: 0141VC1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:47:11.876+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:47:11.876+02:00'
+  updated_by: 296
+jackie_denesik_362668:
+  id: 362668
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8511
+  source: expenses
+  date: '2015-03-20'
+  amount: '463.5'
+  label: PMT NDF 192347
+  accounting_document: 0234VC1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:47:18.358+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:47:18.358+02:00'
+  updated_by: 296
+jackie_denesik_362670:
+  id: 362670
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8511
+  source: expenses
+  date: '2015-03-20'
+  amount: '5930.23'
+  label: PMT NDF 192346
+  accounting_document: 0235VC1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:47:18.367+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:47:18.367+02:00'
+  updated_by: 296
+jackie_denesik_364684:
+  id: 364684
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8588
+  source: wages
+  date: '2015-04-09'
+  amount: '933.88'
+  label: PMT MAR SALAIRE
+  accounting_document: 0121VD1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:47:34.265+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:47:34.265+02:00'
+  updated_by: 296
+jackie_denesik_365366:
+  id: 365366
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8629
+  source: expenses
+  date: '2015-04-20'
+  amount: '1330.03'
+  label: PMT NDF 194234
+  accounting_document: 0236VD1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:47:39.470+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:47:39.470+02:00'
+  updated_by: 296
+jackie_denesik_365367:
+  id: 365367
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8629
+  source: expenses
+  date: '2015-04-20'
+  amount: '3794.78'
+  label: PMT NDF 194233
+  accounting_document: 0237VD1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:47:39.474+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:47:39.474+02:00'
+  updated_by: 296
+jackie_denesik_367076:
+  id: 367076
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8698
+  source: wages
+  date: '2015-05-05'
+  amount: '894.98'
+  label: PMT AVR SALAIRE
+  accounting_document: 0057VE1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:47:53.807+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:47:53.807+02:00'
+  updated_by: 296
+jackie_denesik_368019:
+  id: 368019
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8741
+  source: expenses
+  date: '2015-05-19'
+  amount: '700.46'
+  label: PMT NDF 195543
+  accounting_document: '0179VE1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:48:00.109+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:48:00.109+02:00'
+  updated_by: 296
+jackie_denesik_368022:
+  id: 368022
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8741
+  source: expenses
+  date: '2015-05-19'
+  amount: '3361.02'
+  label: PMT NDF 195547
+  accounting_document: '0180VE1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:48:00.124+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:48:00.124+02:00'
+  updated_by: 296
+jackie_denesik_369740:
+  id: 369740
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8800
+  source: wages
+  date: '2015-06-02'
+  amount: '933.88'
+  label: PMT MAI SALAIRE
+  accounting_document: 0056VF1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:48:14.823+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:48:14.823+02:00'
+  updated_by: 296
+jackie_denesik_371051:
+  id: 371051
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8862
+  source: expenses
+  date: '2015-06-16'
+  amount: '4775.12'
+  label: PMT NDF 197265
+  accounting_document: 0256VF1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:48:25.797+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:48:25.797+02:00'
+  updated_by: 296
+jackie_denesik_371499:
+  id: 371499
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8900
+  source: expenses
+  date: '2015-06-25'
+  amount: '598.0'
+  label: PMT NDF 197465
+  accounting_document: 0306VF1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:48:28.005+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:48:28.005+02:00'
+  updated_by: 296
+jackie_denesik_372687:
+  id: 372687
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8924
+  source: wages
+  date: '2015-07-01'
+  amount: '1245.16'
+  label: PMT JUN SALAIRE
+  accounting_document: 0023VG1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:48:38.265+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:48:38.265+02:00'
+  updated_by: 296
+jackie_denesik_374070:
+  id: 374070
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8978
+  source: expenses
+  date: '2015-07-16'
+  amount: '818.45'
+  label: PMT NDF 198544
+  accounting_document: 0211VG1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:48:49.520+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:48:49.520+02:00'
+  updated_by: 296
+jackie_denesik_374073:
+  id: 374073
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 8978
+  source: expenses
+  date: '2015-07-16'
+  amount: '4014.24'
+  label: PMT NDF 198545
+  accounting_document: 0212VG1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:48:49.534+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:48:49.534+02:00'
+  updated_by: 296
+jackie_denesik_375948:
+  id: 375948
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9047
+  source: wages
+  date: '2015-08-03'
+  amount: '311.29'
+  label: PMT JUI SALAIRE
+  accounting_document: 0013VH1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:49:03.066+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:49:03.066+02:00'
+  updated_by: 296
+jackie_denesik_376919:
+  id: 376919
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9095
+  source: expenses
+  date: '2015-08-13'
+  amount: '268.6'
+  label: PMT NDF 200273
+  accounting_document: 0147VH1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:49:10.634+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:49:10.634+02:00'
+  updated_by: 296
+jackie_denesik_376922:
+  id: 376922
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9095
+  source: expenses
+  date: '2015-08-13'
+  amount: '3837.16'
+  label: PMT NDF 200274
+  accounting_document: '0148VH1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:49:10.647+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:49:10.647+02:00'
+  updated_by: 296
+jackie_denesik_378740:
+  id: 378740
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9168
+  source: wages
+  date: '2015-09-01'
+  amount: '544.77'
+  label: PMT AOU SALAIRE
+  accounting_document: '0029VI1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:49:25.494+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:49:25.494+02:00'
+  updated_by: 296
+jackie_denesik_379369:
+  id: 379369
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9202
+  source: expenses
+  date: '2015-09-09'
+  amount: '325.85'
+  label: PMT NDF 201407
+  accounting_document: 0114VI1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:49:29.909+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:49:29.909+02:00'
+  updated_by: 296
+jackie_denesik_379370:
+  id: 379370
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9202
+  source: expenses
+  date: '2015-09-09'
+  amount: '3205.89'
+  label: PMT NDF 201412
+  accounting_document: 0115VI1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:49:29.913+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:49:29.913+02:00'
+  updated_by: 296
+jackie_denesik_381517:
+  id: 381517
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9301
+  source: wages
+  date: '2015-10-01'
+  amount: '272.39'
+  label: PMT SEP SALAIRE
+  accounting_document: 0033VJ1509
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:49:47.316+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:49:47.316+02:00'
+  updated_by: 296
+jackie_denesik_381792:
+  id: 381792
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9314
+  source: wages_advance
+  date: '2015-10-05'
+  amount: '2340.0'
+  label: PMT AVANCE
+  accounting_document: '0084VJ1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:49:50.122+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:49:50.122+02:00'
+  updated_by: 296
+jackie_denesik_381793:
+  id: 381793
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9314
+  source: wages_advance
+  date: '2015-10-05'
+  amount: '969.0'
+  label: PMT AVANCE
+  accounting_document: '0085VJ1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:49:50.126+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:49:50.126+02:00'
+  updated_by: 296
+jackie_denesik_384762:
+  id: 384762
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9443
+  source: wages_advance
+  date: '2015-11-04'
+  amount: '5000.0'
+  label: PMT AVANCE
+  accounting_document: '0087VK1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:50:13.186+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:50:13.186+02:00'
+  updated_by: 296
+jackie_denesik_387697:
+  id: 387697
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9561
+  source: wages_advance
+  date: '2015-12-03'
+  amount: '5000.0'
+  label: PMT AVANCE
+  accounting_document: '0078VL1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:50:36.575+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:50:36.575+02:00'
+  updated_by: 296
+jackie_denesik_388638:
+  id: 388638
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9614
+  source: expenses
+  date: '2015-12-16'
+  amount: '6568.09'
+  label: PMT NDF 206217
+  accounting_document: '0186VL1509'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:50:44.380+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:50:44.380+02:00'
+  updated_by: 296
+jackie_denesik_390786:
+  id: 390786
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9677
+  source: wages
+  date: '2016-01-04'
+  amount: '1050.6'
+  label: PMT DEC SALAIRE
+  accounting_document: 0017VA1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:51:00.768+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:51:00.768+02:00'
+  updated_by: 296
+jackie_denesik_392892:
+  id: 392892
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9777
+  source: wages
+  date: '2016-01-28'
+  amount: '980.13'
+  label: PMT JAN SALAIRE
+  accounting_document: '0328VA1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:51:16.959+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:51:16.959+02:00'
+  updated_by: 296
+jackie_denesik_393649:
+  id: 393649
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9800
+  source: wages_advance
+  date: '2016-02-02'
+  amount: '8000.0'
+  label: PMT AVANCE
+  accounting_document: 0011VB1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:51:23.716+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:51:23.716+02:00'
+  updated_by: 296
+jackie_denesik_397384:
+  id: 397384
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 9925
+  source: wages_advance
+  date: '2016-03-04'
+  amount: '7000.0'
+  label: PMT AVANCE
+  accounting_document: 0130VC1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:51:52.415+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:51:52.415+02:00'
+  updated_by: 296
+jackie_denesik_399796:
+  id: 399796
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10035
+  source: wages_advance
+  date: '2016-04-01'
+  amount: '8000.0'
+  label: PMT AVANCE
+  accounting_document: 0053VD1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:52:11.529+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:52:11.529+02:00'
+  updated_by: 296
+jackie_denesik_403054:
+  id: 403054
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10163
+  source: wages_advance
+  date: '2016-05-03'
+  amount: '8000.0'
+  label: PMT AVANCE
+  accounting_document: '0099VE1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:52:38.269+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:52:38.269+02:00'
+  updated_by: 296
+jackie_denesik_403405:
+  id: 403405
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10181
+  source: wages_advance
+  date: '2016-05-10'
+  amount: '2500.0'
+  label: PMT AVANCE
+  accounting_document: '0148VE1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:52:40.085+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:52:40.085+02:00'
+  updated_by: 296
+jackie_denesik_405910:
+  id: 405910
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10271
+  source: wages_advance
+  date: '2016-06-01'
+  amount: '9000.0'
+  label: PMT AVANCE
+  accounting_document: 0035VF1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:53:00.197+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:53:00.197+02:00'
+  updated_by: 296
+jackie_denesik_409317:
+  id: 409317
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10404
+  source: wages_advance
+  date: '2016-07-04'
+  amount: '9000.0'
+  label: PMT AVANCE
+  accounting_document: 0064VG1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:53:28.624+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:53:28.624+02:00'
+  updated_by: 296
+jackie_denesik_412644:
+  id: 412644
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10540
+  source: wages_advance
+  date: '2016-08-08'
+  amount: '3500.0'
+  label: PMT AVANCE
+  accounting_document: 0126VH1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:53:57.091+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:53:57.091+02:00'
+  updated_by: 296
+jackie_denesik_414824:
+  id: 414824
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10640
+  source: wages_advance
+  date: '2016-09-02'
+  amount: '4500.0'
+  label: PMT AVANCE
+  accounting_document: 0033VI1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:54:13.711+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:54:13.711+02:00'
+  updated_by: 296
+jackie_denesik_416696:
+  id: 416696
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10748
+  source: wages_advance
+  date: '2016-09-29'
+  amount: '5500.0'
+  label: PMT AVANCE
+  accounting_document: 0266VI1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:54:31.912+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:54:31.912+02:00'
+  updated_by: 296
+jackie_denesik_420854:
+  id: 420854
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10881
+  source: wages_advance
+  date: '2016-11-02'
+  amount: '6000.0'
+  label: PMT AVANCE
+  accounting_document: 0040VK1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:55:05.291+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:55:05.291+02:00'
+  updated_by: 296
+jackie_denesik_423323:
+  id: 423323
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 10992
+  source: wages_advance
+  date: '2016-11-30'
+  amount: '6000.0'
+  label: PMT AVANCE
+  accounting_document: '0389VK1609'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:55:24.462+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:55:24.462+02:00'
+  updated_by: 296
+jackie_denesik_427531:
+  id: 427531
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11123
+  source: wages_advance
+  date: '2016-12-30'
+  amount: '8000.0'
+  label: PMT AVANCE
+  accounting_document: 0471VL1609
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:55:58.772+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:55:58.772+02:00'
+  updated_by: 296
+jackie_denesik_431586:
+  id: 431586
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11260
+  source: wages_advance
+  date: '2017-02-02'
+  amount: '8500.0'
+  label: PMT AVANCE
+  accounting_document: 0072VB1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:56:30.930+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:56:30.930+02:00'
+  updated_by: 296
+jackie_denesik_438791:
+  id: 438791
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11541
+  source: wages_advance
+  date: '2017-04-11'
+  amount: '1471.95'
+  label: PMT AVANCE
+  accounting_document: 0130VD1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:57:28.864+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:57:28.864+02:00'
+  updated_by: 296
+jackie_denesik_438793:
+  id: 438793
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11541
+  source: wages_advance
+  date: '2017-04-11'
+  amount: '713.0'
+  label: PMT AVANCE
+  accounting_document: 0131VD1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:57:28.874+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:57:28.874+02:00'
+  updated_by: 296
+jackie_denesik_438946:
+  id: 438946
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11547
+  source: expenses
+  date: '2017-04-12'
+  amount: '2003.9'
+  label: PMT NDF 231917
+  accounting_document: 0142VD1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:57:29.614+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:57:29.614+02:00'
+  updated_by: 296
+jackie_denesik_439240:
+  id: 439240
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11558
+  source: expenses
+  date: '2017-04-18'
+  amount: '1513.52'
+  label: PMT NDF 231918
+  accounting_document: '0168VD1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:57:32.679+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:57:32.679+02:00'
+  updated_by: 296
+jackie_denesik_439405:
+  id: 439405
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11569
+  source: wages_advance
+  date: '2017-04-20'
+  amount: '742.0'
+  label: PMT AVANCE
+  accounting_document: '0187VD1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:57:33.682+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:57:33.682+02:00'
+  updated_by: 296
+jackie_denesik_439408:
+  id: 439408
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11569
+  source: wages_advance
+  date: '2017-04-20'
+  amount: '2636.4'
+  label: PMT AVANCE
+  accounting_document: '0188VD1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:57:33.700+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:57:33.700+02:00'
+  updated_by: 296
+jackie_denesik_439410:
+  id: 439410
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11569
+  source: wages_advance
+  date: '2017-04-20'
+  amount: '1228.0'
+  label: PMT AVANCE
+  accounting_document: '0189VD1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:57:33.714+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:57:33.714+02:00'
+  updated_by: 296
+jackie_denesik_440947:
+  id: 440947
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11611
+  source: wages
+  date: '2017-05-02'
+  amount: '5118.19'
+  label: PMT AVR SALAIRE
+  accounting_document: 0035VE1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:57:46.238+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:57:46.238+02:00'
+  updated_by: 296
+jackie_denesik_443406:
+  id: 443406
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11703
+  source: expenses
+  date: '2017-05-26'
+  amount: '1224.95'
+  label: PMT NDF 234670
+  accounting_document: 0345VE1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:58:05.663+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:58:05.663+02:00'
+  updated_by: 296
+jackie_denesik_445288:
+  id: 445288
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11750
+  source: wages
+  date: '2017-06-07'
+  amount: '5121.41'
+  label: PMT JUN SALAIRE(S) RATTRAP
+  accounting_document: '0108VF1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:58:20.383+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:58:20.383+02:00'
+  updated_by: 296
+jackie_denesik_445312:
+  id: 445312
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11750
+  source: expenses
+  date: '2017-06-07'
+  amount: '706.22'
+  label: PMT NDF 235495
+  accounting_document: 0112VF1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:58:20.487+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:58:20.487+02:00'
+  updated_by: 296
+jackie_denesik_445319:
+  id: 445319
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11750
+  source: expenses
+  date: '2017-06-07'
+  amount: '3849.27'
+  label: PMT NDF 234669
+  accounting_document: 0113VF1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:58:20.517+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:58:20.517+02:00'
+  updated_by: 296
+jackie_denesik_445430:
+  id: 445430
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11750
+  source: wages_advance
+  date: '2017-06-07'
+  amount: '1399.98'
+  label: PMT AVANCE
+  accounting_document: '0128VF1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:58:21.012+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:58:21.012+02:00'
+  updated_by: 296
+jackie_denesik_447803:
+  id: 447803
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11859
+  source: wages
+  date: '2017-06-30'
+  amount: '5093.54'
+  label: PMT JUN SALAIRE
+  accounting_document: '0409VF1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:58:39.743+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:58:39.743+02:00'
+  updated_by: 296
+jackie_denesik_451129:
+  id: 451129
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 11977
+  source: wages
+  date: '2017-07-31'
+  amount: '5105.34'
+  label: PMT JUI SALAIRE
+  accounting_document: '0378VG1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:59:06.244+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:59:06.244+02:00'
+  updated_by: 296
+jackie_denesik_454516:
+  id: 454516
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12101
+  source: wages
+  date: '2017-09-01'
+  amount: '5118.21'
+  label: PMT AOU SALAIRE
+  accounting_document: 0014VI1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:59:31.087+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:59:31.087+02:00'
+  updated_by: 296
+jackie_denesik_456942:
+  id: 456942
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12214
+  source: wages
+  date: '2017-09-29'
+  amount: '5124.64'
+  label: PMT SEP SALAIRE
+  accounting_document: 0341VI1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:59:50.847+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:59:50.847+02:00'
+  updated_by: 296
+jackie_denesik_457060:
+  id: 457060
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12214
+  source: expenses
+  date: '2017-09-29'
+  amount: '1850.24'
+  label: PMT NDF 236256
+  accounting_document: 0350VI1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:59:52.957+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:59:52.957+02:00'
+  updated_by: 296
+jackie_denesik_457061:
+  id: 457061
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12214
+  source: expenses
+  date: '2017-09-29'
+  amount: '3181.28'
+  label: PMT NDF 236255
+  accounting_document: 0351VI1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T22:59:52.962+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T22:59:52.962+02:00'
+  updated_by: 296
+jackie_denesik_461828:
+  id: 461828
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12363
+  source: wages
+  date: '2017-11-06'
+  amount: '5105.35'
+  label: PMT NOV SALAIRE(S) RATTRAP
+  accounting_document: '0081VK1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:00:29.717+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:00:29.717+02:00'
+  updated_by: 296
+jackie_denesik_464442:
+  id: 464442
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12470
+  source: wages_advance
+  date: '2017-12-01'
+  amount: '6000.0'
+  label: PMT AVANCE
+  accounting_document: '0008VL1709'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:00:49.884+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:00:49.884+02:00'
+  updated_by: 296
+jackie_denesik_468368:
+  id: 468368
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12589
+  source: gitg_unknown
+  date: '2017-12-29'
+  amount: '5113.39'
+  label: PMT DEC SALAIRE
+  accounting_document: 0472VL1709
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:01:20.962+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:01:20.962+02:00'
+  updated_by: 296
+jackie_denesik_468466:
+  id: 468466
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12595
+  source: wages
+  date: '2018-01-02'
+  amount: '503.01'
+  label: PMT JAN SALAIRE(S) RATTRAP
+  accounting_document: 0001VA1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:01:21.403+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:01:21.403+02:00'
+  updated_by: 296
+jackie_denesik_468829:
+  id: 468829
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12601
+  source: wages
+  date: '2018-01-03'
+  amount: '5113.39'
+  label: PMT DEC SALAIRE
+  accounting_document: 0047VA1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:01:24.824+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:01:24.824+02:00'
+  updated_by: 296
+jackie_denesik_473001:
+  id: 473001
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12742
+  source: expenses
+  date: '2018-02-05'
+  amount: '1068.4'
+  label: PMT NDF 242497
+  accounting_document: 0102VB1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:01:56.988+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:01:56.988+02:00'
+  updated_by: 296
+jackie_denesik_473002:
+  id: 473002
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12742
+  source: expenses
+  date: '2018-02-05'
+  amount: '1323.06'
+  label: PMT NDF 241200
+  accounting_document: 0103VB1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:01:56.993+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:01:56.993+02:00'
+  updated_by: 296
+jackie_denesik_473005:
+  id: 473005
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12742
+  source: expenses
+  date: '2018-02-05'
+  amount: '1584.22'
+  label: PMT NDF 237060
+  accounting_document: 0104VB1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:01:57.008+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:01:57.008+02:00'
+  updated_by: 296
+jackie_denesik_473018:
+  id: 473018
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12742
+  source: expenses
+  date: '2018-02-05'
+  amount: '1600.06'
+  label: PMT NDF 241199
+  accounting_document: '0108VB1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:01:57.075+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:01:57.075+02:00'
+  updated_by: 296
+jackie_denesik_473019:
+  id: 473019
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12742
+  source: expenses
+  date: '2018-02-05'
+  amount: '1638.93'
+  label: PMT NDF 240006
+  accounting_document: '0109VB1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:01:57.079+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:01:57.079+02:00'
+  updated_by: 296
+jackie_denesik_473020:
+  id: 473020
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12742
+  source: expenses
+  date: '2018-02-05'
+  amount: '2100.44'
+  label: PMT NDF 242496
+  accounting_document: 0110VB1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:01:57.083+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:01:57.083+02:00'
+  updated_by: 296
+jackie_denesik_473021:
+  id: 473021
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12742
+  source: expenses
+  date: '2018-02-05'
+  amount: '3196.97'
+  label: PMT NDF 240012
+  accounting_document: 0111VB1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:01:57.088+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:01:57.088+02:00'
+  updated_by: 296
+jackie_denesik_473022:
+  id: 473022
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12742
+  source: expenses
+  date: '2018-02-05'
+  amount: '3989.62'
+  label: PMT NDF 240011
+  accounting_document: 0112VB1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:01:57.092+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:01:57.092+02:00'
+  updated_by: 296
+jackie_denesik_477849:
+  id: 477849
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 12945
+  source: wages
+  date: '2018-03-22'
+  amount: '10286.55'
+  label: PMT MAR SALAIRE(S) RATTRAP
+  accounting_document: '0290VC1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:02:35.711+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:02:35.711+02:00'
+  updated_by: 296
+jackie_denesik_480640:
+  id: 480640
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 13031
+  source: wages
+  date: '2018-04-12'
+  amount: '5153.91'
+  label: PMT AVR SALAIRE(S) RATTRAP
+  accounting_document: 0177VD1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:02:58.421+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:02:58.421+02:00'
+  updated_by: 296
+jackie_denesik_482410:
+  id: 482410
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 13103
+  source: wages_advance
+  date: '2018-04-30'
+  amount: '13600.0'
+  label: PMT AVANCE
+  accounting_document: 0364VD1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:03:11.571+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:03:11.571+02:00'
+  updated_by: 296
+jackie_denesik_486037:
+  id: 486037
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 13210
+  source: wages_advance
+  date: '2018-05-30'
+  amount: '14600.0'
+  label: PMT AVANCE
+  accounting_document: 0413VE1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:03:41.186+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:03:41.186+02:00'
+  updated_by: 296
+jackie_denesik_490116:
+  id: 490116
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 13343
+  source: wages_advance
+  date: '2018-07-02'
+  amount: '10900.0'
+  label: PMT AVANCE
+  accounting_document: 0037VG1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:04:12.730+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:04:12.730+02:00'
+  updated_by: 296
+jackie_denesik_494083:
+  id: 494083
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 13491
+  source: wages_advance
+  date: '2018-08-02'
+  amount: '11700.0'
+  label: PMT AVANCE
+  accounting_document: '0094VH1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:04:45.791+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:04:45.791+02:00'
+  updated_by: 296
+jackie_denesik_497136:
+  id: 497136
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 13619
+  source: wages_advance
+  date: '2018-09-05'
+  amount: '9400.0'
+  label: PMT AVANCE
+  accounting_document: 0067VI1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:05:09.630+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:05:09.630+02:00'
+  updated_by: 296
+jackie_denesik_500131:
+  id: 500131
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 13761
+  source: wages_advance
+  date: '2018-10-02'
+  amount: '7600.0'
+  label: PMT AVANCE
+  accounting_document: '0097VJ1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:05:32.787+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:05:32.787+02:00'
+  updated_by: 296
+jackie_denesik_500135:
+  id: 500135
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 13761
+  source: wages_advance
+  date: '2018-10-02'
+  amount: '7600.0'
+  label: PMT AVANCE
+  accounting_document: '0099VJ1809'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:05:32.813+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:05:32.813+02:00'
+  updated_by: 296
+jackie_denesik_506326:
+  id: 506326
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 14000
+  source: wages_advance
+  date: '2018-11-29'
+  amount: '7100.0'
+  label: PMT AVANCE
+  accounting_document: 0325VK1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:06:21.668+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:06:21.668+02:00'
+  updated_by: 296
+jackie_denesik_510558:
+  id: 510558
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 14119
+  source: wages_advance
+  date: '2018-12-28'
+  amount: '5100.0'
+  label: PMT AVANCE
+  accounting_document: 0440VL1809
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:06:58.093+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:06:58.093+02:00'
+  updated_by: 296
+jackie_denesik_515821:
+  id: 515821
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 1
+  bank_account_id:
+  disbursement_slip_id: 14280
+  source: expenses
+  date: '2019-02-06'
+  amount: '2240.36'
+  label: PMT NDF 270755
+  accounting_document: '0168VB1909'
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:07:40.335+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:07:40.335+02:00'
+  updated_by: 296
+jackie_denesik_515844:
+  id: 515844
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 9
+  bank_account_id:
+  disbursement_slip_id: 14280
+  source: expenses
+  date: '2019-02-06'
+  amount: '310.54'
+  label: PMT NDF 270061
+  accounting_document: 0172VB1909
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:07:40.479+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:07:40.479+02:00'
+  updated_by: 296
+jackie_denesik_515845:
+  id: 515845
+  tier_id: 10392
+  payment_type_id: 2
+  itg_company_id: 1
+  bank_account_id:
+  disbursement_slip_id:
+  source: expenses
+  date: '2019-02-06'
+  amount: '310.54'
+  label: PMT NDF 270061
+  accounting_document: 0172VB1910
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:07:40.479+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:07:40.479+02:00'
+  updated_by: 296
+jackie_denesik_515846:
+  id: 515846
+  tier_id: 9786
+  payment_type_id: 2
+  itg_company_id: 2
+  bank_account_id:
+  disbursement_slip_id:
+  source: expenses
+  date: '2019-02-06'
+  amount: '310.54'
+  label: PMT NDF 270061
+  accounting_document: 0172VB1911
+  validated_at:
+  validated_by:
+  cancellation_accounting_document: ''
+  cancelled_at:
+  cancelled_by:
+  created_at: '2019-08-02T23:07:40.479+02:00'
+  created_by: 296
+  updated_at: '2019-08-02T23:07:40.479+02:00'
+  updated_by: 296

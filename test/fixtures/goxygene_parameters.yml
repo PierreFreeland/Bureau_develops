@@ -1,0 +1,782 @@
+---
+db_version:
+  id: 1
+  category: other
+  parameter_type: text
+  code: DB_VERSION
+  value: 10.3.1.5
+  comment: Version de DB
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:37.791+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:37.791+02:00'
+  updated_by: 296
+smic:
+  id: 2
+  category: other
+  parameter_type: numeric
+  code: SMIC
+  value: '10.25'
+  comment: Salaire Minimum Interprofessionnel de Croissance
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:37.843+02:00'
+  created_by: 296
+  updated_at: '2021-01-16T22:11:37.349+01:00'
+  updated_by: 130
+payroll_control_gross_wage_tolerance:
+  id: 3
+  category: other
+  parameter_type: numeric
+  code: PAYROLL_CONTROL_GROSS_WAGE_TOLERANCE
+  value: '1.00'
+  comment: 'Contrôle de salaire : différence maximum (en valeur absolue) autorisée
+    entre le brut Oxygène et le brut de la paie'
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:37.887+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:37.887+02:00'
+  updated_by: 296
+payroll_control_wage_contribution_minimum_tolerance:
+  id: 4
+  category: other
+  parameter_type: numeric
+  code: PAYROLL_CONTROL_WAGE_CONTRIBUTION_MINIMUM_TOLERANCE
+  value: '17'
+  comment: 'Contrôle de salaire : valeur minimum autorisée (%) de la différence des
+    charges salariales Oxygène avec celles de la paie'
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:37.900+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:37.900+02:00'
+  updated_by: 296
+payroll_control_wage_contribution_maximum_tolerance:
+  id: 5
+  category: other
+  parameter_type: numeric
+  code: PAYROLL_CONTROL_WAGE_CONTRIBUTION_MAXIMUM_TOLERANCE
+  value: '24'
+  comment: 'Contrôle de salaire : valeur maximum autorisée (%) de la différence des
+    charges salariales Oxygène avec celles de la paie'
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:37.950+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:37.950+02:00'
+  updated_by: 296
+payroll_control_employer_contribution_minimum_tolerance:
+  id: 6
+  category: other
+  parameter_type: numeric
+  code: PAYROLL_CONTROL_EMPLOYER_CONTRIBUTION_MINIMUM_TOLERANCE
+  value: '44'
+  comment: 'Contrôle de salaire : valeur minimum autorisée (%) de la différence des
+    charges patronales Oxygène avec celles de la paie'
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:37.997+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:37.997+02:00'
+  updated_by: 296
+payroll_control_employer_contribution_maximum_tolerance:
+  id: 7
+  category: other
+  parameter_type: numeric
+  code: PAYROLL_CONTROL_EMPLOYER_CONTRIBUTION_MAXIMUM_TOLERANCE
+  value: '55'
+  comment: 'Contrôle de salaire : valeur maximum autorisée (%) de la différence des
+    charges patronales Oxygène avec celles de la paie'
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.047+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.047+02:00'
+  updated_by: 296
+payroll_control_annual_ceiling_tolerance:
+  id: 8
+  category: other
+  parameter_type: numeric
+  code: PAYROLL_CONTROL_ANNUAL_CEILING_TOLERANCE
+  value: '5'
+  comment: 'Contrôle de salaire : valeur maximum autorisée entre le plafond du salaire
+    et le plafond de SECU'
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.093+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.093+02:00'
+  updated_by: 296
+adjustment_lettering_limit:
+  id: 9
+  category: other
+  parameter_type: numeric
+  code: ADJUSTMENT_LETTERING_LIMIT
+  value: '0.09'
+  comment: Différence maximum entre un crédit et un débit permettant un lettrage avec
+    ajout d'écriture compensatrice
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.102+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.102+02:00'
+  updated_by: 296
+daily_work_hours_max:
+  id: 10
+  category: other
+  parameter_type: integer
+  code: DAILY_WORK_HOURS_MAX
+  value: '7'
+  comment: Nombre Maximum d'heures de travail par journée
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.157+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.157+02:00'
+  updated_by: 296
+monthly_work_hours_max:
+  id: 11
+  category: other
+  parameter_type: integer
+  code: MONTHLY_WORK_HOURS_MAX
+  value: '161'
+  comment: Nombre maximum d'heures de travail par mois
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.207+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.207+02:00'
+  updated_by: 296
+activity_report_work_hours_max:
+  id: 12
+  category: other
+  parameter_type: integer
+  code: ACTIVITY_REPORT_WORK_HOURS_MAX
+  value: '150'
+  comment: Nombres d'heures maximum accepte par DA
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.256+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.256+02:00'
+  updated_by: 296
+office_expense_max:
+  id: 13
+  category: other
+  parameter_type: numeric
+  code: OFFICE_EXPENSE_MAX
+  value: '600'
+  comment: Montant maximum d'un frais de bureau TTC
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.264+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.264+02:00'
+  updated_by: 296
+daily_fees_min:
+  id: 14
+  category: other
+  parameter_type: numeric
+  code: DAILY_FEES_MIN
+  value: '200'
+  comment: Montant minimal de facturation journalière
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.317+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.317+02:00'
+  updated_by: 296
+payroll_control_annual_ceiling_limit:
+  id: 15
+  category: other
+  parameter_type: numeric
+  code: PAYROLL_CONTROL_ANNUAL_CEILING_LIMIT
+  value: '136'
+  comment: 'Contrôle de salaire : Nombre heures declanchant un plafond plein dans
+    les vérifications de salaire'
+  valid_from: '2010-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.324+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.324+02:00'
+  updated_by: 296
+payroll_control_work_hours_max:
+  id: 16
+  category: other
+  parameter_type: numeric
+  code: PAYROLL_CONTROL_WORK_HOURS_MAX
+  value: '151.67'
+  comment: 'Nombre heures maximun : utilisé pour evaluer le plafond mensuel'
+  valid_from: '2010-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.376+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.376+02:00'
+  updated_by: 296
+first_level_of_kms:
+  id: 17
+  category: fiscal_horsepower
+  parameter_type: numeric
+  code: FIRST_LEVEL_OF_KMS
+  value: '5000'
+  comment: Premier palier de KM dans le calcul des frais KM
+  valid_from: '1996-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.427+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.427+02:00'
+  updated_by: 296
+second_level_of_kms:
+  id: 18
+  category: fiscal_horsepower
+  parameter_type: numeric
+  code: SECOND_LEVEL_OF_KMS
+  value: '20000'
+  comment: Second palier de KM dans le calcul des frais KM
+  valid_from: '1996-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.475+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.475+02:00'
+  updated_by: 296
+salr_brut:
+  id: 19
+  category: other
+  parameter_type: numeric
+  code: SALR_BRUT
+  value: '1.49'
+  comment: Taux pour estimation du coût du salaire d’un ETAM
+  valid_from: '1996-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.486+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.486+02:00'
+  updated_by: 296
+salr_brut_cadre:
+  id: 20
+  category: other
+  parameter_type: numeric
+  code: SALR_BRUT_CADRE
+  value: '1.52'
+  comment: Taux pour estimation du coût du salaire d’un brut cadre
+  valid_from: '1996-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.533+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.533+02:00'
+  updated_by: 296
+salr_brut_retraite:
+  id: 21
+  category: other
+  parameter_type: numeric
+  code: SALR_BRUT_RETRAITE
+  value: '1.52'
+  comment: Taux pour estimation du coût du salaire d’un brut retraité
+  valid_from: '1996-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.580+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.580+02:00'
+  updated_by: 296
+email_financial_right:
+  id: 22
+  category: other
+  parameter_type: text
+  code: EMAIL_FINANCIAL_RIGHT
+  value: martine.alves@itg.fr
+  comment: Adresse email pour envoi des emails lors du traitement des droits financier
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.631+02:00'
+  created_by: 296
+  updated_at: '2020-09-14T08:33:53.997+02:00'
+  updated_by: 130
+cesu_min_amount:
+  id: 23
+  category: cesu
+  parameter_type: numeric
+  code: CESU_MIN_AMOUNT
+  value: '150.00'
+  comment: 'CESU : Montant minimum de commande'
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.680+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.680+02:00'
+  updated_by: 296
+cesu_max_amount:
+  id: 24
+  category: cesu
+  parameter_type: numeric
+  code: CESU_MAX_AMOUNT
+  value: '1830.00'
+  comment: 'CESU : Montant maximum annuel de commandes'
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.729+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.729+02:00'
+  updated_by: 296
+cesu_manufacturing_cost_percent:
+  id: 25
+  category: cesu
+  parameter_type: numeric
+  code: CESU_MANUFACTURING_COST_PERCENT
+  value: '4.00'
+  comment: 'CESU : Pourcentage pour calcul des frais de fabrication'
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.780+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.780+02:00'
+  updated_by: 296
+cesu_check_cost:
+  id: 26
+  category: cesu
+  parameter_type: numeric
+  code: CESU_CHECK_COST
+  value: '15.00'
+  comment: 'CESU : Coût unitaire du chèque'
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.830+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.830+02:00'
+  updated_by: 296
+pee_max_contribution:
+  id: 27
+  category: pee
+  parameter_type: numeric
+  code: PEE_MAX_CONTRIBUTION
+  value: '3290.88'
+  comment: 'PEE : Abondement maximal'
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.880+02:00'
+  created_by: 296
+  updated_at: '2020-09-23T15:12:18.408+02:00'
+  updated_by: 130
+pee_forfait_social:
+  id: 28
+  category: pee
+  parameter_type: numeric
+  code: PEE_FORFAIT_SOCIAL
+  value: '20.00'
+  comment: 'PEE : Forfait social'
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.931+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.931+02:00'
+  updated_by: 296
+pee_max_deposit_according_to_wages:
+  id: 29
+  category: pee
+  parameter_type: numeric
+  code: PEE_MAX_DEPOSIT_ACCORDING_TO_WAGES
+  value: '25.00'
+  comment: 'PEE : versement vonlentaire maximum, en Pourcentage du salaire brut'
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:38.982+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:38.982+02:00'
+  updated_by: 296
+pee_min_deposit:
+  id: 30
+  category: pee
+  parameter_type: numeric
+  code: PEE_MIN_DEPOSIT
+  value: '150.00'
+  comment: 'PEE : Montant minimum de versement'
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:39.033+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:39.033+02:00'
+  updated_by: 296
+pee_csg_rate:
+  id: 31
+  category: pee
+  parameter_type: numeric
+  code: PEE_CSG_RATE
+  value: '9.70'
+  comment: 'PEE : taux de la CSG'
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:39.051+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:39.051+02:00'
+  updated_by: 296
+pee_increase_rate_to_abondement:
+  id: 32
+  category: pee
+  parameter_type: numeric
+  code: PEE_INCREASE_RATE_TO_ABONDEMENT
+  value: '300.00'
+  comment: 'PEE : taux multiplicateur du versement volontaire pour avoir l''Abondement'
+  valid_from: '2000-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:39.093+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:39.093+02:00'
+  updated_by: 296
+pee_management_cost_percent:
+  id: 33
+  category: pee
+  parameter_type: numeric
+  code: PEE_MANAGEMENT_COST_PERCENT
+  value: '0.00'
+  comment: 'PEE : taux de gestion'
+  valid_from: '2020-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:39.105+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:39.105+02:00'
+  updated_by: 296
+max_months_cdd:
+  id: 34
+  category: other
+  parameter_type: numeric
+  code: MAX_MONTHS_CDD
+  value: '18'
+  comment: Nombre maximum de mois d'un CDD
+  valid_from: '2020-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:39.157+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:39.157+02:00'
+  updated_by: 296
+business_finder_rate:
+  id: 35
+  category: other
+  parameter_type: numeric
+  code: BUSINESS_FINDER_RATE
+  value: '1.05'
+  comment: Taux apporteur d'affaires
+  valid_from: '2020-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:39.206+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:39.206+02:00'
+  updated_by: 296
+intercom_advisor_id:
+  id: 36
+  category: other
+  parameter_type: integer
+  code: INTERCOM_ADVISOR_ID
+  value: '343'
+  comment: ID du conseiller Intercom
+  valid_from: '2020-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:39.253+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:39.253+02:00'
+  updated_by: 296
+intercom_user_id:
+  id: 37
+  category: other
+  parameter_type: integer
+  code: INTERCOM_USER_ID
+  value: '360'
+  comment: ID du conseiller gérant les prospects Intercom
+  valid_from: '2020-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:39.303+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:39.303+02:00'
+  updated_by: 296
+intercom_timeline_type_id:
+  id: 38
+  category: other
+  parameter_type: integer
+  code: INTERCOM_TIMELINE_TYPE_ID
+  value: '1'
+  comment: ID du type de messsate Conversation Intercom
+  valid_from: '2020-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:39.354+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:39.354+02:00'
+  updated_by: 296
+cron_user_id:
+  id: 39
+  category: other
+  parameter_type: integer
+  code: CRON_USER_ID
+  value: '296'
+  comment: ID du conseiller gérant les prospects Intercom
+  valid_from: '2020-01-01T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-09-10T20:40:39.404+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:40:39.404+02:00'
+  updated_by: 296
+max_unemployment_rate:
+  id: 40
+  category: other
+  parameter_type: numeric
+  code: MAX_UNEMPLOYMENT_RATE
+  value: '32.29'
+  comment: Taux horaire chômage maximum
+  valid_from: '2020-01-11T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-12-03T09:06:21.317+01:00'
+  created_by: 42
+  updated_at: '2021-01-16T22:13:44.333+01:00'
+  updated_by: 130
+min_unemployment_rate:
+  id: 41
+  category: other
+  parameter_type: numeric
+  code: MIN_UNEMPLOYMENT_RATE
+  value: '8.11'
+  comment: Taux horaire chômage minimum
+  valid_from: '2020-01-11T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-12-03T09:06:21.370+01:00'
+  created_by: 42
+  updated_at: '2021-01-16T22:13:59.389+01:00'
+  updated_by: 130
+max_unemployment_wage:
+  id: 42
+  category: other
+  parameter_type: numeric
+  code: MAX_UNEMPLOYMENT_WAGE
+  value: '4849'
+  comment: Montant maximum de Brut chômage
+  valid_from: '2020-01-11T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-12-03T09:06:21.420+01:00'
+  created_by: 42
+  updated_at: '2020-12-03T09:06:21.420+01:00'
+  updated_by: 42
+unemployment_date_begin:
+  id: 43
+  category: other
+  parameter_type: date
+  code: UNEMPLOYMENT_DATE_BEGIN
+  value: 01/11/2020
+  comment: Date de début de la période pendant laquelle le chômage partiel st autorisé
+  valid_from: '2020-01-11T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-12-03T09:06:21.470+01:00'
+  created_by: 42
+  updated_at: '2020-12-03T09:06:21.470+01:00'
+  updated_by: 42
+unemployment_date_ending:
+  id: 44
+  category: other
+  parameter_type: date
+  code: UNEMPLOYMENT_DATE_ENDING
+  value: 31/03/2021
+  comment: Date de fin de la période pendant laquelle le chômage partiel st autorisé
+  valid_from: '2020-01-11T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-12-03T09:06:21.520+01:00'
+  created_by: 42
+  updated_at: '2020-12-03T09:06:21.520+01:00'
+  updated_by: 42
+unemployment_reference_date:
+  id: 45
+  category: other
+  parameter_type: date
+  code: UNEMPLOYMENT_REFERENCE_DATE
+  value: 01/10/2020
+  comment: Date de début du mois de référence pour le calcul du taux horaire de chômage
+    partiel
+  valid_from: '2020-01-11T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-12-03T09:06:21.573+01:00'
+  created_by: 42
+  updated_at: '2021-01-16T22:11:12.264+01:00'
+  updated_by: 130
+legal_unemployment_rate:
+  id: 46
+  category: other
+  parameter_type: numeric
+  code: LEGAL_UNEMPLOYMENT_RATE
+  value: '0.7'
+  comment: Pourcentage de salaire chômage partiel remboursé par l'état
+  valid_from: '2020-01-11T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2020-12-03T09:06:21.624+01:00'
+  created_by: 42
+  updated_at: '2020-12-03T09:06:21.624+01:00'
+  updated_by: 42
+taux_retrocession:
+  id: 47
+  category: other
+  parameter_type: numeric
+  code: TAUX_RETROCESSION
+  value: '0.6557377'
+  comment: Taux de retrocession
+  valid_from: '2020-01-11T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2021-01-27T15:58:03.971+01:00'
+  created_by: 42
+  updated_at: '2021-01-27T15:58:03.971+01:00'
+  updated_by: 42
+payroll_control_wage_contribution_minimum_tolerance_with_retrocession:
+  id: 48
+  category: other
+  parameter_type: numeric
+  code: PAYROLL_CONTROL_WAGE_CONTRIBUTION_MINIMUM_TOLERANCE_WITH_RETROCESSION
+  value: '12.5'
+  comment: 'Contrôle de salaire : valeur minimum autorisée (%) de la différence des
+    charges salariales Oxygène avec celles de la paie sur contrat avec Taux de retrocession'
+  valid_from: '2020-01-11T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2021-01-27T15:58:04.023+01:00'
+  created_by: 42
+  updated_at: '2021-01-27T15:58:04.023+01:00'
+  updated_by: 42
+payroll_control_wage_contribution_maximum_tolerance_with_retrocession:
+  id: 49
+  category: other
+  parameter_type: numeric
+  code: PAYROLL_CONTROL_WAGE_CONTRIBUTION_MAXIMUM_TOLERANCE_WITH_RETROCESSION
+  value: '19.5'
+  comment: 'Contrôle de salaire : valeur maximum autorisée (%) de la différence des
+    charges salariales Oxygène avec celles de la paie sur contrat avec Taux de retrocession'
+  valid_from: '2020-01-11T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2021-01-27T15:58:04.077+01:00'
+  created_by: 42
+  updated_at: '2021-01-27T15:58:04.077+01:00'
+  updated_by: 42
+payroll_control_employer_contribution_minimum_tolerance_with_retrocession:
+  id: 50
+  category: other
+  parameter_type: numeric
+  code: PAYROLL_CONTROL_EMPLOYER_CONTRIBUTION_MINIMUM_TOLERANCE_WITH_RETROCESSION
+  value: '39.5'
+  comment: 'Contrôle de salaire : valeur minimum autorisée (%) de la différence des
+    charges patronales Oxygène avec celles de la paie sur contrat avec Taux de retrocession'
+  valid_from: '2020-01-11T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2021-01-27T15:58:04.129+01:00'
+  created_by: 42
+  updated_at: '2021-01-27T15:58:04.129+01:00'
+  updated_by: 42
+payroll_control_employer_contribution_maximum_tolerance_with_retrocession:
+  id: 51
+  category: other
+  parameter_type: numeric
+  code: PAYROLL_CONTROL_EMPLOYER_CONTRIBUTION_MAXIMUM_TOLERANCE_WITH_RETROCESSION
+  value: '51.5'
+  comment: 'Contrôle de salaire : valeur maximum autorisée (%) de la différence des
+    charges patronales Oxygène avec celles de la paie sur contrat avec Taux de retrocession'
+  valid_from: '2020-01-11T00:00:00.000+01:00'
+  valid_until: 
+  created_at: '2021-01-27T15:58:04.180+01:00'
+  created_by: 42
+  updated_at: '2021-01-27T15:58:04.180+01:00'
+  updated_by: 42
+group:
+  id: 55
+  category: other
+  parameter_type: text
+  code: GROUP
+  value: "Freeland"
+  comment: 'Sous-groupe du groupe NewLife utilisant cette DB'
+  valid_from: '2020-01-11T00:00:00.000+01:00'
+  valid_until:
+  created_at: '2021-01-27T15:58:04.180+01:00'
+  created_by: 42
+  updated_at: '2021-11-16 20:07:32.601639'
+  updated_by: 42
+accountancy_wire_email:
+  id: 56
+  category: other
+  parameter_type: text
+  code: ACCOUNTANCY_WIRE_EMAIL
+  value: 'encaissements@itg.fr'
+  comment: "Adresse email pour réception d'informations d'encaissements"
+  valid_from: '2021-01-01T00:00:00.000+01:00'
+  valid_until:
+  created_at: '2021-12-17T14:33:52.983+01:00'
+  created_by: 42
+  updated_at: '2021-12-17T14:33:52.983+01:00'
+  updated_by: 42
+wage_max_hours:
+  id: 57
+  category: other
+  parameter_type: numeric
+  code: WAGE_MAX_HOURS
+  value: '151.67'
+  comment: Nombre d'heure de travail mensuel sur un temps plein. Nombre d'heures maximun
+    sur un salaire (TP ou pas)
+  valid_from: '2000-01-01 00:00:00'
+  valid_until:
+  created_at: '2021-10-29 16:20:43.300054'
+  created_by: 42
+  updated_at: '2021-10-29 16:20:43.300054'
+  updated_by: 42
+max_absence_days:
+  id: 58
+  category: other
+  parameter_type: numeric
+  code: MAX_ABSENCE_DAYS
+  value: '17'
+  comment: Nombre maximum de jours d'absence accepté dans 1 DA
+  valid_from: '2000-01-01 00:00:00'
+  valid_until:
+  created_at: '2021-10-29 16:20:43.300054'
+  created_by: 42
+  updated_at: '2021-10-29 16:20:43.300054'
+  updated_by: 42
+ticket_restaurant_amount:
+  id: 59
+  category: other
+  parameter_type: numeric
+  code: TICKET_RESTAURANT_AMOUNT
+  value: '9.25'
+  comment: Prix unitaire du ticket restaurant
+  valid_from: '2021-10-01 00:00:00'
+  valid_until:
+  created_at: '2021-12-06 09:00:12.4613'
+  created_by: 42
+  updated_at: '2021-12-06 09:00:12.4613'
+  updated_by: 42
+ticket_restaurant_employee_rate:
+  id: 60
+  category: other
+  parameter_type: numeric
+  code: TICKET_RESTAURANT_EMPLOYEE_RATE
+  value: '40'
+  comment: Prix unitaire du ticket restaurant
+  valid_from: '2021-10-01 00:00:00'
+  valid_until:
+  created_at: '2022-01-11 11:13:48.604235'
+  created_by: 42
+  updated_at: '2022-01-11 11:13:48.604235'
+  updated_by: 42
+ticket_restaurant_employer_rate:
+  id: 61
+  category: other
+  parameter_type: numeric
+  code: TICKET_RESTAURANT_EMPLOYER_RATE
+  value: '60'
+  comment: Prix unitaire du ticket restaurant
+  valid_from: '2021-10-01 00:00:00'
+  valid_until:
+  created_at: '2022-01-11 11:13:54.090928'
+  created_by: 42
+  updated_at: '2022-01-11 11:13:54.090928'
+  updated_by: 42
+electronic_signature:
+  id: 62
+  category: other
+  parameter_type: boolean
+  code: ELECTRONIC_SIGNATURE
+  value: 'true'
+  comment: activation de la signature électronique des contrats de travail
+  valid_from: '2000-01-01 00:00:00'
+  valid_until:
+  created_at: '2022-01-11 11:13:54.090928'
+  created_by: 42
+  updated_at: '2022-01-11 11:13:54.090928'
+  updated_by: 42

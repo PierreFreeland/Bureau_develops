@@ -1,0 +1,44 @@
+plw_itg:
+  id: 1
+  itg_company_id: 1
+  employee_id: 209
+  signatory_type: representative
+  active: true
+  created_at: '2019-06-14T19:17:06.234+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T19:17:06.234+02:00'
+  updated_by: 296
+
+plw_itg_conseil:
+  id: 12
+  itg_company_id: 9
+  employee_id: 209
+  signatory_type: representative
+  active: true
+  created_at: '2019-06-14T19:17:06.234+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T19:17:06.234+02:00'
+  updated_by: 296
+
+plw_itg_company_:
+  id: 13
+  itg_company_id: 2
+  employee_id: 209
+  signatory_type: representative
+  active: true
+  created_at: '2019-06-14T19:17:06.234+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T19:17:06.234+02:00'
+  updated_by: 296
+
+plw_4:
+  id: 4
+  itg_company_id: 2
+  employee_id: 209
+  signatory_type: official
+  active: true
+  created_at: '2019-06-14T19:17:06.234+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T19:17:06.234+02:00'
+  updated_by: 296
+

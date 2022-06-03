@@ -1,0 +1,316 @@
+---
+administrateur:
+  id: 1
+  active: true
+  name: Administrateur
+  comment: ''
+  created_at: '2020-09-10T20:41:04.347+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:04.347+02:00'
+  updated_by: 296
+conseiller_de_gestion:
+  id: 2
+  active: true
+  name: Conseiller de gestion
+  comment: ''
+  created_at: '2020-09-10T20:41:04.400+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:04.400+02:00'
+  updated_by: 130
+conseiller_en_transition_professionnelle:
+  id: 3
+  active: true
+  name: Conseiller en transition professionnelle
+  comment: ''
+  created_at: '2020-09-10T20:41:04.450+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:04.450+02:00'
+  updated_by: 321
+site_internet:
+  id: 4
+  active: false
+  name: Site Internet
+  comment: ''
+  created_at: '2020-09-10T20:41:04.501+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:04.501+02:00'
+  updated_by: 296
+direction_administratif_et_financière:
+  id: 5
+  active: true
+  name: Direction Administratif et financière
+  comment: ''
+  created_at: '2020-09-10T20:41:04.550+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:04.550+02:00'
+  updated_by: 296
+direction_commerciale:
+  id: 6
+  active: true
+  name: Direction Commerciale
+  comment: ''
+  created_at: '2020-09-10T20:41:04.600+02:00'
+  created_by: 296
+  updated_at: '2020-09-12T21:42:20.668+02:00'
+  updated_by: 42
+ressources_humaines:
+  id: 7
+  active: true
+  name: Ressources Humaines
+  comment: ''
+  created_at: '2020-09-10T20:41:04.650+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:04.650+02:00'
+  updated_by: 321
+comptable:
+  id: 8
+  active: true
+  name: Comptable
+  comment: ''
+  created_at: '2020-09-10T20:41:04.700+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:04.700+02:00'
+  updated_by: 321
+responsable_cetp:
+  id: 9
+  active: true
+  name: Responsable CETP
+  comment: ''
+  created_at: '2020-09-10T20:41:04.751+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:04.751+02:00'
+  updated_by: 296
+délégué(e)_régional(e):
+  id: 10
+  active: true
+  name: Délégué(e) régional(e)
+  comment: ''
+  created_at: '2020-09-10T20:41:04.798+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:04.798+02:00'
+  updated_by: 321
+direction_générale:
+  id: 11
+  active: true
+  name: Direction générale
+  comment: ''
+  created_at: '2020-09-10T20:41:04.814+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:04.814+02:00'
+  updated_by: 321
+administrateur_back-office_bureau.itg.fr:
+  id: 12
+  active: false
+  name: Administrateur Back-office bureau.itg.fr
+  comment: ''
+  created_at: '2020-09-10T20:41:04.864+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:04.864+02:00'
+  updated_by: 296
+accueil:
+  id: 13
+  active: true
+  name: Accueil
+  comment: ''
+  created_at: '2020-09-10T20:41:04.913+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:04.913+02:00'
+  updated_by: 130
+utilisateurs_missioneo:
+  id: 14
+  active: false
+  name: Utilisateurs Missioneo
+  comment: ''
+  created_at: '2020-09-10T20:41:04.963+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:04.963+02:00'
+  updated_by: 296
+communication_/_martketing:
+  id: 15
+  active: true
+  name: Communication / Martketing
+  comment: ''
+  created_at: '2020-09-10T20:41:05.013+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.013+02:00'
+  updated_by: 321
+chef_comptable:
+  id: 16
+  active: true
+  name: Chef Comptable
+  comment: ''
+  created_at: '2020-09-10T20:41:05.063+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.063+02:00'
+  updated_by: 321
+formation:
+  id: 17
+  active: true
+  name: Formation
+  comment: ''
+  created_at: '2020-09-10T20:41:05.113+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.113+02:00'
+  updated_by: 321
+directeur_des_opérations:
+  id: 18
+  active: true
+  name: Directeur des opérations
+  comment: ''
+  created_at: '2020-09-10T20:41:05.166+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.166+02:00'
+  updated_by: 321
+animateur_missioneo:
+  id: 19
+  active: false
+  name: Animateur Missioneo
+  comment: ''
+  created_at: '2020-09-10T20:41:05.216+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.216+02:00'
+  updated_by: 296
+conseiller(e)_b2b:
+  id: 20
+  active: true
+  name: Conseiller(e) B2B
+  comment: ''
+  created_at: '2020-09-10T20:41:05.267+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.267+02:00'
+  updated_by: 92
+commercial(e)_stagiaire:
+  id: 21
+  active: false
+  name: Commercial(e) Stagiaire
+  comment: ''
+  created_at: '2020-09-10T20:41:05.317+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.317+02:00'
+  updated_by: 296
+site_web:
+  id: 22
+  active: true
+  name: Site Web
+  comment: Comptes utilises pour les sites et formulaires Web
+  created_at: '2020-09-10T20:41:05.368+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.368+02:00'
+  updated_by: 296
+comptable_stagiaire:
+  id: 23
+  active: false
+  name: Comptable Stagiaire
+  comment: ''
+  created_at: '2020-09-10T20:41:05.416+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.416+02:00'
+  updated_by: 296
+webmaster:
+  id: 24
+  active: false
+  name: Webmaster
+  comment: ''
+  created_at: '2020-09-10T20:41:05.429+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.429+02:00'
+  updated_by: 296
+responsable_délégations_commerciales:
+  id: 25
+  active: true
+  name: Responsable délégations commerciales
+  comment: ''
+  created_at: '2020-09-10T20:41:05.480+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.480+02:00'
+  updated_by: 321
+direction_délégations_commerciales:
+  id: 26
+  active: false
+  name: Direction délégations commerciales
+  comment: ''
+  created_at: '2020-09-10T20:41:05.529+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.529+02:00'
+  updated_by: 296
+conseiller(e)_prescripteurs_emploi:
+  id: 27
+  active: false
+  name: Conseiller(e) Prescripteurs Emploi
+  comment: ''
+  created_at: '2020-09-10T20:41:05.578+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.578+02:00'
+  updated_by: 296
+signataires:
+  id: 51
+  active: true
+  name: Signataires
+  comment: ''
+  created_at: '2020-09-10T20:41:05.627+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.627+02:00'
+  updated_by: 296
+réprésentants:
+  id: 52
+  active: true
+  name: Réprésentants
+  comment: ''
+  created_at: '2020-09-10T20:41:05.677+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.677+02:00'
+  updated_by: 296
+auditeur:
+  id: 53
+  active: true
+  name: Auditeur
+  comment: Personne externe à la société ayant un doit de visualisation
+  created_at: '2020-09-10T20:41:05.727+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.727+02:00'
+  updated_by: 130
+responsable_conseiller_de_gestion:
+  id: 54
+  active: true
+  name: Responsable Conseiller de gestion
+  comment: ''
+  created_at: '2020-09-10T20:41:05.739+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.739+02:00'
+  updated_by: 296
+responsable_rh:
+  id: 55
+  active: true
+  name: Responsable RH
+  comment: ''
+  created_at: '2020-09-10T20:41:05.769+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:05.769+02:00'
+  updated_by: 296
+recherche:
+  id: 61
+  active: true
+  name: Recherche
+  comment: ''
+  created_at: '2020-09-14T14:53:33.939+02:00'
+  created_by: 321
+  updated_at: '2020-09-14T14:53:33.939+02:00'
+  updated_by: 321
+paie:
+  id: 62
+  active: true
+  name: Paie
+  comment: Gestionnaire de paie
+  created_at: '2020-09-23T11:47:31.597+02:00'
+  created_by: 321
+  updated_at: '2020-09-23T11:48:04.450+02:00'
+  updated_by: 321
+bureau_documentation:
+  id: 63
+  active: true
+  name: Bureau documentation
+  comment: ''
+  created_at: '2020-12-01T12:50:35.859+01:00'
+  created_by: 321
+  updated_at: '2020-12-01T12:50:35.859+01:00'
+  updated_by: 321

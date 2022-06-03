@@ -1,0 +1,104 @@
+big_brother_corporation_1:
+    establishment: big_brother_corporation
+    itg_company: main
+    currency: euros
+    vat_id: tva
+    bill_type: 'umbrella_bill'
+    status: 'bill_validated'
+    date: '2018-12-19T20:44:41.630+01:00'
+    biller: jean (Consultant)
+    left_to_pay_euros: 180,
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-12-19T20:44:41.630+01:00'
+    updated_by: 296
+
+big_brother_corporation_2:
+    establishment: big_brother_corporation
+    itg_company: main
+    currency: euros
+    vat_id: tva
+    bill_type: 'umbrella_bill'
+    status: 'bill_validated'
+    date: '2018-12-19T20:44:41.630+01:00'
+    biller: jean (Consultant)
+    left_to_pay_euros: 220,
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-12-19T20:44:41.630+01:00'
+    updated_by: 296
+
+middle_sister_corporation_1:
+    establishment: middle_sister_corporation
+    itg_company: main
+    currency: euros
+    vat_id: tva
+    bill_type: 'umbrella_bill'
+    status: 'bill_validated'
+    date: '2018-12-19T20:44:41.630+01:00'
+    biller: jean (Consultant)
+    left_to_pay_euros: 175,
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-12-19T20:44:41.630+01:00'
+    updated_by: 296
+
+middle_sister_corporation_2_older:
+    establishment: middle_sister_corporation
+    itg_company: main
+    currency: euros
+    vat_id: tva
+    bill_type: 'umbrella_bill'
+    status: 'bill_validated'
+    date: '2018-11-18T20:44:41.630+01:00'
+    biller: jean (Consultant)
+    left_to_pay_euros: 85,
+    created_at: '2018-11-18T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-11-18T20:44:41.630+01:00'
+    updated_by: 296
+
+middle_sister_corporation_3_oldest:
+    establishment: middle_sister_corporation
+    itg_company: main
+    currency: euros
+    vat_id: tva
+    bill_type: 'umbrella_bill'
+    status: 'bill_validated'
+    date: '2018-10-17T20:44:41.630+01:00'
+    biller: jean (Consultant)
+    left_to_pay_euros: 45,
+    created_at: '2018-10-17T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-10-17T20:44:41.630+01:00'
+    updated_by: 296
+
+middle_sister_corporation_4_oldest:
+    establishment: middle_sister_corporation
+    itg_company: main
+    currency: euros
+    vat_id: tva
+    bill_type: 'umbrella_bill'
+    status: 'bill_validated'
+    date: '2018-10-17T20:44:41.630+01:00'
+    biller: jean (Consultant)
+    left_to_pay_euros: 34,
+    created_at: '2018-10-17T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-10-17T20:44:41.630+01:00'
+    updated_by: 296
+
+little_sister_corporation_1:
+    establishment: little_sister_corporation
+    itg_company: main
+    currency: euros
+    vat_id: tva
+    bill_type: 'umbrella_bill'
+    status: 'bill_validated'
+    date: '2018-12-19T20:44:41.630+01:00'
+    biller: jean (Consultant)
+    left_to_pay_euros: 500,
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-12-19T20:44:41.630+01:00'
+    updated_by: 296

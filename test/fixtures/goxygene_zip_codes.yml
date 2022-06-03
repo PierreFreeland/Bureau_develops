@@ -1,0 +1,150 @@
+zipcode_1:
+  id: 1
+  department_id: 4
+  city_id: 1005
+  insee_code: "1"
+  active: true
+  map: false
+  created_at: "2020-08-09 00:47:13.074412"
+  created_by: 296
+  zip_code: "04000"
+  insee_deleted: false
+  updated_at: "2020-08-09 00:47:13.074412"
+  hidden: false
+  zip_type: "family"
+  updated_by: 296
+zipcode_2:
+  id: 2
+  department_id: 4
+  city_id: 1004
+  insee_code: "2"
+  active: true
+  map: false
+  created_at: "2020-08-09 00:47:13.549594"
+  created_by: 296
+  zip_code: "04270"
+  insee_deleted: false
+  updated_at: "2020-08-09 00:47:13.549594"
+  hidden: false
+  zip_type: "family"
+  updated_by: 296
+zipcode_3:
+  id: 3
+  department_id: 3
+  city_id: 1004
+  insee_code: "3"
+  active: true
+  map: false
+  created_at: "2020-08-09 00:48:50.476942"
+  created_by: 296
+  zip_code: "42230"
+  insee_deleted: false
+  updated_at: "2020-08-09 00:48:50.476942"
+  hidden: false
+  zip_type: "family"
+  updated_by: 296
+zipcode_4:
+  id: 4
+  department_id: 1
+  city_id: 1002
+  insee_code: "4"
+  active: true
+  map: false
+  created_at: "2020-08-09 00:49:10.733814"
+  created_by: 296
+  zip_code: "50220"
+  insee_deleted: false
+  updated_at: "2020-08-09 00:49:10.733814"
+  hidden: false
+  zip_type: "family"
+  updated_by: 296
+zipcode_5:
+  id: 5
+  department_id: 1
+  city_id: 1002
+  insee_code: "5"
+  active: true
+  map: false
+  created_at: "2020-08-09 00:49:08.341541"
+  created_by: 296
+  zip_code: "50740"
+  insee_deleted: false
+  updated_at: "2020-08-09 00:49:08.341541"
+  hidden: false
+  zip_type: "family"
+  updated_by: 296
+zipcode_6:
+  id: 6
+  department_id: 2
+  city_id: 1001
+  insee_code: "6"
+  active: true
+  map: false
+  created_at: "2020-08-09 00:49:16.269492"
+  created_by: 296
+  zip_code: "52000"
+  insee_deleted: false
+  updated_at: "2020-08-09 00:49:16.269492"
+  hidden: false
+  zip_type: "family"
+  updated_by: 296
+zipcode_7:
+  id: 7
+  department_id: 5
+  city_id: 1001
+  insee_code: "7"
+  active: true
+  map: false
+  created_at: "2020-08-09 00:49:16.812227"
+  created_by: 296
+  zip_code: "52240"
+  insee_deleted: false
+  updated_at: "2020-08-09 00:49:16.812227"
+  hidden: false
+  zip_type: "family"
+  updated_by: 296
+zipcode_32464:
+  id: 32464
+  department_id: 76
+  city_id: 75108
+  insee_code: "32464"
+  active: true
+  map: false
+  created_at: "2020-08-09 00:49:16.812227"
+  created_by: 296
+  zip_code: "52240"
+  insee_deleted: false
+  updated_at: "2020-08-09 00:49:16.812227"
+  hidden: false
+  zip_type: "family"
+  updated_by: 296
+zipcode_59000:
+  id: 59000
+  department_id: 76
+  city_id: 59000
+  insee_code: "59000"
+  active: true
+  map: false
+  created_at: "2020-08-09 00:49:16.812227"
+  created_by: 296
+  zip_code: "59000"
+  insee_deleted: false
+  updated_at: "2020-08-09 00:49:16.812227"
+  hidden: false
+  zip_type: "family"
+  updated_by: 296
+zipcode_59300:
+  id: 59300
+  department_id: 76
+  city_id: 59300
+  insee_code: "59300"
+  active: true
+  map: false
+  created_at: "2020-08-09 00:49:16.812227"
+  created_by: 296
+  zip_code: "59300"
+  insee_deleted: false
+  updated_at: "2020-08-09 00:49:16.812227"
+  hidden: false
+  zip_type: "family"
+  updated_by: 296

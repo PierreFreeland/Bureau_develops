@@ -1,0 +1,54 @@
+jean:
+    tier: jean
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-12-19T20:44:41.630+01:00'
+    updated_by: 296
+
+michel:
+    tier: michel
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-12-19T20:44:41.630+01:00'
+    updated_by: 296
+
+gertrude:
+    tier: gertrude
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-12-19T20:44:41.630+01:00'
+    updated_by: 296
+
+jeremy:
+    tier: jeremy
+    civility: other
+    first_name: jeremy
+    last_name: bartaud
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-12-19T20:44:41.630+01:00'
+    updated_by: 296
+
+luke:
+    tier: luke
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-12-19T20:44:41.630+01:00'
+    updated_by: 296
+
+leia:
+    tier: leia
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-12-19T20:44:41.630+01:00'
+    updated_by: 296
+
+santa_claus:
+    tier: santa_claus
+    civility: other
+    first_name: Santa
+    last_name: Claus
+    created_at: '2018-12-19T20:44:41.630+01:00'
+    created_by: 296
+    updated_at: '2018-12-19T20:44:41.630+01:00'
+    updated_by: 296

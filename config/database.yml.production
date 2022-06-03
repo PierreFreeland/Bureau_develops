@@ -1,0 +1,15 @@
+production:
+  adapter: postgresql
+  host:       <%= ENV['POSTGRESQL_HOST'] %>
+  database:   <%= ENV['POSTGRESQL_DB'] %>
+  username:   <%= ENV['POSTGRESQL_USER_NAME'] %>
+  password:   <%= ENV['POSTGRESQL_PASSWORD'] %>
+  pool:       25
+
+cms_production:
+  adapter: postgresql
+  host:       <%= ENV['CMS_POSTGRESQL_HOST'] %>
+  database:   <%= ENV['CMS_POSTGRESQL_DB'] %>
+  username:   <%= ENV['CMS_POSTGRESQL_USER_NAME'] %>
+  password:   <%= ENV['CMS_POSTGRESQL_PASSWORD'] %>
+  pool:       25

@@ -1,0 +1,51 @@
+<style>
+.btn-orange {
+  background: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
+  border: 1px solid <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
+}
+</style>
+
+<%= form_for(resource, as: resource_name, url: cas_authentication_password_path, html: {method: :patch}) do |f| %>
+    <div class="login-box">
+      <div class="logo">
+        <% if Goxygene.is_freeteam? %>
+          <%= image_tag 'goxygene/freeteam' %>
+        <% else %>
+          <%= image_tag 'services-login-logo.png' %>
+        <% end %>
+      </div>
+
+      <%= f.hidden_field :reset_password_token %>
+
+      <div class="form-section">
+
+        <% if flash[:alert_login] %>
+          <div class="alert-danger text-center" style="margin: 10px">
+            <%= flash[:alert_login] %>
+          </div>
+        <% end %>
+
+        <div class="form-group">
+        <div class="">
+          <span class="">Mot de passe</span>
+        </div>
+        <div class="field-edit">
+          <%= f.password_field :password, class: 'form-control', autofocus: true %>
+        </div>
+        </div>
+
+        <div class="form-group">
+        <div class="">
+          <span class="">Confirmation mot de passe</span>
+        </div>
+        <div class="field-edit">
+          <%= f.password_field :password_confirmation, class: 'form-control' %>
+        </div>
+        </div>
+
+        <div class="actions">
+          <%= f.submit 'Validation', class: 'btn-orange' %>
+        </div>
+      </div>
+    </div>
+<% end %>

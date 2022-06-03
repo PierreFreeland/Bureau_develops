@@ -1,0 +1,1 @@
+Rails.application.config.session_store :cache_store, same_site: :strict, secure: Rails.env.production?

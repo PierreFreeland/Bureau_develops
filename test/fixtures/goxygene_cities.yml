@@ -1,0 +1,500 @@
+city_1:
+  id: 1001
+  transport_zone_id: null
+  insee_code: "01001"
+  active: false
+  lag_longitude: null
+  longitude: 4.9166670000000003
+  url: null
+  latitude: 46.149999999999999
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.5823"
+  created_by: 296
+  insee_deleted: false
+  city: "L ABERGEMENT CLEMENCIAT"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.5823"
+  updated_by: 296
+  popup_title: null
+city_2:
+  id: 1002
+  transport_zone_id: null
+  insee_code: "01002"
+  active: false
+  lag_longitude: null
+  longitude: 5.4166670000000003
+  url: null
+  latitude: 46
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.5873"
+  created_by: 296
+  insee_deleted: false
+  city: "L ABERGEMENT DE VAREY"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.5873"
+  updated_by: 296
+  popup_title: null
+city_3:
+  id: 1004
+  transport_zone_id: 186
+  insee_code: "01004"
+  active: false
+  lag_longitude: null
+  longitude: 5.3499999999999996
+  url: null
+  latitude: 45.950000000000003
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.5923"
+  created_by: 296
+  insee_deleted: false
+  city: "AMBERIEU EN BUGEY"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.5923"
+  updated_by: 296
+  popup_title: null
+city_4:
+  id: 1005
+  transport_zone_id: null
+  insee_code: "01005"
+  active: false
+  lag_longitude: null
+  longitude: 4.9000000000000004
+  url: null
+  latitude: 46
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.5973"
+  created_by: 296
+  insee_deleted: false
+  city: "AMBERIEUX EN DOMBES"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.5973"
+  updated_by: 296
+  popup_title: null
+city_5:
+  id: 1006
+  transport_zone_id: null
+  insee_code: "01006"
+  active: false
+  lag_longitude: null
+  longitude: 5.5999999999999996
+  url: null
+  latitude: 45.75
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.6023"
+  created_by: 296
+  insee_deleted: false
+  city: "AMBLEON"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.6023"
+  updated_by: 296
+  popup_title: null
+city_6:
+  id: 1007
+  transport_zone_id: null
+  insee_code: "01007"
+  active: false
+  lag_longitude: null
+  longitude: 5.3499999999999996
+  url: null
+  latitude: 46
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.6073"
+  created_by: 296
+  insee_deleted: false
+  city: "AMBRONAY"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.6073"
+  updated_by: 296
+  popup_title: null
+city_7:
+  id: 1008
+  transport_zone_id: null
+  insee_code: "01008"
+  active: false
+  lag_longitude: null
+  longitude: 5.3333329999999997
+  url: null
+  latitude: 45.933332999999998
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.6113"
+  created_by: 296
+  insee_deleted: false
+  city: "AMBUTRIX"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.6113"
+  updated_by: 296
+  popup_title: null
+city_8:
+  id: 1009
+  transport_zone_id: null
+  insee_code: "01009"
+  active: false
+  lag_longitude: null
+  longitude: 5.6500000000000004
+  url: null
+  latitude: 45.799999999999997
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.6163"
+  created_by: 296
+  insee_deleted: false
+  city: "ANDERT ET CONDON"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.6163"
+  updated_by: 296
+  popup_title: null
+city_9:
+  id: 1010
+  transport_zone_id: null
+  insee_code: "01010"
+  active: false
+  lag_longitude: null
+  longitude: 5.8083330000000002
+  url: null
+  latitude: 45.916666999999997
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.6203"
+  created_by: 296
+  insee_deleted: false
+  city: "ANGLEFORT"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.6203"
+  updated_by: 296
+  popup_title: null
+city_10:
+  id: 1011
+  transport_zone_id: null
+  insee_code: "01011"
+  active: false
+  lag_longitude: null
+  longitude: 5.6583329999999998
+  url: null
+  latitude: 46.208333000000003
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.6253"
+  created_by: 296
+  insee_deleted: false
+  city: "APREMONT"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.6253"
+  updated_by: 296
+  popup_title: null
+city_11:
+  id: 1012
+  transport_zone_id: null
+  insee_code: "01012"
+  active: false
+  lag_longitude: null
+  longitude: 5.5
+  url: null
+  latitude: 46
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.6296"
+  created_by: 296
+  insee_deleted: false
+  city: "ARANC"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.6296"
+  updated_by: 296
+  popup_title: null
+city_12:
+  id: 1013
+  transport_zone_id: null
+  insee_code: "01013"
+  active: false
+  lag_longitude: null
+  longitude: 5.483333
+  url: null
+  latitude: 45.899999999999999
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.6342"
+  created_by: 296
+  insee_deleted: false
+  city: "ARANDAS"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.6342"
+  updated_by: 296
+  popup_title: null
+city_13:
+  id: 1014
+  transport_zone_id: null
+  insee_code: "01014"
+  active: false
+  lag_longitude: null
+  longitude: 5.6833330000000002
+  url: null
+  latitude: 46.299999999999997
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.6383"
+  created_by: 296
+  insee_deleted: false
+  city: "ARBENT"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.6383"
+  updated_by: 296
+  popup_title: null
+city_14:
+  id: 1015
+  transport_zone_id: null
+  insee_code: "01015"
+  active: false
+  lag_longitude: null
+  longitude: 5.6500000000000004
+  url: null
+  latitude: 45.733333000000002
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.6432"
+  created_by: 296
+  insee_deleted: false
+  city: "ARBIGNIEU"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.6432"
+  updated_by: 296
+  popup_title: null
+city_15:
+  id: 1016
+  transport_zone_id: null
+  insee_code: "01016"
+  active: false
+  lag_longitude: null
+  longitude: 4.9666670000000002
+  url: null
+  latitude: 46.466667000000001
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.6473"
+  created_by: 296
+  insee_deleted: false
+  city: "ARBIGNY"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.6473"
+  updated_by: 296
+  popup_title: null
+city_16:
+  id: 1017
+  transport_zone_id: null
+  insee_code: "01017"
+  active: false
+  lag_longitude: null
+  longitude: 5.483333
+  url: null
+  latitude: 45.933332999999998
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.6543"
+  created_by: 296
+  insee_deleted: false
+  city: "ARGIS"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.6543"
+  updated_by: 296
+  popup_title: null
+city_17:
+  id: 1019
+  transport_zone_id: null
+  insee_code: "01019"
+  active: false
+  lag_longitude: null
+  longitude: 5.5833329999999997
+  url: null
+  latitude: 45.850000000000001
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.6593"
+  created_by: 296
+  insee_deleted: false
+  city: "ARMIX"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.6593"
+  updated_by: 296
+  popup_title: null
+city_18:
+  id: 1021
+  transport_zone_id: null
+  insee_code: "01021"
+  active: false
+  lag_longitude: null
+  longitude: 4.8166669999999998
+  url: null
+  latitude: 45.983333000000002
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.6633"
+  created_by: 296
+  insee_deleted: false
+  city: "ARS SUR FORMANS"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.6633"
+  updated_by: 296
+  popup_title: null
+city_19:
+  id: 1022
+  transport_zone_id: null
+  insee_code: "01022"
+  active: false
+  lag_longitude: null
+  longitude: 5.7000000000000002
+  url: null
+  latitude: 45.866667
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.6683"
+  created_by: 296
+  insee_deleted: false
+  city: "ARTEMARE"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.6683"
+  updated_by: 296
+  popup_title: null
+city_20:
+  id: 1023
+  transport_zone_id: null
+  insee_code: "01023"
+  active: false
+  lag_longitude: null
+  longitude: 4.8833330000000004
+  url: null
+  latitude: 46.383333
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:44:03.6722"
+  created_by: 296
+  insee_deleted: false
+  city: "ASNIERES SUR SAONE"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:44:03.6722"
+  updated_by: 296
+  popup_title: null
+city_21:
+  id: 1024
+  transport_zone_id: null
+  insee_code: "01024"
+  active: false
+  lag_longitude: null
+  longitude: 5.1666670000000003
+  url: null
+  latitude: 46.283332999999999
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:46:29.1837"
+  created_by: 296
+  insee_deleted: false
+  city: "ATTIGNAT"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:46:29.1837"
+  updated_by: 296
+  popup_title: null
+city_22:
+  id: 1025
+  transport_zone_id: null
+  insee_code: "01025"
+  active: false
+  lag_longitude: null
+  longitude: 4.9500000000000002
+  url: null
+  latitude: 46.316667000000002
+  short_lag_longitude: null
+  map: false
+  created_at: "2020-08-09 02:46:29.1887"
+  created_by: 296
+  insee_deleted: false
+  city: "BAGE LA VILLE"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:46:29.1887"
+  updated_by: 296
+  popup_title: null
+city_75108:
+  id: 75108
+  transport_zone_id: 229
+  insee_code: "75108"
+  active: false
+  lag_longitude: null
+  longitude: 2.333333
+  url: "https://www.itg.fr/portage-salarial/paris-ile-de-france/index.html"
+  latitude: 48.866667
+  short_lag_longitude: 18
+  map: false
+  created_at: "2020-08-09 02:46:29.1887"
+  created_by: 296
+  insee_deleted: false
+  city: "PARIS"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:46:29.1887"
+  updated_by: 296
+  popup_title: "Entreprise portage salarial"
+city_59000:
+  id: 59000
+  transport_zone_id: 229
+  insee_code: "59000"
+  active: false
+  lag_longitude: null
+  longitude: 2.333333
+  url: "https://www.itg.fr/portage-salarial/paris-ile-de-france/index.html"
+  latitude: 48.866667
+  short_lag_longitude: 18
+  map: false
+  created_at: "2020-08-09 02:46:29.1887"
+  created_by: 296
+  insee_deleted: false
+  city: "LILLE"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:46:29.1887"
+  updated_by: 296
+  popup_title: "Entreprise portage salarial"
+city_59300:
+  id: 59300
+  transport_zone_id: 229
+  insee_code: "59300"
+  active: false
+  lag_longitude: null
+  longitude: 2.333333
+  url: "https://www.itg.fr/portage-salarial/paris-ile-de-france/index.html"
+  latitude: 48.866667
+  short_lag_longitude: 18
+  map: false
+  created_at: "2020-08-09 02:46:29.1887"
+  created_by: 296
+  insee_deleted: false
+  city: "VALENCIENNES"
+  lag_latitude: null
+  short_lag_latitude: null
+  updated_at: "2020-08-09 02:46:29.1887"
+  updated_by: 296
+  popup_title: "Entreprise portage salarial"

@@ -1,0 +1,2948 @@
+question_1_23:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 23
+  over_title: ''
+  title: Question 1
+  text: "<b>R : </b>Vous avez toujours la possibilité de consulter vos factures et
+    demandes de factures sur http://bureau.itg.fr\r\nPour avoir accès à votre historique,
+    vous devez passer par le menu « Historiques» et choisir le type de document que
+    vous voulez.\r\n\r\nPour plus de visibilité, le résultat obtenu est filtré en
+    fonction des dates et des choix effectués sur la (ou les) case(s) à cocher qui
+    se situe au dessus de la liste.\r\n\r\nChaque page du site contient un point d&#8217;interrogation
+    rouge. Il vous suffit de cliquer sur ce lien (de passer la souris au dessus) pour
+    obtenir de l&#8217;aide sur la page sur laquelle vous êtes."
+  image: ''
+  on_special: false
+  date: '1894-07-26T00:00:00.000+01:00'
+  chapo: 'Q : Je ne peux plus récupérer les archives de chaque facture.'
+  state: false
+  bureau: consultant
+question_2_24:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 24
+  over_title: ''
+  title: Question 2
+  text: "<b>R : </b>Les clients en double apparaissent lorsque l&#8217;on crée un
+    client déjà existant pour un contrat de prestation de portage salarial et / ou
+    une nouvelle facture.\r\nPour qu&#8217;il n&#8217;y ai plus de doublons, vous
+    devez prévenir votre correspondant qui mettra à jour la base de données clients."
+  image: ''
+  on_special: false
+  date: '1894-07-26T00:00:00.000+01:00'
+  chapo: 'Q : Pourquoi ai-je des clients en double ? Comment faire pour ne plus avoir
+    de doublons ?'
+  state: false
+  bureau: consultant
+question_3_25:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 25
+  over_title: ''
+  title: Question 3
+  text: "<b>R : </b>Vous avez toujours la possibilité de consulter vos factures et
+    demandes de factures sur http://bureau.itg.fr\r\nPour avoir accès à votre historique,
+    vous devez passer par le menu « Historiques» et choisir le type de document que
+    vous souhaitez consulter.\r\nPour plus de visibilité, le résultat obtenu est filtré
+    en fonction des dates et des choix effectués sur la (ou les) case(s) à cocher
+    qui se situe au dessus de la liste.\r\n\r\nChaque page du site contient un point
+    d&#8217;interrogation rouge. Il vous suffit de cliquer sur ce lien (de passer
+    la souris au dessus) pour obtenir de l&#8217;aide sur la page sur laquelle vous
+    êtes."
+  image: ''
+  on_special: false
+  date: '1894-07-26T00:00:00.000+01:00'
+  chapo: 'Q : Je ne trouve pas mon historique'
+  state: false
+  bureau: consultant
+question_4_26:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 26
+  over_title: ''
+  title: Question 4
+  text: "<b>R : </b>Chaque page du site contient un point d&#8217;interrogation rouge.
+    Il vous suffit de cliquer sur ce lien (de passer la souris au dessus) pour obtenir
+    de l&#8217;aide sur la page sur laquelle vous êtes."
+  image: ''
+  on_special: false
+  date: '1894-07-26T00:00:00.000+01:00'
+  chapo: 'Q : Où trouver de l&#8217;aide sur le site ?'
+  state: false
+  bureau: consultant
+question_5_27:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 27
+  over_title: ''
+  title: Question 5
+  text: "R : Afin de préserver la confidentialité des données des consultants, nous
+    avons mis en place un système de fermeture automatique de session.\r\n\r\nAu bout
+    de 30 minutes d&#8217;inactivité (pas de clic sur un bouton), vous êtes automatiquement
+    déconnecté du site."
+  image: ''
+  on_special: false
+  date: '1894-07-26T00:00:00.000+01:00'
+  chapo: 'Q : Pourquoi est ce que le site m&#8217;oblige à me reconnecter au bout
+    d&#8217;un certain temps ?'
+  state: false
+  bureau: consultant
+question_6_28:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 28
+  over_title: ''
+  title: Question 6
+  text: "<b>R : </b>Les déclarations d&#8217;activités et de dépenses de fonctionnement
+    faites avant l&#8217;informatisation de cette partie du système ne figurent pas
+    dans notre base de données. Nous conservons un historique papier mais n&#8217;avons
+    pas nécessaire de saisir notre historique (le société existe depuis 1996)."
+  image: ''
+  on_special: false
+  date: '1894-07-26T00:00:00.000+01:00'
+  chapo: 'Q : Pourquoi n&#8217;ai-je pas accès aux déclarations d&#8217;activités
+    et dépenses de fonctionnement faites avant la mise en place du nouveau bureau
+    ?'
+  state: false
+  bureau: consultant
+question_7_29:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 29
+  over_title: ''
+  title: Question 7
+  text: "<b>R : </b>Pour valider l&#8217;ensemble de la saisie de votre déclaration
+    d&#8217;activités et nous la faire parvenir, vous devez cliquer sur le bouton
+    « Valider » situé dans le premier pavé sous le tableau récapitulatif des jours,
+    des frais pour le mois concerné."
+  image: ''
+  on_special: false
+  date: '1894-07-26T00:00:00.000+01:00'
+  chapo: 'Q : Une fois ma déclaration d''activité remplie sur le nouveau site, comment
+    la valider pour vous l''envoyer?'
+  state: false
+  bureau: consultant
+faq_:_n'hésitez_pas_à_consulter_les_autres_rubriques..._30:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 30
+  over_title: ''
+  title: 'FAQ : N''hésitez pas à consulter les autres rubriques...'
+  text: "Vous recherchez un document et ne le trouvez plus ?\r\n\r\nN'hésitez pas
+    à consulter les autres rubriques.\r\n\r\nDans OUTILS => Documentation, vous trouvez
+    toutes les informations utiles à votre profession mais aussi les avantages salariés
+    comme le PEE et le CESU.\r\n\r\nDans SERVICES +, vous prenez connaissance des
+    facilités que vous propose ITG comme les offres de mutuelle, AVIS location de
+    véhicules, Novely assistance retraite, la solution de location d'espaces de travail,
+    etc."
+  image: ''
+  on_special: false
+  date: '1894-07-24T00:00:00.000+01:00'
+  chapo: ''
+  state: false
+  bureau: consultant
+comment_utiliser_la_plateforme_collaborative_d'échanges_itg_39:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 39
+  over_title: ''
+  title: Comment utiliser la plateforme collaborative d'échanges ITG
+  text: "Dissocié du Bureau qui est exclusivement dédié à votre gestion de l'activité,
+    ce nouvel espace est pour vous.\r\n\r\n\r\n Voici l'occasion de vous connecter
+    pour la première fois sur la plate-forme collaborative d'échanges d'ITG. Cet écosystème
+    ITG va vous permettre de partager et de communiquer avec tous les experts du réseau
+    ITG et nos représentants dans les régions.\r\n\r\nUne plateforme collaborative
+    d'échanges : pourquoi faire ?\r\n\r\n    Centraliser les opportunités et activités
+    proposées par le réseau : annonces, conférences, salons, évènements\r\n    Collecter,
+    organiser et partager les informations : vous accélérez la circulation de l'information
+    dans votre réseau sans la diluer (newsletter, presse, agenda, etc.)\r\n    Capitaliser
+    sur l'intelligence collective et cultiver la diversité du réseau en utilisant
+    les outils d'entraide, de mise en relation, et de gestion de contenus : agora,
+    documents\r\n    Partager les bonnes pratiques, créer des synergies de réponses
+    à vos clients : entrer en liaison avec l'environnement extérieur (autres experts
+    et entreprises)\r\n    Entrer en relation avec d'autres consultants ITG : s'inscrire
+    aux clubs métiers/régions au fur et à mesure de leur mise en ligne\r\n    Accéder
+    à l'Académie ITG at aux modules de formation proposés par Crossknowledge\r\n\r\nPour
+    accéder à la plateforme d'échanges ITG, nous vous rappelons l'url de connexion
+    : https://reseau.itg.fr \r\n\r\n Conservez précieusement vos coordonnées d'accès.\r\nEn
+    éditant votre profil, vous pourrez changer votre mot de passe. N'hésitez pas à
+    solliciter une aide ou assistance via le mail : assistance-reseau@itg.fr\r\n\r\nBien
+    cordialement,\r\nRadhia AMIRAT\r\nDirectrice des Opérations\r\n\r\n<i>Pour optimiser
+    vos usages et votre sécurité, nous vous recommandons d'utiliser le navigateur
+    firefox, téléchargeable gratuitement sur internet via ce lien : http://www.mozilla-europe.org/fr/firefox/</i>\r\n\r\n
+    Lorsque vous avez oublié votre mot de passe : cliquez sur \"mot de passe oublié\",
+    annotez l'adresse mail sur laquelle vous souhaitez recevoir le mail qui vous permet
+    de modifier votre mot de passe et commencez votre navigation.\r\n"
+  image: '080514_154256_ART.png'
+  on_special: false
+  date: '1894-07-24T00:00:00.000+01:00'
+  chapo: "Cet espace privé réservé aux consultants ITG est un espace où chacun peut
+    échanger et partager des informations professionnelles sur les thématiques qui
+    intéressent chaque consultant ITG.\r\n\r\nurl de connexion : <a href=\"https://reseau.itg.fr\"
+    \" target=\"_blank\">https://reseau.itg.fr</a>\r\n\r\n<a href=\"http://www.itg.fr/upload/MASQUE_MAILS_PLATEFORME/reseauITG_comment_faire.html\"
+    \" target=\"_blank\">\r\nLe guide mode d'emploi lors de la première connexion</a>\r\n"
+  state: false
+  bureau: consultant
+accord_collectif_de_branche_35:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 35
+  over_title: ''
+  title: Accord collectif de branche
+  text: "Dès 2000, ITG au travers du SEPS , à l&#8217;époque présidé par Jacques
+    Vau,  entreprend une démarche volontaire pour légaliser « les bonnes pratiques
+    » du portage salarial.\r\n\r\nEn 2001, la CFDT  Cadres confie à Laurent Coquelin
+    une mission de réflexion sur les « professionnels autonomes ».\r\n\r\nPuis en
+    2003, ITG met en place au sein de l&#8217;UES  ITG, les IRP  (DUP  puis le Comité
+    d&#8217;Entreprise, les Délégués du Personnel, le CHSCT , la Section Syndicale
+    et le Délégué Syndical CFDT). La direction générale d&#8217;ITG entame alors la
+    négociation sur le premier accord collectif d&#8217;entreprise qui sera signé
+    le 24 avril 2004.\r\n\r\nEnsuite, grâce à l&#8217;initiative d&#8217;ITG, et avec
+    l&#8217;appui de la CFDT, 13 autres entreprises du portage salarial (dont la majorité,
+    membres du SEPS devenu SNEPS  entre temps) ont signé un accord collectif d&#8217;entreprise
+    avec 4 des 5 organisations syndicales représentatives (CFDT, CFTC , CFE-CGC  et
+    CGT-FO ).\r\n\r\nEn 2005, l&#8217;Observatoire Paritaire du Portage Salarial -
+    OPPS - est créé entre les partenaires sociaux : syndicats de salariés (CFDT, CFTC,
+    CFE-CGC) et organisations patronales : SNEPS CICF  (grande fédération de la CGPME).\r\n\r\nA
+    l&#8217;issue de deux ans de négociations sur les « bonnes pratiques » du portage
+    salarial, l&#8217;accord collectif de branche (document ci-dessous joint) a été
+    signé le 15 novembre 2007. Il couvre toutes les entreprises du SNEPS, dont naturellement
+    ITG qui a joué en la personne de Jacques Vau, un rôle majeur dans cet aboutissement.\r\n\r\n\r\n<a
+    href=\"https://bureau.itg.fr/dl_fic_outils/accord_collectif_CICF_SNEPS_version_signee_2007_11_15.pdf\"
+    target=\"_blank\">Accord collectif SNEPS-CICF signé le 15/11/07</a>"
+  image: ''
+  on_special: true
+  date: '1894-07-23T00:00:00.000+01:00'
+  chapo: ''
+  state: false
+  bureau: consultant
+informatique_:_les_adresses_@free.fr..._38:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 38
+  over_title: ''
+  title: 'Informatique : les adresses @FREE.FR...'
+  text: "Nous rencontrons des problèmes de réception de vos mails et d'envois de
+    nos mails vers les adresses courriel des consultants @free.fr. Le fournisseur
+    d'accès free nous assure faire tout son possible mais nous souhaitons vous informer
+    des délais éventuels.\r\nLe service Informatique "
+  image: ''
+  on_special: true
+  date: '1894-07-23T00:00:00.000+01:00'
+  chapo: Nous rencontrons des problèmes de réception de vos mails et d'envois de nos
+    mails vers les adresses courriel des consultants @free.fr. Le fournisseur d'accès
+    free nous assure faire tout son possible mais nous souhaitons vous informer des
+    délais éventuels.
+  state: false
+  bureau: consultant
+faq_17:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 17
+  over_title: ''
+  title: FAQ
+  text: "<b>Q : Le site s&#8217;affiche mal, il me manque des choses.</b>\r\n\r\n<b>R
+    :  </b>Les navigateurs livrés en standard avec les systèmes d&#8217;exploitation
+    ne reconnaissent pas toujours les nouvelles normes Internet, particulièrement
+    sur MacOS inférieure à la version X.\r\n\r\nAfin de permettre une navigation optimale
+    sur le site, nous vous recommandons :\r\n  \r\n1 - Pour les utilisateurs de Windows
+    : \r\n<blockquote>- Mozilla Firefox 1.5 (ou supérieur)  téléchargeable sur <a
+    href=\"http://www.mozilla-europe.org/fr/products/firefox/\">http://www.mozilla-europe.org/fr/products/firefox/</a>,\r\n-
+    Opera 8.5 (ou supérieur)  téléchargeable sur <a href=\"http://www.opera.com/download\">http://www.opera.com/download</a>\r\n-
+    Internet Explorer 6.0 (ou supérieur)</blockquote>\r\n2 - Pour les utilisateurs
+    de Mac OS X : \r\n<blockquote>- Mozilla Firefox 1.5 (ou supérieur) téléchargeable
+    sur <a href=\"http://www.mozilla-europe.org/fr/products/firefox/\">http://www.mozilla-europe.org/fr/products/firefox/</a>,\r\n-
+    Opera 8.5 (ou supérieur) téléchargeable sur <a href=\"http://www.opera.com/download\">http://www.opera.com/download</a></blockquote>\r\n3
+    - Pour les utilisateurs de Mac OS dans une version inférieure à X : \r\n<blockquote>-
+    Netscape 7 version Mac Classic téléchargeable sur <a href=\"http://www.telechargement.netscape.fr/telechargement/netscape7/configuration/telecharger.htm\">http://www.telechargement.netscape.fr/telechargement/netscape7/configuration/telecharger.htm</a>\r\n-
+    iCab téléchargeable sur <a href=\"http://www.icab.de/dl.php\">http://www.icab.de/dl.php
+    </a>et le runtime Java \r\ntéléchargeable sur <a href=\"http://www.01net.com/telecharger/mac/Programmation/java/fiches/18392.html\">http://www.01net.com/telecharger/mac/Programmation/java/fiches/18392.html</a></blockquote>\r\n4
+    \ - Pour les utilisateurs de Linux : \r\nMozilla Firefox 1.5 (ou supérieur) téléchargeable
+    sur <a href=\"http://www.mozilla-europe.org/fr/products/firefox/\">http://www.mozilla-europe.org/fr/products/firefox/</a>\r\n\r\n\r\n<b>Q
+    : Pourquoi est ce que le message \"code image erroné\" apparaît constamment, même
+    lorsque je l&#8217;ai correctement saisi.</b>\r\n\r\n<b>R : </b>Pour que le https://bureau.itg.fr
+    fonctionne correctement, il est nécessaire que vous activiez la gestion des cookies
+    sur votre navigateur, ou tout au moins que vous fassiez une exception pour https://bureau.itg.fr.
+    Lorsque les cookies ne sont pas autorisés le site ne peut pas vous connecter et
+    affiche ce message d&#8217;erreur.\r\n\r\n\r\n<b>Q : Je n&#8217;est pas de « code
+    sécurité ». Qu&#8217;est ce que le « code sécurité » ? </b>\r\n<b>R :</b> Le code
+    de sécurité qui est demandé sur la page connexion de https://bureau.itg.fr est
+    le numéro contenu dans l&#8217;image au dessus qu&#8217;il faut reporter dans
+    la zone de saisie. C&#8217;est une méthode de sécurisation de données couramment
+    utilisée sur Internet. Elle est utilisée pour éviter que des programmes informatiques
+    ouvrent  vos comptes. Nous tenons à la confidentialité de vos données.\r\n\r\n\r\n<b>Q
+    : Je n'arrive pas à me connecter en indiquant : mon code consultant + mon code
+    confidentiel. Quel est le problème ?</b>\r\n\r\n<b>R : </b>En plus de votre code
+    consultant et de votre code confidentiel, pour accéder à votre compte sur le nouveau
+    https://bureau.itg.fr il vous faut saisir un code sécurité. \r\n\r\nLe code de
+    sécurité qui est demandé sur la page connexion de https://bureau.itg.fr est le
+    numéro contenu dans l&#8217;image au dessus qu&#8217;il faut reporter dans la
+    zone de saisie. C&#8217;est une méthode de sécurisation de données couramment
+    utilisée sur Internet. Elle est utilisée pour éviter que des programmes informatiques
+    ouvrent vos comptes. Nous tenons à la confidentialité de vos données.\r\n\r\n\r\n<b>Q
+    : Pourquoi est ce que je ne vois pas la même chose selon le navigateur que j&#8217;utilise
+    ?</b>\r\n<b>R :</b> https://bureau.itg.fr est conçu suivant des méthodes et techniques
+    Web assez récentes. Certains navigateurs intègrent mal ou pas ces méthodes et
+    techniques. \r\n\r\nAfin d&#8217;avoir un affichage optimal et de pouvoir utiliser
+    toutes les fonctionnalités du site nous vous recommandons : \r\n1 - Pour les utilisateurs
+    de Windows : \r\n<blockquote>- Mozilla Firefox 1.5 (ou supérieur)  téléchargeable
+    sur <a href=\"http://www.mozilla-europe.org/fr/products/firefox/\">http://www.mozilla-europe.org/fr/products/firefox/</a>,\r\n-
+    Opera 8.5 (ou supérieur)  téléchargeable sur <a href=\"http://www.opera.com/download\">http://www.opera.com/download</a>\r\n-
+    Internet Explorer 6.0 (ou supérieur)</blockquote>\r\n2 - Pour les utilisateurs
+    de Mac OS X : \r\n<blockquote>- Mozilla Firefox 1.5 (ou supérieur) téléchargeable
+    sur <a href=\"http://www.mozilla-europe.org/fr/products/firefox/\">http://www.mozilla-europe.org/fr/products/firefox/</a>,\r\n-
+    Opera 8.5 (ou supérieur) téléchargeable sur <a href=\"http://www.opera.com/download\">http://www.opera.com/download</a></blockquote>\r\n3
+    - Pour les utilisateurs de Mac OS dans une version inférieure à X : \r\n<blockquote>-
+    Netscape 7 version Mac Classic téléchargeable sur <a href=\"http://www.telechargement.netscape.fr/telechargement/netscape7/configuration/telecharger.htm\">http://www.telechargement.netscape.fr/telechargement/netscape7/configuration/telecharger.htm</a>\r\n-
+    iCab téléchargeable sur <a href=\"http://www.icab.de/dl.php\">http://www.icab.de/dl.php
+    </a>et le runtime Java \r\ntéléchargeable sur <a href=\"http://www.01net.com/telecharger/mac/Programmation/java/fiches/18392.html\">http://www.01net.com/telecharger/mac/Programmation/java/fiches/18392.html</a></blockquote>\r\n4
+    \ - Pour les utilisateurs de Linux : \r\nMozilla Firefox 1.5 (ou supérieur) téléchargeable
+    sur <a href=\"http://www.mozilla-europe.org/fr/products/firefox/\">http://www.mozilla-europe.org/fr/products/firefox/</a>\r\n"
+  image: ''
+  on_special: false
+  date: '1894-07-22T00:00:00.000+01:00'
+  chapo: "Les réponses aux questions que vous nous posez fréquemment pour l'accès
+    au site Bureau.itg.fr. La plupart sont décrites dans cette FAQ. \r\n<b>Pour les
+    questions relatives au fonctionnememnt du site, consultez notre FAQ disponible
+    dans la rubrique \"Outils\" de ce site.</b>"
+  state: false
+  bureau: consultant
+accord_collectif_d'entreprise_22:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 22
+  over_title: ''
+  title: Accord collectif d'entreprise
+  text: "Vous trouverez ci-joint l'accord collectif d'entreprise. <a href=\"https://bureau.itg.fr/dl_fic_outils/081205_171734_FIC.pdf\"
+    target=\"_blank\">081205_171734_FIC.pdf</a>\r\nAinsi que l'accord collectif d'entreprise
+    simplifié. <a href=\"https://bureau.itg.fr/dl_fic_outils/020107_123727_FIC.pdf\"
+    target=\"_blank\"> 020107_123727_FIC.pdf</a>\r\n"
+  image: ''
+  on_special: false
+  date: '1894-07-22T00:00:00.000+01:00'
+  chapo: "Vous trouverez ci-joint l'accord collectif d'entreprise. <a href=\"https://bureau.itg.fr/dl_fic_outils/081205_171734_FIC.pdf\"
+    target=\"_blank\">081205_171734_FIC.pdf</a>\r\nAinsi que l'accord collectif d'entreprise
+    simplifié. <a href=\"https://bureau.itg.fr/dl_fic_outils/020107_123727_FIC.pdf\"
+    target=\"_blank\"> 020107_123727_FIC.pdf</a>"
+  state: false
+  bureau: consultant
+faq_18:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 18
+  over_title: ''
+  title: FAQ
+  text: "<b>Q : Je ne peux plus récupérer les archives de chaque facture.</b>\r\n\r\n<b>R
+    : </b>Vous avez toujours la possibilité de consulter vos factures et demandes
+    de factures sur http://bureau.itg.fr\r\nPour avoir accès à votre historique, vous
+    devez par passer pas le menu « Historiques» et choisir le type de document que
+    vous voulez.\r\nPour plus de visibilité, le résultat obtenu est filtré en fonction
+    des dates et des choix effectués sur la (ou les) case(s) à cocher qui se situe
+    au dessus de la liste.\r\n\r\nChaque page du site contient un point d&#8217;interrogation
+    rouge. Il vous suffit de cliquer sur ce lien (de passer la souris au dessus) pour
+    obtenir de l&#8217;aide sur la page sur laquelle vous êtes.\r\n\r\n\r\n<b>Q :
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+    Pourquoi ai-je des clients en double ? Comment faire pour ne plus avoir de doublons
+    ?</b>\r\n\r\n<b>R :</b> Les clients en double apparaissent lorsque l&#8217;on
+    crée un client déjà existant pour un contrat d&#8217;intervention et ou une nouvelle
+    facture.\r\n      Pour qu&#8217;il n&#8217;y ai plus de doublons, vous devez prévenir
+    votre correspondante qui mettra à jour la base de données clients.\r\n\r\n\r\n<b>Q
+    : Je ne trouve pas mon historique</b>\r\n\r\n<b>R : </b>Vous avez toujours la
+    possibilité de consulter vos factures et demandes de factures sur http://bureau.itg.fr\r\nPour
+    avoir accès à votre historique, vous devez par passer pas le menu « Historiques»
+    et choisir le type de document que vous voulez.\r\nPour plus de visibilité, le
+    résultat obtenu est filtré en fonction des dates et des choix effectués sur la
+    (ou les) case(s) à cocher qui se situe au dessus de la liste.\r\n\r\nChaque page
+    du site contient un point d&#8217;interrogation rouge. Il vous suffit de cliquer
+    sur ce lien (de passer la souris au dessus) pour obtenir de l&#8217;aide sur la
+    page sur laquelle vous êtes.\r\n\r\n\r\n<b>Q : Où trouver de l&#8217;aide sur
+    le site ?</b>\r\n\r\n<b>R : </b>Chaque page du site contient un point d&#8217;interrogation
+    rouge. Il vous suffit de cliquer sur ce lien (de passer la souris au dessus) pour
+    obtenir de l&#8217;aide sur la page sur laquelle vous êtes.\r\n\r\n\r\n<b>Q :
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+    Pourquoi est ce que le site m&#8217;oblige à me reconnecter au bout d&#8217;un
+    certain temps ?</b>\r\n\r\n<b>R : </b>Afin de préserver la confidentialité des
+    données des consultants, nous avons mis en place un système de fermeture automatique
+    de session.  \r\nAu bout  de 30 minutes d&#8217;inactivité (pas de clic sur un
+    bouton), vous êtes automatiquement déconnecté du  site.\r\n\r\n<b>\r\nQ : Pourquoi
+    n&#8217;ai-je pas accès aux déclarations d&#8217;activités et dépenses de fonctionnement
+    faites avant la mise en place du nouveau bureau ?</b>\r\n\r\n<b>R : </b>Les déclarations
+    d&#8217;activités et de dépenses de fonctionnement faites avant l&#8217;informatisation
+    de cette partie du système ne figurent pas dans notre base de données. Nous conservons
+    un historique papier mais n&#8217;avons pas nécessaire de saisir notre historique
+    (le société existe depuis 1996).\r\n\r\n \r\n<b>Q : Une fois ma déclaration d'activité
+    remplie sur le nouveau site, comment la  valider pour vous l'envoyer?</b>\r\n\r\n<b>R
+    : </b>Pour valider l&#8217;ensemble de la saisie de votre déclaration d&#8217;activités
+    et nous la faire parvenir,  vous devez cliquer sur le bouton « Valider » situé
+    \r\n"
+  image: ''
+  on_special: false
+  date: '1894-07-22T00:00:00.000+01:00'
+  chapo: 'Les réponses aux questions que vous nous posez fréquemment sur le site Bureau.itg.fr.
+    La plupart sont décrites dans cette FAQ. '
+  state: false
+  bureau: consultant
+votre_gestion_mutuelle_itg_pour_les_nouveaux_salariés_au_01/01/16_69:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 69
+  over_title: ''
+  title: Votre gestion MUTUELLE ITG pour les nouveaux salariés au 01/01/16
+  text: "Le principe :\r\n\r\nCette mutuelle est obligatoire sauf si vous pouvez
+    justifier d’une couverture individuelle mise en place avant votre entrée chez
+    ITG.\r\n\r\n\r\n\r\nDans ce cas, vous devez nous faire parvenir :\r\n\r\n•  le
+    courrier « Lettre de renonciation » complété par vos soins (cocher selon votre
+    situation les cas n°2 à 6)\r\n\r\n•  le justificatif de cette affiliation \r\n\r\n\r\nSi
+    vous souhaitez y adhérer, vous trouverez le tableau des garanties et cotisations
+    et le bulletin d’affiliation, avec l’autorisation de prélèvement SEPA. \r\nL’affiliation
+    à la mutuelle ITG sera mise en place au travers de 2 cotisations :\r\n\r\n•  Un
+    contrat minimum de base obligatoire » (contrat isolé), pour répondre aux obligations
+    légales et vous garantir une couverture santé minimale. \r\n\r\nLe montant de
+    ce contrat de base est de 28.32€ et sera prélevé directement, comme les autres
+    charges sociales, sur votre bulletin de paie. Ce contrat comporte une option facultative
+    \"famille\" pour vous permettre d'assurer vos ayants droits, la cotisation complémentaire
+    famille sera à votre charge et directement prélevée sur votre compte bancaire
+    par AXA (autorisation de prélèvement AXA).\r\n\r\n•  Des contrats sur-complémentaires
+    facultatifs proposées à des niveaux 1, 2 et 3 (3 dans l’exemple ci-dessous) pour
+    répondre aux demandes des salariés portés de pouvoir accéder à une mutuelle compétitive
+    par choix entre un accès raisonné aux soins jusqu’à un accès haut de gamme.\r\n\r\nCes
+    sur-complémentaires sont facultatives et payées à title individuel. \r\nExemple
+    : contrat sur-complémentaire N°3 : <a href=\"http://www.itg.fr/upload/VOTRE_GESTION/16_01_25_mutuelle_consultantsCDI_CDDlongs_2016_1.html\">cliquer
+    ici\r\n</a>"
+  image: ''
+  on_special: false
+  date: '1894-07-22T00:00:00.000+01:00'
+  chapo: "Mutuelle ITG à destination des salariés portés\r\n\r\n\r\nChères consultantes,
+    chers consultants,\r\n\r\n\r\nDans le cadre des obligations légales de mise en
+    place d’une mutuelle pour les salariés en CDI ou en CDD, ITG vous propose une
+    nouvelle mutuelle. Après étude des différentes propositions dont celle du PEPS,
+    ITG a choisi AXA pour les tarifs et les garanties obtenus.\r\n\r\n"
+  state: false
+  bureau: consultant
+votre_gestion_:_mutuelle_itg_pour_les_salariés_présents_au_31/12/15_70:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 70
+  over_title: ''
+  title: 'Votre Gestion : MUTUELLE ITG pour les salariés présents au 31/12/15'
+  text: "Le principe :\r\n\r\nEn tant que salarié présent au moment de la mise en
+    place, vous avez 2 possibilités :\r\n\r\n•  la faculté d’y renoncer. Il vous suffira
+    pour cela de nous retourner le document « Lettre de renonciation » complété par
+    vos soins (cocher cas n°1) \r\n\r\n•  Vous souhaitez y adhérer, vous trouverez
+    le tableau des garanties et cotisations et le bulletin d’affiliation, avec l’autorisation
+    de prélèvement SEPA. \r\n\r\n\r\n\r\n\r\nL’affiliation à la mutuelle ITG sera
+    mise en place au travers de 2 cotisations :\r\n•  Un contrat minimum de base obligatoire
+    » (contrat isolé), pour répondre aux obligations légales et vous garantir une
+    couverture santé minimale. \r\n\r\nLe montant de ce contrat de base est de 28.32€
+    et sera prélevé directement, comme les autres charges sociales, sur votre bulletin
+    de paie. Ce contrat comporte une option facultative \"famille\" pour vous permettre
+    d'assurer vos ayants droits, la cotisation complémentaire famille sera à votre
+    charge et directement prélevée sur votre compte bancaire par AXA (autorisation
+    de prélèvement AXA).\r\n•  Des contrats sur-complémentaires facultatifs proposées
+    à des niveaux 1, 2 et 3 (3 dans l’exemple ci-dessous) pour répondre aux demandes
+    des salariés portés de pouvoir accéder à une mutuelle compétitive par choix entre
+    un accès raisonné aux soins jusqu’à un accès haut de gamme.\r\n\r\nCes sur-complémentaires
+    sont facultatives et payées à title individuel. \r\nExemple : contrat sur-complémentaire
+    N°3 : <a href=\"http://www.itg.fr/upload/VOTRE_GESTION/16_01_22_mutuelle_consultantsCDI_CDDlongs_2015_1.html\">cliquer
+    ici</a>\r\n \t \t \r\n\r\nSoucieux de vous offrir les meilleurs services possibles,
+    nous espérons que cette nouvelle mutuelle corresponde à vos besoins.\r\n\r\nBien
+    cordialement,\r\n\r\nRadhia AMIRAT\r\nDirectrice des Opérations \r\n"
+  image: ''
+  on_special: false
+  date: '1894-07-22T00:00:00.000+01:00'
+  chapo: " \tMutuelle ITG à destination des salariés portés \r\n\r\nChères consultantes,
+    chers consultants,\r\n\r\n\r\nDans le cadre des obligations légales de mise en
+    place d’une mutuelle pour les salariés en CDI ou en CDD, ITG vous propose une
+    nouvelle mutuelle. Après étude des différentes propositions dont celle du PEPS,
+    ITG a choisi AXA pour les tarifs et les garanties obtenus.\r\n\r\n\r\n"
+  state: false
+  bureau: consultant
+les_ateliers_missioneo_:_véritables_centres_d'entraînement_à_la_recherche_de_mission_45:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 45
+  over_title: ''
+  title: 'Les ateliers MISSIONEO : véritables centres d''entraînement à la recherche
+    de mission'
+  text: " Chers consultants,          \r\n\r\n\r\n<blockquote></blockquote>Vous cherchez
+    des Missions, vous souhaitez dynamiser ou lancer votre activité de consultant
+    ?\r\nLes Ateliers sont  un outil utile et immédiat à votre développement d&#8217;activité
+    de conseil.\r\nInscrivez-vous en envoyant un mail à contact@missioneo.fr ou adressez
+    un e-mail à <a href=\"mailto:Guilaine.bigot@itg.fr\">Guilaine.bigot@itg.fr</a>\r\n\r\n\r\nLes
+    ateliers Missioneo vous proposent de professionnaliser votre démarche en rejoignant
+    de véritables centres d&#8217;entraînement au métier de consultant : les Ateliers
+    Missioneo (groupes de recherche de missions).  Ces groupes de travail encadrés
+    vous permettent de booster votre développement en vous aidant à organiser tous
+    les aspects de votre activité (positionnement, démarche réseau, gestion de la
+    relation client, mise en visibilité...).\r\nLe principe est simple : après le
+    démarrage d&#8217;un groupe (constitué sur la base du volontariat), vous vous
+    réunissez toutes les 2 semaines avec un programme de progression défini en fonction
+    de vos objectifs de développement. Les six premières séances sont animées par
+    un professionnel des métiers du conseil.\r\n\r\n<b>En partenariat avec ITG\r\nRejoignez
+    les Ateliers Missioneo\r\nPour vous aider à dynamiser votre activité, ITG vous
+    offre les frais de participation, dès lors que votre contrat de travail est actif</b>
+    .\r\n\r\n<i><b>Les VILLES et les DATES</i></b>\r\n<a href=\"http://www.itg.fr/Space_Website/Les-dates-et-les-lieux\"
+    target=\"_blank\">Les dates et les Lieux</a>\r\n\r\nBien Cordialement"
+  image: '080713_182129_ART.jpg'
+  on_special: false
+  date: '1894-07-21T00:00:00.000+01:00'
+  chapo: "Vous cherchez des Missions, vous souhaitez dynamiser ou lancer votre activité
+    de consultant ?\r\nLes Ateliers sont  un outil utile et immédiat à votre développement
+    d&#8217;activité de conseil.\r\nInscrivez-vous en envoyant un mail à contact@missioneo.fr"
+  state: false
+  bureau: consultant
+le_comité_d'entreprise_itg_vous_informe_d'une_nouvelle_offre__46:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 46
+  over_title: ITG et CAPPRIVILEGES
+  title: 'Le comité d''entreprise ITG vous informe d''une nouvelle offre '
+  text: "Bonjour à tous,\r\n\r\nLe C.E. offre un nouveau service \"CAP PRIVILEGES.\r\n\r\nChaque
+    personne doit créer un compte pour avoir accès aux services.\r\n\r\nChacun va
+    recevoir un  livret de présentation, une feuille format A4 indiquant comment créer
+    son compte et contenant le code Entreprise, et la carte CAP PRIVILEGES. \r\n\r\nPlusieurs
+    services sont proposés, dont les principaux sont :\r\n\r\n1- Les chèques-réduction
+    : achetés avec une réduction. Ex:  si réduction 5%, 10 chèques de 10€ seront achetés
+    95€. Ces chèques sont un moyen de paiement et sont donc cumulables avec d'autres
+    offres en cours dans le magasin, telles que promotions, soldes ...\r\nAttention
+    : Chaque chèque ne peut être utilisé qu'en 1 seule fois. Ex: pour un paiement
+    de 49€, si vous donnez 5 chèques de 10€, l'euro restant est perdu, il n'est pas
+    remboursé.\r\nCe sont des chèques multi-enseigne. Par exemple, si vous sélectionnez
+    \"SPEEDY\", vous recevrez des chèques TIR GROUPE BONHEUR utilisable chez SPEEDY,
+    mais aussi dans toutes les autres enseignes indiquées sur le chèque. Pour trouver
+    l'enseigne que vous souhaitez, utilisez le moteur de recherche en haut du site,
+    signalé par une loupe. Le site vous redirigera directement sur le bon chèque.\r\n\r\n2-
+    Les cartes prépayées : Cartes prépayées pour les grandes surfaces (Auchan, Carrefour,
+    ...à découvrir dans l'onglet Bons d'achat - alimentaire). Ces cartes sont utilisables
+    en plusieurs fois et se dépensent au centime près; après chaque paiement la caissière
+    vous remet un ticket indiquant le nouveau solde restant sur la carte. Lorsque
+    le solde est épuisé, la carte est à jeter; elle n'est pas rechargeable. Tout comme
+    les chèques multi-enseigne, ces cartes sont un moyen de paiement et donc cumulables
+    avec toute autre offre, promo ou carte de fidélité. Ces cartes sont acceptés pour
+    vos achats dans l'ensemble du magasin, ainsi que pour la billeterie et les voyages.
+    Seul le carburant ne peut être payé avec ces cartes\r\n\r\n3- La carte CAP PRIVILEGE
+    :  Cette carte n'est pas un moyen de paiement, mais une carte à présenter en caisse
+    des magasins partenaires, et la réduction indiquée sur le site sera appliquée.
+    \ Les magasins Partenaires sont répertoriés dans l'onglet CARTE CAP sur le site;
+    ils peuvent être filtrés par département, par catégorie ...\r\n\r\n4- Les locations
+    de mobiles homes, avec remises importantes hors haute saison (40 à 50%). Pour
+    les mobiles homes que vous avez sélectionnés (3 maximum), une demande de vérification
+    de disponibilité à faire en ligne. Commande depuis le site CAP PRIVILEGES. Pour
+    la haute saison, la remise est d'environ 25%\r\n\r\n5- Agences de voyages : sur
+    le site de CAP PRIVILEGES un code réduction vous est donné pour l'agence sélectionnée.
+    Il faut ensuite aller directement sur le site de l'agence en question, et au moment
+    du paiement il faut indiquer ce code réduction.\r\n\r\nEt d'autres services à
+    découvrir : tous-bons.com ,  assistance juridique, billeterie à tarif réduit sur
+    toute la France (cinéma, spectacle, concert, musée, zoo, parc d'attraction …).
+    La recherche peut se faire par mot clé (moteur de recherche loupe) ou par département
+    après avoir sélectionné une catégorie.\r\n\r\n\r\nToutes les livraisons sont faites
+    directement au domicile de chacun, et sont prises en charge par votre comité d'entreprise,
+    y compris pour l'électroménager, qui provient majoritairement de chez BOULANGER.
+    Les règlements peuvent se faire par chèque ou par carte bancaire directement sur
+    le site.\r\n\r\nIl n'y a pas de quotas, tous les services sont illimités.\r\n\r\nEn
+    cas de doute, de besoin d'information complémentaire, n'hésitez pas à appeler
+    Cap Privilèges (le service client est à votre disposition aux horaires de bureau,
+    vous pouvez également demander à être rappelé en cliquant sur « on vous rappelle
+    » en haut de la page d'accueil du site).\r\n\r\nA vous de jouer, faites votre
+    inscription et visitez le site; ça sera certainement plus clair avec la pratique.\r\n\r\nPour
+    vos achats ayez le réflexe CAP PRIVILEGES, les livraisons de chèques-réduction
+    et de cartes se font sous 48h, en ligne suivie et sans frais de port.\r\n\r\nBonne
+    utilisation à tous,\r\n\r\n"
+  image: ''
+  on_special: false
+  date: '1894-07-21T00:00:00.000+01:00'
+  chapo: Le comité d'entreprise d'ITG vous propose plusieurs offres nouvelles avec
+    CAP PRIVILEGES.
+  state: false
+  bureau: consultant
+votre_comité_d'entreprise_itg_en_2018_4:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 4
+  over_title: ''
+  title: Votre Comité d'entreprise ITG en 2018
+  text: "1- Les chèques-réduction : achetés avec une réduction. Ex:  si réduction
+    5%, 10 chèques de 10€ seront achetés 95€. Ces chèques sont un moyen de paiement
+    et sont donc cumulables avec d'autres offres en cours dans le magasin, telles
+    que promotions, soldes ...\r\nAttention : Chaque chèque ne peut être utilisé qu'en
+    1 seule fois. Ex: pour un paiement de 49€, si vous donnez 5 chèques de 10€, l'euro
+    restant est perdu, il n'est pas remboursé.\r\nCe sont des chèques multi-enseigne.
+    Par exemple, si vous sélectionnez \"SPEEDY\", vous recevrez des chèques TIR GROUPE
+    BONHEUR utilisable chez SPEEDY, mais aussi dans toutes les autres enseignes indiquées
+    sur le chèque. Pour trouver l'enseigne que vous souhaitez, utilisez le moteur
+    de recherche en haut du site, signalé par une loupe. Le site vous redirigera directement
+    sur le bon chèque.\r\n\r\n2- Les cartes prépayées : Cartes prépayées pour les
+    grandes surfaces (Auchan, Carrefour, ...à découvrir dans l'onglet Bons d'achat
+    - alimentaire). Ces cartes sont utilisables en plusieurs fois et se dépensent
+    au centime près; après chaque paiement la caissière vous remet un ticket indiquant
+    le nouveau solde restant sur la carte. Lorsque le solde est épuisé, la carte est
+    à jeter; elle n'est pas rechargeable. Tout comme les chèques multi-enseigne, ces
+    cartes sont un moyen de paiement et donc cumulables avec toute autre offre, promo
+    ou carte de fidélité. Ces cartes sont acceptés pour vos achats dans l'ensemble
+    du magasin, ainsi que pour la billeterie et les voyages. Seul le carburant ne
+    peut être payé avec ces cartes\r\n\r\n3- La carte CAP PRIVILEGE :  Cette carte
+    n'est pas un moyen de paiement, mais une carte à présenter en caisse des magasins
+    partenaires, et la réduction indiquée sur le site sera appliquée.  Les magasins
+    Partenaires sont répertoriés dans l'onglet CARTE CAP sur le site; ils peuvent
+    être filtrés par département, par catégorie ...\r\n\r\n4- Les locations de mobiles
+    homes, avec remises importantes hors haute saison (40 à 50%). Pour les mobiles
+    homes que vous avez sélectionnés (3 maximum), une demande de vérification de disponibilité
+    à faire en ligne. Commande depuis le site CAP PRIVILEGES. Pour la haute saison,
+    la remise est d'environ 25%\r\n\r\n5- Agences de voyages : sur le site de CAP
+    PRIVILEGES un code réduction vous est donné pour l'agence sélectionnée. Il faut
+    ensuite aller directement sur le site de l'agence en question, et au moment du
+    paiement il faut indiquer ce code réduction.\r\n\r\nEt d'autres services à découvrir
+    : tous-bons.com ,  assistance juridique, billeterie à tarif réduit sur toute la
+    France (cinéma, spectacle, concert, musée, zoo, parc d'attraction …). La recherche
+    peut se faire par mot clé (moteur de recherche loupe) ou par département après
+    avoir sélectionné une catégorie.\r\n\r\n\r\nToutes les livraisons sont faites
+    directement au domicile de chacun, et sont prises en charge par votre comité d'entreprise,
+    y compris pour l'électroménager, qui provient majoritairement de chez BOULANGER.
+    Les règlements peuvent se faire par chèque ou par carte bancaire directement sur
+    le site.\r\n\r\nIl n'y a pas de quotas, tous les services sont illimités.\r\n\r\nEn
+    cas de doute, de besoin d'information complémentaire, n'hésitez pas à appeler
+    Cap Privilèges (le service client est à votre disposition aux horaires de bureau,
+    vous pouvez également demander à être rappelé en cliquant sur « on vous rappelle
+    » en haut de la page d'accueil du site).\r\n\r\nA vous de jouer, faites votre
+    inscription et visitez le site; ça sera certainement plus clair avec la pratique.\r\n\r\nPour
+    vos achats ayez le réflexe CAP PRIVILEGES, les livraisons de chèques-réduction
+    et de cartes se font sous 48h, en ligne suivie et sans frais de port.\r\n\r\nBonne
+    utilisation à tous,\r\n\r\n\r\n\r\n"
+  image: ''
+  on_special: true
+  date: '1894-07-20T00:00:00.000+01:00'
+  chapo: "Bonjour à tous,\r\n\r\nLe C.E. offre un nouveau service \"CAP PRIVILEGES.\r\n\r\nChaque
+    personne doit créer un compte pour avoir accès aux services.\r\n\r\nChacun va
+    recevoir un  livret de présentation, une feuille format A4 indiquant comment créer
+    son compte et contenant le code Entreprise, et la carte CAP PRIVILEGES. \r\n\r\nPlusieurs
+    services sont proposés, dont les principaux sont : la carte privilège, les réservations
+    de vacances et de spectacles....\r\n"
+  state: false
+  bureau: consultant
+réunion_d'accueil_des_nouveaux_entrants_itg_5:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 5
+  over_title: ''
+  title: Réunion d'accueil des nouveaux entrants ITG
+  text: "<img src=\"images/puce_croix.gif\" alt=\"\" border=\"\"/>  <span style=\"color:#FF6000;font-weight:bold\">Prochains
+    ateliers de GESTION :  rencontres et échanges pour optimiser mes revenus, mes
+    frais professionnels, mon argent de 9h30 à 12h30 :</span>\r\n \r\n<ul><b><font
+    color=\"#FC6C00\">\r\n<li>le vendredi   20/01/2008\r\n<li>le vendredi   24/02/2008\r\n<li>le
+    vendredi   24/03/2008 nous sommes obligés d'annuler cette réunion. \r\n<li>le
+    vendredi   21/04/2008\r\n<li>le vendredi   19/05/2008\r\n<li>le vendredi   23/06/2008\r\n<li>le
+    vendredi   21/07/2008\r\n<li>le vendredi   22/09/2008 \r\n<li>le vendredi   20/10/2008
+    \r\n<li>le vendredi   24/11/2008\r\n<li>le vendredi   15/12/2008 \r\n</font>\r\n</b>\r\n</ul>\r\n\r\n<img
+    src=\"images/puce_croix.gif\" alt=\"\" border=\"\"/>  <span style=\"color:#FF6000;font-weight:bold\">Inscriptions
+    :</span> \r\n\r\nLe nombre de places étant limité à 12, il est obligatoire pour
+    participer de s'être au préalable inscrit auprès de votre correspondante ou par
+    tél. : 01 44 69 80 40. \r\n\r\n<img src=\"images/puce_croix.gif\" alt=\"\" border=\"\"/>
+    \ <span style=\"color:#FF6000;font-weight:bold\">  Programme de la rencontre pour
+    une matinée type : </span>\r\n\r\n<ul>\r\n<li>9h15 à 9h30 : \r\n<i>Accueil des
+    participants </i></li>\r\n\r\n<li>9h30 à 12h30 : \r\n\r\nLes informations à transmettre
+    à ITG pour une bonne qualité de service par Annabelle Bénard\r\n\r\n<li>la demande
+    de facturation : quand et comment la faire ? <br />Quels sont les libellés pertinents
+    pour que le client s&#8217;y retrouve ? </li>\r\n<li>la déclaration d'activité
+    mensuelle (en fin de mois) : à quoi sert-elle ? Quelles informations indispensables
+    doivent y figurer ? </li>\r\n<li>la gestion de vos commandes : le contrat commercial
+    de prestation de portage salarial </li>\r\n<li>la gestion et le remboursement
+    de vos frais professionnels : quel type de frais ? Quand faire la demande ? Comment
+    ? Quels justificatifs ? </li>\r\n </li>\r\n\r\n<li>12h30 à 13h : \r\n Les moyens
+    de contacts offerts par ITG (clubs, conférences, invitations), présentation de
+    Missioneo.fr missionsboard </li>\r\n\r\n</ul>\r\n\r\nNous espérons que ce programme
+    saura répondre à vos attentes et nous aurons plaisir à vous accueillir prochainement."
+  image: ''
+  on_special: false
+  date: '1894-07-20T00:00:00.000+01:00'
+  chapo: "<img src=\"images/puce_croix.gif\" alt=\"\" border=\"\"/>  <span style=\"color:#FF6000;font-weight:bold\">Objectifs</span>\r\n\r\nToute
+    l'équipe ITG vous souhaite la bienvenue au sein de notre groupe.\r\n\r\nEn effet,
+    nous ayant rejoint depuis peu, vous avez certainement des questions en ce qui
+    concerne votre contrat de travail, votre déclaration d'activité mensuelle, vos
+    facturations, vos remboursements de frais professionnels, les clubs, les formations,
+    Missioneo, les services plus offerts par ITG, .....\r\n\r\nPour mieux vous répondre
+    et vous accompagner au quotidien dans le développement de votre activité de professionnel
+    autonome, <b>l'équipe de direction ITG</b> vous propose de faire connaissance
+    lors d'une de ces réunions d'information mensuelles destinées aux nouveaux collaborateurs
+    ITG.\r\n\r\nNous vous inviterons à poursuivre ces échanges autour d'un cocktail
+    amical.\r\n\r\nCes réunions sont organisées chez ITG au 26 rue de la Pépinière
+    - 75008 Paris - de 14h30 à 17h30. Le nombre maximum de participants a été fixé
+    à 12 afin de permettre des échanges fructueux. Plusieurs dates sont disponibles.
+    <b>Les inscriptions sont obligatoires</b> et se font auprès de Patricia Vau soit
+    par mail soit par téléphone.\r\n"
+  state: false
+  bureau: consultant
+formation_à_la_gestion_de_votre_activité_itg_6:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 6
+  over_title: ''
+  title: Formation à la gestion de votre activité ITG
+  text: "<img src=\"images/puce_croix.gif\" alt=\"\" border=\"\"/>  <span style=\"color:#FF6000;font-weight:bold\">Nous
+    mettons à votre disposition des matinées d'information de 10h00 à 12h00 : </span>\r\n\r\n
+    \ <span style=\"color:#FF6000\">Dans les locaux d'ITG à Paris :</span><font color=\"#FC6C00\">\r\n-
+    Le vendredi 18/01/2008 de 10h à 12h => session complète\r\n- le vendredi 25 janvier
+    2008 à Lyon de 10h à 12h\r\n- Le vendredi 15/02/2008 de 10h à 12h\r\n- Le vendredi
+    14/03/08 de 10h à 12h 30 à Lyon\r\n- Le vendredi 21/03/2008 de 10h à 12h\r\n-
+    Le vendredi 21/03/2008 de 15h à 19h à Nice\r\n- Le vendredi 28/03/2008 de 14h
+    à 17h à Toulouse\r\n- Le mardi 01/04/2008 de 14h à 18h à Aix en Provence\r\n-
+    Le mercredi 02/04/08 de 9h 30 à 12h 30 à Montpellier\r\n- Le jeudi 10/04/08 à
+    Bordeaux\r\n- Le vendredi 18/04/2008 de 10h à 12h\r\n- Le jeudi 15/05/2008 de
+    16h à 18h à Caen\r\n- Le vendredi 16/05/2008 de 10h à 12h\r\n- Le vendredi 20/06/2008
+    de 10h à 12h\r\n- Le vendredi 18/07/2008 de 10h à 12h\r\n- Le vendredi 19/09/2008
+    de 10h à 12h\r\n- Le jeudi 25/09/08 de 14h30 à 17h30 à Toulouse\r\n- Le 02/10/08
+    de 14h30 à 17h30 à Aix en Provence : nous sommes obligés d'annuler cette formation\r\n-
+    Le vendredi 17/10/2008 de 10h à 12h\r\n- Le lundi 27/10/08 de 14h30 à 17h 30 à
+    Montpellier \r\n<font color=\"#FC6C00\">\r\n- Le vedredi 14/11/08 de 14h à 17h
+    à Strasbourg\r\n- Le vendredi 21/11/2008 de 10h à 12h\r\n- Le vendredi 21/11/2008
+    de 9h à 12h30 à Aix en Provence\r\n- Le lundi 24/11/08 de 14h à 17h à Lille\r\n-
+    Le vendredi 19/12/2008 de 10h à 12h</font>\r\n\r\n\r\nCette réunion a pour but
+    de <b>faciliter</b> <b>les relations</b> et <b>la compréhension</b> entre ITG
+    et les consultants (Gestion de salaires et frais, optimisation, sous-traitance,
+    journées de développement, contrat de travail, etc ...) \r\n\r\n<img src=\"images/puce_croix.gif\"
+    alt=\"\" border=\"\"/>  <span style=\"color:#FF6000;font-weight:bold\">Inscriptions
+    : </span>\r\n\r\nPour vous inscrire, faites obligatoirement votre demande auprès
+    de :\r\nPatricia Vau, e-mail : <a href=\"mailto:pvau@itg.fr\">pvau@itg.fr</a>\r\n\r\n<img
+    src=\"images/puce_croix.gif\" alt=\"\" border=\"\"/>  <span style=\"color:#FF6000;font-weight:bold\">Remarque
+    : </span>\r\n\r\nPour suivre cette formation dans votre région, n'hésitez pas
+    à exprimer votre intérêt auprès de Patricia Vau, <a href=\"mailto:pvau@itg.fr\">pvau@itg.fr</a>,
+    mais aussi auprès de votre délégué(e) en région. <br />\r\nNous envisagerons de
+    créer de nouvelles sessions dans la mesure où nous pourrons réunir au moins 6
+    participants."
+  image: ''
+  on_special: false
+  date: '1894-07-20T00:00:00.000+01:00'
+  chapo: "<img src=\"images/puce_croix.gif\" alt=\"\" border=\"\"/>  <span style=\"color:#FF6000;font-weight:bold\">Objectifs
+    :</span>\r\n\r\n- Vous pensez ne pas disposer de suffisamment d'informations sur
+    les procédures de gestion ITG.\r\n- Vous souhaitez mieux comprendre les relations
+    entre votre salaire net et le chiffre d'affaires que vous générez.\r\nCes sessions
+    d'informations vous sont destinées : "
+  state: false
+  bureau: consultant
+présentez_vos_offres_dans_des_dossiers_itg_7:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 7
+  over_title: ''
+  title: Présentez vos offres dans des dossiers ITG
+  text: "<img src=\"images/puce_croix.gif\" alt=\"\" border=\"\"/>  <span style=\"color:#FF6000;font-weight:bold\">Informations
+    complémentaires :</span>\r\n <ul>\r\n<li><span style=\"color:#FF6000\">Coût :</span>\r\nLe
+    lot de 25 exemplaires a un coût unitaire de 30 euros imputable au compte financier
+    de votre centre d'activité.\r\nPour toute commande supérieure à 100 dossiers,
+    le coût est de 25 euros (pour 25 exemplaires).\r\n(Incidence sur le complément
+    de salaire : 55%, c'est à dire 0,55 X 30 = 16,5 euros) </li>\r\n<li><span style=\"color:#FF6000\">Commande
+    et livraison :</span>\r\nAdressez votre commande par mail à Ana Aroun, <a href=\"mailto:Reception@itg.fr?subject=Dossiers
+    ITG\">Reception@itg.fr</a>.\r\nVos dossiers vous seront envoyés sous quelques
+    jours, par voie postale, selon les stocks disponibles. </li>\r\n</ul>"
+  image: 011214_152529_ART.png
+  on_special: false
+  date: '1894-07-20T00:00:00.000+01:00'
+  chapo: "Nous mettons à votre disposition une pochette de 25 dossiers pour présenter
+    vos offres.\r\n\r\nCes dossiers sont aux couleurs d'ITG et présentent notre groupe
+    comme un ensemble de cabinets de conseil.\r\n\r\nLe Portage Salarial n'est pas
+    évoqué en tant que tel car cette information n'est en général pas utilisée ou
+    utilisable par les clients. Dans notre cas, le Portage Salarial n'est qu'une modalité
+    particulière de l'exercice du conseil. Ce qu'achète le client, c'est le conseil
+    délivré par un(e) expert(e). L'insertion de votre offre dans un dossier ITG peut,
+    essentiellement pour les grands comptes, constituer une \"réassurance\" en montrant
+    que vous êtes salarié (e) d'un groupe bien géré et suffisamment solide pour garantir
+    la responsabilité civile professionnelle du contrat.\r\n"
+  state: false
+  bureau: consultant
+equipement_et_immobilisations_8:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 8
+  over_title: ''
+  title: Equipement et immobilisations
+  text: ''
+  image: ''
+  on_special: false
+  date: '1894-07-20T00:00:00.000+01:00'
+  chapo: "Comme vous le savez, à partir d&#8217;un certain seuil, vos dépenses d&#8217;équipements
+    (informatique par exemple) ne peuvent pas être remboursées par ITG en « dépenses
+    de fonctionnement » mais sont considérées par l&#8217;Administration fiscale comme
+    une Immobilisation (amortissement sur 3 ans).\r\n\r\n<b>Depuis le 1er janvier
+    2002, le montant maximum pour rembourser en dépenses de fonctionnement une dépense
+    d&#8217;équipement a été porté à 500 € (3279,79 FF).</b>\r\n\r\n A partir de ce
+    montant, la dépense obéit à des règles de remboursement et d&#8217;amortissement
+    particulières.\r\n\r\n N&#8217;hésitez pas à télécharger <a href=\"http://www.itg.fr/upload/Document/GUIDE_DES_IMMOBILISATIONS_QA1.pdf\"
+    target=\"_blank\">le guide des immobilisations</a> édité par ITG sur la procédure
+    à suivre."
+  state: false
+  bureau: consultant
+se_professionnaliser_dans_le_métier_de_consultant_:_comment_trouver_des_missions_9:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 9
+  over_title: ''
+  title: 'Se professionnaliser dans le métier de consultant : comment trouver des
+    missions'
+  text: "De plus, vous pouvez vous pré-inscrire depuis la plateforme collaborative
+    d'échange ITG dans la rubrique <b>FORMATION</b> sur la date de votre choix à Paris
+    ou en région.\r\n\r\nPour y accéder, utiliser votre login/mot de passe sur <a
+    href=\"https://www.reseau.itg.fr\" target=\"_blank\">Communication entre consultants
+    ITG</a>\r\n\r\nVotre contact pour la formation \"Parcours consultant\" : <b>Guilaine
+    BIGOT</b>, Assistante Formation ITG\r\nVous pourrez découvrir le planning des
+    différents modules sur l'année 2017 :  <a href=\"http://www.itg.fr/formations/calendrier.html\"
+    target=\"_blank\">ICI</a>\r\n\r\n\r\n\r\n\r\n"
+  image: ''
+  on_special: false
+  date: '1894-07-20T00:00:00.000+01:00'
+  chapo: "Nous sommes à votre écoute pour vous informer sur les programmes, les dates
+    et les procédures d'inscription de nos prochaines formations sur le Parcours consultant
+    : cliquer sur l'image pour visualiser les modules, les programmes et les dates.\r\n<ul>\r\n<li><span
+    style=\"color:#FF6000\"><a href=\"http://www.itg.fr/upload/Formation/3-PP_2016_Presentation_Parcours_Formation.pdf\"
+    target=\"_blank\" title=\"ITG-portage salarial et formation consultant\"></a></a>\r\n</span>
+    </li>\r\n\r\n</ul>\r\nRenseignements: <a href=\"mailto:guilaine.bigot@itg.fr\">guilaine.bigot@itg.fr</a>
+    \r\n\r\n"
+  state: false
+  bureau: consultant
+date_de_facture_31:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 31
+  over_title: ''
+  title: Date de facture
+  text: "Dans ce dernier cas, <span class=\"Style5\">vous pouvez imposer</span> la
+    date de facturation et la  ramener au dernier jour ouvr&eacute; du mois pr&eacute;c&eacute;dent.
+    <br />L&rsquo;application <span class=\"Style6\">&laquo;&nbsp;demande  de facture&nbsp;&raquo;</span>
+    sur <span class=\"Style6\">&laquo;&nbsp;Bureau ITG&nbsp;&raquo;</span>&nbsp;<span
+    class=\"Style5\"> permet&nbsp;</span> d&rsquo;imposer la date de  facture.</strong><br
+    />\r\n  <strong>Compte tenu de  l&rsquo;article pr&eacute;c&eacute;dent sur les
+    dates de factures, <span class=\"Style5\">il est ais&eacute; de calculer le gain
+    \ potentiel </span>qui compar&eacute; &agrave; l&rsquo;effort est sans commune
+    mesure.</strong><br />\r\n  <strong>A utiliser sans  mod&eacute;ration&hellip;</strong></p>"
+  image: ''
+  on_special: false
+  date: '1894-07-19T00:00:00.000+01:00'
+  chapo: "<p class=\"Style3\"><strong>La plupart des  </strong><span class=\"Style4\">demandes
+    de facturation</span><strong> sont faites &agrave; la fin du mois, voire au d&eacute;but
+    du mois  suivant. <br />\r\n\r\n"
+  state: false
+  bureau: consultant
+les_demandes_d'acompte_32:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 32
+  over_title: ''
+  title: Les demandes d'acompte
+  text: "<p class=\"Style19\">L&rsquo;acompte est <span class=\"Style20\">syst&eacute;matique</span>
+    dans la <strong>vente de  services intellectuels</strong>. En effet, contrairement
+    &agrave; l&rsquo;achat de marchandises pour  les revendre (n&eacute;goce) ou &agrave;
+    la vente de produits manufactur&eacute;s, le consultant ne  revend rien qu&rsquo;il
+    ait achet&eacute; auparavant &agrave; un fournisseur. Il ne peut donc jouer  sur
+    le <strong>d&eacute;calage</strong> des &eacute;ch&eacute;ances pour <strong>financer</strong>
+    une part de <strong>ses besoins de  tr&eacute;sorerie</strong>. <br />\r\n  Sa
+    facture sert &agrave; payer son salaire de fin de mois et &agrave; rembourser
+    \ ses frais.<br />\r\n  <span class=\"Style20\">L&rsquo;avance est donc indispensable</span>
+    et elle est entr&eacute;e  dans les m&oelig;urs d&egrave;s lors que la mission
+    est r&eacute;partie sur deux mois au moins.<br />\r\n  Il faut donc la demander
+    syst&eacute;matiquement. 30  % d&rsquo;avance correspond &agrave; la demande la
+    plus courante. Si la mission doit durer  un an, demandez deux mois d&rsquo;avance
+    ce qui permet d&rsquo;assurer un plein salaire tout  au long de l&rsquo;intervention.<br
+    />\r\n  <span class=\"Style20\">Ne pas demander d&rsquo;acompte ce n&rsquo;est
+    pas  professionnel</span>. Le client peut l&rsquo;interpr&eacute;ter comme un
+    signe de faiblesse et  tenter de profiter de l&rsquo;occasion.</p>"
+  image: ''
+  on_special: false
+  date: '1894-07-19T00:00:00.000+01:00'
+  chapo: L&#8217;acompte est systématique dans la vente de services intellectuels.
+  state: false
+  bureau: consultant
+60_jours_fin_de_mois_33:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 33
+  over_title: ''
+  title: 60 jours fin de mois
+  text: "<p class=\"Style19\">C&rsquo;est le terme le plus courant dans les  affaires
+    en France mais nombreux sont les clients qui r&egrave;glent &agrave; 30 jours
+    date  de facture (<strong>soit 30 jours de cr&eacute;dit r&eacute;el</strong>).
+    C&rsquo;est <strong>une recommandation europ&eacute;enne</strong>  qui est relay&eacute;
+    depuis plusieurs ann&eacute;es par des circulaires minist&eacute;rielles. <strong>La
+    \ raison en est &eacute;vidente</strong>&nbsp;: 60 jours fin de mois calcul&eacute;s
+    &agrave; partir du 5  septembre reportent le paiement au 30 novembre&hellip; En
+    fait, 86 jours de cr&eacute;dit au  total. <em>On comprend qu&rsquo;accepter 90
+    jours fin de mois, c&rsquo;est non seulement &ecirc;tre  le conseil du client
+    mais devenir &eacute;galement son banquier. </em><br />\r\n  Cette r&eacute;flexion
+    conduit &agrave; deux  conclusions&nbsp;:<br />\r\n<ol start=\"1\" type=\"1\"
+    class=\"Style19\">\r\n  <li class=\"Style21\">la       demande d&rsquo;acompte
+    est indispensable</li>\r\n  <li class=\"Style21\"><span class=\"Style21\">il ne
+    faut pas d&eacute;passer 60 jours fin de mois de cr&eacute;dit</span>.</li>\r\n</ol>\r\n<p
+    class=\"Style19\">C&rsquo;est vous qui dans la plupart des cas,  proposez les
+    conditions de paiement qui sont &agrave; inscrire sur le contrat ITG  avant de
+    l&rsquo;envoyer au client. Ceci vous <strong>donne l&rsquo;avantage</strong>.
+    Alors profitez-en et  indiquez le plus souvent possible des conditions qui vous
+    sont favorable&nbsp;:  acompte, 30 %&nbsp;; &eacute;ch&eacute;ance, 30 jours date
+    de facture.</p>"
+  image: ''
+  on_special: false
+  date: '1894-07-19T00:00:00.000+01:00'
+  chapo: C&#8217;est le terme le plus courant dans les affaires en France mais nombreux
+    sont les clients qui règlent à 30 jours date de facture (soit 30 jours de crédit
+    réel).
+  state: false
+  bureau: consultant
+par_chèque_par_traite_ou_par_virement_34:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 34
+  over_title: ''
+  title: Par chèque par traite ou par virement
+  text: "<p class=\"Style17\">Lorsque la facture est accept&eacute;e par le  client,
+    le terme du paiement est encore loin. Comme dit le proverbe  &laquo;&nbsp;mieux
+    vaut tenir que courir&nbsp;&raquo;. On est donc dans une position plus  favorable
+    lorsque l&rsquo;on d&eacute;tient un title de paiement, en g&eacute;n&eacute;ral
+    <strong>une traite</strong>.  C&rsquo;est une pr&eacute;caution utile lorsqu&rsquo;on
+    n&rsquo;est pas certain de la sant&eacute; financi&egrave;re  de l&rsquo;entreprise.
+    En effet, la traite peut &ecirc;tre &laquo;&nbsp;protest&eacute;e&nbsp;&raquo;
+    en cas de  non paiement. Si l&rsquo;entreprise doit d&eacute;poser son bilan,
+    les cr&eacute;anciers qui  poss&egrave;dent un effet protest&eacute; sont prioritaires
+    (apr&egrave;s les salaires, les  organismes sociaux et l&rsquo;&eacute;tat mais).
+    Le cr&eacute;ancier qui est porteur de tels effets  de paiement est dit &laquo;&nbsp;chirographaire&nbsp;&raquo;.<br
+    />\r\n<p class=\"Style17\">A l&rsquo;&eacute;ch&eacute;ance, toujours en termes
+    de s&eacute;curit&eacute;,  <strong>un ch&egrave;que</strong> est pr&eacute;f&eacute;rable
+    &agrave; un virement. Le ch&egrave;que impay&eacute; pour d&eacute;faut de  provision
+    entra&icirc;ne un risque d&rsquo;inscription aupr&egrave;s de la banque de France.
+    <br />\r\n  Dans la plupart des cas, <strong>le virement</strong>  simplifie les
+    op&eacute;rations et raccourcit les d&eacute;lais de recouvrement. Il suppose
+    \ des relations bien &eacute;tablies et de confiance.</p>"
+  image: ''
+  on_special: false
+  date: '1894-07-19T00:00:00.000+01:00'
+  chapo: Trois modes de paiement qu&#8217;empruntent les clients et qui ne sont pas
+    équivalents.
+  state: false
+  bureau: consultant
+bienvenue_sur_votre_nouveau_bureau_virtuel_11:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 11
+  over_title: ''
+  title: Bienvenue sur votre nouveau bureau virtuel
+  text: "Les <b>navigateurs</b> recommandés sont :\r\n\r\n- <a href=\"http://www.mozilla-europe.org/fr/products/firefox/\">Mozilla
+    Firefox</a>\r\n- Opera 8.5 ou version supérieure\r\n- Internet Explorer 6 ou version
+    supérieure\r\n\r\n<blockquote><b>Plus de fonctions et de services</b></blockquote>\r\nVotre
+    nouveau centre de gestion  vous permet désormais de gérer en temps réel l&#8217;ensemble
+    de votre activité.\r\nAinsi vous pouvez :\r\n- remplir vos contrats d&#8217;intervention
+    en ligne\r\n- gérer vos déclarations d&#8217;activité en temps réel\r\n- gérer
+    vos dépenses de fonctionnement\r\n- suivre grâce à des historiques vos factures,
+    salaires, frais, dépenses de fonctionnement, contrats d&#8217;intervention, déclarations
+    d&#8217;activité, etc.\r\n\r\nA cela s&#8217;ajoutent de nouvelles fonctionnalités,
+    notamment :\r\n- des graphiques pour visualiser l&#8217;évolution de vos comptes
+    et votre activité\r\n- la possibilité d&#8217;exporter vos données pour générer
+    des tableaux de bord\r\n- le tri croissant ou décroissant de vos documents en
+    ligne\r\n- la possibilité de les visualiser en format pdf.\r\n\r\n\r\n<blockquote><b>Plus
+    de sécurité</b></blockquote>\r\nUne clé SSl 128 bits crypte vos échanges de données
+    avec le serveur. Nous avons optimisé la sécurité du site en ajoutant un code de
+    sécurité qui empêche tout logiciel de tester vos codes pour s&#8217;introduire
+    sur le site. \r\n\r\n\r\n<blockquote><b>Une aide en ligne</b></blockquote>\r\nA
+    tout moment, vous disposez d&#8217;une aide en ligne que vous pouvez solliciter
+    :\r\n- soit en cliquant sur l&#8217;icône <img src=\"dl_img_article/160306_193335_ART.gif\"
+    alt=\"\" border=\"\" />  : une fenêtre apparaît pour vous indiquer comment lire
+    et utiliser les informations ;\r\n- soit en passant simplement votre souris sur
+    les mots oranges et soulignés : une « info bulle » apparaît pour expliciter le
+    terme.\r\n\r\n\r\n<blockquote><b>A savoir</b></blockquote>\r\n- Pour des raisons
+    de sécurité le code consultant et le code confidentiel ne sont plus mémorisables
+    par le navigateur.\r\n  - Le code de sécurité est le code contenu dans l&#8217;image
+    situé au dessous du code confidentiel. Il faut le saisir dans la zone de saisie
+    située au dessous.\r\n\r\nEn cas de doute ou de problème, vous pouvez néanmoins
+    contacter votre correspondante au 01 44 69 80 40."
+  image: ''
+  on_special: false
+  date: '1894-07-18T00:00:00.000+01:00'
+  chapo: "Bureau.itg.fr a été repensé, tant au niveau de son langage de développement
+    que de l'ergonomie et de la maquette. Nous l&#8217;avons enrichi de nombreux services.
+    \r\n\r\n<b>Plus de fonctions et de services</b>\r\nVotre nouveau centre de gestion
+    \ vous permet désormais de gérer en temps réel l&#8217;ensemble de votre activité."
+  state: false
+  bureau: consultant
+atelier_d'intégration_sur_l'accompagnement_de_la_gestion_au_quotidien_de_votre_activité_37:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 37
+  over_title: ''
+  title: Atelier d'intégration sur l'accompagnement de la gestion au quotidien de
+    votre activité
+  text: "Ces réunions sont organisées chez ITG au 18 rue de la Ville l'Evêque - 75008
+    Paris - de 09h30 à 12h30. \r\n\r\nLe nombre maximum de participants a été fixé
+    à 15 afin de permettre des échanges fructueux. \r\n\r\nPlusieurs dates sont disponibles.
+    <b>Les inscriptions sont obligatoires</b> et se font auprès de votre correspondante
+    par mail soit par téléphone 01 44 69 80 40.\r\n\r\n\r\n<img src=\"images/puce_croix.gif\"
+    alt=\"\" border=\"\"/>  <span style=\"color:#FF6000;font-weight:bold\">A Paris,
+    prochaines matinées  d'informations et échanges de 09h30 à 12h30 :</span>\r\n
+    \r\n<ul><b>\r\n<li>le vendredi   20/01/17 </li>\r\n<li>le vendredi   24/02/17
+    </li>\r\n<li>le vendredi   24/03/17 </li>\r\n<li>le vendredi   21/04/17 </li>\r\n<li>le
+    vendredi   19/05/17 </li></b>\r\n<li>le vendredi   23/06/17 </li>\r\n<li>le vendredi
+    \  21/07/17 </li>\r\n<li>le vendredi   22/09/17 </li>\r\n<li>le vendredi   20/10/17
+    </li>\r\n<li>le vendredi   24/11/17 </li> \r\n<li>le vendredi   15/12/17 </li>\r\n\r\n<ul><b>\r\n<li>le
+    vendredi   19/01/18 </li>\r\n<li>le vendredi   16/02/18 </li>\r\n<li>le vendredi
+    \  23/03/18 </li>\r\n<li>le vendredi   20/04/18 </li>\r\n<li>le vendredi   18/05/18
+    </li>\r\n<li>le vendredi   22/06/18 </li>\r\n<li>le vendredi   20/07/18 </li>\r\n<li>le
+    vendredi   21/09/18 </li>\r\n<li>le vendredi   19/10/18 </li>\r\n<li>le vendredi
+    \  16/11/18 </li> \r\n<li>le vendredi   21/12/18 </li></b>\r\n\r\n\r\n\r\nEn région
+    :\r\n \r\n<li> à Bordeaux,   le 27/03/17 </li>\r\n<li> à Bordeaux,   le 24/10/17
+    </li>\r\n\r\n<li> à Chambéry, le 04/05/17</li>\r\n<li> à Chambéry, le 09/11/17</li>\r\n\r\n<li>
+    à Lille, le 17/01/17 </li>\r\n<li> à Lille, le 05/10/17 </li>\r\n\r\n<li> à Lyon
+    le 13/06/17 </li>\r\n<li> à Lyon le 12/12/17 </li>\r\n\r\n<li> à Montpellier le
+    30/05/17 </li>\r\n\r\n<li> à Nantes,  à venir </li>\r\n\r\n<li> à Rennes à venir
+    </li>\r\n\r\n<li> à Rouen, le 23/03/17 </li>\r\n<li> à Rouen, le 16/06/17 </li>\r\n\r\n<li>
+    à Toulouse, le 22/05/17</li>\r\n\r\n<li> à Vitrolles, le 08/06/17 </li>\r\n\r\n\r\n\r\n
+    \r\n\r\n</b>\r\n</ul>\r\n\r\nCes réunions ont pour but de <b>faciliter</b> <b>les
+    relations</b> et <b>la compréhension</b> entre ITG et les consultants (Gestion
+    de salaires et frais, optimisation, sous-traitance, journées de développement,
+    contrat de travail, etc ...) \r\n\r\n<img src=\"images/puce_croix.gif\" alt=\"\"
+    border=\"\"/>  <span style=\"color:#FF6000;font-weight:bold\">Inscriptions : </span>\r\n\r\nPour
+    vous inscrire, faites obligatoirement votre demande auprès de<a href=\"mailto:reception@itg.fr?subject=inscription
+    matinées d'information à Paris accompagnement au quotidien de votre activité\"
+    class=\"Style1\">info@itg.fr</a>\r\n\r\n\r\n<img src=\"images/puce_croix.gif\"
+    alt=\"\" border=\"\"/>  <span style=\"color:#FF6000;font-weight:bold\">Remarque
+    : </span>\r\n\r\nPour suivre cette formation dans votre région, n'hésitez pas
+    à exprimer votre intérêt auprès de votre délégué(e) en région. <br />\r\nNous
+    envisagerons de créer de nouvelles sessions dans la mesure où nous pourrons réunir
+    au moins 6 participants.\r\n\r\n<br />\r\n\r\n<img src=\"images/puce_croix.gif\"
+    alt=\"\" border=\"\"/>  <span style=\"color:#FF6000;font-weight:bold\">  Programme
+    de la rencontre pour une matinée type : </span>\r\n\r\n<ul>\r\n<li>09h15 à 09h30
+    : \r\n<i>Accueil des participants </i></li>\r\n\r\n<li>9h30 à 12h30 : \r\n\r\nLes
+    informations à transmettre à ITG pour une bonne qualité de service par Annabelle
+    Bénard ou Martine Adam\r\n\r\n<li>la demande de facturation : quand et comment
+    la faire ? <br />Quels sont les libellés pertinents pour que le client s&#8217;y
+    retrouve ? </li>\r\n<li>la déclaration d'activité mensuelle (en fin de mois) :
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+    à quoi sert-elle ? Quelles informations indispensables doivent y figurer ? </li>\r\n<li>la
+    gestion de vos commandes : le contrat commercial de prestation de portage salarial
+    </li>\r\n<li>la gestion et le remboursement de vos frais professionnels : quel
+    type de frais ? Quand faire la demande ? Comment ? Quels justificatifs ? </li>\r\n
+    </li>\r\n\r\n<li>à 12h30 : \r\nFin de la séance : échanges\r\n\r\n</ul>\r\n\r\nNous
+    espérons que ce programme saura répondre à vos attentes et nous aurons plaisir
+    à vous accueillir prochainement.\r\n\r\n"
+  image: ''
+  on_special: false
+  date: '1894-07-17T00:00:00.000+01:00'
+  chapo: "Cette année, ITG vous invite à participer <b>aux ateliers d'intégration
+    </b> sur l'<b>accompagnement au quotidien de votre activité de professionnel autonome</b>.\r\n\r\n<br
+    />\r\n*** Vous nous avez rejoints  depuis peu et vous vous posez certainement
+    des questions en ce qui concerne les procédures de gestion :\r\n<ul>\r\n<li>votre
+    contrat de travail</li>\r\n<li>votre déclaration d'activité</li>\r\n<li>vos remboursements
+    de frais professionnels</li></ul>\r\n<br />\r\n*** Vous êtes nouveau collaborateur
+    ITG et vous souhaitez mieux comprendre les relations entre votre salaire et le
+    chiffre d'affaires que vous générez.\r\n<br />\r\n*** Vous vous demandez quels
+    sont les opportunités de services offertes par ITG :\r\n<ul>\r\n<li>l'Académie
+    ITG : son parcours de formation,  et l'accord GPEC</li>\r\n<li>le réseau clubs
+    et plateforme collaborative</li>\r\n<li>Missioneo, ses ateliers de recherche de
+    missions</li>\r\n<li>les moyens médias : pochettes, cartes de visite, cartes de
+    correspondance, papier à lettre et masque Power-point</li></ul>"
+  state: false
+  bureau: consultant
+plateforme_collaborative_d'échanges_entre_consultants_itg_10:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 10
+  over_title: ''
+  title: Plateforme collaborative d'échanges entre consultants ITG
+  text: "Les différentes phases de construction et de déploiement se succèdent entre
+    février 2008 et avril 2009 moment où la plateforme est lancée auprès des consultants.\r\n\r\nProjet
+    abouti dans une phase dite de démarrage, elle acquière maintenant ses 590 visiteurs.
+    En septembre, une phase de première amélioration est mise en ligne.\r\nLes personnes
+    qui se connectent pour la première fois remplissent leur PROFIL et s'identifie
+    grâce à leur expertise.\r\n\r\nL'espace privé ITG comprend les organes de communication
+    entre consultants avec : \r\n\r\n* AGORA : notre forum\r\nl'<b>AGORA</b>,  blog
+    d'échanges sur les sujets professionnels qui sont le fait des consultants : c'est
+    l'endroit où chaque consultant peut exprimer une idée et la développer autour
+    d'un point crucial de son expertise. Sachant que ce billet peut être publié sur
+    le site internet www.itg.fr dans la rubrique \"NOS CONSULTANTS ONT DU TALENT\".
+    C'est l'occasion de s'exposer et de parler de son expertise au travers d'un point
+    particulier que le consultant a été amené à traiter.\r\n\r\n\r\nITGPEDIA : notre
+    wikipedia\r\nL'espace suivant est <b>ITGPEDIA</b>, sous la forme d'un wiki (à
+    la manière de wikipedia), sur un même thème plusieurs personnes interviennent
+    et construisent ensemble le contenu relié à la thématique.\r\n\r\nEn septembre
+    commenceront deux wikis. Le premier sur le thème fort du moment : \r\n<u>De l'intérêt
+    de participer à un réseau</u>\r\net \r\nLes notes d'orientations : <u>comment
+    suivant les secteurs d'activité, retracer et compiler les informations décisives
+    et précieuses qui vont conduire le consultant à vendre une mission, à son interlocuteur
+    client ?</u>\r\n\r\n\r\nAGENDA : dates à ne pas manquer\r\nNe pas oublier l'<b>AGENDA</b>
+    où se trouvent toutes les manifestations en lien avec ITG et autres événements
+    à Paris et en région...\r\n\r\n\r\nLES ANNONCES de missions relayées par ITG....\r\nEn
+    2008, sachez qu'ITG a relayé 185 annonces. En 2009, 159 annonces et pour 2010,
+    350 annonces, en 2011, 405 annonces puis 2012, 380 annonces.\r\nCe service + est
+    un appui de premier choix dans votre recherche de missions.\r\n\r\nTester votre
+    réseau et bonnes pratiques de votre métier\r\n<b>\r\nS'INSCRIRE à UN CLUB</b>
+    : c'est sur la plateforme qu'un espace de CLUB est réservé à chaque groupe de
+    consultants se réunissant sous une bannière qu'elle soit métier ou région.\r\nLes
+    clubs sont administrés par un animateur, consultant ITG qui souhaite former une
+    mini communauté au sein du réseau des consultants ITG.\r\n\r\nDocuments : trucs
+    et astuces des bonnes pratiques du consultant autonome\r\nDans cette rubrique
+    un fonds documentaire, comment travailler en équipe, un tableau du partage du
+    CA en fonction des contributions respectives...\r\n\r\nAvec la volonté de vous
+    accompagner dans cette démarche, le département communication vous propose le
+    FAQ pour vous connecter à la plateforme collaborative d'échanges ITG :\r\n url
+    de connection : https://reseau.itg.fr\r\nidentifiant : NomPrenom\r\nmot de passe
+    : le demander à assistanceitg@nearbee.com\r\n\r\nle guide pour commencer sur la
+    plateforme : <span style=\"color:#FF6000\"><a href=\"http://www.itg.fr/upload/Document/13_09_02_Qu'estcequelaplateformeitg_all.htm\"
+    target=\"_blank\" title=\"ITG-portage salarial et la plateforme collaborative\"><b>ici
+    </b> </a></span>\r\n\r\nBonne lecture."
+  image: ''
+  on_special: true
+  date: '1894-07-16T00:00:00.000+01:00'
+  chapo: "<b>Mais qu'est ce que cette plateforme d'échanges ?</b>\r\nComment puis-je
+    m'y <b>révéler </b>? \r\nQu'est ce que cela peut <b>m'apporter en tant que salarié(e)</b>
+    d'une des sociétés du groupe ITG ?\r\n\r\nAutant de questions qui trouvent leurs
+    réponses dans la présentation jointe car l'histoire commence fin 2007 suite à
+    l'enquête de satisfaction lancée auprès des consultants actifs ITG.\r\n\r\nUn
+    fort désir de convivialité et d'échanges entre les consultants émergent des souhaits
+    précisés.\r\n\r\nOr à cette époque, les plateformes collaboratives d'échanges
+    et le WEB 2.0 voient leur développement accessible pour le grand public des entreprises.\r\nITG
+    choisit un partenaire et le projet est adopté. "
+  state: false
+  bureau: consultant
+dates_butoirs_pour_faire_ses_déclarations_au_title_de_2009_36:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 36
+  over_title: ''
+  title: Dates butoirs pour faire ses déclarations au title de 2009
+  text: "Chers consultants,\r\n\r\nEn vue de remplir nos obligations déclaratives,
+    nous vous rappelons que vos déclarations d'activité et dépenses de fonctionnement
+    relatives à l'année 2009 doivent impérativement être validées et envoyées au plus
+    tard le 17 janvier 2009. \r\n\r\nAu delà de cette date, nous ne serons plus en
+    mesure d'établir les bulletins de paie relatifs à l'année 2009.\r\n\r\nNous vous
+    remercions de votre attention, \r\n\r\nTrès cordialement,\r\nAbdelkader Haddouche
+    \r\nDirecteur Général Adjoint \r\nITG \r\n26, rue de la Pépinière\r\n75008 Paris\r\nTél
+    : 01 44 69 80 40\r\nhttp://www.itg.fr"
+  image: ''
+  on_special: true
+  date: '1894-07-15T00:00:00.000+01:00'
+  chapo: ''
+  state: false
+  bureau: consultant
+voeux_2011_42:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 42
+  over_title: ''
+  title: VOEUX 2011
+  text: "Chère consultante, cher consultant,\r\n\r\n2009 fut une année difficile
+    pour les affaires.\r\n2010 n'a pas vraiment rempli ses promesses\r\nmais chez
+    ITG, les consultants n'attendent pas la reprise  : ils prennent l'initiative,
+    c'est l'assurance d'une bonne année 2011 pour eux-mêmes et leurs clients.\r\n\r\nTous
+    nos voeux et nos efforts vous accompagnent dans cette voie.\r\n\r\n\r\nRecevez
+    mes meilleurs vœux et ceux de l'équipe qui accompagne le développement de votre
+    activité.\r\n\r\nMaurice Houdayer \r\n<a href=\"http://www.itg.fr/upload/IMAGE/Voeux_2011/carteITG2011consultants.html\"
+    target=\"blank\">La carte de voeux ITG</a>\r\n\r\nITG \r\n26, rue de la Pépinière\r\n75008
+    Paris\r\nTél : 01 44 69 80 40\r\nhttp://www.itg.fr\r\nhttps://reseau.itg.fr\r\n\r\n"
+  image: ''
+  on_special: true
+  date: '1894-07-15T00:00:00.000+01:00'
+  chapo: ''
+  state: false
+  bureau: consultant
+voeux_itg_2010_40:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 40
+  over_title: ''
+  title: Voeux ITG 2010
+  text: "Chère consultante, cher consultant,\r\n\r\nSi 2009 fut une année difficile
+    pour beaucoup d&#8217;entre vous et par voie de conséquence pour ITG, nous avons
+    néanmoins partagé avec vous l&#8217;envie de progresser en profitant de cette
+    épreuve pour nous fortifier. \r\n\r\nC&#8217;est dans l&#8217;esprit de soutenir
+    vos efforts personnels pour vous ancrer dans cette posture du consultant autonome
+    que nous resserrons nos formations autour de l&#8217;accord GPEC et que nous développons
+    les contacts et la convivialité. \r\n\r\nNous souhaitons qu&#8217;en 2010, ITG
+    devienne pour vous un réseau, une famille professionnelle, une source d&#8217;opportunités
+    et de perfectionnement où on se sent bien parce que l&#8217;on est considéré.
+    C&#8217;est notre volonté et c&#8217;est le sens de nos actions présentes.\r\n\r\nMerci
+    pour votre confiance et pour votre participation active.\r\nRecevez mes meilleurs
+    vœux et ceux de l&#8217;équipe qui accompagne le développement de votre activité.\r\n\r\nMaurice
+    Houdayer \r\n<a href=\"http://www.itg.fr/upload/IMAGE/Voeux_2010/carteITG2010consultants.html\">La
+    carte de voeux ITG</a>\r\n\r\nITG \r\n26, rue de la Pépinière\r\n75008 Paris\r\nTél
+    : 01 44 69 80 40\r\nhttp://www.itg.fr\r\nhttps://reseau.itg.fr\r\n\r\n"
+  image: ''
+  on_special: true
+  date: '1894-07-14T00:00:00.000+01:00'
+  chapo: ''
+  state: false
+  bureau: consultant
+dates_butoirs_pour_faire_ses_déclarations_au_title_de_2011_41:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 41
+  over_title: ''
+  title: Dates butoirs pour faire ses déclarations au title de 2011
+  text: "Chers consultants, \r\n\r\nEn vue de remplir nos obligations déclaratives,
+    nous vous rappelons que vos déclarations d'activité et dépenses de fonctionnement
+    relatives à l'année 2011 doivent impérativement être validées et envoyées au plus
+    tard le <b>vendredi 13 janvier 2012</b>. \r\n\r\nAu delà de cette date, nous ne
+    <b>serons plus en mesure d'établir les bulletins de paie relatifs à l'année 201</b>1.\r\n\r\nNous
+    vous remercions de votre attention, \r\n\r\nTrès cordialement,\r\n\r\nAbdelkader
+    Haddouche\r\nDirecteur général adjoint \r\n\r\n\r\n"
+  image: '091211_141702_ART.jpg'
+  on_special: true
+  date: '1894-07-14T00:00:00.000+01:00'
+  chapo: "\r\n\r\n\r\n\r\n\r\n"
+  state: false
+  bureau: consultant
+nouvelle_image_itg_:_information_54:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 54
+  over_title: ''
+  title: 'Nouvelle Image ITG : Information'
+  text: " \r\n\r\n<b>Pourquoi ce choix ?</b>\r\n\r\n•\t Notre logo actuel était un
+    logo intermédiaire, simplification du logo historique d'ITG. En procédant par
+    étapes, nous avons souhaité opérer une transition progressive. \r\n\r\n\r\n•\t
+    Ce nouveau logo rejoint un univers plus moderne, plus fluide, un univers voisin
+    des applications smartphone. Il correspond à notre volonté et votre réalité :
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+    ITG attire et attirera encore d’avantage les nouveaux publics issus du secteur
+    des nouvelles technologies, imprégnés de leurs usages, de leur univers graphique.
+    La forme de notre communication sera donc cohérente avec le fond de notre discours
+    sur la transformation et la modernisation des façons de travailler que vous avez
+    déjà adoptées. \r\n\r\n\r\n•\t Ce nouveau logo intègre « Le Portage Salarial »
+    dans son corps. Notre objectif affiché est de faire encore d'avantage connaître
+    notre métier et ainsi faciliter les contacts avec vos clients potentiels. \r\nCette
+    mutation graphique va s’opérer progressivement et commence avec La Semaine du
+    Digital. \r\nCette transformation se déclinera progressivement (développement
+    durable oblige) sur l'ensemble des supports en ligne et supports papier d'ITG.
+    \r\nL'équipe de la communication se tient à votre disposition pour vous apporter
+    toute aide ou information nécessaire. \r\n\r\nBien cordialement,\r\n\r\nPatrick
+    Levy-Waitz\r\nPrésident \r\n"
+  image: 210514_170032_ART.png
+  on_special: false
+  date: '1894-07-13T00:00:00.000+01:00'
+  chapo: "Chère consultante, cher consultant, \r\n\r\nDepuis plusieurs mois, nous
+    avons souhaité moderniser nos outils de communication. \r\nC'est dans ce cadre
+    que j’ai le plaisir de vous présenter notre nouveau logo – « première pierre de
+    l’édifice » de la transformation de notre image– qui sera décliné et inséré progressivement
+    à tous nos documents.\r\n\r\nInitiée cette année avec l’évolution profonde de
+    notre site Internet et de nos supports papier, cette modernisation se poursuit
+    donc avec ce logo, fruit de nos regards croisés avec une agence spécialisée."
+  state: false
+  bureau: consultant
+naissance_de_la_convention_collective_du_portage_salarial_77:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 77
+  over_title: ''
+  title: Naissance de la convention collective du portage salarial
+  text: "- Toute personne qui aura une <b>capacité d’autonomie</b>, une <b>expertise</b>
+    et une qualification pourra, dès lors qu’elle a une rémunération d’environ 2000
+    euros net, bénéficier du portage salarial.\r\n\r\nNous avons réussi à convaincre
+    nos partenaires de négociation qu’il n’était pas possible d’avoir une définition
+    du portage salarial, telle qu’elle figure dans la loi et telle qu’elle est précisée
+    dans la convention collective, tout en ne permettant pas, sur tout le territoire,
+    aux personnes qui veulent accéder au portage de pouvoir le faire. Par cette démarche,
+    nous avons notamment pensé aux endroits où les rémunérations sont plus modestes
+    que dans les grandes villes.\r\n\r\n- Nous avons également construit un <b>mécanisme
+    de sécurisation des parcours</b>, comportant un haut niveau d’engagement pour
+    la formation et l’accompagnement des personnes.\r\n\r\nCet engagement sur la <b>formation
+    professionnelle</b> sera complété par un fond de mutualisation spécifique au portage
+    salarial dont les modalités de fonctionnement seront définies par les acteurs
+    de la branche.\r\n\r\n- Enfin, un fort <b>dispositif d’incitation</b> a été mis
+    en place, pour que les personnes qui se lancent en portage salarial constituent
+    une <b>réserve utilisable quand elles le souhaitent </b>durant leurs périodes
+    d’inactivité. Ce dispositif doit permettre de mieux appréhender les <b>périodes
+    de recherche de mission </b>que le portage salarial implique naturellement.\r\n\r\nCette
+    convention collective est un aboutissement et un départ. Depuis 10 ans, les partenaires
+    sociaux ont entamé un travail et une réflexion pour créer cet objet non identifié
+    qu’est le portage salarial.\r\n\r\nC’est un <b>événement fondateur</b> pour le
+    métier en lui-même, pour les entreprises de portage, pour les portés et pour ceux
+    qui veulent trouver une voie de transition professionnelle.\r\n\r\nSur le fond,
+    l’accord est à la fois <b>ambitieux et équilibré</b>. C’est aussi une grande victoire
+    pour le droit du travail, et pour la mutation du travail en France, car vient
+    de naître en l’espace de 2 ans, le premier statut qui permet à la fois une protection
+    complète et le développement de l’autonomie professionnelle.\r\n\r\nLe portage
+    salarial s’imposera donc à l’avenir comme un des statuts principaux qui permet
+    aux indépendants de développer leur activité avec un niveau de sécurité optimum.
+    Par cet accord, la France qui fut longtemps en retard dans ces nouvelles formes
+    d’emploi, ouvre une nouvelle voie à l’emploi.\r\n\r\nBien cordialement.\r\n\r\nPatrick
+    Levy-Waitz\r\nPrésident"
+  image: ''
+  on_special: false
+  date: '1894-07-13T00:00:00.000+01:00'
+  chapo: "Chères consultantes, chers consultants,\r\n\r\n\r\nJ’ai le plaisir de vous
+    annoncer que j’ai signé hier soir, pour le compte du PEPS, en qualité de responsable
+    de la délégation patronale, la <b>convention collective du portage salarial</b><b></b>.\r\n\r\nLe
+    7 décembre dernier, à la demande de la ministre du travail Myriam El Khomri, les
+    partenaires sociaux se réunissaient pour la première fois en commission mixte
+    paritaire dans le but d’ouvrir la négociation d’une convention collective propre
+    au portage salarial.\r\n\r\nMoins de 4 mois plus tard, nous avons signé hier cet
+    accord historique avec les 5 organisations syndicales de salariés (CFE-CGC, CFDT,
+    CFTC, FO et CGT), officialisant ainsi la naissance de la convention collective
+    du portage salarial.\r\n\r\nLes trois points clés de cette convention collective
+    sont les suivants : (une information détaillée va suivre)"
+  state: false
+  bureau: consultant
+participez_à_l'enquête_"consultants_:_quelle_est_votre_pratique_du_prix_?"_81:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 81
+  over_title: ''
+  title: 'Participez à l''enquête "Consultants : quelle est votre pratique du prix
+    ?"'
+  text: "L’intégralité du questionnaire a été construite à partir de la documentation
+    scientifique et en cooptation entre chercheurs, dirigeants d’entreprise, délégués
+    régionaux et formateurs internes.\r\n\r\nLa réponse au questionnaire prend environ
+    15 min, est anonyme et strictement confidentielle.\r\n\r\nEn participant à cette
+    enquête, vous devenez acteurs de la recherche sur les indépendants en France et
+    vous nous offrez l’opportunité de mieux vous accompagner par la suite (formation,
+    services…).\r\n\r\nL’édition d’un profil personnel vous sera délivré, suivie de
+    la présentation des résultats et de l’animation de focus-groupes.\r\nMerci par
+    avance de votre participation !\r\n\r\n<a href=\"https://www.itg.fr/upload/IMAGE/Etapes_enquete_prix.jpg\"
+    \ target=\"_blank\">Les étapes de l'enquête </a>\r\n\r\nLe laboratoire Missioneo"
+  image: ''
+  on_special: false
+  date: '1894-07-13T00:00:00.000+01:00'
+  chapo: "Le point de bascule entre salariat et autonomie professionnelle, que vous
+    avez presque tous connu,  nous intéresse particulièrement. \r\nPasser du repère
+    « prétentions salariales » à son « propre prix de prestation » représente une
+    réelle disruption dans une vie professionnelle.\r\nFaisant suite à l’initiative
+    « Parlons Prix » du club régional Languedoc Roussillon, le Laboratoire Missioneo
+    lance une enquête nationale auprès de tous les consultants ITG.\r\n\r\nPour accéder
+    à l'enquête :\r\n<a href=\"https://www.sphinxonline.com/SurveyServer/s/itgfrance/PratiquePrix/questionnaire.htm\">ICI</a>
+    ou copier-coller le lien suivant dans votre navigateur (https://www.sphinxonline.com/SurveyServer/s/itgfrance/PratiquePrix/questionnaire.htm)"
+  state: false
+  bureau: consultant
+votre_bulletin_de_paye_simplifié_86:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 86
+  over_title: ''
+  title: Votre bulletin de paye simplifié
+  text: ''
+  image: ''
+  on_special: false
+  date: '1894-07-13T00:00:00.000+01:00'
+  chapo: "Conformément aux obligations légales, vous recevez désormais des bulletins
+    de paie simplifiés. Cela signifie que certaines cotisations sont regroupées dans
+    des blocs aux noms normés (ex : santé, retraite, etc.).\r\n\r\nDans un souci de
+    transparence, nous avons choisi de conserver, en annexe de ce bulletin simplifié,
+    un état de paie détaillé qui reprend, ligne par ligne, les cotisations que nous
+    versons pour vous.  \r\nCet état de paie vous est adressé en même temps que votre
+    bulletin, ce qui explique que vous ayez désormais 2 bulletins par envoi.\r\nCar
+    la simplicité ne doit pas se faire au détriment de la transparence !\r\nSi vous
+    avez la moindre question, votre correspondant reste à votre écoute.\r\n"
+  state: false
+  bureau: consultant
+désistement_titles_cesu_préfinancés_millésime_2018_97:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 97
+  over_title: ''
+  title: Désistement titles CESU préfinancés millésime 2018
+  text: "Pour toute question relative à ce sujet vous pouvez joindre Carole de Oliveira
+    chez ITG.\r\nCordialement.\r\n \r\nSébastien GODIN\r\nDirecteur des Opérations"
+  image: 210219_144756_ART.jpg
+  on_special: true
+  date: '1894-07-11T00:00:00.000+01:00'
+  chapo: "Vous avez commandé en 2018 des titles CESU par notre intermédiaire mais
+    vous ne les avez peut-être pas tous utilisés. \r\n\r\nVos titles CESU « Millésime
+    2018 » étant valables jusqu’au 28 février 2019, vous avez la possibilité de procéder
+    à un échange de ceux-ci en vous connectant directement sur <a href=\"http://www.domiserve.com/echange\">http://www.domiserve.com/echange</a>\r\n
+    et vous recevrez ensuite vos nouveaux titles courant avril 2019. Attention passé
+    ce délai vos titles seront définitivement perdus.\r\n"
+  state: true
+  bureau: consultant
+neo-nomade_partenaire_pour_la_location_en_temps_réel_d'espaces_de_travail_partout_en_france_72:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 72
+  over_title: ''
+  title: NEO-NOMADE partenaire pour la location en temps réel d'espaces de travail
+    partout en France
+  text: "Pour bénéficier de cette offre, il vous suffit de créer votre  compte sur
+    la plateforme  NEO-NOMADE à l'adresse suivante : http://www.neo-nomade.com/itg/
+    . \r\n \r\nVous choisirez votre mot de passe, indiquerez la société ITG qui porte
+    votre activité afin que la facture soit en bonne et due forme lorsque vous nous
+    la présenterez avec la note de frais, et pourrez ensuite vous  connecter. Retrouvez
+    toutes les informations et le guide d'utilisation dans la rubrique SERVICES +
+    ==>Services Externes\r\n\r\nLes prix affichés sont HT et ne tiennent pas compte
+    de la réduction. Elle s’affichera automatiquement à l’étape du paiement.\r\n \r\nCe
+    service est accessible depuis  votre ordinateur, tablette ou smart phone.  \r\nVous
+    pourrez également inviter les participants à vos rendez-vous ou réunions, directement
+    via cette plateforme NEO-NOMADE PRO.\r\n \r\n\r\n \r\nOrganisez dès maintenant
+    vos prochains rendez-vous professionnels en bénéficiant d’espaces de travail conviviaux.\r\n
+    \r\nAvec toute notre attention, \r\n"
+  image: ''
+  on_special: false
+  date: '1894-07-09T00:00:00.000+01:00'
+  chapo: " \r\nNous avons le plaisir de vous annoncer le lancement de notre partenariat
+    avec NEO-NOMADE PRO, qui propose un service de location en temps réel d'espaces
+    de travail, salles de réunion et bureaux  sur toute la France. \r\n\r\nPlus de
+    200 espaces (coworking, centres d'affaires, télé centres, bureaux individuels,
+    salles de réunion...) sont disponibles à la réservation dès à présent. \r\n\r\nLes
+    consultants ITG bénéficieront d’une réduction exceptionnelle de 10% sur les prix
+    publics de tous les espaces disponibles."
+  state: false
+  bureau: consultant
+_journée_du_séminaire_d'entreprise_itg_75:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 75
+  over_title: ''
+  title: " Journée du Séminaire d'Entreprise ITG"
+  text: ''
+  image: 230818_095435_ART.jpg
+  on_special: false
+  date: '1894-07-09T00:00:00.000+01:00'
+  chapo: "Nous serons dans l'incapacité de répondre à vos demandes du jeudi 23/08
+    14h30 au vendredi 24/08 18h.\r\nNous sommes réunis pour le séminaire d'entreprise
+    et vous retrouverons avec plaisir dès lundi 27/08 matin.\r\n\r\nBien Cordialement.\r\nRadhia
+    AMIRAT \r\nDirectrice Générale Adjointe en charge es Opérations"
+  state: false
+  bureau: consultant
+pont_du_26_décembre_2014_56:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 56
+  over_title: ''
+  title: Pont du 26 décembre 2014
+  text: ''
+  image: ''
+  on_special: true
+  date: '1894-07-09T00:00:00.000+01:00'
+  chapo: "Chère consultante, cher consultant,\r\n\r\nITG vous informe que les bureaux
+    de Paris seront fermés dès 16 heures ce mercredi 24 décembre, ainsi que le vendredi
+    26 décembre 2014.\r\n\r\nNous vous retrouverons avec plaisir dès lundi 29 décembre
+    pour répondre à vos attentes.\r\n\r\nNous vous souhaitons de joyeuses fêtes de
+    fin d'année.\r\n\r\nTrès cordialement\r\nAbdelkader Haddouche\r\nDirecteur général
+    adjoint "
+  state: false
+  bureau: consultant
+_journée_séminaire_entreprise_itg_87:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 87
+  over_title: ''
+  title: " Journée séminaire entreprise ITG"
+  text: ''
+  image: 230818_100137_ART.jpg
+  on_special: false
+  date: '1894-07-08T00:00:00.000+01:00'
+  chapo: "Nous serons dans l'incapacité de répondre à vos demandes du jeudi 23/08
+    14h30 au vendredi 24/08 18h.\r\nNous sommes réunis pour le séminaire d'entreprise
+    et vous retrouverons avec plaisir dès lundi 27/08 matin.\r\n\r\nBien Cordialement.\r\nRadhia
+    AMIRAT \r\nDirectrice Générale Adjointe en charge es Opérations"
+  state: false
+  bureau: consultant
+itg_vous_offre_votre_site_internet_grâce_à_heek,_créateur_de_sites_entièrement_assisté_par_un_robot_intelligent_96:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 96
+  over_title: ''
+  title: ITG vous offre votre site internet grâce à Heek, créateur de sites entièrement
+    assisté par un robot intelligent
+  text: ''
+  image: 170119_103137_ART.jpg
+  on_special: true
+  date: '1894-07-08T00:00:00.000+01:00'
+  chapo: "Vous manquez de visibilité sur internet et avez toujours voulu créer votre
+    propre site pour avoir une vitrine web sur mesure et trouver de nouveaux clients
+    ?\r\n\r\nMais vous n’êtes ni développeur ni designer et avez renoncé face au coût
+    que la création et la maintenance d’un site représentent ?...\r\n \r\nITG vous
+    offre une solution unique et innovante : votre site internet au design actuel
+    et moderne, optimisé pour mobiles et tablettes, grâce à la solution Heek, créateur
+    de sites internet assistés. \r\n\r\nAvec Heek, créer son site internet est aussi
+    facile que dire bonjour. Une intelligence artificielle vous guidera pas à pas
+    et vous suggérera les pages, contenus et images indispensables selon votre métier/expertise.\r\n\r\nD’ores
+    et déjà une centaine d’entre vous ont décidé d’en profiter ! Rejoignez-les.\r\n\r\nPour
+    vous connecter  : <a href=\"https://fr.heek.com/login\">https://fr.heek.com/login</a>\r\nlogin
+    = votre adresse e-mail\r\nmot de passe : heekheek (à modifier lors de la 1ere
+    connexion) \r\n\r\nConsulter la fiche dans mes services ITG depuis \"Mon espace\".\r\n"
+  state: true
+  bureau: consultant
+le_cesu_de_a_à_z_21:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 21
+  over_title: ''
+  title: Le CESU de A à Z
+  text: "Les CESU permettant d&#8217;acquérir des services dans des conditions économiques
+    exceptionnelles, nous sommes beaucoup à être concernés.\r\n\r\nEn effet, applicables
+    à toutes les catégories de services à la personne, les CESU préfinancés, rémunèrent
+    l&#8217;aide à domicile (EAD) aussi bien que l&#8217;entreprise ou l&#8217;association
+    agréées. =><a href=\"http://www.itg.fr/mailing/liste_CESU_08_11_06.doc\" target=\"_blank\">Consulter
+    la liste</a><a href=\"http://www.itg.fr/mailing/liste_CESU_08_11_06.doc\" target=\"_blank\"><img
+    src=\"images/view_telecharger.gif\" alt=\"Télécharger\" title=\"Télécharger\"></a>\r\n\r\n<b>Quels
+    avantages offrent-ils ?</b>\r\n\r\nUn coût raisonnable puisque, pour 100 € souscrits,
+    y compris les charges sociales, \r\nle coût réel pour le consultant est de 65
+    €. \r\n\r\n<b>Sous quelles formes se présentent-ils ?</b>\r\n\r\n<ul><li>Avec
+    une <b>exonération</b> de <b>cotisations sociales</b>, dans la limite d&#8217;un
+    plafond annuel de 1 830 € par bénéficiaire.</li><li>Avec une réduction d&#8217;impôt
+    de 50 % des dépenses engagées (cotisations).</li><li>Avec addition possible du
+    crédit d&#8217;impôt sur le revenu de 50 % pour la garde d&#8217;enfants de moins
+    de 6 ans.</li><li>Sous certaines conditions, exonération de cotisations patronales
+    sur les aides à domicile.=><a href=\"http://www.itg.fr/mailing/exonerations_CESU_08_11_06.doc\"
+    target=\"_blank\">Articles à lire</a><a href=\"http://www.itg.fr/mailing/exonerations_CESU_08_11_06.doc\"
+    target=\"_blank\"><img src=\"images/view_telecharger.gif\" alt=\"Télécharger\"
+    title=\"Télécharger\"></a></li></ul>\r\n\r\n<b>Comment bénéficier de cette offre
+    ?</b>\r\n\r\nITG et son partenaire La Banque postale ont opté pour un processus
+    simple et transparent.\r\nEn 6 étapes, vous êtes assuré de recevoir vos CESU à
+    votre domicile => <a href=\"http://www.itg.fr/mailing/Modalites_CESU_08_11_06.doc\"
+    target=\"_blank\">Les modalités</a><a href=\"http://www.itg.fr/mailing/Modalites_CESU_08_11_06.doc\"
+    target=\"_blank\"><img src=\"images/view_telecharger.gif\" alt=\"Télécharger\"
+    title=\"Télécharger\"></a>\r\n \r\n<b>Quel impact cela a-t-il pour vous ?</b>\r\n\r\nVous
+    commandez les CESU.\r\nVotre compte financier est débité du montant de la commande
+    : \r\ndu montant des titles, plus 4 % de frais de gestion.\r\n\r\n<b>Comment souscrire
+    ?</b>\r\n\r\nComplétez le bon de commande et visez le bulletin d&#8217;informations
+    indissociable de la première commande. =><a href=\"http://www.itg.fr/mailing/Bulletin_d'information_CESU_08_11_06.doc\"
+    target=\"_blank\">Bulletin d'informations</a><a href=\"http://www.itg.fr/mailing/Bulletin_d'information_CESU_08_11_06.doc\"
+    target=\"_blank\"><img src=\"images/view_telecharger.gif\" alt=\"Télécharger\"
+    title=\"Télécharger\"></a> et <a href=\"http://www.itg.fr/mailing/Bon_de_commande_CESU_10_11_06.doc\"
+    target=\"_blank\">Bon de commande</a><a href=\"http://www.itg.fr/mailing/Bon_de_commande_CESU_10_11_06.doc\"
+    target=\"_blank\"><img src=\"images/view_telecharger.gif\" alt=\"Télécharger\"
+    title=\"Télécharger\"></a>\r\n \r\n<b>Combien de temps cela prend-il ?</b>\r\n\r\n<ul><li>Vous
+    avez jusqu&#8217;au 20 du mois pour enregistrer votre commande.</li><li>Dans les
+    huit jours, ITG fait parvenir la commande groupée à son partenaire La Banque postale.
+    => <a href=\"http://www.itg.fr/mailing/Flux_financiers_CESU_08_11_06.doc\" target=\"_blank\">Voir
+    les flux financiers</a><a href=\"http://www.itg.fr/mailing/Flux_financiers_CESU_08_11_06.doc\"
+    target=\"_blank\"><img src=\"images/view_telecharger.gif\" alt=\"Télécharger\"
+    title=\"Télécharger\"></a></li><li>Sous dix jours au maximum, vous recevez à votre
+    domicile les titles CESU. Nominatifs, d&#8217;une valeur faciale de 15 €, ils
+    sont labellisés « Groupe ITG ».</li></ul>\r\n\r\nEn recevant votre <b>première
+    commande</b>, découvrez la <b>pochette d&#8217;utilisation de vos CESU</b>.\r\n\r\n<b>Qui
+    permet-il de rémunérer ?</b>\r\n\r\n<ul><li>Les employés à domicile (EAD)</li><li>Les
+    salariés des associations agréées ou des organismes publics (crèches, halte garderie,&#8230;)</li><li>Les
+    salariés des entreprises d&#8217;aide à domicile agréées</li></ul> \r\n\r\n<b>Quelles
+    sont les formalités à accomplir ?</b>\r\n\r\nA réception de la première commande,
+    l&#8217;URSSAF vous adresse un formulaire : il vous suffit de le remplir; puis
+    de le retourner au centre URSSAF, avant tout règlement par titles CESU.\r\n\r\n<b>Pour
+    faciliter vos démarches :</b>\r\n\r\nLa banque postale, partenaire d&#8217;ITG,
+    vous accompagne et répond à vos questions.\r\n=> Hot line Privilèges, portail
+    de services destiné à accompagner votre utilisation de titles CESU.\r\n=> N° Indigo
+    : 0 820 829 829 (0.12 € la minute)\r\n<b>Liens utiles : </b>\r\n<ul><li><a href=\"http://www.cesu.urssaf.fr\">http://www.cesu.urssaf.fr</a></li><li><a
+    href=\"http://www.cr-cesu.fr\">http://www.cr-cesu.fr</a></li><li><a href=\"http://www.servicesalapersonne.gouv.fr\">http://www.servicesalapersonne.gouv.fr</a></li><li><a
+    href=\"http://www.cohesionsociale.gouv.fr\">http://www.cohesionsociale.gouv.fr</a></li></ul>
+    \r\n\r\n"
+  image: ''
+  on_special: false
+  date: '1894-07-07T00:00:00.000+01:00'
+  chapo: "<ul><li>Vous cherchez un moyen d&#8217;<b>optimiser</b> vos <b>revenus</b>
+    de <b>consultant</b> ?</li>\r\n<li>Vous avez <b>besoin d&#8217;une aide à domicile</b>
+    (pour ménage, soutien scolaire, garde d&#8217;enfants, aide à personne dépendante&#8230;)
+    ?</li></ul>\r\n=> ITG, le premier, lance les carnets de Chèques Emploi Service
+    Universel(<b>CESU</b>)."
+  state: false
+  bureau: consultant
+nouveau_:_lancement_de_monespace.itg.fr_82:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 82
+  over_title: ''
+  title: 'Nouveau : lancement de monespace.itg.fr'
+  text: Pour toute question ou problème lié à votre nouvel espace ITG, n'hésitez
+    pas à contacter notre hotline dédiée au 09 88 77 72 77.
+  image: 200618_151941_ART.jpg
+  on_special: false
+  date: '1894-07-07T00:00:00.000+01:00'
+  chapo: "ITG modernise ses outils digitaux pour simplifier la gestion de votre activité.\r\n\r\nUn
+    nouvel espace plus simple et intuitif est accessible dès à présent. Vous y retrouverez
+    tout votre historique d'activité et vos déclarations en cours d'édition.\r\nVotre
+    ancien bureau reste néanmoins disponible.\r\n\r\nPour vous connecter à votre nouvel
+    espace, rien de plus simple :\r\n- votre identifiant est votre e-mail consultant\r\n-
+    votre nouveau mot de passe sera à définir lors de votre première connexion\r\n\r\n<a
+    href=\"https://monespace.itg.fr\" target=\"_blank\" title=\"ITG-Monespace.itg.fr\"><img
+    src=\"https://www.itg.fr/upload/IMAGE/acceder.gif\" alt=\"Accéder au nouvel espace
+    ITG\" title=\"Accéder au nouvel espace\" align=\"center\"/>"
+  state: false
+  bureau: consultant
+important_:_information_concernant_votre_paye_d'octobre_90:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 90
+  over_title: ''
+  title: 'Important : information concernant votre paye d''Octobre'
+  text: ''
+  image: ''
+  on_special: false
+  date: '1894-07-07T00:00:00.000+01:00'
+  chapo: "\r\n\r\nDans le cas où vous utiliseriez encore votre ancien bureau, nous
+    vous précisons aussi que, pour des raisons de maintenance, il ne pourra plus être
+    maintenu et deviendra inaccessible après la paye du mois d’octobre, soit début
+    novembre. \r\n\r\nC’est pourquoi, nous vous invitons à réaliser votre déclaration
+    d’activité dès maintenant, sur Mon espace ITG en bénéficiant de l'aide que peut
+    vous apporter la hotline si vous rencontrez une difficulté : hotline 09 88 77
+    72 77."
+  state: false
+  bureau: consultant
+_date_de_clôture_comptable_2016_76:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 76
+  over_title: ''
+  title: " Date de clôture comptable 2016"
+  text: ''
+  image: ''
+  on_special: false
+  date: '1894-07-06T00:00:00.000+01:00'
+  chapo: "<b>Dates de clôture 2016</b>\r\n\r\n\r\nChère Consultante, Cher Consultant,\r\n\r\n\r\nEn
+    vue de remplir nos obligations déclaratives et de clôturer l'exercice, nous vous
+    rappelons que vos factures relatives à l'année 2016 doivent impérativement être
+    validées et envoyées au plus tard :\r\n\r\nle jeudi 20 janvier 2017.\r\n\r\nAu
+    delà du 20 janvier 2017, nous ne serons plus en mesure d'établir les factures,
+    relatives à l'année 2016 .\r\n\r\nNous vous remercions de votre attention.\r\n\r\n\r\nTrès
+    cordialement\r\nAbdelkader Haddouche\r\nDirecteur général adjoint "
+  state: false
+  bureau: consultant
+maintenance_des_serveurs_itg_55:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 55
+  over_title: ''
+  title: Maintenance des serveurs ITG
+  text: "Nous vous prions de bien vouloir nous excuser pour le désagrément occasionné
+    et soyez sûrs que nous faisons le maximum pour vous permettre de faire à nouveau
+    vos opérations le plus rapidement possible.\r\n\r\n\r\nTrès cordialement\r\nAbdelkader
+    HADDOUCHE\r\nDirecteur Général Adjoint    "
+  image: ''
+  on_special: true
+  date: '1894-07-06T00:00:00.000+01:00'
+  chapo: "Chères Consultantes, Chers Consultants,\r\n\r\nNous plaçons les serveurs
+    ITG en maintenance afin d'effectuer les modifications nécessaires. Cette interruption
+    ne devrait pas être longue : le vendredi 19 septembre 2014 à partir de 17 heures
+    jusqu'à 22 heures. En conséquence, le bureau.itg.fr sera indisponible pendant
+    quelques heures.\r\n"
+  state: false
+  bureau: consultant
+meilleurs_voeux_2017_68:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 68
+  over_title: ''
+  title: Meilleurs Voeux 2017
+  text: "Pour cette nouvelle année qui débute, nous nous sommes fixés, par ailleurs,
+    2 grandes priorités : \r\n•\tVous faciliter la vie en simplifiant les outils de
+    gestion quotidiens\r\n•\tMieux vous aider et vous accompagner\r\n\r\nAprès un
+    retard « inévitable » (dit-on) dans ce genre de grands projets, nous sommes heureux
+    de pouvoir vous annoncer, sans nous tromper cette fois, que 2017 vous apportera
+    son lot de nouveautés :\r\n•\tVos bulletins de paie, dès ce début d'année vous
+    seront envoyés par mail, pour ensuite les retrouver dans votre coffre-fort électronique
+    \ (coffre déjà ouvert pour certains, en cours d’ouverture pour les autres).\r\n•\tUn
+    nouvel Espace ITG personnel, remplaçant le bureau ITG, vous sera proposé (en déploiement
+    tout au long de l’année) mais l’ancien bureau restera accessible pour toutes celles
+    et ceux qui le souhaitent.\r\n•\tUne application mobile pour consulter, gérer
+    \ la totalité de votre activité partout où vous êtes.\r\n\r\nParce que nous exerçons
+    ce métier depuis 20 ans, nous voyons évoluer vos besoins et nous adaptons notre
+    offre sans cesse. C'est pourquoi cette année, nous vous proposerons outre un parcours
+    de formation modernisé, deux nouvelles offres d’accompagnement : \r\n•\tDes séances
+    de Flash Coaching\r\nParce que nous avons parfois besoin d’un regard extérieur,
+    d’un petit coup de boost ou simplement d’aide, nous avons identifié pour vous
+    des coachs opérationnels, orientés résultat, pour vous aider à passer les moments
+    compliqués en 1 ou 2 séances.\r\n•\tUn bilan annuel d'activité sera disponible
+    auprès de votre correspondante \r\nL'occasion de prendre du recul et d'analyser
+    ensemble votre activité commerciale (croissance du CA, part de chaque client dans
+    le CA, évolution...).\r\nA cela s'ajoute notre volonté de renforcer nos conseils
+    personnalisés à la fois juridiques et sociaux.\r\n\r\nNotre souci, vous le savez,
+    est de transformer l'entreprise pour mieux vous servir, de s'appuyer chaque fois
+    que cela est possible sur l'apport des nouvelles technologies pour simplifier
+    votre vie quotidienne.\r\n\r\nVous pouvez compter sur nous pour être à vos côtés,
+    nous y sommes pleinement engagés parce que vous êtes notre raison d'être.\r\n\r\nBien
+    amicalement,\r\nExcellente année à tous.\r\n\r\nPatrick Levy-Waitz\r\nPrésident
+    \                                       \r\n"
+  image: ''
+  on_special: false
+  date: '1894-07-06T00:00:00.000+01:00'
+  chapo: " \r\nChers collègues,\r\n\r\n\r\nL’ensemble des équipes d’ITG se joint à
+    moi pour vous souhaiter une très bonne année 2017. Qu’elle vous apporte la santé,
+    la joie et le bonheur, tant au niveau professionnel que personnel.\r\n\r\nNotre
+    engagement à l’installation du portage en France est depuis des années constant.
+    Après avoir obtenu par ordonnance en 2015 sa ratification par le Parlement, nous
+    venons d’obtenir en 2016, la mise en place d’une CMP (Commission Mixte Paritaire)
+    Portage c’est-à-dire la reconnaissance de facto d’une branche Portage. Nous ouvrons
+    donc en ce début d’année, une négociation avec les syndicats pour la mise en place
+    d’une convention collective pour le portage salarial. Nous serons donc à la tâche
+    en 2017, pendant quelques mois encore..."
+  state: false
+  bureau: consultant
+inscrivez-vous_à_l'after_itg_du_20_novembre_2018_à_paris_89:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 89
+  over_title: ''
+  title: Inscrivez-vous à l'AFTER ITG du 20 novembre 2018 à Paris
+  text: ''
+  image: 231018_135759_ART.jpg
+  on_special: false
+  date: '1894-07-06T00:00:00.000+01:00'
+  chapo: "Venez rencontrer les consultants du réseau ITG, échanger sur les bonnes
+    pratiques et les retours d’expérience autour d'un Afterwork le 20 novembre chez
+    Eléphant-Paname 10 rue Volney 75002 Paris.\r\nL’équipe ITG sera également présente
+    pour vous parler des nouveautés et répondre à vos questions. Convivialité au rendez-vous
+    !\r\n \r\n\r\n<a href=\"https://goo.gl/forms/ArOgeHBMK5leqA6I3\" target=\"_blank\">
+    Je m’inscris</a>"
+  state: false
+  bureau: consultant
+messagerie_vers_itg_43:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 43
+  over_title: ''
+  title: Messagerie vers ITG
+  text: "Chère consultante, cher consultant, \r\n\r\nUn incident de messagerie ne
+    nous permet plus de recevoir vos e-mails et d'y répondre.\r\n\r\nToute l&#8217;équipe
+    ITG est désolée de ce contretemps et vous invite fortement à nous contacter par
+    fax 01 44 69 80 44 ou par téléphone 01 44 69 80 40, si il y urgence.\r\n\r\nUn
+    délai de 5 jours de travaux nous est imposé sur le serveur. \r\n\r\nNéanmoins,
+    le bureau itg fonctionne pour nous faire parvenir vos demandes de salaires et
+    facturations.\r\n\r\nEn vous assurant que nous apportons le maximum pour traiter
+    vos demandes, \r\n\r\nRoland Bréchot et Abdelkader Haddouche\r\nGROUPE ITG\r\n26
+    rue de la pépinière\r\n75008 PARIS\r\n\r\nTéléphone : 01 44 69 80 40\r\nFax :
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+    01 44 69 80 44\r\n\r\n"
+  image: ''
+  on_special: true
+  date: '1894-07-06T00:00:00.000+01:00'
+  chapo: "Un incident de messagerie ne nous permet plus de recevoir vos e-mails et
+    d'y répondre.\r\n"
+  state: false
+  bureau: consultant
+carte_de_voeux_personnalisable_pour_vos_clients_95:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 95
+  over_title: ''
+  title: Carte de Voeux personnalisable pour vos clients
+  text: ''
+  image: 241218_144843_ART.jpg
+  on_special: false
+  date: '1894-07-05T00:00:00.000+01:00'
+  chapo: "ITG vous offre la possibilité de personnaliser votre carte de vœux.\r\n\r\nPour
+    l’utiliser très simplement pour vos clients, connectez-vous sur <a href=\"http://cmm-digital.fr/news/I/ITG/2019/voeux-2019/\">ce
+    lien</a>\r\n\r\nMerci de saisir les informations dans l'espace réservé, qui permettront
+    de générer votre signature de mail, puis de choisir votre logo. Personnalisez
+    ensuite le message accompagnant la carte de vœux électronique puis cliquez sur
+    « Créer la carte de vœux ». \r\nVous la recevrez directement dans votre boîte
+    email afin de la transférer à vos contacts.\r\n\r\nTous nos meilleurs vœux pour
+    2019.\t"
+  state: false
+  bureau: consultant
+__yoss,_plateforme_de_missions_a_choisi_itg_comme_partenaire_80:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 80
+  over_title: ''
+  title: "  Yoss, plateforme de missions a choisi ITG comme partenaire"
+  text: ''
+  image: 160118_180710_ART.jpg
+  on_special: false
+  date: '1894-07-04T00:00:00.000+01:00'
+  chapo: "Chers consultantes, Chers consultants,\r\n \r\nNous avons le plaisir de
+    vous annoncer notre partenariat avec Yoss, solution digitale innovante qui a pour
+    vocation d’accompagner les travailleurs indépendants. \r\n\r\nS’adressant à tous
+    types d’indépendants, quel que soit leur statut, Yoss a sélectionné ITG pour leur
+    proposer la meilleure solution de portage salarial. \r\nNous vous invitons à découvrir
+    cette plateforme qui peut être une nouvelle source de missions pour vous car elle
+    facilite la mise en relation entre les indépendants en recherche de mission et
+    les grands groupes. \r\n \r\nL’inscription y est très facile, vous pouvez y accéder
+    en cliquant sur <a href=\"https://itggroupe.typeform.com/to/MBuDix\">YOSS</a>
+    ou en reportant ce lien dans votre navigateur.https://itggroupe.typeform.com/to/MBuDix\r\n
+    \r\nRadhia Amirat\r\nDirectrice Générale\r\nen charge des Opérations"
+  state: false
+  bureau: consultant
+décision_du_conseil_constitutionnel_sur_le_portage_salarial_52:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 52
+  over_title: ''
+  title: Décision du Conseil Constitutionnel sur le portage salarial
+  text: "Pour répondre à toutes les questions qui pourraient émaner de cette décision,
+    <b> vous trouverez  un document contenant toutes les réponses aux questions que
+    vous pourriez vous poser.</b> <a href=\"http://www.leportagesalarial.com/wp-content/uploads/2014/04/14_04_11_QA_Conseil_Constitutionnel_3.pdf\"
+    target=\"_blank\" >ICI</a>\r\n\r\nEn résumé, et pour des raisons de technique
+    juridique :\r\n\r\n- Les Sages du Conseil ont donné au législateur jusqu’au 1er
+    janvier 2015 pour inscrire dans la loi l’encadrement du portage salarial dont
+    le régime juridique était jusqu’à présent organisé par un accord de branche étendu
+    par arrêté ministériel en date du 24 mai 2013.\r\n\r\n- En effet, le Conseil a
+    considéré que l’encadrement du portage aurait dû être réalisé par la loi et non
+    par la voie réglementaire. Cette décision fait suite au recours du syndicat FO,
+    contre l’arrêté d’extension du 24 mai 2013, qui a conduit le Conseil constitutionnel
+    à se saisir d’une question de constitutionnalité.\r\n\r\n<b>Nous tenions à vous
+    préciser que jusqu’au 1er janvier 2015, le cadre juridique du portage salarial
+    est maintenu en l’état </b>et qu’il peut donc être utilisé en toute sécurité juridique.\r\n\r\n<b>D’ores
+    et déjà, les partenaires sociaux</b> ont réaffirmé leur attachement au régime
+    juridique actuel du portage et le confirmeront en signant, le 15 avril prochain,
+    une position commune réaffirmant les principes de l’accord de 2010 mais avec le
+    Peps cette fois-ci.  Du fait de ce consensus entre partenaires sociaux, le législateur
+    aura dû, avant le 1er janvier 2015, introduire dans la loi un article reprenant
+    le contenu de l’accord de 2010 étendu à tout le secteur grâce à l’arrêté ministériel.\r\n\r\nA
+    l’issue de ce délai, lorsque le législateur aura adopté ce nouveau text, le régime
+    juridique en vigueur depuis mai 2013 pourra continuer à s’appliquer normalement.
+    \r\n\r\nLe gouvernement a également confirmé ce matin sa volonté d’inscrire dans
+    la loi, et dans le délai convenu, les modalités juridiques nécessaires.\r\n\r\nComme
+    toujours depuis sa création, ITG, leader de la profession grâce à votre confiance,
+    sera en pointe pour défendre nos intérêts et pour que le législateur entérine
+    dès que possible l’accord des partenaires sociaux et corrige cet aspect technique
+    de la réglementation.\r\n\r\nRestant à votre disposition pour toute information
+    complémentaire.\r\n\r\nPatrick Levy-Waitz\r\nPrésident d’ITG\r\n"
+  image: ''
+  on_special: false
+  date: '1894-07-04T00:00:00.000+01:00'
+  chapo: "Chère Consultante, Cher Consultant,\r\n\r\nComme vous le savez le 8 juin
+    dernier, le Ministre du Travail et de l’Emploi a rendu public un arrêté du 24
+    mai 2013 permettant enfin d’encadrer le portage salarial.\r\n\r\nCet arrêté, étendant
+    à tout le secteur du portage l’accord des partenaires sociaux de juin 2010, offre
+    à celui-ci une pleine reconnaissance juridique.\r\n\r\nA cette occasion, le syndicat
+    FO, seul syndicat n’ayant pas signé cet accord étendu, a décidé de déposer un
+    recours contestant la constitutionnalité et la validité de cet arrêté. <b>C’est
+    à la suite de ce recours, que le Conseil constitutionnel a rendu ce jour une importante
+    décision au sujet du portage salarial.</b>\r\n"
+  state: false
+  bureau: consultant
+carte_de_voeux_électronique_57:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 57
+  over_title: ''
+  title: Carte de voeux électronique
+  text: ''
+  image: ''
+  on_special: false
+  date: '1894-07-04T00:00:00.000+01:00'
+  chapo: "Chers consultants,\r\n\r\nNous vous proposons une carte de voeux, sous format
+    électronique dont vous pouvez sans réserve disposer, pour adresser vos voeux à
+    vos contacts professionnels.\r\n\r\nVoici le lien : <a href=\"http://www.itg.fr/upload/IMAGE/V%C5%93ux_2015/index.html\"
+    target=\"blanck\">Meilleurs Vœux ITG pour l’année 2015</a>\r\n\r\nNous vous renouvelons
+    nos meilleurs souhaits pour cette année 2015.\r\n\r\nCordialement \r\nMartine
+    Alves"
+  state: false
+  bureau: consultant
+coupure_edf_générale_:__le_12_mars_2015_de_22h_à_6h_du_matin_suivant_58:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 58
+  over_title: ''
+  title: 'Coupure EDF Générale :  le 12 mars 2015 de 22h à 6h du matin suivant'
+  text: ''
+  image: ''
+  on_special: true
+  date: '1894-07-04T00:00:00.000+01:00'
+  chapo: "Cher consultant, chère consultante,\r\n\r\nNous sommes prévenus d'une coupure
+    EDF, générale sur le 24/26 rue de la Pépinière à partir du jeudi 12 mars de 22h
+    au lendemain matin 6h.\r\nNous sommes dans l'impossibilité de recevoir vos appels
+    téléphoniques, vos mails et vous ne pouvez accéder au bureau pendant cette période.\r\n\r\nNous
+    comptons sur votre compréhension pour la gêne occasionnée par cette coupure qui
+    permet la maintenance des installations.\r\n\r\nTrès cordialement\r\n\r\nAbdelkader
+    Haddouche\r\nDirecteur général Adjoint"
+  state: false
+  bureau: consultant
+pont_du_14_juillet_2015_59:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 59
+  over_title: ''
+  title: Pont du 14 juillet 2015
+  text: ''
+  image: ''
+  on_special: true
+  date: '1894-07-04T00:00:00.000+01:00'
+  chapo: "Chère consultante, cher consultant,\r\n\r\nITG vous informe que les bureaux
+    de Paris seront fermés ce lundi 13 juillet 2015.\r\n\r\nNous vous retrouverons
+    avec plaisir dès mercredi 15 Juillet pour répondre à vos attentes. \r\n\r\nTrès
+    cordialement\r\nAbdelkader Haddouche\r\nDirecteur général adjoint"
+  state: false
+  bureau: consultant
+partenariat_eurotransmission_16:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 16
+  over_title: ''
+  title: Partenariat Eurotransmission
+  text: "1/ Etes-vous actuellement en recherche d&#8217;informations pour la reprise
+    d&#8217;une entreprise ?\r\nSi oui, merci de compléter vos coordonnées ci-dessous
+    :\r\n\r\n<!--Controle des champs formulaire dans fichier js/formulaire.js-->\r\n\r\n<form
+    onsubmit=\"return controle_questionnaire()\" name=\"questionnaire\" method=\"post\"
+    enctype=\"multipart/form-data\" action=\"mail_partenariat_Eurotransmission.php\">\r\n<div
+    style=\"float:left;width:200px;text-align:right\">Nom &nbsp;:&nbsp;&nbsp;</div><div><input
+    class=\"field\" type=\"text\" name=\"nom\" maxlength=\"30\" /></div>\r\n<div style=\"float:left;width:200px;text-align:right\">Prénom
+    &nbsp;:&nbsp;&nbsp;</div><div><input class=\"field\" type=\"text\" name=\"prenom\"
+    maxlength=\"25\" /></div>\r\n<div style=\"float:left;width:200px;text-align:right\">E-mail
+    &nbsp;:&nbsp;&nbsp;</div><div><input class=\"field\" type=\"text\" name=\"mail\"
+    maxlength=\"45\" /></div>\r\n<div style=\"float:left;width:200px;text-align:right\">Portable
+    &nbsp;:&nbsp;&nbsp;</div><div><input class=\"field\" type=\"text\" name=\"telephone\"
+    maxlength=\"18\" /></div>\r\n<div style=\"float:left;width:200px;text-align:right\">R&eacute;gion&nbsp;:&nbsp;&nbsp;</div><div><input
+    class=\"field\" type=\"text\" name=\"region\" maxlength=\"18\" /></div>\r\n<div
+    style=\"float:left;width:200px;text-align:right\">Activit&eacute; de l'entreprise&nbsp;:&nbsp;</div><div><input
+    class=\"field\" type=\"text\" name=\"activite\" maxlength=\"18\" /></div>\r\n<div
+    style=\"float:left;width:200px;text-align:right\">Nombre de salari&eacute;s&nbsp;:&nbsp;&nbsp;</div><div><input
+    class=\"field\" type=\"text\" name=\"salarie\" maxlength=\"18\" /></div>\r\n<div
+    style=\"float:left;width:200px;text-align:right\">Chiffre d'affaires&nbsp;:&nbsp;&nbsp;</div><div><input
+    class=\"field type=\"text\" name=\"ca\" maxlength=\"18\" /></div>\r\n\r\n\r\n2/
+    Avez-vous connaissance de personnes qui sont en recherche d&#8217;informations
+    pour reprendre une entreprise ?\r\nSouhaitez-vous être contacté vous-mêmes ou
+    nous laisser les coordonnées de la personne à contacter ?\r\n\r\nIl s'agit :\r\n<div
+    style=\"width:400px;text-align:right\">de mes coordonn&eacute;es <input class=\"field\"
+    type=\"radio\" name=\"coord\" value=\"de mes coordonn&eacute;es\" checked=\"checked\"/>&nbsp;&nbsp;&nbsp;des
+    coordonn&eacute;es de mon contact<input type=\"radio\" name=\"coord\" value=\"des
+    coordonn&eacute;es de mon contact\"/></div>\r\n<div style=\"float:left;width:200px;text-align:right\">Nom
+    &nbsp;:&nbsp;&nbsp;</div><div><input class=\"field\" type=\"text\" name=\"c_nom\"
+    maxlength=\"30\" /></div>\r\n<div style=\"float:left;width:200px;text-align:right\">Prénom
+    &nbsp;:&nbsp;&nbsp;</div><div><input class=\"field\" type=\"text\" name=\"c_prenom\"
+    maxlength=\"25\" /></div>\r\n<div style=\"float:left;width:200px;text-align:right\">E-mail
+    &nbsp;:&nbsp;&nbsp;</div><div><input class=\"field\" type=\"text\" name=\"c_mail\"
+    maxlength=\"45\" /></div>\r\n<div style=\"float:left;width:200px;text-align:right\">Portable
+    &nbsp;:&nbsp;&nbsp;</div><div><input class=\"field\" type=\"text\" name=\"c_telephone\"
+    maxlength=\"18\" /></div>\r\n<div style=\"float:left;width:200px;text-align:right\">R&eacute;gion&nbsp;:&nbsp;&nbsp;</div><div><input
+    class=\"field\" type=\"text\" name=\"c_region\" maxlength=\"18\" /></div>\r\n<div
+    style=\"float:left;width:200px;text-align:right\">Activit&eacute; de l'entreprise&nbsp;:&nbsp;&nbsp;</div><div><input
+    class=\"field\" type=\"text\" name=\"c_activite\" maxlength=\"18\" /></div>\r\n<div
+    style=\"float:left;width:200px;text-align:right\">Nombre de salari&eacute;s&nbsp;:&nbsp;&nbsp;</div><div><input
+    class=\"field\" type=\"text\" name=\"c_salarie\" maxlength=\"18\" /></div>\r\n<div
+    style=\"float:left;width:200px;text-align:right\">Chiffre d'affaires&nbsp;:&nbsp;&nbsp;</div><div><input
+    class=\"field\" type=\"text\" name=\"c_ca\" maxlength=\"18\" /></div>\r\n\r\n\r\n3/
+    Souhaitez-vous faire partie du réseau d&#8217;experts qui sera consulté dans le
+    cadre d&#8217;audits d&#8217;intérêt pour la reprise d&#8217;entreprise dans les
+    métiers que vous connaissez ?\r\nDans ce cas, merci de joindre votre CV :\r\n\r\n<div><input
+    type=\"file\" name=\"fichier_choisi\" />&nbsp;:&nbsp;(250Ko max - .pdf, .rtf,
+    ou .doc)</div>\r\n\t\t\t\t\r\n\r\n<input type=\"hidden\" name=\"action\" value=\"questionnaire\"
+    />\r\n<div align=\"center\"><input type=\"image\" src=\"images/envoyer.gif\" alt=\"Envoyer\"
+    /></div>\r\n</form>\r\n"
+  image: ''
+  on_special: false
+  date: '1894-07-04T00:00:00.000+01:00'
+  chapo: Nous avons plusieurs contacts avec le Centre Eurotransmission (<a href="http://www.eurotransmission.com">http://www.eurotransmission.com</a>).
+    Ce centre nous semble être l&#8217;un des meilleurs vecteurs que nous ayons trouvé
+    pour la reprise d&#8217;activités. D&#8217;une part, les annonces et les services
+    qu&#8217;ils proposent peuvent être utiles aux consultants qui souhaitent reprendre
+    une entreprise. D&#8217;autre part, ils sont intéressés pour travailler avec un
+    réseau d&#8217;experts confirmés capables de réaliser des missions à la demande.
+  state: false
+  bureau: consultant
+inscrivez-vous_à_l'after_itg_du_18_décembre_2018_à_levallois-perret_94:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 94
+  over_title: ''
+  title: Inscrivez-vous à l'AFTER ITG du 18 décembre 2018 à Levallois-Perret
+  text: ''
+  image: 221118_152627_ART.jpg
+  on_special: false
+  date: '1894-07-04T00:00:00.000+01:00'
+  chapo: "Venez rencontrer les consultants du réseau ITG, échanger sur les bonnes
+    pratiques et les retours d’expérience autour d'un Afterwork le 18 décembre chez
+    ZALTHABAR au 48 rue de Villiers 92300 Levallois-Perret.\r\n\r\nL’équipe ITG sera
+    également présente pour vous parler des nouveautés et répondre à vos questions.
+    Convivialité au rendez-vous !\r\n \r\n\r\n<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfL8y\"
+    target=\"_blank\"> Je m’inscris</a>"
+  state: false
+  bureau: consultant
+devenir_membre_désigné_cinov_-_peps_48:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 48
+  over_title: ''
+  title: Devenir membre désigné CINOV - PEPS
+  text: "Chère consultante, cher consultant,\r\n\r\nLa CINOV nous informe : \r\n\r\nPour
+    continuer à représenter les petites et moyennes entreprises de la branche de l'ingénierie,
+    du conseil et de l'informatique, elle doit réunir à objectif 2013, \r\n2500 adhérents.\r\n\r\nElle
+    propose le statut de Membre Désigné aux salariés du PEPS syndicat auprès duquel
+    ITG est enregistré.\r\n\r\nPour vous donner l'opportunité d'intégrer un réseau
+    régional, être membre actif à part entière d'un syndicat professionnel et générer
+    des opportunités de contacts au sein de commissions, vous serez alors, plus visible
+    et représentatif auprès des donneurs d'ordre des marchés publics, voir même vous
+    participerez à des équipes projet et ce à la source. <a href=\"http://www.itg.fr/upload/Document/Argumentaire_SNEPS_CICF.pdf
+    \"target=\"blank\">en savoir plus</a>\r\n\r\nVous pouvez adhérer <strong><a href=\"http://www.itg.fr/upload/Document/Information_salarie_porte.pdf\"
+    target=\"blank\">en tant que salari&eacute; port&eacute;</a></strong> opérant
+    dans le domaine relevant de la branche du conseil, de l'ingénierie et de l'informatique.
+    \r\n\r\nComment faire : \r\ncompléter le formulaire, sans omettre une donnée <a
+    href=\"http://www.itg.fr/upload/Document/Formulaire_Membre_Designe_novembre_2011.pdf\"
+    class=\"Style65\" target=\"blank\">ici</a> pour télécharger le formulaire \r\nsigner
+    la demande d'adhésion \"Membre Désigné\" valant autorisation à prélever le montant
+    de la cotisation qui s'élève à 70€ sur votre compte financier \r\n==> ITG se charge
+    de centraliser votre adhésion en tant que Membre Désigné CICF-SNEPS \r\nNous souhaitons
+    que cette proposition recueille votre attention. C'est pour vous la possibilité
+    d'échanger avec les autres entrepreneurs de votre activité, de voir se développer
+    de nouvelles synergies commerciales grâce aux rencontres de votre Chambre Régionale
+    CICF.\r\n\r\nBien cordialement\r\n\r\nAbdelkader Haddouche\r\nDirecteur Général
+    Adjoint \r\n\r\nITG \r\n26, rue de la Pépinière\r\n75008 Paris\r\nTél : 01 44
+    69 80 40http://www.itg.fr\r\n"
+  image: '080713_180643_ART.png'
+  on_special: false
+  date: '1894-07-04T00:00:00.000+01:00'
+  chapo: "Vous aussi devenez MEMBRE Désigné CINOV-PEPS grâce à votre activité de salarié
+    porté ITG, vous avez reçu un message en text brut : je vous remercie de trouver
+    ci - dessous les liens.\r\n\r\nPEPS = Professionnels de l'Emploi en Portage Salarial"
+  state: false
+  bureau: consultant
+mme_lepy_12:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 12
+  over_title: ''
+  title: Mme LEPY
+  text: De formation HEC, Yves Méheut a travaillé pendant vingt-cinq ans en entreprise
+    avant d&#8217;évoluer vers le conseil en ressources humaines. Qualifié MBTI, il
+    conduit des missions de bilan de compétences (Fongecif et entreprise), de coaching
+    (accompagnement de cadres, experts ou managers) et de formation aux techniques
+    de recherche d&#8217;emploi (notamment construction et animation du réseau relationnel).
+  image: ''
+  on_special: false
+  date: '1894-07-03T00:00:00.000+01:00'
+  chapo: 'De formation HEC, Yves Méheut a travaillé pendant vingt-cinq ans en entreprise
+    avant d&#8217;évoluer vers le conseil en ressources humaines. '
+  state: false
+  bureau: consultant
+odile_mora_13:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 13
+  over_title: ''
+  title: Odile Mora
+  text: "<b>Mon Métier :</b>\r\nl'accompagnement des cadres au cours de leur carrière,
+    dans leurs performances managériales et prise de poste.\r\n\r\n<b>Mes compétences
+    : </b>\r\nj&#8217;accompagne les personnes et les organisations en situation de
+    transition  (bilans de compétences, coaching, aide aux conduites de changement&#8230;)
+    à travers une approche plurielle. \r\nUn exemple : <i>Luc vient de passer une
+    évaluation de compétences managériales. Sa performance et ses qualités d&#8217;analyse
+    ont été reconnues. On lui suggère de travailler sa dimension relationnelle pour
+    se hisser parmi les dirigeants à potentiel. Grâce au dialogue confiant instauré
+    avec le coach,, il s&#8217;est senti suffisamment en confiance pour se découvrir
+    de nouvelles aptitudes dans son rapport avec les autres.</i>\r\n\r\nOdile Mora
+    consultante ITG\r\n<a href=\"odile.mora@wanadoo.fr\">Odile Mora</a>\r\n"
+  image: ''
+  on_special: false
+  date: '1894-07-03T00:00:00.000+01:00'
+  chapo: Odile Mora accompagne les personnes et les organisations en situation de
+    transition  (bilans de compétences, coaching, aide aux conduites de changement&#8230;)
+    à travers une approche plurielle.
+  state: false
+  bureau: consultant
+nathalie_havre_14:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 14
+  over_title: ''
+  title: Nathalie Havre
+  text: "PERFORMANCE CAREER CENTER \r\n\r\nNous sommes heureux de vous annoncer la
+    certification de \r\n\r\nNathalie Hâvre* pour entre autres\r\n\r\n-      <b> Le
+    Consulting en Bilans de Carrière</b>\r\n\r\nNiveau Obtenu : Expert\r\n\r\nICPF
+    & PSI : Organisme certificateur des personnes physiques dans les domaines de la
+    prestation de service intellectuel.\r\n\r\nNathalie Hâvre\r\n\r\nPerformance Career
+    Center\r\n<b>\r\nPour un bilan de compétences accrédité Fongecif :</b>\r\nTél
+    centre : 01 70 70 62 23 \r\n\r\nMobile : 06 64 21 01 05\r\n\r\n<a href=\"mailto:n.havre@performance-career-center.com\">Nathalie
+    Havre</a>\r\n\r\nhttp://www.performance-career-center.com\r\n\r\n* Nathalie Hâvre
+    consultante ITG, a crée <b>Performance Career Center</b> pour développer son activité."
+  image: '091211_145440_ART.jpg'
+  on_special: false
+  date: '1894-07-03T00:00:00.000+01:00'
+  chapo: "\r\n\r\n\r\n"
+  state: false
+  bureau: consultant
+bilan_de_compétences_15:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 15
+  over_title: ''
+  title: Bilan de Compétences
+  text: "Si vous souhaitez :\r\n\r\n<img src=\"images/puce_fleche_fin.gif\" alt=\"-\"
+    border=\"0\"/>  Analyser et identifier vos compétences professionnelles et personnelles
+    ainsi que votre potentiel \r\n<img src=\"images/puce_fleche_fin.gif\" alt=\"-\"
+    border=\"0\"/>  Définir une orientation professionnelle \r\n<img src=\"images/puce_fleche_fin.gif\"
+    alt=\"-\" border=\"0\"/>  Construire votre parcours personnel de formation et
+    développer votre autonomie&#8230;\r\n\r\n<b>Et puisque vous êtes salarié du groupe
+    ITG : </b>\r\nVous pouvez donc faire un bilan de compétences, en nous demandant
+    un congé bilan de compétences (CBC). Celui-ci sera en grande partie financé par
+    le FONGECIF Ile-de-France, ne resteront à votre charge qu'une partie de la prestation.\r\nVotre
+    bilan de compétences peut s'effectuer pendant votre CDI et/ou après un CDD. \r\nLe
+    bilan de compétences est une démarche personnelle et volontaire qui permet à chacun,
+    sans condition d'âge ou de statut, de faire le point et d'élaborer un projet professionnel
+    réaliste. \r\nVotre choix peut se porter sur n&#8217;importe quel centre généraliste
+    de bilan de compétences. \r\nNéanmoins et s&#8217;il s&#8217;agit de confirmer
+    ou de développer votre choix d&#8217;autonomie professionnelle dans le cadre de
+    votre activité de consultant, ITG a négocié  et validé pour vous un processus
+    de partenariat avec deux consultantes ITG. ITG n'a pas l'agrément FONGECIF, cependant
+    en créant son centre de bilan de compétences, Nathalie Havre est agréée.\r\nS&#8217;appuyant
+    sur la découverte de vos propres atouts, talents et préférences qu&#8217;ils mettront
+    en lumière avec et grâce à vous, ils vous guideront pour faire converger ces talents
+    avec votre expertise. Ainsi, ils vous permettront d&#8217;élaborer un plan d&#8217;action
+    pour réussir votre projet de professionnel autonome\r\n\r\nLe bilan de compétences
+    comprend trois phases :\r\n\r\n<blockquote><b>1. UNE PHASE PRELIMINAIRE : </b>\r\npour
+    confirmer votre engagement, définir vos besoins, vous informer des conditions
+    du déroulement du bilan.\r\n\r\n<b>2. UNE PHASE D'INVESTIGATION : </b>\r\npour
+    analyser vos motivations et intérêts, identifier vos compétences et aptitudes,
+    déterminer vos possibilités d'évolution professionnelle.\r\n\r\n<b>3. UNE PHASE
+    DE CONCLUSION : </b>\r\npour prendre connaissance des résultats, prévoir les étapes
+    de mise en oeuvre.\r\nA la fin du bilan, le conseiller vous remet une synthèse
+    du bilan qui reste confidentielle ainsi qu&#8217;une fiche d&#8217;enquête de
+    satisfaction.</blockquote>\r\n\r\nSur un plan pratique, ce que vous devez faire
+    pour réaliser ce bilan de compétences :\r\n&#8226; Contacter le FONGECIF pour
+    obtenir un dossier. Puis, consulter la liste des organismes habilités sur le site
+    du FONGECIF : <a href=\"http://www.fongecif-idf.fr\">http://www.fongecif-idf.fr</a>\r\n&#8226;
+    Remplir la part du dossier qui vous concerne : celle du bénéficiaire\r\n&#8226;
+    Contacter l&#8217;organisme choisi. Si vous souhaitez réaliser un bilan pour confirmer
+    et renforcer votre autonomie professionnelle, contacter une des trois personnes
+    ci-dessous : \r\n<blockquote>1. <a href=\"accueil.php?rubid=&artid=14\">Nathalie
+    Havre</a>,\r\n2. <a href=\"accueil.php?rubid=&artid=13\">Odile Mora</a>, \r\n</blockquote>\r\n&#8226;
+    Vous mettre d&#8217;accord avec votre conseiller en bilan sur le déroulement de
+    la prestation : dates et lieu de suivi, prix, établissement des documents&#8230;\r\n&#8226;
+    Finaliser le dossier (ou le faire finaliser par l&#8217;organisme choisi) et le
+    renvoyer pour accord au FONGECIF afin d&#8217;obtenir la prise en charge de la
+    participation FONGECIF Ile de France. "
+  image: ''
+  on_special: false
+  date: '1894-07-03T00:00:00.000+01:00'
+  chapo: Vous pouvez faire un bilan de compétences, en nous demandant un congé bilan
+    de compétences (CBC). Celui-ci sera en grande partie financé par le FONGECIF Ile-de-France.
+  state: false
+  bureau: consultant
+désistement_titles_cesu_préfinancés_millésime_2017_71:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 71
+  over_title: ''
+  title: Désistement titles CESU préfinancés millésime 2017
+  text: "vous avez la possibilité de procéder à un échange de ceux-ci à l’aide du
+    bordereau (Outils = Vos services +   CESU Préfinancés) que vous devez compléter
+    et retourner à la Banque Postale avant le 28 février 2018 en lettre recommandée
+    avec accusé-réception et vous recevrez ensuite vos nouveaux titles courant avril
+    2018. Attention passé ce délai vos titles seront définitivement perdus.\r\n\r\nPour
+    toute question relative à ce sujet vous pouvez joindre Carole de Oliveira chez
+    ITG.\r\nCordialement.\r\n \r\nSébastien GODIN\r\nResponsable Comptable"
+  image: 261216_100830_ART.jpg
+  on_special: false
+  date: '1894-07-03T00:00:00.000+01:00'
+  chapo: "Vous avez commandé en 2017 des titles CESU par notre intermédiaire mais
+    vous ne les avez peut-être pas tous utilisés. \r\n\r\nVos titles Cesu « Millésime
+    2017 » étant valables jusqu’au 31 janvier 2018 pour les paiements par titles papier
+    et jusqu’au 28 février 2018 si paiement en ligne, \r\n\r\n\r\n \r\n"
+  state: false
+  bureau: consultant
+_déclaration_d’activité_de_décembre_2017_78:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 78
+  over_title: ''
+  title: " Déclaration d’activité de décembre 2017"
+  text: ''
+  image: ''
+  on_special: false
+  date: '1894-07-03T00:00:00.000+01:00'
+  chapo: "Chère consultante, cher consultant,\r\n\r\nLa déclaration d’activité de
+    décembre est particulière car c’est elle qui lance le transfert de vos informations
+    de rémunération aux impôts. Vos déclarations d’activité du mois de décembre doivent
+    donc impérativement nous parvenir avant le 31 décembre 2017. \r\n\r\nPassé cette
+    date, nous ne pourrons pas traiter vos paies sur le mois de décembre, ni en rattrapage
+    en janvier.  \r\nC’est le seul mois où la régularisation du mois passé n’est pas
+    possible car cela impacterait et fausserait les déclarations sociales et fiscales
+    de l’année. \r\n\r\nMerci à tous d’anticiper vos déclarations pour ne pas vous
+    laisser déborder par les fêtes de fin d’année. Nous vous rappelons que vous pouvez
+    dès le 20 de chaque mois enregistrer vos déclarations d’activités.\r\n\r\nN’hésitez
+    pas à solliciter votre correspondant de gestion habituel pour toute question complémentaire.
+    \r\n\r\nRadhia Amirat\r\nDirectrice Générale\r\nen charge des Opérations\r\n"
+  state: false
+  bureau: consultant
+signature_électronique_de_vos_contrats_de_travail_74:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 74
+  over_title: ''
+  title: Signature électronique de vos contrats de travail
+  text: "Une information SMS vous sera adressée dès la création de votre contrat
+    pour vous informer que le lien de signature est disponible dans votre boîte mail
+    (adresse mail et numéro de téléphone portable enregistrés chez ITG, pour les recevoir,
+    n’oubliez pas de le signaler à votre correspondante de gestion tout changement).\r\n\r\nPar
+    la même occasion, nous sommes heureux de vous offrir un <a href=\"https://hub.itg.fr/fiches_services/cms/pages/d10-consultant-coffre-fort-electronique\">coffre-fort
+    numérique personnel </a>et sécurisé, garanti par la caisse des Dépôts et Consignation.
+    Vous pourrez y stocker tous vos documents confidentiels et bénéficier de 10 Go
+    de stockage gratuit à vie.\r\n\r\n\r\nTrès Cordialement, \r\n\r\n<b>Radhia Amirat</b>\r\nDGA
+    Opérations\r\n"
+  image: ''
+  on_special: false
+  date: '1894-07-01T00:00:00.000+01:00'
+  chapo: "Depuis le 18 juillet 2016, vos contrats de travail et avenants vous sont
+    adressés, pour signature, de manière numérique.\r\n\r\nPour sécuriser cette démarche,
+    nous passons par le biais d’une plateforme de signature électronique appelée PeopleDoc
+    (vous recevrez donc des emails de l’adresse : no-reply@people-doc.com)."
+  state: false
+  bureau: consultant
+ordonnance_sur_le_portage_salarial_2_avril_2015_60:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 60
+  over_title: ''
+  title: ORDONNANCE sur le PORTAGE SALARIAL 2 avril 2015
+  text: " \r\nCe text confirme et apporte des sécurisations d’ordre juridique en
+    renforçant votre statut de salarié :\r\n-          La formation et l’accompagnement
+    des experts portés deviennent une composante obligatoire de l’activité de portage\r\n-
+    \         L’entreprise de portage doit souscrire à une caution financière plus
+    conséquente pour garantir le versement des salaires aux portés.\r\n-          L’accès
+    à l’indemnisation chômage est garanti pour tout salarié qui perçoit  au minimum
+    2500€ bruts par mois (équivalent temps plein).\r\n \r\nCette ordonnance apporte
+    de fait des avantages d’ordre commercial puisque la clarification juridique va
+    faciliter vos démarches auprès des entreprises :\r\n \r\n?  Certaines directions
+    encore frileuses à utiliser ce statut en raison du flou juridique seront sécurisées
+    par ce text qui pose un cadre clair à son recours.\r\n?  Cette importante étape
+    juridique confirme l’évolution du marché du travail vers les nouvelles formes
+    d’emploi et rendra plus naturel et plus fréquent le recours aux experts externes.\r\n
+    \r\nCette ordonnance oblige également l’ensemble des entreprises de portage salarial
+    à respecter des standards élevés en faveur des experts portés.\r\n \r\nNous sommes
+    fiers d’avoir contribué, depuis des années, à construire un portage salarial responsable,
+    co-bâtie avec les partenaires sociaux. Depuis plusieurs années, l’implication
+    de notre Groupe a permis d’influencer positivement le secteur et a été saluée
+    lors des récentes négociations avec le Gouvernement.\r\n \r\nPrès de 20 ans après
+    la création d’ITG, c’est une nouvelle étape pour le portage salarial et les milliers
+    d’experts qui comme vous font confiance à ITG.\r\n \r\nAu plaisir de continuer
+    ensemble,\r\nBien Cordialement,\r\n \r\nPour plus d’information : http://www.itg.fr/portage-salarial/les-actualites/portage-salarial-ordonnance
+    \r\n \r\n \r\nBien cordialement,\r\n \r\nRadhia AMIRAT\r\nDirectrice des Opérations\r\nradhia.amirat@itg.fr\r\n"
+  image: ''
+  on_special: false
+  date: '1894-07-01T00:00:00.000+01:00'
+  chapo: "Chères consultantes, chers consultants,\r\n \r\nNous avons le plaisir de
+    vous annoncer que le Gouvernement vient d’adopter ce jour en Conseil des Ministres
+    une ordonnance qui sécurise définitivement le portage salarial.\r\n \r\nC’est
+    l’aboutissement d’un chemin légal débuté par la loi de 2008 qui a introduit le
+    portage salarial  dans le Code du travail. \r\nEn 2010, un accord de branche avait
+    posé un cadre global à l’activité. Puis en 2014, une décision du Conseil Constitutionnel
+    avait poussé le législateur à se saisir du dossier et à sécuriser plus encore
+    le secteur et toutes les personnes qui ont recours à cette solution, par voie
+    d’ordonnance.\r\nC’est cette ordonnance qui vient d’être adoptée ce matin et nous
+    tenions à vous en livrer les premiers éléments.\r\n\r\n"
+  state: false
+  bureau: consultant
+la_déclaration_sociale_nominative_:_urgent_et_important__(mail_du_29_avril_2015)_61:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 61
+  over_title: ''
+  title: 'La Déclaration Sociale Nominative : urgent et important  (mail du 29 avril
+    2015)'
+  text: "1.\tDéclaration d’activité obligatoirement mensuelle et à transmettre avant
+    le dernier jour du mois. \r\n2.\tInformer sa correspondante dès survenance des
+    éléments suivants : \r\n\t- Des absences (maladie, Accident du travail et de trajet)\r\n\t-
+    Des modifications de son activité\r\n\t     *Alerter rapidement d’un arret anticipé
+    de la mission\r\n\t     *Prévenir avant l’établissement du salaire d’une éventuelle
+    prolongation de mission\r\n\t     *Alerter en cas de difficulté de développement
+    activité\r\n\r\nLa Déclaration sociale nominative est un projet majeur du « choc
+    de simplification » initié en France pour les entreprises, qui va remplacer toutes
+    les déclarations sociales. \r\nLes avantages : \r\n•\tPour l’entreprise : La sécurisation
+    et la fiabilisation des obligations sociales avec moins de risques d’erreurs et
+    de pénalités. La maitrise de ses données est meilleure et le dispositif de contrôle
+    complet et clair.\r\n•\tPour le salarié : la sécurisation des droits grâce à une
+    identification unique valable auprès de tous les organismes, la simplification
+    des démarches et l’assurance de la portabilité des droits, la confidentialité
+    renforcée des données en circulation, celles-ci étant moins nombreuses. \r\n\r\n\r\n<b>Agenda
+    :</b>\r\n\r\n<b>Mai 2015</b> : Cette obligation est effective à partir de mai
+    pour les éléments mentionnés au point 2\r\n\r\n<b>Août 2015</b> : Nous ne pourrons
+    plus traiter les déclarations d’activités (point 1) au-delà du dernier jour du
+    mois à partir du mois d’août 2015. \r\nNous vous tiendrons régulièrement informés,
+    cependant vous pouvez dès maintenant mettre en pratique ces bons réflexes de communication.\r\n\r\nBien
+    cordialement,\r\n\r\nAbdelkader HADDOUCHE                                     Radhia
+    AMIRAT\r\nDirecteur Général Adjoint                                    Directrice
+    des Opérations\r\n"
+  image: ''
+  on_special: false
+  date: '1894-07-01T00:00:00.000+01:00'
+  chapo: "Chère Consultante, Cher Consultant,\r\n\r\nLe Pacte national pour la croissance,
+    la compétitivité et l’emploi lancé par la loi du 22 mars 2012 et acté par le décret
+    du 28 mars 2013 rend obligatoire la déclaration sociale nominative (DSN) pour
+    toutes les sociétés françaises.\r\n\r\nCette DSN repose sur la transmission unique,
+    mensuelle et dématérialisée des données issues de la paie et la transmission dématérialisée
+    de signalements d’événements.\r\n\r\nCela implique pour vous, salarié d’ITG, des
+    échéances à respecter :"
+  state: false
+  bureau: consultant
+déménagement_du_siège_social_d’itg__62:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 62
+  over_title: ''
+  title: 'Déménagement du siège social d’ITG '
+  text: ''
+  image: ''
+  on_special: false
+  date: '1894-07-01T00:00:00.000+01:00'
+  chapo: "Chères Consultantes, Chers Consultants,\r\n\r\nNotre siège social se trouve
+    désormais au 18 rue de la Ville-l’Evêque, 75 008 Paris.\r\n\r\nUn système de redirection
+    du courrier sera maintenu pendant 2 ans mais pour plus de réactivité, pensez à
+    utiliser cette nouvelle adresse.\r\n\r\nAu plaisir de vous accueillir dans nos
+    nouveaux locaux.\r\n\r\nBien cordialement,\r\n \r\nRadhia AMIRAT\r\nDirectrice
+    des Opérations \r\n"
+  state: false
+  bureau: consultant
+pont_du_14_juillet_2015_63:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 63
+  over_title: ''
+  title: Pont du 14 juillet 2015
+  text: ''
+  image: ''
+  on_special: true
+  date: '1894-06-29T00:00:00.000+01:00'
+  chapo: "Chère consultante, cher consultant,\r\n\r\nITG vous informe que les bureaux
+    de Paris seront fermés ce lundi 13 juillet 2015.\r\n\r\nNous vous retrouverons
+    avec plaisir dès mercredi 15 Juillet pour répondre à vos attentes. \r\n\r\nTrès
+    cordialement\r\nAbdelkader Haddouche\r\nDirecteur général adjoint"
+  state: false
+  bureau: consultant
+plan_d’épargne_entreprise_-_pee__64:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 64
+  over_title: ''
+  title: 'Plan d’épargne entreprise - PEE '
+  text: "Aux consultants (e) intéressés (e) :\r\n\r\n•  Ce dispositif vous intéresse,
+    vous avez jusqu’au lundi 17 décembre 2018, date limite pour nous adresser le bulletin
+    de versement accompagné de votre chèque de versement volontaire\r\n\r\n•  Pour
+    accéder aux documents, depuis Mon Espace ITG, Mes services, Optimiser ma gestion
+    <a href=\"https://hub.itg.fr/bureau_consultant/services/d7-consultant-le-plan-epargne-entreprise-itg\">votre
+    PEE</a> : vous trouverez les documents dans la rubrique \"Aller plus loin\" :
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+    - bulletin de versement, - guide pour le choix des supports financiers, - mode
+    d’emploi. \r\n\r\nFAQ :\r\n•  votre chèque signé à l’ordre de AMUNDI \r\n•  le
+    bulletin de versement : indiquer l’affectation des fonds \r\n•  votre envoi postal
+    date limite le 17/12/2018, à ITG 18 rue de la Ville-l’Eveque 75008 Paris\r\n•
+    \ pour toute question, vous pourrez joindre directement votre correspondante de
+    gestion \r\n                                      \r\n"
+  image: 121018_122131_ART.jpg
+  on_special: true
+  date: '1894-06-29T00:00:00.000+01:00'
+  chapo: "Le Plan d’Epargne Entreprise est un système d’épargne collectif pour les
+    consultants salariés du Groupe ITG, facilitant la constitution d’une épargne à
+    partir d’un versement volontaire.\r\n\r\nTous les consultants salariés ont le
+    droit de souscrire au PEE à condition d’avoir trois mois d’ancienneté. \r\n\r\nLe
+    principe :\r\n•  Une fois par an (année civile du 1er janvier au 31 décembre),
+    vous avez la possibilité de faire un versement volontaire de 1 059.52 euros (optimum),
+    chéque signé à l’ordre de AMUNDI\r\n•  Ce versement libre sera abondé à 300%,
+    ainsi un versement initial de 1 059.52 euros ouvre un abondement de (1 059.52
+    euros*3) soit 3 178.56 euros.\r\nL’abondement sera prélevé sur le compte financier
+    du consultant et sera soumis à CSG, CRDS et forfait social au taux de 29.7% (CSG
+    et CRDS 9.7% et forfait social 20%), exonéré de toutes autres charges sociales
+    et fiscales. \r\n"
+  state: false
+  bureau: consultant
+taxe_sur_les_véhicules_de_sociétés_65:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 65
+  over_title: ''
+  title: Taxe sur les Véhicules de Sociétés
+  text: "Dès lors que vous êtes concernés, nous calculerons et imputerons le montant
+    de la TVS, sur vos comptes financiers mi-décembre (date d’opération au 30/11/17).
+    \r\nLes différents barèmes servant au calcul de la TVS sont définis dans la note
+    d’information : <a href=\"https://www.itg.fr/upload/Document/Note_information_TVS_2016-17.pdf\">cliquer
+    ici</a>. \r\n\r\n\r\nBien cordialement,\r\nRadhia AMIRAT\r\nDirectrice Générale "
+  image: ''
+  on_special: true
+  date: '1894-06-29T00:00:00.000+01:00'
+  chapo: "Chère Consultante, Cher Consultant,\r\n\r\n\r\nDepuis 2006, la TVS s’appliquent
+    aux véhicules utilisés à title professionnel par les salariés à la condition qu’ils
+    aient donné lieu à des remboursements pour plus de 15 000 km, pour la période
+    du 1er octobre 2016 au 30 septembre 2017.<a href=\"https://www.itg.fr/upload/Document/Note_information_TVS_2016-17.pdf\"></a>\r\n\r\nA
+    compter du 01/01/2018, la période d'imposition sera alignée sur l'année civile.\r\nEn
+    conséquence, le 4eme trimestre 2017, fera l'objet d'une déclaration spécifique
+    au 15/01/2018.\r\n                                        \r\n"
+  state: false
+  bureau: consultant
+message_de_patrick_levy-waitz,_président_du_groupe_missioneo_66:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 66
+  over_title: ''
+  title: Message de Patrick Levy-Waitz, Président du Groupe MISSIONEO
+  text: "En janvier dernier les attentats perpétrés à Paris avaient coûté la vie
+    à 17 citoyens, parce qu’ils étaient journalistes, porteurs de la liberté d’expression,
+    parce qu’ils étaient de confession juive, assumant librement leur choix de culte,
+    parce qu’ils étaient policiers, acteurs de notre sécurité à tous.\r\n\r\nCe vendredi
+    13 novembre, ce ne sont pas des attentats mais de réels actes de guerre qui ont
+    eu lieu à Paris. C’est toute la population de notre pays qui était visée par l’organisation
+    terroriste Daesh. Notre pays est en guerre. Cette guerre sera peut-etre longue
+    et douloureuse, mais notre pays la gagnera.\r\nIl appartient à l’state de prendre
+    les mesures appropriées pour garantir la sécurité de chacun d’entre nous. Mais
+    il appartient à chacun de nous de faire preuve de vigilance et d’attention dans
+    les mois qui viennent.\r\n\r\nVous pourrez compter sur notre soutien, notre solidarité
+    et notre vigilance.\r\n\r\nConfraternellement,\r\n\r\nPatrick Levy-Waitz \r\nPrésident\r\n"
+  image: ''
+  on_special: false
+  date: '1894-06-29T00:00:00.000+01:00'
+  chapo: "Chers Collègues,\r\n\r\nNous avons évidemment observé une minute de silence
+    à 12h ce lundi midi conformément aux souhaits du Président de la République.\r\n\r\nIl
+    n’y a pas de mots. Dans le moment tragique que le pays connait, je veux vous assurer
+    de la pleine mobilisation de l’équipe de direction pour faire face à cette situation.
+    J’espère qu’aucun de vos proches ni amis n’a été victime de ces actes barbares.
+    Toute personne affectée, directement ou au travers de ses proches, pourra compter,
+    bien entendu, sur le soutien de l’ensemble de l’entreprise.\r\n"
+  state: false
+  bureau: consultant
+dates_de_cloture_itg_2016_53:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 53
+  over_title: ''
+  title: Dates de cloture ITG 2016
+  text: ''
+  image: ''
+  on_special: false
+  date: '1894-06-29T00:00:00.000+01:00'
+  chapo: " \t\r\n<b>Dates de clôture 2016</b>\r\n\r\n\r\nChère Consultante, Cher Consultant,\r\n\r\n\r\nEn
+    vue de remplir nos obligations déclaratives et de clôturer l'exercice, nous vous
+    rappelons que vos factures et dépenses de fonctionnement relatives à l'année 2016
+    doivent impérativement être validées et envoyées au plus tard :\r\nle jeudi 20
+    janvier 2017\r\nAu delà du 20 janvier 2017, nous ne serons plus en mesure d'établir
+    les factures, pas plus que d'accepter les frais de fonctionnement relatifs à l'année
+    2016 .\r\nNous vous remercions de votre attention.\r\n\r\n\r\nTrès cordialement\r\nAbdelkader
+    Haddouche\r\nDirecteur général adjoint "
+  state: false
+  bureau: consultant
+plan_d’épargne_entreprise_-_pee_67:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 67
+  over_title: ''
+  title: Plan d’épargne entreprise - PEE
+  text: "Aux consultants (e) intéressés (e) :\r\n\r\n•  Ce dispositif vous intéresse,
+    vous avez jusqu’au vendredi 15 décembre 2017, date limite pour nous adresser le
+    bulletin de versement accompagné de votre chèque de versement volontaire\r\n•
+    \ Pour accéder aux documents, depuis monespace.itg.fr (ou bureau.itg.fr), dans
+    Outils et Documentation puis votre PEE : vous y trouverez les documents comme
+    : - bulletin de versement, - guide pour le choix des supports financiers, - mode
+    d’emploi. \r\n\r\n\r\nFAQ :\r\n•  votre chèque signé à l’ordre de AMUNDI \r\n•
+    \ le bulletin de versement : indiquer l’affectation des fonds \r\n•  votre envoi
+    postal date limite le 15/12/2017, à ITG 18 rue de la Ville-l’Eveque 75008 Paris\r\n•
+    \ pour toute question, vous pourrez joindre directement votre correspondante de
+    gestion \r\n\r\nTrès cordialement,\r\nRadhia AMIRAT\r\nDirectrice des Opérations
+    \                                        \r\n"
+  image: ''
+  on_special: false
+  date: '1894-06-29T00:00:00.000+01:00'
+  chapo: "Chère consultante, Cher consultant,\r\n\r\nLe Plan d’Epargne Entreprise
+    est un système d’épargne collectif pour les consultants salariés du Groupe ITG,
+    facilitant la constitution d’une épargne à partir d’un versement volontaire. \r\n\r\nTous
+    les consultants salariés ont le droit de souscrire au PEE à condition d’avoir
+    trois mois d’ancienneté. \r\n \t\r\nLe principe :\r\n•  Une fois par an (année
+    civile du 1er janvier au 31 décembre), vous avez la possibilité de faire un versement
+    volontaire de 1 046.08 euros (optimum), chéque signé à l’ordre de AMUNDI\r\n\r\n•
+    \ Ce versement libre sera abondé à 300%, ainsi un versement initial de 1 046.08€\r\n
+    euros ouvre un abondement de (1 046.08  euros*3) soit 3 138.24  euros.\r\nL’abondement
+    sera prélevé sur le compte financier du consultant et sera soumis à CSG, CRDS
+    et forfait social au taux de 28% (CSG et CRDS 8% et forfait social 20%), exonéré
+    de toutes autres charges sociales et fiscales. \r\n"
+  state: false
+  bureau: consultant
+loi_de_sécuristion_de_l'emploi_du_14/06/13_49:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 49
+  over_title: ''
+  title: Loi de sécuristion de l'emploi du 14/06/13
+  text: "A compter de cette date, les contrats CDD de courte durée seront davantage
+    taxés : \r\n\r\n- Les CDD d'une durée inférieure à 1 mois verront la cotisation
+    patronale à l'assurance chômage passer de 4% à 7% soit une augmentation de 3%,\r\n\r\n\r\n-
+    Les CDD d'une durée comprise entre 1 et 3 mois verront la cotisation patronale
+    à l'assurance chômage passer de 4% à 5.5% soit une augmentation de 1.5%.\r\n\r\n\r\nPour
+    l'appréciation du taux, seule la durée initiale du contrat est prise en compte.
+    Il est à noter que si le CDD se transforme en CDI, la contribution supplémentaire
+    de 3% ou 1.5% suivant le cas, sera remboursée.\r\n\r\nUne des solutions suggérées
+    pour répercuter cette augmentation de charge, inscrite dans la loi de sécurisation
+    de l'emploi du 14 juin, consiste à augmenter les honoraires HT facturés respectivement
+    de 2 et de 1%."
+  image: ''
+  on_special: false
+  date: '1894-06-29T00:00:00.000+01:00'
+  chapo: 'Depuis la loi de sécurisation de l&#8217;emploi du 14 juin 2013, un nouveau
+    dispositif s''applique aux contrats à durée déterminée conclus à partir du 1er
+    juillet 2013. '
+  state: false
+  bureau: consultant
+epargne_salariale_:_déblocage_anticipé_50:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 50
+  over_title: ''
+  title: 'EPARGNE SALARIALE : Déblocage anticipé'
+  text: "Les conditions liées au déblocage doivent permettre :\r\n\r\n    l'achat
+    d'un ou de plusieurs biens\r\n    la fourniture d'une ou de plusieurs prestations
+    de services.\r\n\r\nLa somme débloquée (en une seule fois), dans le cadre de ce
+    dispositif n'est pas assujettie à l'impôt sur le revenu ni aux charges sociales.
+    La CSG et la CRDS restent dues sur les plus values.\r\nIl reste nécessaire de
+    conserver les factures d'achat pour justification auprès des services fiscaux.\r\nNous
+    vous prions de croire, Chère Consultante, Cher Consultant, à l'expression de nos
+    sentiments les meilleurs.\r\n\r\nAbdelkader HADDOUCHE\r\nDirecteur Général Adjoint
+    \                        "
+  image: '080713_190856_ART.jpg'
+  on_special: true
+  date: '1894-06-29T00:00:00.000+01:00'
+  chapo: 'Tout salarié détenteur d''un Plan d''Epargne Entreprise (PEE) a la possibilité
+    à compter du 1er juillet et jusqu''au 31 décembre 2013, de débloquer exceptionnellement,
+    la partie des sommes acquises avant le 1er janvier 2013, jusqu''à 20 000€. '
+  state: false
+  bureau: consultant
+mise_à_jour_de_notre_politique_de_données_personnelles_85:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 85
+  over_title: ''
+  title: Mise à jour de notre politique de données personnelles
+  text: ''
+  image: ''
+  on_special: false
+  date: '1894-06-28T00:00:00.000+01:00'
+  chapo: "Nous mettons à jour notre politique de données personnelles pour nous conformer
+    au Règlement Général sur la Protection des Données (RGPD). \r\n\r\nNous donnons
+    ainsi toutes les garanties possibles pour vous sécuriser ainsi que sécuriser vos
+    clients.\r\n\r\nPour toute question, n’hésitez pas à nous contacter sur contact.cnil@itg.fr\r\n\r\n<a
+    href=\"https://www.itg.fr/upload/Document/protection-dp-itg.pdf\" target=\"_blank\">
+    N’hésitez pas à la consulter.</a>\r\n"
+  state: false
+  bureau: consultant
+rgpd_:_votre_kit_de_survie_juridique_et_pratique_84:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 84
+  over_title: ''
+  title: 'RGPD : votre kit de survie juridique et pratique'
+  text: ''
+  image: 290818_155001_ART.jpg
+  on_special: false
+  date: '1894-06-28T00:00:00.000+01:00'
+  chapo: "Toujours soucieux de vous aider, nous avons réalisé un « Kit de survie RGPD
+    » pour vous, en tant que consultant autonome en portage salarial. \r\n\r\nIl peut
+    aussi vous permettre de répondre aux éventuelles questions de vos clients. \r\n<a
+    href=\"https://www.itg.fr/upload/Document/KIT_SURVIE_RGPD_RG1.pdf\" target=\"_blank\">
+    N’hésitez pas à le consulter.</a>"
+  state: false
+  bureau: consultant
+plateforme_innovante_de_missions_:_missioneo.com_20:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 20
+  over_title: ''
+  title: 'Plateforme innovante de missions : missioneo.com'
+  text: "Grâce à ce partenariat, vous aurez accès à la nouvelle plateforme de missions
+    : missioneo.com (operated-by-meteojob)\r\n \r\n•\t Trouver des missions grâce
+    à une <a href=\"http://www.itg.fr\">plateforme innovante</a>•\t\r\n•\t <a href=\"http://www.missioneo.fr\">missioneo.com
+    </a>a vocation à devenir le premier site dédié missions. Il va mettre en relation
+    les entreprises qui souhaitent confier une mission avec les profils d’experts
+    qui pourront répondre aux besoins de la prestation.\r\n•\t\r\n•\t Dans le cadre
+    de votre activité, cette plateforme va vous permettre d’élargir les circuits habituels
+    et vous rendre visible par les entreprises en recherche.\r\nPour le lancement
+    de cette plateforme innovante, Missioneo Group vous propose de bénéficier en avant-première
+    de ce service. <a href=\"http://www.missioneo.fr\">Cliquez ICI</a>\r\n\r\nEn l’absence
+    de réponse de votre part dans un délai d’un mois à compter de la réception de
+    cette invitation, votre volonté de bénéficier des services de Missioneo.com sera
+    réputée acquise. Vous disposez d’un droit d’accès, de modification, de rectification
+    et de suppression des données qui vous concernent. Vous pourrez nous faire part
+    ultérieurement, à tout moment, de votre souhait d’être retiré de ce service en
+    adressant un message à contact@missioneo.fr\r\nSoucieux de vous apporter toujours
+    plus de services, Missioneo Group est susceptible de vous proposer d’autres services
+    en partenariat avec des acteurs majeurs de l’emploi.\r\nBien cordialement,\r\n\r\nPatrick
+    Levy-Waitz\r\nPrésident\r\n"
+  image: 311014_182601_ART.jpg
+  on_special: false
+  date: '1894-06-28T00:00:00.000+01:00'
+  chapo: "Chères consultantes, chers consultants, \r\n\r\nA l’occasion de nos vœux
+    de janvier dernier, nous avions fixé comme priorité l’accompagnement des consultants
+    et la création d’un écosystème relationnel pour élargir le champ de vos opportunités.
+    \r\nPour vous aider à renforcer votre efficacité auprès de vos clients, nous sommes
+    heureux de vous présenter une nouvelle opportunité de développement de votre activité.
+    Pour vous permettre de démultiplier vos chances de trouver des missions, nous
+    avons le plaisir de vous annoncer que notre maison mère, Missioneo Group, a conclu
+    un partenariat avec Météojob, l’un des plus importants sites d’emploi français,
+    qui a permis des milliers de recrutements depuis des années. \r\nGrâce à ce partenariat,
+    vous aurez accès à la nouvelle plateforme de missions : missioneo.com (operated-by-meteojob)\r\n"
+  state: false
+  bureau: consultant
+simplification_de_la_saisie_de_vos_factures_!__93:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 93
+  over_title: ''
+  title: 'Simplification de la saisie de vos factures ! '
+  text: ''
+  image: 151118_143308_ART.jpg
+  on_special: false
+  date: '1894-06-27T00:00:00.000+01:00'
+  chapo: "Vous nous l’aviez demandé : nous avons fait évoluer la saisie de vos factures.
+    \r\n\r\nElle a été simplifiée et vous avez aussi désormais la possibilité de visualiser
+    le rendu réel de vos factures. \r\n\r\nNous avons aussi bien pris en compte votre
+    demande de pouvoir dupliquer une ancienne facture. \r\nNous y travaillons et vous
+    tiendrons informés dès que cette évolution sera disponible. \r\n\r\nDécouvrez
+    les nouveautés de la saisie de vos factures en images, <a href=\"https://www.youtube.com/watch?v=H8Tyu8BsYv4\"><b>ici</b></a>\r\n"
+  state: false
+  bureau: consultant
+dates_butoirs_pour_faire_ses_déclarations_au_title_de_2011_47:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 47
+  over_title: ''
+  title: Dates butoirs pour faire ses déclarations au title de 2011
+  text: "Chers consultants, \r\n\r\nEn vue de remplir nos obligations déclaratives,
+    nous vous rappelons que vos déclarations d'activité et dépenses de fonctionnement
+    relatives à l'année 2011 doivent impérativement être validées et envoyées au plus
+    tard le <b>vendredi 13 janvier 2012</b>. \r\n\r\nAu delà de cette date, nous ne
+    <b>serons plus en mesure d'établir les bulletins de paie relatifs à l'année 201</b>1.\r\n\r\nNous
+    vous remercions de votre attention, \r\n\r\nTrès cordialement,\r\n\r\nAbdelkader
+    Haddouche\r\nDirecteur général adjoint \r\n"
+  image: '091211_154849_ART.jpg'
+  on_special: false
+  date: '1894-06-27T00:00:00.000+01:00'
+  chapo: "\r\n\r\n\r\n"
+  state: false
+  bureau: consultant
+travaux_de_clôture_informatiques_des_comptes_annuels__44:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 44
+  over_title: ''
+  title: 'Travaux de clôture informatiques des comptes annuels '
+  text: "Chère consultante, cher consultant,\r\n\r\nITG vous informe que l'accès
+    au <b>bureau.itg.fr</b> sera non disponible le jeudi 30 juin 2011 de 17h30 à 22h30.\r\n\r\nNous
+    procédons aux arrêtés informatiques  des comptes de l'année 2010.\r\nNous vous
+    retrouverons pour vos opérations dès la fin de ces travaux.\r\n\r\nTrès cordialement\r\nMartine
+    Alves\r\nResponsable communication\r\nmartine.alves@itg.fr\r\n\r\nGroupe ITG\r\n26,
+    rue de la Pépinière\r\n75008 Paris\r\nTél : 01 44 69 80 40\r\nhttp://www.itg.fr "
+  image: ''
+  on_special: true
+  date: '1894-06-25T00:00:00.000+01:00'
+  chapo: "Chère consultante, cher consultant,\r\n\r\nITG vous informe que l'accès
+    au <b>bureau.itg.fr</b> sera non disponible le jeudi 30 juin 2011 de 17h30 à 22h30.\r\n\r\nNous
+    procédons aux arrêtés informatiques  des comptes de l'année 2010.\r\nNous vous
+    retrouverons pour vos opérations dès la fin de ces travaux.\r\n\r\nTrès cordialement\r\nMartine
+    Alves\r\nResponsable communication\r\nmartine.alves@itg.fr\r\n\r\nGroupe ITG\r\n26,
+    rue de la Pépinière\r\n75008 Paris\r\nTél : 01 44 69 80 40\r\nhttp://www.itg.fr "
+  state: false
+  bureau: consultant
+nouveau_!_«_mon_espace_itg_»_disponible_sur_les_stores_!__88:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 88
+  over_title: ''
+  title: 'Nouveau ! « Mon Espace ITG » disponible sur les stores ! '
+  text: ''
+  image: 121018_114823_ART.jpg
+  on_special: false
+  date: '1894-06-25T00:00:00.000+01:00'
+  chapo: "Vous pouvez désormais télécharger « Mon Espace ITG » sur les stores et vous
+    connecter où que vous soyez ! \r\n\r\n\r\nLa transformation digitale de nos outils
+    est une réalité : après le lancement de « Mon Espace » sur desktop en juin dernier,
+    nous lançons aujourd’hui son application mobile accessible sur tous types de smartphone.
+    \r\n\r\nVous y retrouverez les mêmes fonctionnalités et la synchronisation s’effectue
+    en temps réel entre ordinateur et smartphone. Toujours plus de simplicité pour
+    vous alors n’hésitez pas à la télécharger ! \r\n\r\n<a href=\"https://itunes.apple.com/fr/app/mon-espace-itg/id1393013658?mt=8\">AppStore</a>
+    : https://itunes.apple.com/fr/app/mon-espace-itg/id1393013658?mt=8\r\n\r\n\r\n<a
+    href=\"https://play.google.com/store/apps/details?id=fr.itg.monespace\">Android</a>
+    : https://play.google.com/store/apps/details?id=fr.itg.monespace"
+  state: false
+  bureau: consultant
+_carte_de_voeux_itg_personnalisable_pour_vos_clients_79:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 79
+  over_title: ''
+  title: " Carte de Voeux ITG personnalisable pour vos clients"
+  text: ''
+  image: '030118_182825_ART.jpg'
+  on_special: false
+  date: '1894-06-25T00:00:00.000+01:00'
+  chapo: "ITG vous offre la possibilité de personnaliser votre carte de vœux.\r\n\r\nPour
+    l’utiliser très simplement pour vos clients, connectez-vous sur <a href=\"http://cmm-digital.fr/news/I/ITG/2017/voeux-2018/\">ce
+    lien</a>\r\n\r\nMerci de saisir les informations dans l'espace réservé, qui permettront
+    de générer votre signature de mail, puis de choisir votre logo. Personnalisez
+    ensuite le message accompagnant la carte de vœux électronique puis cliquez sur
+    « Créer la carte de vœux ». \r\nVous la recevrez directement dans votre boîte
+    email afin de la transférer à vos contacts.\r\n\r\nTous nos meilleurs vœux pour
+    2018.\t\r\n\r\n\r\n"
+  state: false
+  bureau: consultant
+fermeture_exceptionnelle_des_locaux_itg_73:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 73
+  over_title: ''
+  title: Fermeture exceptionnelle des locaux ITG
+  text: ''
+  image: ''
+  on_special: false
+  date: '1894-06-23T00:00:00.000+01:00'
+  chapo: "Chère consultante, cher consultant,\r\n\r\nITG vous informe que les bureaux
+    de Paris seront exceptionnellement fermés le vendredi 11 Mai 2018.\r\n\r\nNous
+    vous retrouverons avec plaisir dès lundi matin, le 14 Mai pour répondre à vos
+    attentes. \r\n\r\nBien cordialement,\r\n\r\nRadhia AMIRAT\r\nDirectrice générale
+    adjointe\r\n"
+  state: false
+  bureau: consultant
+date_de_clôture_2013_:_vos_déclarations_d'activité_et_dépenses_de_fonctionnement_51:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 51
+  over_title: ''
+  title: 'Date de clôture 2013 : vos déclarations d''activité et dépenses de fonctionnement'
+  text: " \t\r\nDates de clôture 2013\r\nChère Consultante, Cher Consultant,\r\nEn
+    vue de remplir nos obligations déclaratives et de clôturer l'exercice, nous vous
+    rappelons que vos déclarations d'activité et dépenses de fonctionnement relatives
+    à l'année 2013 doivent impérativement être validées et envoyées au plus tard :\r\nle
+    vendredi 10 janvier 2014\r\nAu delà de cette date, nous ne serons plus en mesure
+    d'établir les bulletins de paie relatifs à l'année 2013.\r\nNous vous remercions
+    de votre attention.\r\nTrès cordialement\r\nAbdelkader HADDOUCHE\r\nDirecteur
+    Général Adjoint   <a href=\"http://www.itg.fr/upload/VOTRE_GESTION/13_12_02_date_cloture_2013.html\"></a>"
+  image: ''
+  on_special: true
+  date: '1894-06-20T00:00:00.000+01:00'
+  chapo: la date limite pour vos <a href="http://www.itg.fr/upload/VOTRE_GESTION/13_12_02_date_cloture_2013.html">déclarations
+    d'activité et de dépenses de fonctionnement 2013</a> est le 10 janvier 2014.
+  state: false
+  bureau: consultant
+inscrivez-vous_à_notre_after_itg_le_16_octobre_à_boulogne_(92)!__83:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 83
+  over_title: ''
+  title: 'Inscrivez-vous à notre After ITG le 16 octobre à Boulogne (92)! '
+  text: ''
+  image: 250918_173139_ART.jpg
+  on_special: false
+  date: '1894-06-19T00:00:00.000+01:00'
+  chapo: "Venez rencontrer les consultants du réseau ITG, échanger sur les bonnes
+    pratiques et les retours d’expérience autour d'un Afterwork le 16 octobre chez
+    Emergence 121 rue d’Aguesseau 92100 Boulogne.\r\nL’équipe ITG sera également présente
+    pour vous parler des nouveautés et répondre à vos questions. Convivialité au rendez-vous
+    !\r\n \r\n\r\n<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfnQ14aP3qsJ7QuQqELzJLqh-SGr2XYCrA9ayT3DgqO6cUejg/viewform\"
+    target=\"_blank\"> Je m’inscris</a>\r\n"
+  state: false
+  bureau: consultant
+prélèvement_à_la_source_:_un_nouveau_bulletin_de_paie_à_partir_du_1er_janvier_2019_!_92:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 92
+  over_title: ''
+  title: 'Prélèvement à la source : un nouveau bulletin de paie à partir du 1er janvier
+    2019 !'
+  text: ''
+  image: '071118_184030_ART.jpg'
+  on_special: true
+  date: '1894-06-19T00:00:00.000+01:00'
+  chapo: "Le prélèvement à la source aura bien lieu. Seul l’state pilote les prélèvements
+    liés à l’impôt à la source et nous devons, en tant que société de portage salarial
+    comme tout employeur, appliquer les taux de prélèvement transmis par l’state, sans
+    marge de manœuvre. \r\n\r\nN'hésitez pas à consulter notre note explicative (
+    <a target=\"_blank\" href=\"https://www.itg.fr/upload/Document/PJ1.pdf\">cliquez
+    ici PJ 1</a>), ainsi que le modèle de votre bulletin de paie simplifié actuel
+    (<a target=\"_blank\" href=\"https://www.itg.fr/upload/Document/PJ2.pdf\">cliquez
+    ici PJ 2</a>) et le modèle du bulletin simplifié tel qu’il se présentera dès janvier
+    2019 (<a target=\"_blank\" href=\"https://www.itg.fr/upload/Document/PJ3.pdf\">cliquez
+    ici PJ 3</a>)."
+  state: true
+  bureau: consultant
+préparez_les_fêtes_de_noël_!_cap_vers_vos_envies_…_91:
+  created_by: 293
+  updated_by: 293
+  created_at: '2019-06-15T16:49:18.679+02:00'
+  updated_at: '2019-06-15T16:49:18.679+02:00'
+  id: 91
+  over_title: ''
+  title: Préparez les fêtes de Noël ! CAP vers vos envies …
+  text: ''
+  image: '071118_181817_ART.jpg'
+  on_special: false
+  date: '1894-06-19T00:00:00.000+01:00'
+  chapo: "Grâce au  comité d’entreprise ITG, vous bénéficiez de nombreux avantages
+    pour vos achats et loisirs auprès de nombreux partenaires : chèques-réduction
+    multi-enseignes, billetterie spectacles et cinéma, cartes prépayées pour les grandes
+    surfaces (Auchan, Carrefour, etc.), réductions dans de nombreux magasins ainsi
+    que dans les parcs et loisirs….\r\n\r\nN’hésitez pas à en bénéficier en vous connectant
+    au site de <a href=\"http://salaries.capprivileges.com/\">CAP PRIVILEGES</a> avec
+    le code entreprise <b>75ITG1114</b>.\r\n"
+  state: false
+  bureau: consultant

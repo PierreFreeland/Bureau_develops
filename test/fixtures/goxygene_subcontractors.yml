@@ -1,0 +1,27 @@
+subcontractor_001:
+  id: 1
+  individual_id: 182
+  establishment_id: 63167
+  advisor_employee_id: 304
+  correspondant_employee_id: 304
+  contact_datum_id: 101162
+  status: "subcontractor"
+  itg_margin: 12
+  created_at: '2019-06-14T19:29:14.076+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T19:29:14.076+02:00'
+  updated_by: 296
+
+subcontractor_prospect:
+  id: 2
+  individual_id: 182
+  establishment_id: 63167
+  advisor_employee_id: 304
+  correspondant_employee_id: 304
+  contact_datum_id: 101162
+  status: "prospect"
+  itg_margin: 12
+  created_at: '2019-06-14T19:29:14.076+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T19:29:14.076+02:00'
+  updated_by: 296

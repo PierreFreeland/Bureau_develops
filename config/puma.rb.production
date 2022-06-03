@@ -1,0 +1,15 @@
+# resource configuration
+threads ENV['PUMA_MIN_THREADS'] || 2, ENV['PUMA_MAX_THREADS'] || 16
+workers ENV['PUMA_WORKERS'] || 2
+
+# network
+bind "tcp://0.0.0.0:3000"
+
+# paths
+app_dir = File.expand_path("../..", __FILE__)
+shared_dir = "#{app_dir}/shared"
+pidfile "#{shared_dir}/pids/puma.pid"
+state_path "#{shared_dir}/pids/puma.state"
+
+# configuration
+preload_app!

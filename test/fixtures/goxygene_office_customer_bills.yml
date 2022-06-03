@@ -1,0 +1,198 @@
+jackie_denesik_294259:
+  id: 294259
+  itg_company_id: 9
+  customer_id: 13067
+  establishment_id: 9255
+  establishment_contact_id: 34686
+  biller_id: 9392
+  biller_type: 'Goxygene::Consultant'
+  currency_id: 1
+  vat_id: 5
+  payment_type_id: 2
+  business_contract_id:
+  office_customer_update_id: 55035
+  customer_bill_id:
+  bill_type: umbrella_bill
+  status: office_validated
+  date: '2018-03-31'
+  inclusion_date:
+  target_date: '2018-03-31'
+  change: '1.0'
+  fees: '590.0'
+  fees_euros: '590.0'
+  expenses: '0.0'
+  expenses_euros: '0.0'
+  vat: '50.15'
+  vat_euros: '50.15'
+  total_including_taxes: '640.15'
+  total_including_taxes_euros: '640.15'
+  consultant_comment: ''
+  correspondant_comment: 'JAKIMOWICZ Fabien a fait une nouvelle demande de facture
+    sur le site bureau.itg.fr mercredi 04 avril 2018 à 18:20 '
+  consultant_validation:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T23:34:02.684+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T23:34:02.684+02:00'
+  updated_by: 296
+  itg_establishment_id:
+  consultant_itg_establishment_id: 9
+jackie_denesik_232067:
+  id: 232067
+  itg_company_id: 9
+  customer_id: 17080
+  establishment_id: 14187
+  establishment_contact_id: 34686
+  biller_id: 9392
+  biller_type: 'Goxygene::Consultant'
+  currency_id: 1
+  vat_id: 12
+  payment_type_id: 2
+  business_contract_id:
+  office_customer_update_id: 74764
+  customer_bill_id: 339401
+  bill_type: umbrella_bill
+  status: query_granted
+  date: '2016-04-01'
+  inclusion_date:
+  target_date: '2016-04-01'
+  change: '1.0'
+  fees: '1200.0'
+  fees_euros: '1200.0'
+  expenses: '0.0'
+  expenses_euros: '0.0'
+  vat: '240.0'
+  vat_euros: '240.0'
+  total_including_taxes: '1440.0'
+  total_including_taxes_euros: '1440.0'
+  consultant_comment: ''
+  correspondant_comment: 'JAKIMOWICZ Fabien a fait une nouvelle demande de facture
+    sur le site bureau.itg.fr vendredi 01 avril 2016 à 18:25 '
+  consultant_validation:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T23:44:20.845+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T23:44:20.845+02:00'
+  updated_by: 296
+  itg_establishment_id:
+  consultant_itg_establishment_id: 9
+jackie_denesik_235100:
+  id: 235100
+  itg_company_id: 9
+  customer_id: 17080
+  establishment_id: 14187
+  establishment_contact_id: 34686
+  biller_id: 9392
+  biller_type: 'Goxygene::Consultant'
+  currency_id: 1
+  vat_id: 12
+  payment_type_id: 2
+  business_contract_id: 103719
+  office_customer_update_id: 74765
+  customer_bill_id: 343052
+  bill_type: umbrella_bill
+  status: query_rejected
+  date: '2016-05-18'
+  inclusion_date:
+  target_date: '2016-05-18'
+  change: '1.0'
+  fees: '600.0'
+  fees_euros: '600.0'
+  expenses: '0.0'
+  expenses_euros: '0.0'
+  vat: '120.0'
+  vat_euros: '120.0'
+  total_including_taxes: '720.0'
+  total_including_taxes_euros: '720.0'
+  consultant_comment: ''
+  correspondant_comment: 'JAKIMOWICZ Fabien a fait une nouvelle demande de facture
+    sur le site bureau.itg.fr mercredi 18 mai 2016 à 15:30 '
+  consultant_validation:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T23:44:20.875+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T23:44:20.875+02:00'
+  updated_by: 296
+  itg_establishment_id:
+  consultant_itg_establishment_id: 9
+jackie_denesik_294388:
+  id: 294388
+  itg_company_id: 9
+  customer_id:
+  establishment_id: 14187
+  establishment_contact_id: 34686
+  biller_id: 9392
+  biller_type: 'Goxygene::Consultant'
+  currency_id: 1
+  vat_id: 12
+  payment_type_id: 2
+  business_contract_id:
+  office_customer_update_id: 74766
+  customer_bill_id: 410850
+  bill_type: umbrella_bill
+  status: query_granted
+  date: '2018-03-31'
+  inclusion_date:
+  target_date: '2018-03-31'
+  change: '1.0'
+  fees: '3000.0'
+  fees_euros: '3000.0'
+  expenses: '0.0'
+  expenses_euros: '0.0'
+  vat: '600.0'
+  vat_euros: '600.0'
+  total_including_taxes: '3600.0'
+  total_including_taxes_euros: '3600.0'
+  consultant_comment: ''
+  correspondant_comment: 'JAKIMOWICZ Fabien a fait une nouvelle demande de facture
+    sur le site bureau.itg.fr vendredi 06 avril 2018 à 13:23 '
+  consultant_validation:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T23:44:20.906+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T23:44:20.906+02:00'
+  updated_by: 296
+  itg_establishment_id:
+  consultant_itg_establishment_id: 9
+test_goxygene_999999:
+  id: 999999
+  itg_company_id: 8
+  customer_id: 12310
+  establishment_id: 10213
+  biller_id: 10042
+  biller_type: 'Goxygene::Consultant'
+  currency_id: 1
+  vat_id: 12
+  payment_type_id: 2
+  business_contract_id:
+  office_customer_update_id: 55035
+  customer_bill_id: 444444
+  bill_type: umbrella_bill
+  status: office_validated
+  date: '2018-03-31'
+  inclusion_date:
+  target_date: '2018-03-31'
+  change: '1.0'
+  fees: '400.0'
+  fees_euros: '400.0'
+  expenses: '0.0'
+  expenses_euros: '0.0'
+  vat_euros: '80.0'
+  vat: '50.15'
+  total_including_taxes: '480.0'
+  total_including_taxes_euros: '480.0'
+  consultant_comment: ''
+  correspondant_comment: 'test test'
+  consultant_validation:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T23:34:02.684+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T23:34:02.684+02:00'
+  updated_by: 296
+  itg_establishment_id:
+  consultant_itg_establishment_id: 8

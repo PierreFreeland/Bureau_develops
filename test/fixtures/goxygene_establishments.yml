@@ -1,0 +1,182 @@
+itc_rh:
+  id: 10213
+  company_id: 11858
+  contact_datum_id: 88028
+  line_of_business_id:
+  bank_account_id:
+  active: true
+  name: ITC-RH
+  appellation: ''
+  siret: ''
+  urssaf_number: ''
+  opened_on: '2017-01-26T00:00:00.000+01:00'
+  financial_grade:
+  created_at: '2019-06-14T20:58:01.687+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T20:58:01.687+02:00'
+  updated_by: 296
+
+cci_meurthe_et_moselle:
+  id: 25639
+  company_id: 27284
+  contact_datum_id: 110185
+  line_of_business_id:
+  bank_account_id:
+  active: true
+  name: CCI MEURTHE ET MOSELLE
+  appellation: ''
+  siret: ''
+  urssaf_number: ''
+  opened_on: '2013-09-03T00:00:00.000+02:00'
+  financial_grade:
+  created_at: '2019-06-14T20:59:11.964+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T20:59:11.964+02:00'
+  updated_by: 296
+
+ftopia_sas_12517:
+  id: 12517
+  company_id: 14077
+  contact_datum_id: 83547
+  line_of_business_id:
+  bank_account_id:
+  active: true
+  name: FTOPIA SAS
+  appellation: ''
+  siret: '51817284600017'
+  urssaf_number: ''
+  opened_on: '2016-04-04T00:00:00.000+02:00'
+  financial_grade:
+  created_at: '2018-12-19T20:44:41.630+01:00'
+  created_by: 296
+  updated_at: '2018-12-19T20:44:41.630+01:00'
+  updated_by: 296
+
+selarl_radiologie_saint_paul:
+  id: 9255
+  company_id: 10900
+  contact_datum_id: 86536
+  line_of_business_id:
+  bank_account_id:
+  active: true
+  name: Selarl Radiologie Saint-Paul
+  appellation: ''
+  siret: '82364625200028'
+  urssaf_number: ''
+  opened_on: '2017-03-28T00:00:00.000+02:00'
+  financial_grade:
+  created_at: '2019-06-14T20:57:57.291+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T20:57:57.291+02:00'
+  updated_by: 296
+
+ftopia_sas_14187:
+  id: 14187
+  company_id: 15832
+  contact_datum_id: 93950
+  line_of_business_id:
+  bank_account_id:
+  active: true
+  name: FTOPIA SAS
+  appellation: ''
+  siret: '51817284600017'
+  urssaf_number: ''
+  opened_on: '2016-04-04T00:00:00.000+02:00'
+  financial_grade:
+  created_at: '2019-06-14T20:58:19.686+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T20:58:19.686+02:00'
+  updated_by: 296
+
+lyanla_5426:
+  id: 5426
+  company_id: 9085
+  contact_datum_id: 93950
+  line_of_business_id:
+  bank_account_id:
+  active: true
+  name: LYANLA
+  appellation: ''
+  siret: '72130541762587'
+  urssaf_number: ''
+  opened_on: '2016-04-04T00:00:00.000+02:00'
+  financial_grade:
+  created_at: '2019-06-14T20:58:19.686+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T20:58:19.686+02:00'
+  updated_by: 296
+
+lyanla_63164:
+  id: 63164
+  company_id: 9085
+  contact_datum_id: 93950
+  line_of_business_id:
+  bank_account_id:
+  active: true
+  name: LYANLA
+  appellation: ''
+  siret: '72130541762587'
+  urssaf_number: ''
+  opened_on: '2016-04-04T00:00:00.000+02:00'
+  financial_grade:
+  created_at: '2019-06-14T20:58:19.686+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T20:58:19.686+02:00'
+  updated_by: 296
+
+camille_63165:
+  id: 63165
+  company_id: 68004
+  contact_datum_id: 287
+  name: "Camille Kerdudo"
+  appellation: ""
+  line_of_business_id: null
+  active: true
+  bank_account_id: null
+  urssaf_number: ""
+  financial_grade: null
+  opened_on: "2020-07-30 16:33:55"
+  created_at: "2020-07-30 16:33:55"
+  siret: "49300882500058"
+  created_by: 334
+  updated_at: "2020-08-09 05:39:27.2316"
+  updated_by: 296
+  is_natural_person: false
+
+julien_63166:
+  id: 63166
+  company_id: 68003
+  contact_datum_id: 300
+  name: "MACQUART Julien"
+  appellation: ""
+  line_of_business_id: null
+  active: true
+  bank_account_id: null
+  urssaf_number: ""
+  financial_grade: null
+  opened_on: "2020-07-30 13:06:21"
+  created_at: "2020-07-30 13:06:21"
+  siret: ""
+  created_by: 375
+  updated_at: "2020-08-09 05:39:27.4956"
+  updated_by: 296
+  is_natural_person: false
+
+hsbc_france_63167:
+  id: 63167
+  company_id: 68005
+  contact_datum_id: 301
+  name: "HSBC France"
+  appellation: ""
+  line_of_business_id: null
+  active: true
+  bank_account_id: null
+  urssaf_number: ""
+  financial_grade: null
+  opened_on: "2020-07-30 16:33:55"
+  created_at: "2020-07-30 16:33:55"
+  siret: ""
+  created_by: 334
+  updated_at: "2020-08-09 05:39:27.2316"
+  updated_by: 296
+  is_natural_person: false

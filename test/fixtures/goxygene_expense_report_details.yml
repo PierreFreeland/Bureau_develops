@@ -1,0 +1,4410 @@
+jackie_denesik_172465_2851:
+  id: 2851
+  expense_report_id: 172465
+  expense_type_id: 1
+  amount: '49.31'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '49.31'
+  created_at: '2019-07-17T09:27:34.135+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:34.135+02:00'
+  updated_by: 296
+jackie_denesik_172465_2852:
+  id: 2852
+  expense_report_id: 172465
+  expense_type_id: 2
+  amount: '814.89'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '814.89'
+  created_at: '2019-07-17T09:27:34.135+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:34.135+02:00'
+  updated_by: 296
+jackie_denesik_172465_2853:
+  id: 2853
+  expense_report_id: 172465
+  expense_type_id: 3
+  amount: '17.21'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '17.21'
+  created_at: '2019-07-17T09:27:34.135+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:34.135+02:00'
+  updated_by: 296
+jackie_denesik_172465_2854:
+  id: 2854
+  expense_report_id: 172465
+  expense_type_id: 4
+  amount: '60.17'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '60.17'
+  created_at: '2019-07-17T09:27:34.135+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:34.135+02:00'
+  updated_by: 296
+jackie_denesik_172465_2855:
+  id: 2855
+  expense_report_id: 172465
+  expense_type_id: 5
+  amount: '715.89'
+  vat: '109.83'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '825.72'
+  created_at: '2019-07-17T09:27:34.135+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:34.135+02:00'
+  updated_by: 296
+jackie_denesik_172466_2856:
+  id: 2856
+  expense_report_id: 172466
+  expense_type_id: 7
+  amount: '627.08'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '627.08'
+  created_at: '2019-07-17T09:27:34.145+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:34.145+02:00'
+  updated_by: 296
+jackie_denesik_172466_2857:
+  id: 2857
+  expense_report_id: 172466
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '34.57'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '34.57'
+  created_at: '2019-07-17T09:27:34.145+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:34.145+02:00'
+  updated_by: 296
+jackie_denesik_173125_3884:
+  id: 3884
+  expense_report_id: 173125
+  expense_type_id: 7
+  amount: '995.32'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '995.32'
+  created_at: '2019-07-17T09:27:38.310+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:38.310+02:00'
+  updated_by: 296
+jackie_denesik_173125_3885:
+  id: 3885
+  expense_report_id: 173125
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '14.01'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '14.01'
+  created_at: '2019-07-17T09:27:38.310+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:38.310+02:00'
+  updated_by: 296
+jackie_denesik_173129_3889:
+  id: 3889
+  expense_report_id: 173129
+  expense_type_id: 1
+  amount: '945.33'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '945.33'
+  created_at: '2019-07-17T09:27:38.333+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:38.333+02:00'
+  updated_by: 296
+jackie_denesik_173129_3890:
+  id: 3890
+  expense_report_id: 173129
+  expense_type_id: 2
+  amount: '53.98'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '53.98'
+  created_at: '2019-07-17T09:27:38.333+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:38.333+02:00'
+  updated_by: 296
+jackie_denesik_173129_3891:
+  id: 3891
+  expense_report_id: 173129
+  expense_type_id: 3
+  amount: '37.04'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '37.04'
+  created_at: '2019-07-17T09:27:38.333+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:38.333+02:00'
+  updated_by: 296
+jackie_denesik_173129_3892:
+  id: 3892
+  expense_report_id: 173129
+  expense_type_id: 4
+  amount: '100.85'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '100.85'
+  created_at: '2019-07-17T09:27:38.333+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:38.333+02:00'
+  updated_by: 296
+jackie_denesik_173129_3893:
+  id: 3893
+  expense_report_id: 173129
+  expense_type_id: 5
+  amount: '1632.02'
+  vat: '5.1'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1637.12'
+  created_at: '2019-07-17T09:27:38.333+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:38.333+02:00'
+  updated_by: 296
+jackie_denesik_174617_6499:
+  id: 6499
+  expense_report_id: 174617
+  expense_type_id: 7
+  amount: '1712.27'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1712.27'
+  created_at: '2019-07-17T09:27:48.513+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:48.513+02:00'
+  updated_by: 296
+jackie_denesik_174617_6500:
+  id: 6500
+  expense_report_id: 174617
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '28.51'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '28.51'
+  created_at: '2019-07-17T09:27:48.513+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:48.513+02:00'
+  updated_by: 296
+jackie_denesik_174620_6502:
+  id: 6502
+  expense_report_id: 174620
+  expense_type_id: 1
+  amount: '662.28'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '662.28'
+  created_at: '2019-07-17T09:27:48.526+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:48.526+02:00'
+  updated_by: 296
+jackie_denesik_174620_6503:
+  id: 6503
+  expense_report_id: 174620
+  expense_type_id: 4
+  amount: '105.25'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '105.25'
+  created_at: '2019-07-17T09:27:48.526+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:48.526+02:00'
+  updated_by: 296
+jackie_denesik_174620_6504:
+  id: 6504
+  expense_report_id: 174620
+  expense_type_id: 5
+  amount: '1218.41'
+  vat: '31.87'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1250.28'
+  created_at: '2019-07-17T09:27:48.526+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:48.526+02:00'
+  updated_by: 296
+jackie_denesik_175737_8407:
+  id: 8407
+  expense_report_id: 175737
+  expense_type_id: 7
+  amount: '603.6'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '603.6'
+  created_at: '2019-07-17T09:27:56.265+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:56.265+02:00'
+  updated_by: 296
+jackie_denesik_175737_8408:
+  id: 8408
+  expense_report_id: 175737
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '7.95'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '7.95'
+  created_at: '2019-07-17T09:27:56.265+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:56.265+02:00'
+  updated_by: 296
+jackie_denesik_175744_8421:
+  id: 8421
+  expense_report_id: 175744
+  expense_type_id: 1
+  amount: '1185.96'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1185.96'
+  created_at: '2019-07-17T09:27:56.313+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:56.313+02:00'
+  updated_by: 296
+jackie_denesik_175744_8422:
+  id: 8422
+  expense_report_id: 175744
+  expense_type_id: 2
+  amount: '588.43'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '588.43'
+  created_at: '2019-07-17T09:27:56.313+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:56.313+02:00'
+  updated_by: 296
+jackie_denesik_175744_8423:
+  id: 8423
+  expense_report_id: 175744
+  expense_type_id: 3
+  amount: '10.05'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '10.05'
+  created_at: '2019-07-17T09:27:56.313+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:56.313+02:00'
+  updated_by: 296
+jackie_denesik_175744_8424:
+  id: 8424
+  expense_report_id: 175744
+  expense_type_id: 4
+  amount: '16.53'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '16.53'
+  created_at: '2019-07-17T09:27:56.313+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:56.313+02:00'
+  updated_by: 296
+jackie_denesik_175744_8425:
+  id: 8425
+  expense_report_id: 175744
+  expense_type_id: 5
+  amount: '1497.53'
+  vat: '8.53'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1506.06'
+  created_at: '2019-07-17T09:27:56.313+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:27:56.313+02:00'
+  updated_by: 296
+jackie_denesik_176870_10306:
+  id: 10306
+  expense_report_id: 176870
+  expense_type_id: 1
+  amount: '1672.42'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1672.42'
+  created_at: '2019-07-17T09:28:04.457+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:04.457+02:00'
+  updated_by: 296
+jackie_denesik_176870_10307:
+  id: 10307
+  expense_report_id: 176870
+  expense_type_id: 3
+  amount: '19.89'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '19.89'
+  created_at: '2019-07-17T09:28:04.457+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:04.457+02:00'
+  updated_by: 296
+jackie_denesik_176870_10308:
+  id: 10308
+  expense_report_id: 176870
+  expense_type_id: 4
+  amount: '100.18'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '100.18'
+  created_at: '2019-07-17T09:28:04.457+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:04.457+02:00'
+  updated_by: 296
+jackie_denesik_176870_10309:
+  id: 10309
+  expense_report_id: 176870
+  expense_type_id: 5
+  amount: '1152.13'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1152.13'
+  created_at: '2019-07-17T09:28:04.457+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:04.457+02:00'
+  updated_by: 296
+jackie_denesik_176871_10310:
+  id: 10310
+  expense_report_id: 176871
+  expense_type_id: 7
+  amount: '1062.77'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1062.77'
+  created_at: '2019-07-17T09:28:04.466+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:04.466+02:00'
+  updated_by: 296
+jackie_denesik_176871_10311:
+  id: 10311
+  expense_report_id: 176871
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '14.28'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '14.28'
+  created_at: '2019-07-17T09:28:04.466+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:04.466+02:00'
+  updated_by: 296
+jackie_denesik_178818_13554:
+  id: 13554
+  expense_report_id: 178818
+  expense_type_id: 2
+  amount: '195.0'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '195.0'
+  created_at: '2019-07-17T09:28:18.221+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:18.221+02:00'
+  updated_by: 296
+jackie_denesik_178818_13555:
+  id: 13555
+  expense_report_id: 178818
+  expense_type_id: 5
+  amount: '1118.58'
+  vat: '32.9'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1151.48'
+  created_at: '2019-07-17T09:28:18.221+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:18.221+02:00'
+  updated_by: 296
+jackie_denesik_178819_13556:
+  id: 13556
+  expense_report_id: 178819
+  expense_type_id: 7
+  amount: '406.99'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '406.99'
+  created_at: '2019-07-17T09:28:18.227+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:18.227+02:00'
+  updated_by: 296
+jackie_denesik_178819_13557:
+  id: 13557
+  expense_report_id: 178819
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '13.31'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '13.31'
+  created_at: '2019-07-17T09:28:18.227+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:18.227+02:00'
+  updated_by: 296
+jackie_denesik_179685_15006:
+  id: 15006
+  expense_report_id: 179685
+  expense_type_id: 3
+  amount: '6.1'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '6.1'
+  created_at: '2019-07-17T09:28:24.595+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:24.595+02:00'
+  updated_by: 296
+jackie_denesik_179685_15007:
+  id: 15007
+  expense_report_id: 179685
+  expense_type_id: 4
+  amount: '16.56'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '16.56'
+  created_at: '2019-07-17T09:28:24.595+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:24.595+02:00'
+  updated_by: 296
+jackie_denesik_179685_15008:
+  id: 15008
+  expense_report_id: 179685
+  expense_type_id: 5
+  amount: '2413.02'
+  vat: '87.68'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2500.7'
+  created_at: '2019-07-17T09:28:24.595+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:24.595+02:00'
+  updated_by: 296
+jackie_denesik_180146_15776:
+  id: 15776
+  expense_report_id: 180146
+  expense_type_id: 7
+  amount: '756.71'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '756.71'
+  created_at: '2019-07-17T09:28:27.848+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:27.848+02:00'
+  updated_by: 296
+jackie_denesik_180146_15777:
+  id: 15777
+  expense_report_id: 180146
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '9.2'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '9.2'
+  created_at: '2019-07-17T09:28:27.848+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:27.848+02:00'
+  updated_by: 296
+jackie_denesik_180944_17190:
+  id: 17190
+  expense_report_id: 180944
+  expense_type_id: 1
+  amount: '158.25'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '158.25'
+  created_at: '2019-07-17T09:28:33.503+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:33.503+02:00'
+  updated_by: 296
+jackie_denesik_180944_17191:
+  id: 17191
+  expense_report_id: 180944
+  expense_type_id: 2
+  amount: '146.36'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '146.36'
+  created_at: '2019-07-17T09:28:33.503+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:33.503+02:00'
+  updated_by: 296
+jackie_denesik_180944_17192:
+  id: 17192
+  expense_report_id: 180944
+  expense_type_id: 3
+  amount: '7.2'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '7.2'
+  created_at: '2019-07-17T09:28:33.503+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:33.503+02:00'
+  updated_by: 296
+jackie_denesik_180944_17193:
+  id: 17193
+  expense_report_id: 180944
+  expense_type_id: 5
+  amount: '1336.98'
+  vat: '263.03'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1600.01'
+  created_at: '2019-07-17T09:28:33.503+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:33.503+02:00'
+  updated_by: 296
+jackie_denesik_180945_17194:
+  id: 17194
+  expense_report_id: 180945
+  expense_type_id: 7
+  amount: '488.6'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '488.6'
+  created_at: '2019-07-17T09:28:33.511+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:33.511+02:00'
+  updated_by: 296
+jackie_denesik_180945_17195:
+  id: 17195
+  expense_report_id: 180945
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '48.1'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '48.1'
+  created_at: '2019-07-17T09:28:33.511+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:33.511+02:00'
+  updated_by: 296
+jackie_denesik_182767_20284:
+  id: 20284
+  expense_report_id: 182767
+  expense_type_id: 1
+  amount: '849.14'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '849.14'
+  created_at: '2019-07-17T09:28:46.316+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:46.316+02:00'
+  updated_by: 296
+jackie_denesik_182767_20285:
+  id: 20285
+  expense_report_id: 182767
+  expense_type_id: 3
+  amount: '2.66'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2.66'
+  created_at: '2019-07-17T09:28:46.316+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:46.316+02:00'
+  updated_by: 296
+jackie_denesik_182767_20286:
+  id: 20286
+  expense_report_id: 182767
+  expense_type_id: 4
+  amount: '124.94'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '124.94'
+  created_at: '2019-07-17T09:28:46.316+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:46.316+02:00'
+  updated_by: 296
+jackie_denesik_182767_20287:
+  id: 20287
+  expense_report_id: 182767
+  expense_type_id: 5
+  amount: '1854.17'
+  vat: '319.53'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2173.7'
+  created_at: '2019-07-17T09:28:46.316+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:46.316+02:00'
+  updated_by: 296
+jackie_denesik_182768_20288:
+  id: 20288
+  expense_report_id: 182768
+  expense_type_id: 7
+  amount: '669.88'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '669.88'
+  created_at: '2019-07-17T09:28:46.325+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:46.325+02:00'
+  updated_by: 296
+jackie_denesik_182768_20289:
+  id: 20289
+  expense_report_id: 182768
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '48.65'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '48.65'
+  created_at: '2019-07-17T09:28:46.325+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:28:46.325+02:00'
+  updated_by: 296
+jackie_denesik_184748_23473:
+  id: 23473
+  expense_report_id: 184748
+  expense_type_id: 7
+  amount: '519.59'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '519.59'
+  created_at: '2019-07-17T09:29:00.011+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:00.011+02:00'
+  updated_by: 296
+jackie_denesik_184749_23474:
+  id: 23474
+  expense_report_id: 184749
+  expense_type_id: 3
+  amount: '5.39'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '5.39'
+  created_at: '2019-07-17T09:29:00.020+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:00.020+02:00'
+  updated_by: 296
+jackie_denesik_184749_23475:
+  id: 23475
+  expense_report_id: 184749
+  expense_type_id: 4
+  amount: '70.87'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '70.87'
+  created_at: '2019-07-17T09:29:00.020+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:00.020+02:00'
+  updated_by: 296
+jackie_denesik_184749_23476:
+  id: 23476
+  expense_report_id: 184749
+  expense_type_id: 5
+  amount: '3060.94'
+  vat: '28.56'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '3089.5'
+  created_at: '2019-07-17T09:29:00.020+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:00.020+02:00'
+  updated_by: 296
+jackie_denesik_186395_26199:
+  id: 26199
+  expense_report_id: 186395
+  expense_type_id: 7
+  amount: '314.36'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '314.36'
+  created_at: '2019-07-17T09:29:11.280+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:11.280+02:00'
+  updated_by: 296
+jackie_denesik_186395_26200:
+  id: 26200
+  expense_report_id: 186395
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '33.11'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '33.11'
+  created_at: '2019-07-17T09:29:11.280+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:11.280+02:00'
+  updated_by: 296
+jackie_denesik_186396_26201:
+  id: 26201
+  expense_report_id: 186396
+  expense_type_id: 1
+  amount: '175.92'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '175.92'
+  created_at: '2019-07-17T09:29:11.287+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:11.287+02:00'
+  updated_by: 296
+jackie_denesik_186396_26202:
+  id: 26202
+  expense_report_id: 186396
+  expense_type_id: 3
+  amount: '6.31'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '6.31'
+  created_at: '2019-07-17T09:29:11.287+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:11.287+02:00'
+  updated_by: 296
+jackie_denesik_186396_26203:
+  id: 26203
+  expense_report_id: 186396
+  expense_type_id: 4
+  amount: '56.38'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '56.38'
+  created_at: '2019-07-17T09:29:11.287+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:11.287+02:00'
+  updated_by: 296
+jackie_denesik_186396_26204:
+  id: 26204
+  expense_report_id: 186396
+  expense_type_id: 5
+  amount: '2911.09'
+  vat: '13.28'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2924.37'
+  created_at: '2019-07-17T09:29:11.287+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:11.287+02:00'
+  updated_by: 296
+jackie_denesik_187882_28836:
+  id: 28836
+  expense_report_id: 187882
+  expense_type_id: 7
+  amount: '697.2'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '697.2'
+  created_at: '2019-07-17T09:29:21.820+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:21.820+02:00'
+  updated_by: 296
+jackie_denesik_187883_28837:
+  id: 28837
+  expense_report_id: 187883
+  expense_type_id: 3
+  amount: '1.1'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1.1'
+  created_at: '2019-07-17T09:29:21.826+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:21.826+02:00'
+  updated_by: 296
+jackie_denesik_187883_28838:
+  id: 28838
+  expense_report_id: 187883
+  expense_type_id: 4
+  amount: '15.99'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '15.99'
+  created_at: '2019-07-17T09:29:21.826+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:21.826+02:00'
+  updated_by: 296
+jackie_denesik_187883_28839:
+  id: 28839
+  expense_report_id: 187883
+  expense_type_id: 5
+  amount: '2903.37'
+  vat: '192.82'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '3096.19'
+  created_at: '2019-07-17T09:29:21.826+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:21.826+02:00'
+  updated_by: 296
+jackie_denesik_189688_32099:
+  id: 32099
+  expense_report_id: 189688
+  expense_type_id: 3
+  amount: '7.28'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '7.28'
+  created_at: '2019-07-17T09:29:35.387+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:35.387+02:00'
+  updated_by: 296
+jackie_denesik_189688_32100:
+  id: 32100
+  expense_report_id: 189688
+  expense_type_id: 5
+  amount: '1757.64'
+  vat: '23.58'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1781.22'
+  created_at: '2019-07-17T09:29:35.387+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:35.387+02:00'
+  updated_by: 296
+jackie_denesik_189689_32101:
+  id: 32101
+  expense_report_id: 189689
+  expense_type_id: 7
+  amount: '1209.65'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1209.65'
+  created_at: '2019-07-17T09:29:35.394+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:35.394+02:00'
+  updated_by: 296
+jackie_denesik_191303_34940:
+  id: 34940
+  expense_report_id: 191303
+  expense_type_id: 7
+  amount: '1605.81'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1605.81'
+  created_at: '2019-07-17T09:29:46.396+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:46.396+02:00'
+  updated_by: 296
+jackie_denesik_191303_34941:
+  id: 34941
+  expense_report_id: 191303
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '162.97'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '162.97'
+  created_at: '2019-07-17T09:29:46.396+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:46.396+02:00'
+  updated_by: 296
+jackie_denesik_191305_34944:
+  id: 34944
+  expense_report_id: 191305
+  expense_type_id: 3
+  amount: '5.76'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '5.76'
+  created_at: '2019-07-17T09:29:46.410+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:46.410+02:00'
+  updated_by: 296
+jackie_denesik_191305_34945:
+  id: 34945
+  expense_report_id: 191305
+  expense_type_id: 5
+  amount: '2724.87'
+  vat: '56.24'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2781.11'
+  created_at: '2019-07-17T09:29:46.410+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:46.410+02:00'
+  updated_by: 296
+jackie_denesik_192346_36738:
+  id: 36738
+  expense_report_id: 192346
+  expense_type_id: 4
+  amount: '56.61'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '56.61'
+  created_at: '2019-07-17T09:29:53.824+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:53.824+02:00'
+  updated_by: 296
+jackie_denesik_192346_36739:
+  id: 36739
+  expense_report_id: 192346
+  expense_type_id: 5
+  amount: '5632.76'
+  vat: '240.86'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '5873.62'
+  created_at: '2019-07-17T09:29:53.824+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:53.824+02:00'
+  updated_by: 296
+jackie_denesik_192347_36740:
+  id: 36740
+  expense_report_id: 192347
+  expense_type_id: 7
+  amount: '463.5'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '463.5'
+  created_at: '2019-07-17T09:29:53.832+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:29:53.832+02:00'
+  updated_by: 296
+jackie_denesik_194233_39962:
+  id: 39962
+  expense_report_id: 194233
+  expense_type_id: 4
+  amount: '15.99'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '15.99'
+  created_at: '2019-07-17T09:30:07.294+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:07.294+02:00'
+  updated_by: 296
+jackie_denesik_194233_39963:
+  id: 39963
+  expense_report_id: 194233
+  expense_type_id: 5
+  amount: '3752.41'
+  vat: '26.38'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '3778.79'
+  created_at: '2019-07-17T09:30:07.294+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:07.294+02:00'
+  updated_by: 296
+jackie_denesik_194234_39964:
+  id: 39964
+  expense_report_id: 194234
+  expense_type_id: 7
+  amount: '1275.51'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1275.51'
+  created_at: '2019-07-17T09:30:07.301+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:07.301+02:00'
+  updated_by: 296
+jackie_denesik_194234_39965:
+  id: 39965
+  expense_report_id: 194234
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '54.52'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '54.52'
+  created_at: '2019-07-17T09:30:07.301+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:07.301+02:00'
+  updated_by: 296
+jackie_denesik_195543_42164:
+  id: 42164
+  expense_report_id: 195543
+  expense_type_id: 7
+  amount: '636.96'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '636.96'
+  created_at: '2019-07-17T09:30:15.948+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:15.948+02:00'
+  updated_by: 296
+jackie_denesik_195543_42165:
+  id: 42165
+  expense_report_id: 195543
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '63.5'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '63.5'
+  created_at: '2019-07-17T09:30:15.948+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:15.948+02:00'
+  updated_by: 296
+jackie_denesik_195547_42171:
+  id: 42171
+  expense_report_id: 195547
+  expense_type_id: 4
+  amount: '20.18'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '20.18'
+  created_at: '2019-07-17T09:30:15.972+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:15.972+02:00'
+  updated_by: 296
+jackie_denesik_195547_42172:
+  id: 42172
+  expense_report_id: 195547
+  expense_type_id: 5
+  amount: '3330.87'
+  vat: '9.97'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '3340.84'
+  created_at: '2019-07-17T09:30:15.972+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:15.972+02:00'
+  updated_by: 296
+jackie_denesik_197265_45179:
+  id: 45179
+  expense_report_id: 197265
+  expense_type_id: 5
+  amount: '4758.96'
+  vat: '16.16'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '4775.12'
+  created_at: '2019-07-17T09:30:28.277+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:28.277+02:00'
+  updated_by: 296
+jackie_denesik_197465_45466:
+  id: 45466
+  expense_report_id: 197465
+  expense_type_id: 7
+  amount: '598.0'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '598.0'
+  created_at: '2019-07-17T09:30:29.504+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:29.504+02:00'
+  updated_by: 296
+jackie_denesik_198544_47272:
+  id: 47272
+  expense_report_id: 198544
+  expense_type_id: 7
+  amount: '749.39'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '749.39'
+  created_at: '2019-07-17T09:30:36.841+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:36.841+02:00'
+  updated_by: 296
+jackie_denesik_198544_47273:
+  id: 47273
+  expense_report_id: 198544
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '69.06'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '69.06'
+  created_at: '2019-07-17T09:30:36.841+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:36.841+02:00'
+  updated_by: 296
+jackie_denesik_198545_47274:
+  id: 47274
+  expense_report_id: 198545
+  expense_type_id: 5
+  amount: '3968.23'
+  vat: '46.01'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '4014.24'
+  created_at: '2019-07-17T09:30:36.847+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:36.847+02:00'
+  updated_by: 296
+jackie_denesik_200273_50273:
+  id: 50273
+  expense_report_id: 200273
+  expense_type_id: 7
+  amount: '253.87'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '253.87'
+  created_at: '2019-07-17T09:30:48.983+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:48.983+02:00'
+  updated_by: 296
+jackie_denesik_200273_50274:
+  id: 50274
+  expense_report_id: 200273
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '14.73'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '14.73'
+  created_at: '2019-07-17T09:30:48.983+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:48.983+02:00'
+  updated_by: 296
+jackie_denesik_200274_50275:
+  id: 50275
+  expense_report_id: 200274
+  expense_type_id: 3
+  amount: '25.72'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '25.72'
+  created_at: '2019-07-17T09:30:48.989+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:48.989+02:00'
+  updated_by: 296
+jackie_denesik_200274_50276:
+  id: 50276
+  expense_report_id: 200274
+  expense_type_id: 5
+  amount: '3462.06'
+  vat: '349.38'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '3811.44'
+  created_at: '2019-07-17T09:30:48.989+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:48.989+02:00'
+  updated_by: 296
+jackie_denesik_201407_52238:
+  id: 52238
+  expense_report_id: 201407
+  expense_type_id: 7
+  amount: '305.8'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '305.8'
+  created_at: '2019-07-17T09:30:57.492+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:57.492+02:00'
+  updated_by: 296
+jackie_denesik_201407_52239:
+  id: 52239
+  expense_report_id: 201407
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '20.05'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '20.05'
+  created_at: '2019-07-17T09:30:57.492+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:57.492+02:00'
+  updated_by: 296
+jackie_denesik_201412_52247:
+  id: 52247
+  expense_report_id: 201412
+  expense_type_id: 5
+  amount: '2812.35'
+  vat: '393.54'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '3205.89'
+  created_at: '2019-07-17T09:30:57.525+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:30:57.525+02:00'
+  updated_by: 296
+jackie_denesik_206212_60447:
+  id: 60447
+  expense_report_id: 206212
+  expense_type_id: 7
+  amount: '238.05'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '238.05'
+  created_at: '2019-07-17T09:31:32.560+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.560+02:00'
+  updated_by: 296
+jackie_denesik_206212_60448:
+  id: 60448
+  expense_report_id: 206212
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '20.4'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '20.4'
+  created_at: '2019-07-17T09:31:32.560+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.560+02:00'
+  updated_by: 296
+jackie_denesik_206213_60449:
+  id: 60449
+  expense_report_id: 206213
+  expense_type_id: 1
+  amount: '168.9'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '168.9'
+  created_at: '2019-07-17T09:31:32.566+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.566+02:00'
+  updated_by: 296
+jackie_denesik_206213_60450:
+  id: 60450
+  expense_report_id: 206213
+  expense_type_id: 4
+  amount: '16.75'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '16.75'
+  created_at: '2019-07-17T09:31:32.566+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.566+02:00'
+  updated_by: 296
+jackie_denesik_206213_60451:
+  id: 60451
+  expense_report_id: 206213
+  expense_type_id: 5
+  amount: '2054.19'
+  vat: '68.89'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2123.08'
+  created_at: '2019-07-17T09:31:32.566+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.566+02:00'
+  updated_by: 296
+jackie_denesik_206214_60452:
+  id: 60452
+  expense_report_id: 206214
+  expense_type_id: 5
+  amount: '3177.12'
+  vat: '146.32'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '3323.44'
+  created_at: '2019-07-17T09:31:32.573+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.573+02:00'
+  updated_by: 296
+jackie_denesik_206215_60453:
+  id: 60453
+  expense_report_id: 206215
+  expense_type_id: 7
+  amount: '549.5'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '549.5'
+  created_at: '2019-07-17T09:31:32.579+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.579+02:00'
+  updated_by: 296
+jackie_denesik_206215_60454:
+  id: 60454
+  expense_report_id: 206215
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '57.85'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '57.85'
+  created_at: '2019-07-17T09:31:32.579+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.579+02:00'
+  updated_by: 296
+jackie_denesik_206216_60455:
+  id: 60455
+  expense_report_id: 206216
+  expense_type_id: 7
+  amount: '453.82'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '453.82'
+  created_at: '2019-07-17T09:31:32.585+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.585+02:00'
+  updated_by: 296
+jackie_denesik_206216_60456:
+  id: 60456
+  expense_report_id: 206216
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '34.27'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '34.27'
+  created_at: '2019-07-17T09:31:32.585+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.585+02:00'
+  updated_by: 296
+jackie_denesik_206217_60457:
+  id: 60457
+  expense_report_id: 206217
+  expense_type_id: 3
+  amount: '34.0'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '34.0'
+  created_at: '2019-07-17T09:31:32.592+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.592+02:00'
+  updated_by: 296
+jackie_denesik_206217_60458:
+  id: 60458
+  expense_report_id: 206217
+  expense_type_id: 4
+  amount: '63.96'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '63.96'
+  created_at: '2019-07-17T09:31:32.592+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.592+02:00'
+  updated_by: 296
+jackie_denesik_206217_60459:
+  id: 60459
+  expense_report_id: 206217
+  expense_type_id: 5
+  amount: '8707.94'
+  vat: '32.65'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '8740.59'
+  created_at: '2019-07-17T09:31:32.592+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:32.592+02:00'
+  updated_by: 296
+jackie_denesik_208747_64853:
+  id: 64853
+  expense_report_id: 208747
+  expense_type_id: 7
+  amount: '780.08'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '780.08'
+  created_at: '2019-07-17T09:31:50.922+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:50.922+02:00'
+  updated_by: 296
+jackie_denesik_208747_64854:
+  id: 64854
+  expense_report_id: 208747
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '33.46'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '33.46'
+  created_at: '2019-07-17T09:31:50.922+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:50.922+02:00'
+  updated_by: 296
+jackie_denesik_208756_64863:
+  id: 64863
+  expense_report_id: 208756
+  expense_type_id: 3
+  amount: '62.45'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '62.45'
+  created_at: '2019-07-17T09:31:50.970+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:50.970+02:00'
+  updated_by: 296
+jackie_denesik_208756_64864:
+  id: 64864
+  expense_report_id: 208756
+  expense_type_id: 4
+  amount: '15.99'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '15.99'
+  created_at: '2019-07-17T09:31:50.970+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:50.970+02:00'
+  updated_by: 296
+jackie_denesik_208756_64865:
+  id: 64865
+  expense_report_id: 208756
+  expense_type_id: 5
+  amount: '3094.26'
+  vat: '217.68'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '3311.94'
+  created_at: '2019-07-17T09:31:50.970+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:50.970+02:00'
+  updated_by: 296
+jackie_denesik_208757_64866:
+  id: 64866
+  expense_report_id: 208757
+  expense_type_id: 7
+  amount: '279.47'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '279.47'
+  created_at: '2019-07-17T09:31:50.977+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:50.977+02:00'
+  updated_by: 296
+jackie_denesik_208757_64867:
+  id: 64867
+  expense_report_id: 208757
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '19.72'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '19.72'
+  created_at: '2019-07-17T09:31:50.977+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:50.977+02:00'
+  updated_by: 296
+jackie_denesik_208758_64868:
+  id: 64868
+  expense_report_id: 208758
+  expense_type_id: 3
+  amount: '6.1'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '6.1'
+  created_at: '2019-07-17T09:31:50.984+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:50.984+02:00'
+  updated_by: 296
+jackie_denesik_208758_64869:
+  id: 64869
+  expense_report_id: 208758
+  expense_type_id: 4
+  amount: '80.25'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '80.25'
+  created_at: '2019-07-17T09:31:50.984+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:50.984+02:00'
+  updated_by: 296
+jackie_denesik_208758_64870:
+  id: 64870
+  expense_report_id: 208758
+  expense_type_id: 5
+  amount: '2563.5'
+  vat: '266.31'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2829.81'
+  created_at: '2019-07-17T09:31:50.984+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:31:50.984+02:00'
+  updated_by: 296
+jackie_denesik_212715_71875:
+  id: 71875
+  expense_report_id: 212715
+  expense_type_id: 7
+  amount: '544.94'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '544.94'
+  created_at: '2019-07-17T09:32:20.749+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.749+02:00'
+  updated_by: 296
+jackie_denesik_212715_71876:
+  id: 71876
+  expense_report_id: 212715
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '23.77'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '23.77'
+  created_at: '2019-07-17T09:32:20.749+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.749+02:00'
+  updated_by: 296
+jackie_denesik_212716_71877:
+  id: 71877
+  expense_report_id: 212716
+  expense_type_id: 7
+  amount: '1108.56'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1108.56'
+  created_at: '2019-07-17T09:32:20.755+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.755+02:00'
+  updated_by: 296
+jackie_denesik_212716_71878:
+  id: 71878
+  expense_report_id: 212716
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '66.36'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '66.36'
+  created_at: '2019-07-17T09:32:20.755+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.755+02:00'
+  updated_by: 296
+jackie_denesik_212720_71883:
+  id: 71883
+  expense_report_id: 212720
+  expense_type_id: 1
+  amount: '39.3'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '39.3'
+  created_at: '2019-07-17T09:32:20.781+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.781+02:00'
+  updated_by: 296
+jackie_denesik_212720_71884:
+  id: 71884
+  expense_report_id: 212720
+  expense_type_id: 3
+  amount: '6.79'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '6.79'
+  created_at: '2019-07-17T09:32:20.781+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.781+02:00'
+  updated_by: 296
+jackie_denesik_212720_71885:
+  id: 71885
+  expense_report_id: 212720
+  expense_type_id: 4
+  amount: '31.98'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '31.98'
+  created_at: '2019-07-17T09:32:20.781+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.781+02:00'
+  updated_by: 296
+jackie_denesik_212720_71886:
+  id: 71886
+  expense_report_id: 212720
+  expense_type_id: 5
+  amount: '2546.1'
+  vat: '6.69'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2552.79'
+  created_at: '2019-07-17T09:32:20.781+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.781+02:00'
+  updated_by: 296
+jackie_denesik_212722_71888:
+  id: 71888
+  expense_report_id: 212722
+  expense_type_id: 1
+  amount: '107.87'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '107.87'
+  created_at: '2019-07-17T09:32:20.795+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.795+02:00'
+  updated_by: 296
+jackie_denesik_212722_71889:
+  id: 71889
+  expense_report_id: 212722
+  expense_type_id: 2
+  amount: '148.94'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '148.94'
+  created_at: '2019-07-17T09:32:20.795+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.795+02:00'
+  updated_by: 296
+jackie_denesik_212722_71890:
+  id: 71890
+  expense_report_id: 212722
+  expense_type_id: 3
+  amount: '12.0'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '12.0'
+  created_at: '2019-07-17T09:32:20.795+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.795+02:00'
+  updated_by: 296
+jackie_denesik_212722_71891:
+  id: 71891
+  expense_report_id: 212722
+  expense_type_id: 4
+  amount: '47.97'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '47.97'
+  created_at: '2019-07-17T09:32:20.795+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.795+02:00'
+  updated_by: 296
+jackie_denesik_212722_71892:
+  id: 71892
+  expense_report_id: 212722
+  expense_type_id: 5
+  amount: '1398.12'
+  vat: '28.43'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1426.55'
+  created_at: '2019-07-17T09:32:20.795+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:20.795+02:00'
+  updated_by: 296
+jackie_denesik_216375_78190:
+  id: 78190
+  expense_report_id: 216375
+  expense_type_id: 7
+  amount: '614.14'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '614.14'
+  created_at: '2019-07-17T09:32:47.346+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:47.346+02:00'
+  updated_by: 296
+jackie_denesik_216376_78191:
+  id: 78191
+  expense_report_id: 216376
+  expense_type_id: 7
+  amount: '4196.06'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '4196.06'
+  created_at: '2019-07-17T09:32:47.352+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:47.352+02:00'
+  updated_by: 296
+jackie_denesik_216376_78192:
+  id: 78192
+  expense_report_id: 216376
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '3.27'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '3.27'
+  created_at: '2019-07-17T09:32:47.352+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:47.352+02:00'
+  updated_by: 296
+jackie_denesik_216377_78193:
+  id: 78193
+  expense_report_id: 216377
+  expense_type_id: 2
+  amount: '498.52'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '498.52'
+  created_at: '2019-07-17T09:32:47.358+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:47.358+02:00'
+  updated_by: 296
+jackie_denesik_216377_78194:
+  id: 78194
+  expense_report_id: 216377
+  expense_type_id: 3
+  amount: '30.54'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '30.54'
+  created_at: '2019-07-17T09:32:47.358+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:47.358+02:00'
+  updated_by: 296
+jackie_denesik_216377_78195:
+  id: 78195
+  expense_report_id: 216377
+  expense_type_id: 4
+  amount: '109.4'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '109.4'
+  created_at: '2019-07-17T09:32:47.358+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:47.358+02:00'
+  updated_by: 296
+jackie_denesik_216377_78196:
+  id: 78196
+  expense_report_id: 216377
+  expense_type_id: 5
+  amount: '1346.32'
+  vat: '36.45'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1382.77'
+  created_at: '2019-07-17T09:32:47.358+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:47.358+02:00'
+  updated_by: 296
+jackie_denesik_216378_78197:
+  id: 78197
+  expense_report_id: 216378
+  expense_type_id: 3
+  amount: '26.0'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '26.0'
+  created_at: '2019-07-17T09:32:47.367+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:47.367+02:00'
+  updated_by: 296
+jackie_denesik_216378_78198:
+  id: 78198
+  expense_report_id: 216378
+  expense_type_id: 4
+  amount: '61.96'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '61.96'
+  created_at: '2019-07-17T09:32:47.367+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:47.367+02:00'
+  updated_by: 296
+jackie_denesik_216378_78199:
+  id: 78199
+  expense_report_id: 216378
+  expense_type_id: 5
+  amount: '2856.64'
+  vat: '298.14'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '3154.78'
+  created_at: '2019-07-17T09:32:47.367+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:47.367+02:00'
+  updated_by: 296
+jackie_denesik_218127_81202:
+  id: 81202
+  expense_report_id: 218127
+  expense_type_id: 7
+  amount: '1413.75'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1413.75'
+  created_at: '2019-07-17T09:32:59.895+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:59.895+02:00'
+  updated_by: 296
+jackie_denesik_218127_81203:
+  id: 81203
+  expense_report_id: 218127
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '6.68'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '6.68'
+  created_at: '2019-07-17T09:32:59.895+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:59.895+02:00'
+  updated_by: 296
+jackie_denesik_218128_81204:
+  id: 81204
+  expense_report_id: 218128
+  expense_type_id: 3
+  amount: '7.08'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '7.08'
+  created_at: '2019-07-17T09:32:59.902+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:59.902+02:00'
+  updated_by: 296
+jackie_denesik_218128_81205:
+  id: 81205
+  expense_report_id: 218128
+  expense_type_id: 4
+  amount: '112.56'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '112.56'
+  created_at: '2019-07-17T09:32:59.902+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:59.902+02:00'
+  updated_by: 296
+jackie_denesik_218128_81206:
+  id: 81206
+  expense_report_id: 218128
+  expense_type_id: 5
+  amount: '2592.67'
+  vat: '202.3'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2794.97'
+  created_at: '2019-07-17T09:32:59.902+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:32:59.902+02:00'
+  updated_by: 296
+jackie_denesik_219173_82938:
+  id: 82938
+  expense_report_id: 219173
+  expense_type_id: 3
+  amount: '8.72'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '8.72'
+  created_at: '2019-07-17T09:33:07.430+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:07.430+02:00'
+  updated_by: 296
+jackie_denesik_219173_82939:
+  id: 82939
+  expense_report_id: 219173
+  expense_type_id: 4
+  amount: '114.91'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '114.91'
+  created_at: '2019-07-17T09:33:07.430+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:07.430+02:00'
+  updated_by: 296
+jackie_denesik_219173_82940:
+  id: 82940
+  expense_report_id: 219173
+  expense_type_id: 5
+  amount: '969.0'
+  vat: '7.09'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '976.09'
+  created_at: '2019-07-17T09:33:07.430+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:07.430+02:00'
+  updated_by: 296
+jackie_denesik_219174_82941:
+  id: 82941
+  expense_report_id: 219174
+  expense_type_id: 7
+  amount: '520.24'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '520.24'
+  created_at: '2019-07-17T09:33:07.437+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:07.437+02:00'
+  updated_by: 296
+jackie_denesik_219174_82942:
+  id: 82942
+  expense_report_id: 219174
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '20.11'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '20.11'
+  created_at: '2019-07-17T09:33:07.437+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:07.437+02:00'
+  updated_by: 296
+jackie_denesik_220605_85348:
+  id: 85348
+  expense_report_id: 220605
+  expense_type_id: 7
+  amount: '626.12'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '626.12'
+  created_at: '2019-07-17T09:33:17.277+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:17.277+02:00'
+  updated_by: 296
+jackie_denesik_220606_85349:
+  id: 85349
+  expense_report_id: 220606
+  expense_type_id: 2
+  amount: '152.89'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '152.89'
+  created_at: '2019-07-17T09:33:17.282+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:17.282+02:00'
+  updated_by: 296
+jackie_denesik_220606_85350:
+  id: 85350
+  expense_report_id: 220606
+  expense_type_id: 4
+  amount: '140.08'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '140.08'
+  created_at: '2019-07-17T09:33:17.282+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:17.282+02:00'
+  updated_by: 296
+jackie_denesik_220606_85351:
+  id: 85351
+  expense_report_id: 220606
+  expense_type_id: 5
+  amount: '3037.88'
+  vat: '170.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '3207.88'
+  created_at: '2019-07-17T09:33:17.282+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:17.282+02:00'
+  updated_by: 296
+jackie_denesik_221828_87479:
+  id: 87479
+  expense_report_id: 221828
+  expense_type_id: 7
+  amount: '348.12'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '348.12'
+  created_at: '2019-07-17T09:33:25.671+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:25.671+02:00'
+  updated_by: 296
+jackie_denesik_221828_87480:
+  id: 87480
+  expense_report_id: 221828
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '16.18'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '16.18'
+  created_at: '2019-07-17T09:33:25.671+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:25.671+02:00'
+  updated_by: 296
+jackie_denesik_221829_87481:
+  id: 87481
+  expense_report_id: 221829
+  expense_type_id: 3
+  amount: '6.0'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '6.0'
+  created_at: '2019-07-17T09:33:25.677+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:25.677+02:00'
+  updated_by: 296
+jackie_denesik_221829_87482:
+  id: 87482
+  expense_report_id: 221829
+  expense_type_id: 4
+  amount: '126.4'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '126.4'
+  created_at: '2019-07-17T09:33:25.677+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:25.677+02:00'
+  updated_by: 296
+jackie_denesik_221829_87483:
+  id: 87483
+  expense_report_id: 221829
+  expense_type_id: 5
+  amount: '1221.34'
+  vat: '41.27'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1262.61'
+  created_at: '2019-07-17T09:33:25.677+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:25.677+02:00'
+  updated_by: 296
+jackie_denesik_223986_91129:
+  id: 91129
+  expense_report_id: 223986
+  expense_type_id: 3
+  amount: '8.04'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '8.04'
+  created_at: '2019-07-17T09:33:41.685+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:41.685+02:00'
+  updated_by: 296
+jackie_denesik_223986_91130:
+  id: 91130
+  expense_report_id: 223986
+  expense_type_id: 4
+  amount: '71.44'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '71.44'
+  created_at: '2019-07-17T09:33:41.685+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:41.685+02:00'
+  updated_by: 296
+jackie_denesik_223986_91131:
+  id: 91131
+  expense_report_id: 223986
+  expense_type_id: 5
+  amount: '1835.8'
+  vat: '69.48'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1905.28'
+  created_at: '2019-07-17T09:33:41.685+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:41.685+02:00'
+  updated_by: 296
+jackie_denesik_223990_91140:
+  id: 91140
+  expense_report_id: 223990
+  expense_type_id: 7
+  amount: '798.6'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '798.6'
+  created_at: '2019-07-17T09:33:41.713+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:41.713+02:00'
+  updated_by: 296
+jackie_denesik_225182_93190:
+  id: 93190
+  expense_report_id: 225182
+  expense_type_id: 7
+  amount: '590.65'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '590.65'
+  created_at: '2019-07-17T09:33:49.977+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:49.977+02:00'
+  updated_by: 296
+jackie_denesik_225185_93193:
+  id: 93193
+  expense_report_id: 225185
+  expense_type_id: 3
+  amount: '8.72'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '8.72'
+  created_at: '2019-07-17T09:33:49.994+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:49.994+02:00'
+  updated_by: 296
+jackie_denesik_225185_93194:
+  id: 93194
+  expense_report_id: 225185
+  expense_type_id: 4
+  amount: '71.97'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '71.97'
+  created_at: '2019-07-17T09:33:49.994+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:49.994+02:00'
+  updated_by: 296
+jackie_denesik_225185_93195:
+  id: 93195
+  expense_report_id: 225185
+  expense_type_id: 5
+  amount: '3052.42'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '3052.42'
+  created_at: '2019-07-17T09:33:49.994+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:33:49.994+02:00'
+  updated_by: 296
+jackie_denesik_227894_97855:
+  id: 97855
+  expense_report_id: 227894
+  expense_type_id: 3
+  amount: '9.64'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '9.64'
+  created_at: '2019-07-17T09:34:08.971+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:08.971+02:00'
+  updated_by: 296
+jackie_denesik_227894_97856:
+  id: 97856
+  expense_report_id: 227894
+  expense_type_id: 4
+  amount: '31.98'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '31.98'
+  created_at: '2019-07-17T09:34:08.971+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:08.971+02:00'
+  updated_by: 296
+jackie_denesik_227894_97857:
+  id: 97857
+  expense_report_id: 227894
+  expense_type_id: 5
+  amount: '2092.34'
+  vat: '115.62'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2207.96'
+  created_at: '2019-07-17T09:34:08.971+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:08.971+02:00'
+  updated_by: 296
+jackie_denesik_227895_97858:
+  id: 97858
+  expense_report_id: 227895
+  expense_type_id: 7
+  amount: '456.6'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '456.6'
+  created_at: '2019-07-17T09:34:08.979+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:08.979+02:00'
+  updated_by: 296
+jackie_denesik_229693_100886:
+  id: 100886
+  expense_report_id: 229693
+  expense_type_id: 7
+  amount: '804.82'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '804.82'
+  created_at: '2019-07-17T09:34:21.875+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:21.875+02:00'
+  updated_by: 296
+jackie_denesik_229695_100888:
+  id: 100888
+  expense_report_id: 229695
+  expense_type_id: 1
+  amount: '1545.64'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1545.64'
+  created_at: '2019-07-17T09:34:21.885+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:21.885+02:00'
+  updated_by: 296
+jackie_denesik_229695_100889:
+  id: 100889
+  expense_report_id: 229695
+  expense_type_id: 3
+  amount: '21.8'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '21.8'
+  created_at: '2019-07-17T09:34:21.885+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:21.885+02:00'
+  updated_by: 296
+jackie_denesik_229695_100890:
+  id: 100890
+  expense_report_id: 229695
+  expense_type_id: 4
+  amount: '146.49'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '146.49'
+  created_at: '2019-07-17T09:34:21.885+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:21.885+02:00'
+  updated_by: 296
+jackie_denesik_229695_100891:
+  id: 100891
+  expense_report_id: 229695
+  expense_type_id: 5
+  amount: '1634.39'
+  vat: '180.29'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1814.68'
+  created_at: '2019-07-17T09:34:21.885+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:21.885+02:00'
+  updated_by: 296
+jackie_denesik_230974_103123:
+  id: 103123
+  expense_report_id: 230974
+  expense_type_id: 1
+  amount: '539.31'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '539.31'
+  created_at: '2019-07-17T09:34:30.927+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:30.927+02:00'
+  updated_by: 296
+jackie_denesik_230974_103124:
+  id: 103124
+  expense_report_id: 230974
+  expense_type_id: 3
+  amount: '9.62'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '9.62'
+  created_at: '2019-07-17T09:34:30.927+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:30.927+02:00'
+  updated_by: 296
+jackie_denesik_230974_103125:
+  id: 103125
+  expense_report_id: 230974
+  expense_type_id: 4
+  amount: '71.97'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '71.97'
+  created_at: '2019-07-17T09:34:30.927+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:30.927+02:00'
+  updated_by: 296
+jackie_denesik_230974_103126:
+  id: 103126
+  expense_report_id: 230974
+  expense_type_id: 5
+  amount: '1915.22'
+  vat: '97.32'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2012.54'
+  created_at: '2019-07-17T09:34:30.927+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:30.927+02:00'
+  updated_by: 296
+jackie_denesik_230975_103127:
+  id: 103127
+  expense_report_id: 230975
+  expense_type_id: 7
+  amount: '2615.48'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2615.48'
+  created_at: '2019-07-17T09:34:30.934+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:30.934+02:00'
+  updated_by: 296
+jackie_denesik_230975_103128:
+  id: 103128
+  expense_report_id: 230975
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '76.69'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '76.69'
+  created_at: '2019-07-17T09:34:30.934+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:30.934+02:00'
+  updated_by: 296
+jackie_denesik_231093_103325:
+  id: 103325
+  expense_report_id: 231093
+  expense_type_id: 7
+  amount: '411.26'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '411.26'
+  created_at: '2019-07-17T09:34:31.709+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:31.709+02:00'
+  updated_by: 296
+jackie_denesik_231917_104699:
+  id: 104699
+  expense_report_id: 231917
+  expense_type_id: 7
+  amount: '2225.92'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2225.92'
+  created_at: '2019-07-17T09:34:37.770+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:37.770+02:00'
+  updated_by: 296
+jackie_denesik_231917_104700:
+  id: 104700
+  expense_report_id: 231917
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '44.06'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '44.06'
+  created_at: '2019-07-17T09:34:37.770+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:37.770+02:00'
+  updated_by: 296
+jackie_denesik_231918_104701:
+  id: 104701
+  expense_report_id: 231918
+  expense_type_id: 3
+  amount: '8.03'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '8.03'
+  created_at: '2019-07-17T09:34:37.777+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:37.777+02:00'
+  updated_by: 296
+jackie_denesik_231918_104702:
+  id: 104702
+  expense_report_id: 231918
+  expense_type_id: 4
+  amount: '105.45'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '105.45'
+  created_at: '2019-07-17T09:34:37.777+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:37.777+02:00'
+  updated_by: 296
+jackie_denesik_231918_104703:
+  id: 104703
+  expense_report_id: 231918
+  expense_type_id: 5
+  amount: '1298.68'
+  vat: '101.36'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1400.04'
+  created_at: '2019-07-17T09:34:37.777+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:37.777+02:00'
+  updated_by: 296
+jackie_denesik_234669_109324:
+  id: 109324
+  expense_report_id: 234669
+  expense_type_id: 4
+  amount: '110.86'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '110.86'
+  created_at: '2019-07-17T09:34:57.116+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:57.116+02:00'
+  updated_by: 296
+jackie_denesik_234669_109325:
+  id: 109325
+  expense_report_id: 234669
+  expense_type_id: 5
+  amount: '3599.09'
+  vat: '139.32'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '3738.41'
+  created_at: '2019-07-17T09:34:57.116+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:57.116+02:00'
+  updated_by: 296
+jackie_denesik_234670_109326:
+  id: 109326
+  expense_report_id: 234670
+  expense_type_id: 7
+  amount: '1182.72'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1182.72'
+  created_at: '2019-07-17T09:34:57.122+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:57.122+02:00'
+  updated_by: 296
+jackie_denesik_234670_109327:
+  id: 109327
+  expense_report_id: 234670
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '42.23'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '42.23'
+  created_at: '2019-07-17T09:34:57.122+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:34:57.122+02:00'
+  updated_by: 296
+jackie_denesik_235495_110659:
+  id: 110659
+  expense_report_id: 235495
+  expense_type_id: 1
+  amount: '588.52'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '588.52'
+  created_at: '2019-07-17T09:35:02.988+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:02.988+02:00'
+  updated_by: 296
+jackie_denesik_235495_110660:
+  id: 110660
+  expense_report_id: 235495
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '117.7'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '117.7'
+  created_at: '2019-07-17T09:35:02.988+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:02.988+02:00'
+  updated_by: 296
+jackie_denesik_236255_111960:
+  id: 111960
+  expense_report_id: 236255
+  expense_type_id: 3
+  amount: '274.0'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '274.0'
+  created_at: '2019-07-17T09:35:08.711+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:08.711+02:00'
+  updated_by: 296
+jackie_denesik_236255_111961:
+  id: 111961
+  expense_report_id: 236255
+  expense_type_id: 4
+  amount: '107.44'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '107.44'
+  created_at: '2019-07-17T09:35:08.711+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:08.711+02:00'
+  updated_by: 296
+jackie_denesik_236255_111962:
+  id: 111962
+  expense_report_id: 236255
+  expense_type_id: 5
+  amount: '2764.02'
+  vat: '35.82'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2799.84'
+  created_at: '2019-07-17T09:35:08.711+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:08.711+02:00'
+  updated_by: 296
+jackie_denesik_236256_111963:
+  id: 111963
+  expense_report_id: 236256
+  expense_type_id: 7
+  amount: '1797.23'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1797.23'
+  created_at: '2019-07-17T09:35:08.719+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:08.719+02:00'
+  updated_by: 296
+jackie_denesik_236256_111964:
+  id: 111964
+  expense_report_id: 236256
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '53.01'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '53.01'
+  created_at: '2019-07-17T09:35:08.719+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:08.719+02:00'
+  updated_by: 296
+jackie_denesik_237060_113193:
+  id: 113193
+  expense_report_id: 237060
+  expense_type_id: 7
+  amount: '1540.1'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1540.1'
+  created_at: '2019-07-17T09:35:14.941+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:14.941+02:00'
+  updated_by: 296
+jackie_denesik_237060_113194:
+  id: 113194
+  expense_report_id: 237060
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '44.12'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '44.12'
+  created_at: '2019-07-17T09:35:14.941+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:14.941+02:00'
+  updated_by: 296
+jackie_denesik_240006_118070:
+  id: 118070
+  expense_report_id: 240006
+  expense_type_id: 7
+  amount: '1638.93'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1638.93'
+  created_at: '2019-07-17T09:35:36.832+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:36.832+02:00'
+  updated_by: 296
+jackie_denesik_240011_118072:
+  id: 118072
+  expense_report_id: 240011
+  expense_type_id: 3
+  amount: '453.7'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '453.7'
+  created_at: '2019-07-17T09:35:36.845+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:36.845+02:00'
+  updated_by: 296
+jackie_denesik_240011_118073:
+  id: 118073
+  expense_report_id: 240011
+  expense_type_id: 4
+  amount: '93.7'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '93.7'
+  created_at: '2019-07-17T09:35:36.845+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:36.845+02:00'
+  updated_by: 296
+jackie_denesik_240011_118074:
+  id: 118074
+  expense_report_id: 240011
+  expense_type_id: 5
+  amount: '3156.53'
+  vat: '285.69'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '3442.22'
+  created_at: '2019-07-17T09:35:36.845+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:36.845+02:00'
+  updated_by: 296
+jackie_denesik_240012_118075:
+  id: 118075
+  expense_report_id: 240012
+  expense_type_id: 3
+  amount: '127.63'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '127.63'
+  created_at: '2019-07-17T09:35:36.852+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:36.852+02:00'
+  updated_by: 296
+jackie_denesik_240012_118076:
+  id: 118076
+  expense_report_id: 240012
+  expense_type_id: 4
+  amount: '39.99'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '39.99'
+  created_at: '2019-07-17T09:35:36.852+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:36.852+02:00'
+  updated_by: 296
+jackie_denesik_240012_118077:
+  id: 118077
+  expense_report_id: 240012
+  expense_type_id: 5
+  amount: '2944.69'
+  vat: '84.66'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '3029.35'
+  created_at: '2019-07-17T09:35:36.852+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:36.852+02:00'
+  updated_by: 296
+jackie_denesik_241199_119995:
+  id: 119995
+  expense_report_id: 241199
+  expense_type_id: 3
+  amount: '16.5'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '16.5'
+  created_at: '2019-07-17T09:35:45.440+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:45.440+02:00'
+  updated_by: 296
+jackie_denesik_241199_119996:
+  id: 119996
+  expense_report_id: 241199
+  expense_type_id: 5
+  amount: '1541.46'
+  vat: '42.1'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1583.56'
+  created_at: '2019-07-17T09:35:45.440+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:45.440+02:00'
+  updated_by: 296
+jackie_denesik_241200_119997:
+  id: 119997
+  expense_report_id: 241200
+  expense_type_id: 7
+  amount: '1256.44'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1256.44'
+  created_at: '2019-07-17T09:35:45.448+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:45.448+02:00'
+  updated_by: 296
+jackie_denesik_241200_119998:
+  id: 119998
+  expense_report_id: 241200
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '66.62'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '66.62'
+  created_at: '2019-07-17T09:35:45.448+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:45.448+02:00'
+  updated_by: 296
+jackie_denesik_242496_122156:
+  id: 122156
+  expense_report_id: 242496
+  expense_type_id: 5
+  amount: '1952.22'
+  vat: '148.22'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2100.44'
+  created_at: '2019-07-17T09:35:54.589+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:54.589+02:00'
+  updated_by: 296
+jackie_denesik_242497_122157:
+  id: 122157
+  expense_report_id: 242497
+  expense_type_id: 7
+  amount: '1068.4'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1068.4'
+  created_at: '2019-07-17T09:35:54.595+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:35:54.595+02:00'
+  updated_by: 296
+jackie_denesik_244637_125684:
+  id: 125684
+  expense_report_id: 244637
+  expense_type_id: 7
+  amount: '2074.45'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2074.45'
+  created_at: '2019-07-17T09:36:09.745+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:09.745+02:00'
+  updated_by: 296
+jackie_denesik_244637_125685:
+  id: 125685
+  expense_report_id: 244637
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '80.51'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '80.51'
+  created_at: '2019-07-17T09:36:09.745+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:09.745+02:00'
+  updated_by: 296
+jackie_denesik_244649_125695:
+  id: 125695
+  expense_report_id: 244649
+  expense_type_id: 1
+  amount: '145.55'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '145.55'
+  created_at: '2019-07-17T09:36:09.800+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:09.800+02:00'
+  updated_by: 296
+jackie_denesik_244649_125696:
+  id: 125696
+  expense_report_id: 244649
+  expense_type_id: 2
+  amount: '190.91'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '190.91'
+  created_at: '2019-07-17T09:36:09.800+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:09.800+02:00'
+  updated_by: 296
+jackie_denesik_244649_125697:
+  id: 125697
+  expense_report_id: 244649
+  expense_type_id: 4
+  amount: '109.72'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '109.72'
+  created_at: '2019-07-17T09:36:09.800+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:09.800+02:00'
+  updated_by: 296
+jackie_denesik_244649_125698:
+  id: 125698
+  expense_report_id: 244649
+  expense_type_id: 5
+  amount: '2068.47'
+  vat: '131.42'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2199.89'
+  created_at: '2019-07-17T09:36:09.800+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:09.800+02:00'
+  updated_by: 296
+jackie_denesik_248767_132616:
+  id: 132616
+  expense_report_id: 248767
+  expense_type_id: 7
+  amount: '1708.81'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1708.81'
+  created_at: '2019-07-17T09:36:39.102+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:39.102+02:00'
+  updated_by: 296
+jackie_denesik_248782_132645:
+  id: 132645
+  expense_report_id: 248782
+  expense_type_id: 7
+  amount: '2411.09'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2411.09'
+  created_at: '2019-07-17T09:36:39.207+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:39.207+02:00'
+  updated_by: 296
+jackie_denesik_248782_132646:
+  id: 132646
+  expense_report_id: 248782
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '281.19'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '281.19'
+  created_at: '2019-07-17T09:36:39.207+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:39.207+02:00'
+  updated_by: 296
+jackie_denesik_248784_132648:
+  id: 132648
+  expense_report_id: 248784
+  expense_type_id: 4
+  amount: '101.97'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '101.97'
+  created_at: '2019-07-17T09:36:39.220+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:39.220+02:00'
+  updated_by: 296
+jackie_denesik_248784_132649:
+  id: 132649
+  expense_report_id: 248784
+  expense_type_id: 5
+  amount: '4324.02'
+  vat: '586.3'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '4910.32'
+  created_at: '2019-07-17T09:36:39.220+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:39.220+02:00'
+  updated_by: 296
+jackie_denesik_249135_133234:
+  id: 133234
+  expense_report_id: 249135
+  expense_type_id: 3
+  amount: '10.06'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '10.06'
+  created_at: '2019-07-17T09:36:42.139+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:42.139+02:00'
+  updated_by: 296
+jackie_denesik_249135_133235:
+  id: 133235
+  expense_report_id: 249135
+  expense_type_id: 4
+  amount: '102.96'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '102.96'
+  created_at: '2019-07-17T09:36:42.139+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:42.139+02:00'
+  updated_by: 296
+jackie_denesik_249135_133236:
+  id: 133236
+  expense_report_id: 249135
+  expense_type_id: 5
+  amount: '7085.52'
+  vat: '629.55'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '7715.07'
+  created_at: '2019-07-17T09:36:42.139+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:36:42.139+02:00'
+  updated_by: 296
+jackie_denesik_252972_139523:
+  id: 139523
+  expense_report_id: 252972
+  expense_type_id: 7
+  amount: '1358.42'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1358.42'
+  created_at: '2019-07-17T09:37:10.301+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:37:10.301+02:00'
+  updated_by: 296
+jackie_denesik_252973_139524:
+  id: 139524
+  expense_report_id: 252973
+  expense_type_id: 7
+  amount: '4253.83'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '4253.83'
+  created_at: '2019-07-17T09:37:10.307+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:37:10.307+02:00'
+  updated_by: 296
+jackie_denesik_252973_139525:
+  id: 139525
+  expense_report_id: 252973
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '37.73'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '37.73'
+  created_at: '2019-07-17T09:37:10.307+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:37:10.307+02:00'
+  updated_by: 296
+jackie_denesik_254291_141731:
+  id: 141731
+  expense_report_id: 254291
+  expense_type_id: 7
+  amount: '2389.98'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2389.98'
+  created_at: '2019-07-17T09:37:20.022+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:37:20.022+02:00'
+  updated_by: 296
+jackie_denesik_254291_141732:
+  id: 141732
+  expense_report_id: 254291
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '76.4'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '76.4'
+  created_at: '2019-07-17T09:37:20.022+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:37:20.022+02:00'
+  updated_by: 296
+jackie_denesik_270052_166647:
+  id: 166647
+  expense_report_id: 270052
+  expense_type_id: 1
+  amount: '565.08'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '565.08'
+  created_at: '2019-07-17T09:39:15.073+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.073+02:00'
+  updated_by: 296
+jackie_denesik_270052_166648:
+  id: 166648
+  expense_report_id: 270052
+  expense_type_id: 3
+  amount: '107.46'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '107.46'
+  created_at: '2019-07-17T09:39:15.073+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.073+02:00'
+  updated_by: 296
+jackie_denesik_270052_166649:
+  id: 166649
+  expense_report_id: 270052
+  expense_type_id: 4
+  amount: '102.96'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '102.96'
+  created_at: '2019-07-17T09:39:15.073+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.073+02:00'
+  updated_by: 296
+jackie_denesik_270052_166650:
+  id: 166650
+  expense_report_id: 270052
+  expense_type_id: 5
+  amount: '4959.72'
+  vat: '83.92'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '5043.64'
+  created_at: '2019-07-17T09:39:15.073+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.073+02:00'
+  updated_by: 296
+jackie_denesik_270053_166651:
+  id: 166651
+  expense_report_id: 270053
+  expense_type_id: 1
+  amount: '610.13'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '610.13'
+  created_at: '2019-07-17T09:39:15.083+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.083+02:00'
+  updated_by: 296
+jackie_denesik_270053_166652:
+  id: 166652
+  expense_report_id: 270053
+  expense_type_id: 3
+  amount: '117.65'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '117.65'
+  created_at: '2019-07-17T09:39:15.083+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.083+02:00'
+  updated_by: 296
+jackie_denesik_270053_166653:
+  id: 166653
+  expense_report_id: 270053
+  expense_type_id: 4
+  amount: '102.96'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '102.96'
+  created_at: '2019-07-17T09:39:15.083+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.083+02:00'
+  updated_by: 296
+jackie_denesik_270053_166654:
+  id: 166654
+  expense_report_id: 270053
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '1.83'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1.83'
+  created_at: '2019-07-17T09:39:15.083+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.083+02:00'
+  updated_by: 296
+jackie_denesik_270054_166655:
+  id: 166655
+  expense_report_id: 270054
+  expense_type_id: 1
+  amount: '1025.77'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1025.77'
+  created_at: '2019-07-17T09:39:15.092+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.092+02:00'
+  updated_by: 296
+jackie_denesik_270054_166656:
+  id: 166656
+  expense_report_id: 270054
+  expense_type_id: 3
+  amount: '164.55'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '164.55'
+  created_at: '2019-07-17T09:39:15.092+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.092+02:00'
+  updated_by: 296
+jackie_denesik_270054_166657:
+  id: 166657
+  expense_report_id: 270054
+  expense_type_id: 4
+  amount: '102.96'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '102.96'
+  created_at: '2019-07-17T09:39:15.092+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.092+02:00'
+  updated_by: 296
+jackie_denesik_270054_166658:
+  id: 166658
+  expense_report_id: 270054
+  expense_type_id: 5
+  amount: '197.0'
+  vat: '1.56'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '198.57'
+  created_at: '2019-07-17T09:39:15.092+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.092+02:00'
+  updated_by: 296
+jackie_denesik_270055_166659:
+  id: 166659
+  expense_report_id: 270055
+  expense_type_id: 1
+  amount: '615.08'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '615.08'
+  created_at: '2019-07-17T09:39:15.100+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.100+02:00'
+  updated_by: 296
+jackie_denesik_270055_166660:
+  id: 166660
+  expense_report_id: 270055
+  expense_type_id: 2
+  amount: '124.89'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '124.89'
+  created_at: '2019-07-17T09:39:15.100+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.100+02:00'
+  updated_by: 296
+jackie_denesik_270055_166661:
+  id: 166661
+  expense_report_id: 270055
+  expense_type_id: 3
+  amount: '9.9'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '9.9'
+  created_at: '2019-07-17T09:39:15.100+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.100+02:00'
+  updated_by: 296
+jackie_denesik_270055_166662:
+  id: 166662
+  expense_report_id: 270055
+  expense_type_id: 4
+  amount: '39.99'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '39.99'
+  created_at: '2019-07-17T09:39:15.100+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.100+02:00'
+  updated_by: 296
+jackie_denesik_270056_166663:
+  id: 166663
+  expense_report_id: 270056
+  expense_type_id: 1
+  amount: '562.35'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '562.35'
+  created_at: '2019-07-17T09:39:15.109+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.109+02:00'
+  updated_by: 296
+jackie_denesik_270056_166664:
+  id: 166664
+  expense_report_id: 270056
+  expense_type_id: 4
+  amount: '0.99'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '0.99'
+  created_at: '2019-07-17T09:39:15.109+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.109+02:00'
+  updated_by: 296
+jackie_denesik_270056_166665:
+  id: 166665
+  expense_report_id: 270056
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '9.79'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '9.79'
+  created_at: '2019-07-17T09:39:15.109+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.109+02:00'
+  updated_by: 296
+jackie_denesik_270057_166666:
+  id: 166666
+  expense_report_id: 270057
+  expense_type_id: 1
+  amount: '1686.03'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1686.03'
+  created_at: '2019-07-17T09:39:15.117+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.117+02:00'
+  updated_by: 296
+jackie_denesik_270057_166667:
+  id: 166667
+  expense_report_id: 270057
+  expense_type_id: 3
+  amount: '84.42'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '84.42'
+  created_at: '2019-07-17T09:39:15.117+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.117+02:00'
+  updated_by: 296
+jackie_denesik_270057_166668:
+  id: 166668
+  expense_report_id: 270057
+  expense_type_id: 4
+  amount: '85.98'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '85.98'
+  created_at: '2019-07-17T09:39:15.117+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.117+02:00'
+  updated_by: 296
+jackie_denesik_270057_166669:
+  id: 166669
+  expense_report_id: 270057
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '3.27'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '3.27'
+  created_at: '2019-07-17T09:39:15.117+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.117+02:00'
+  updated_by: 296
+jackie_denesik_270058_166670:
+  id: 166670
+  expense_report_id: 270058
+  expense_type_id: 1
+  amount: '401.1'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '401.1'
+  created_at: '2019-07-17T09:39:15.125+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.125+02:00'
+  updated_by: 296
+jackie_denesik_270058_166671:
+  id: 166671
+  expense_report_id: 270058
+  expense_type_id: 4
+  amount: '9.99'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '9.99'
+  created_at: '2019-07-17T09:39:15.125+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.125+02:00'
+  updated_by: 296
+jackie_denesik_270058_166672:
+  id: 166672
+  expense_report_id: 270058
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '4.83'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '4.83'
+  created_at: '2019-07-17T09:39:15.125+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.125+02:00'
+  updated_by: 296
+jackie_denesik_270059_166673:
+  id: 166673
+  expense_report_id: 270059
+  expense_type_id: 1
+  amount: '845.87'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '845.87'
+  created_at: '2019-07-17T09:39:15.133+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.133+02:00'
+  updated_by: 296
+jackie_denesik_270059_166674:
+  id: 166674
+  expense_report_id: 270059
+  expense_type_id: 3
+  amount: '8.65'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '8.65'
+  created_at: '2019-07-17T09:39:15.133+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.133+02:00'
+  updated_by: 296
+jackie_denesik_270059_166675:
+  id: 166675
+  expense_report_id: 270059
+  expense_type_id: 4
+  amount: '111.96'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '111.96'
+  created_at: '2019-07-17T09:39:15.133+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.133+02:00'
+  updated_by: 296
+jackie_denesik_270059_166676:
+  id: 166676
+  expense_report_id: 270059
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '30.5'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '30.5'
+  created_at: '2019-07-17T09:39:15.133+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.133+02:00'
+  updated_by: 296
+jackie_denesik_270060_166677:
+  id: 166677
+  expense_report_id: 270060
+  expense_type_id: 1
+  amount: '738.19'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '738.19'
+  created_at: '2019-07-17T09:39:15.141+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.141+02:00'
+  updated_by: 296
+jackie_denesik_270060_166678:
+  id: 166678
+  expense_report_id: 270060
+  expense_type_id: 4
+  amount: '49.98'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '49.98'
+  created_at: '2019-07-17T09:39:15.141+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.141+02:00'
+  updated_by: 296
+jackie_denesik_270061_166679:
+  id: 166679
+  expense_report_id: 270061
+  expense_type_id: 1
+  amount: '231.71'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '231.71'
+  created_at: '2019-07-17T09:39:15.147+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.147+02:00'
+  updated_by: 296
+jackie_denesik_270061_166680:
+  id: 166680
+  expense_report_id: 270061
+  expense_type_id: 3
+  amount: '24.1'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '24.1'
+  created_at: '2019-07-17T09:39:15.147+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.147+02:00'
+  updated_by: 296
+jackie_denesik_270061_166681:
+  id: 166681
+  expense_report_id: 270061
+  expense_type_id: 4
+  amount: '25.98'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '25.98'
+  created_at: '2019-07-17T09:39:15.147+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.147+02:00'
+  updated_by: 296
+jackie_denesik_270061_166682:
+  id: 166682
+  expense_report_id: 270061
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '28.75'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '28.75'
+  created_at: '2019-07-17T09:39:15.147+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.147+02:00'
+  updated_by: 296
+jackie_denesik_270062_166683:
+  id: 166683
+  expense_report_id: 270062
+  expense_type_id: 1
+  amount: '1395.78'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1395.78'
+  created_at: '2019-07-17T09:39:15.155+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.155+02:00'
+  updated_by: 296
+jackie_denesik_270062_166684:
+  id: 166684
+  expense_report_id: 270062
+  expense_type_id: 4
+  amount: '39.99'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '39.99'
+  created_at: '2019-07-17T09:39:15.155+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.155+02:00'
+  updated_by: 296
+jackie_denesik_270063_166685:
+  id: 166685
+  expense_report_id: 270063
+  expense_type_id: 1
+  amount: '573.31'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '573.31'
+  created_at: '2019-07-17T09:39:15.161+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.161+02:00'
+  updated_by: 296
+jackie_denesik_270063_166686:
+  id: 166686
+  expense_report_id: 270063
+  expense_type_id: 3
+  amount: '8.0'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '8.0'
+  created_at: '2019-07-17T09:39:15.161+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:15.161+02:00'
+  updated_by: 296
+jackie_denesik_270755_167968:
+  id: 167968
+  expense_report_id: 270755
+  expense_type_id: 7
+  amount: '2436.57'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2436.57'
+  created_at: '2019-07-17T09:39:20.003+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.003+02:00'
+  updated_by: 296
+jackie_denesik_270755_167969:
+  id: 167969
+  expense_report_id: 270755
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '186.15'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '186.15'
+  created_at: '2019-07-17T09:39:20.003+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.003+02:00'
+  updated_by: 296
+jackie_denesik_270756_167970:
+  id: 167970
+  expense_report_id: 270756
+  expense_type_id: 7
+  amount: '847.05'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '847.05'
+  created_at: '2019-07-17T09:39:20.010+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.010+02:00'
+  updated_by: 296
+jackie_denesik_270756_167971:
+  id: 167971
+  expense_report_id: 270756
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '56.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '56.0'
+  created_at: '2019-07-17T09:39:20.010+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.010+02:00'
+  updated_by: 296
+jackie_denesik_270757_167972:
+  id: 167972
+  expense_report_id: 270757
+  expense_type_id: 7
+  amount: '2748.33'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '2748.33'
+  created_at: '2019-07-17T09:39:20.015+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.015+02:00'
+  updated_by: 296
+jackie_denesik_270757_167973:
+  id: 167973
+  expense_report_id: 270757
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '140.71'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '140.71'
+  created_at: '2019-07-17T09:39:20.015+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.015+02:00'
+  updated_by: 296
+jackie_denesik_270758_167974:
+  id: 167974
+  expense_report_id: 270758
+  expense_type_id: 7
+  amount: '1593.7'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1593.7'
+  created_at: '2019-07-17T09:39:20.021+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.021+02:00'
+  updated_by: 296
+jackie_denesik_270758_167975:
+  id: 167975
+  expense_report_id: 270758
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '106.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '106.0'
+  created_at: '2019-07-17T09:39:20.021+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.021+02:00'
+  updated_by: 296
+jackie_denesik_270759_167976:
+  id: 167976
+  expense_report_id: 270759
+  expense_type_id: 7
+  amount: '811.66'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '811.66'
+  created_at: '2019-07-17T09:39:20.027+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.027+02:00'
+  updated_by: 296
+jackie_denesik_270759_167977:
+  id: 167977
+  expense_report_id: 270759
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '35.98'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '35.98'
+  created_at: '2019-07-17T09:39:20.027+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.027+02:00'
+  updated_by: 296
+jackie_denesik_270760_167978:
+  id: 167978
+  expense_report_id: 270760
+  expense_type_id: 7
+  amount: '1227.68'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1227.68'
+  created_at: '2019-07-17T09:39:20.034+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.034+02:00'
+  updated_by: 296
+jackie_denesik_270760_167979:
+  id: 167979
+  expense_report_id: 270760
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '27.85'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '27.85'
+  created_at: '2019-07-17T09:39:20.034+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.034+02:00'
+  updated_by: 296
+jackie_denesik_270761_167980:
+  id: 167980
+  expense_report_id: 270761
+  expense_type_id: 7
+  amount: '790.8'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '790.8'
+  created_at: '2019-07-17T09:39:20.040+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.040+02:00'
+  updated_by: 296
+jackie_denesik_270761_167981:
+  id: 167981
+  expense_report_id: 270761
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '8.95'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '8.95'
+  created_at: '2019-07-17T09:39:20.040+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.040+02:00'
+  updated_by: 296
+jackie_denesik_270762_167982:
+  id: 167982
+  expense_report_id: 270762
+  expense_type_id: 7
+  amount: '1464.95'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1464.95'
+  created_at: '2019-07-17T09:39:20.046+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.046+02:00'
+  updated_by: 296
+jackie_denesik_270762_167983:
+  id: 167983
+  expense_report_id: 270762
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '54.71'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '54.71'
+  created_at: '2019-07-17T09:39:20.046+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:20.046+02:00'
+  updated_by: 296
+jackie_denesik_271292_168914:
+  id: 168914
+  expense_report_id: 271292
+  expense_type_id: 7
+  amount: '1082.24'
+  vat: '0.0'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '1082.24'
+  created_at: '2019-07-17T09:39:23.792+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:23.792+02:00'
+  updated_by: 296
+jackie_denesik_271292_168915:
+  id: 168915
+  expense_report_id: 271292
+  expense_type_id: 5
+  amount: '0.0'
+  vat: '72.96'
+  kilometers:
+  perdiem_days:
+  perdiem_daily:
+  country_id:
+  total_with_taxes: '72.96'
+  created_at: '2019-07-17T09:39:23.792+02:00'
+  created_by: 296
+  updated_at: '2019-07-17T09:39:23.792+02:00'
+  updated_by: 296

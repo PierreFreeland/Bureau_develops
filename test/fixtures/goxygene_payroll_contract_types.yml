@@ -1,0 +1,105 @@
+---
+cdd:
+  id: 1
+  active: true
+  label: CDD Temps partiel
+  payroll_contract_code: D
+  acronym: CDD
+  base_to_row_coefficient: '1.28205'
+  created_at: '2020-09-10T20:41:12.538+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:12.538+02:00'
+  updated_by: 296
+  base_to_row_coefficient_without_holiday_bonus: '1.2705'
+  partial_time: true
+cdi:
+  id: 2
+  active: true
+  label: CDI Temps partiel
+  payroll_contract_code: I
+  acronym: CDI
+  base_to_row_coefficient: '1.1655'
+  created_at: '2020-09-10T20:41:12.587+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:12.587+02:00'
+  updated_by: 296
+  base_to_row_coefficient_without_holiday_bonus: '1.155'
+  partial_time: true
+cdd_terme_imprécis:
+  id: 3
+  active: true
+  label: CDD Termes imprécis Temps partiel
+  payroll_contract_code: DIC
+  acronym: CDDTI
+  base_to_row_coefficient: '1.28205'
+  created_at: '2021-02-16T17:35:45.932+01:00'
+  created_by: 42
+  updated_at: '2021-02-16T17:35:45.932+01:00'
+  updated_by: 42
+  base_to_row_coefficient_without_holiday_bonus: '1.2705'
+  partial_time: true
+cdd_contrat_pro.:
+  id: 4
+  active: true
+  label: CDD Contrat Pro. Temps partiel
+  payroll_contract_code: CPRO
+  acronym: CPRO
+  base_to_row_coefficient: '1.28205'
+  created_at: '2021-03-23T12:49:22.857+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:49:22.857+01:00'
+  updated_by: 42
+  base_to_row_coefficient_without_holiday_bonus: '1.2705'
+  partial_time: true
+cdd_temps_plein:
+  id: 5
+  active: true
+  label: CDD Temps Plein
+  payroll_contract_code: DP
+  acronym: CDDP
+  base_to_row_coefficient: 1.28205
+  created_at: '2021-10-29 16:20:43.300054'
+  created_by: 42
+  updated_at: '2021-10-29 16:20:43.300054'
+  updated_by: 42
+  base_to_row_coefficient_without_holiday_bonus: 1.2705
+  partial_time: false
+cdi_temps_plein:
+  id: 6
+  active: true
+  label: CDI Temps Plein
+  payroll_contract_code: IP
+  acronym: CDIP
+  base_to_row_coefficient: 1.1655
+  created_at: '2021-10-29 16:20:43.300054'
+  created_by: 42
+  updated_at: '2021-10-29 16:20:43.300054'
+  updated_by: 42
+  base_to_row_coefficient_without_holiday_bonus: 1.155
+  partial_time: false
+cdd_termes_imprécis_temps_plein:
+  id: 7
+  active: true
+  label: CDD Termes Imprécis Temps Plein
+  payroll_contract_code: DICP
+  acronym: CDDTIP
+  base_to_row_coefficient: 1.28205
+  created_at: '2021-10-29 16:20:43.300054'
+  created_by: 42
+  updated_at: '2021-10-29 16:20:43.300054'
+  updated_by: 42
+  base_to_row_coefficient_without_holiday_bonus: 1.2705
+  partial_time: false
+cdd_contrat_pro_temps_plein:
+  id: 8
+  active: true
+  label: CDD Contrat Pro. Temps Plein
+  payroll_contract_code: CPROP
+  acronym: CPROP
+  base_to_row_coefficient: 1.1655
+  created_at: '2021-10-29 16:20:43.300054'
+  created_by: 42
+  updated_at: '2021-10-29 16:20:43.300054'
+  updated_by: 42
+  base_to_row_coefficient_without_holiday_bonus: 1.155
+  partial_time: false

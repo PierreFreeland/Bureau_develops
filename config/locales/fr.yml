@@ -1,0 +1,8 @@
+fr:
+  activerecord:
+    errors:
+      models:
+        cas_authentication:
+          attributes:
+            login:
+              not_found: ''

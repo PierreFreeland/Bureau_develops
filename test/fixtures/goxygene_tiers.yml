@@ -1,0 +1,250 @@
+administrator:
+  id: 53
+  tier_type: individual
+  active: true
+  comment: "Reprise de données du 07/07/2019 19:00:25"
+  created_at: '2019-07-07T17:00:06.457+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T17:00:06.457+02:00'
+  updated_by: 296
+
+jackie_denesik:
+  id: 10392
+  tier_type: individual
+  active: true
+  comment: "Reprise de données du 07/07/2019 19:00:25"
+  created_at: '2019-07-07T17:00:06.457+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T17:00:06.457+02:00'
+  updated_by: 296
+
+tier_9388:
+  id: 9388
+  tier_type: individual
+  active: true
+  comment: "Reprise de données du 03/04/2019 23:51:22"
+  created_at: '2019-04-03T23:51:22.558+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:51:22.558+02:00'
+  updated_by: 296
+
+tier_9786:
+  id: 9786
+  tier_type: individual
+  active: true
+  comment: "Reprise de données du 03/04/2019 23:51:22"
+  created_at: '2019-04-03T23:51:22.558+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:51:22.558+02:00'
+  updated_by: 296
+
+tier_494276:
+  id: 494276
+  tier_type: company
+  active: true
+  comment: "Reprise du 19/09/2019 22:29:05"
+  created_at: "2019-09-19T20:29:06.009+02:00"
+  created_by: 296
+  updated_at: "2019-09-19T20:29:06.009+02:00"
+  updated_by: 296
+
+tier_152339:
+  id: 152339
+  tier_type: company
+  active: true
+  comment: "Reprise du 19/09/2019 22:29:05"
+  created_at: "2019-09-19T20:29:06.009+02:00"
+  created_by: 296
+  updated_at: "2019-09-19T20:29:06.009+02:00"
+  updated_by: 296
+
+tier_142696:
+  id: 142696
+  tier_type: company
+  active: true
+  comment: "Reprise du 19/09/2019 22:29:05"
+  created_at: "2019-09-19T20:29:06.009+02:00"
+  created_by: 296
+  updated_at: "2019-09-19T20:29:06.009+02:00"
+  updated_by: 296
+
+tier_156699:
+  id: 156699
+  tier_type: individual
+  active: true
+  comment: "Reprise du 19/09/2019 22:29:05"
+  created_at: "2019-09-19T20:29:06.009+02:00"
+  created_by: 296
+  updated_at: "2019-09-19T20:29:06.009+02:00"
+  updated_by: 296
+
+tier_156698:
+  id: 156698
+  active: true
+  created_by: 296
+  created_at: "2020-05-07 09:41:42.671308"
+  updated_by: 5
+  updated_at: "2020-05-07 09:41:42.671308"
+  comment: "Reprise du 19/09/2019 22:29:05"
+  tier_type: "company"
+
+tier_304:
+  id: 304
+  active: true
+  created_by: 296
+  created_at: "2020-05-07 09:41:42.671308"
+  updated_by: 5
+  updated_at: "2020-05-07 09:41:42.671308"
+  comment: "Reprise du 19/09/2019 22:29:05"
+  tier_type: "company"
+
+tier_501:
+  id: 501
+  active: true
+  created_by: 296
+  created_at: "2020-05-07 09:41:42.671308"
+  updated_by: 5
+  updated_at: "2020-05-07 09:41:42.671308"
+  comment: "Reprise du 19/09/2019 22:29:05"
+  tier_type: "company"
+
+tier_502:
+  id: 502
+  active: true
+  created_by: 296
+  created_at: "2020-05-07 09:41:42.671308"
+  updated_by: 5
+  updated_at: "2020-05-07 09:41:42.671308"
+  comment: "Reprise du 19/09/2019 22:29:05"
+  tier_type: "company"
+
+tier_509:
+  id: 509
+  active: true
+  created_by: 296
+  created_at: "2020-05-07 09:41:42.671308"
+  updated_by: 5
+  updated_at: "2020-05-07 09:41:42.671308"
+  comment: "Reprise du 19/09/2019 22:29:05"
+  tier_type: "company"
+
+tier_514:
+  id: 514
+  active: true
+  created_by: 296
+  created_at: "2020-05-07 09:41:42.671308"
+  updated_by: 5
+  updated_at: "2020-05-07 09:41:42.671308"
+  comment: "Reprise du 19/09/2019 22:29:05"
+  tier_type: "company"
+
+tier_290004:
+  id: 290004
+  active: true
+  created_by: 296
+  created_at: "2020-05-07 09:41:42.671308"
+  updated_by: 5
+  updated_at: "2020-05-07 09:41:42.671308"
+  comment: "Reprise du 19/09/2019 22:29:05"
+  tier_type: "itg_insurer"
+
+tier_290005:
+  id: 290005
+  active: true
+  created_by: 296
+  created_at: "2020-05-07 09:41:42.671308"
+  updated_by: 5
+  updated_at: "2020-05-07 09:41:42.671308"
+  comment: "Reprise du 19/09/2019 22:29:05"
+  tier_type: "itg_bank"
+
+tier_290006:
+  id: 290006
+  active: true
+  created_by: 296
+  created_at: "2020-05-07 09:41:42.671308"
+  updated_by: 5
+  updated_at: "2020-05-07 09:41:42.671308"
+  comment: "Reprise du 19/09/2019 22:29:05"
+  tier_type: "itg_bank"
+
+tier_144577:
+  id: 144577
+  active: true
+  created_by: 296
+  created_at: "2020-05-07 09:41:42.671308"
+  updated_by: 5
+  updated_at: "2020-05-07 09:41:42.671308"
+  comment: "Reprise du 19/09/2019 22:29:05"
+  tier_type: "itg_bank"
+
+tier_19068:
+  id: 19068
+  active: true
+  created_by: 296
+  created_at: "2020-05-07 09:41:42.671308"
+  updated_by: 5
+  updated_at: "2020-05-07 09:41:42.671308"
+  comment: "Reprise du 19/09/2019 22:29:05"
+  tier_type: "individual"
+
+tier_11042:
+  id: 11042
+  active: true
+  created_by: 296
+  created_at: "2020-05-07 09:41:42.671308"
+  updated_by: 5
+  updated_at: "2020-05-07 09:41:42.671308"
+  comment: "Reprise du 19/09/2019 22:29:05"
+  tier_type: "individual"
+
+tier_290000:
+  id: 290000
+  active: true
+  created_by: 296
+  created_at: "2020-05-07 09:41:42.671308"
+  updated_by: 5
+  updated_at: "2020-05-07 09:41:42.671308"
+  comment: "Reprise du 19/09/2019 22:29:05"
+  tier_type: "company"
+
+tier_14894:
+  id: 14894
+  active: true
+  created_by: 296
+  created_at: "2020-05-07 09:41:42.671308"
+  updated_by: 5
+  updated_at: "2020-05-07 09:41:42.671308"
+  comment: "Reprise du 19/09/2019 22:29:05"
+  tier_type: "individual"
+
+tier_189342:
+  id: 189342
+  tier_type: individual
+  active: true
+  comment: "Reprise de données du 03/04/2019 23:51:22"
+  created_at: '2019-04-03T23:51:22.558+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:51:22.558+02:00'
+  updated_by: 296
+
+tier_johndoe:
+  id: 138
+  tier_type: individual
+  active: true
+  comment: "Reprise de données du 03/04/2019 23:51:22"
+  created_at: '2019-04-03T23:51:22.558+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:51:22.558+02:00'
+  updated_by: 296
+
+tier_182:
+  id: 182
+  tier_type: individual
+  active: true
+  comment: "Reprise de données du 03/04/2019 23:51:22"
+  created_at: '2019-04-03T23:51:22.558+02:00'
+  created_by: 296
+  updated_at: '2019-04-03T23:51:22.558+02:00'
+  updated_by: 296
+

@@ -1,0 +1,731 @@
+---
+110_-_spécialités_pluriscientifiques:
+  id: 1
+  active: false
+  label: 110 - Spécialités pluriscientifiques
+  created_at: '2020-09-10T20:41:25.978+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:25.978+02:00'
+  updated_by: 296
+120_-_spécialités_pluridisciplinaires,_sciences_humaines_et_droit:
+  id: 2
+  active: false
+  label: 120 - Spécialités pluridisciplinaires, sciences humaines et droit
+  created_at: '2020-09-10T20:41:26.008+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:26.008+02:00'
+  updated_by: 296
+130_-_spécialités_littéraires_et_artistiques_plurivalentes:
+  id: 3
+  active: false
+  label: 130 - Spécialités littéraires et artistiques plurivalentes
+  created_at: '2020-09-10T20:41:26.040+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:26.040+02:00'
+  updated_by: 296
+210_-_spécialités_plurivalentes_de_l'agronomie_et_de_l'agriculture:
+  id: 4
+  active: false
+  label: 210 - Spécialités plurivalentes de l'agronomie et de l'agriculture
+  created_at: '2020-09-10T20:41:26.090+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:26.090+02:00'
+  updated_by: 296
+220_-_spécialités_pluritechnologiques_des_transformations:
+  id: 5
+  active: false
+  label: 220 - Spécialités pluritechnologiques des transformations
+  created_at: '2020-09-10T20:41:26.119+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:26.119+02:00'
+  updated_by: 296
+230_-_spécialités_pluritechnologiques,_génie_civil,_construction,_bois:
+  id: 6
+  active: false
+  label: 230 - Spécialités pluritechnologiques, génie civil, construction, bois
+  created_at: '2020-09-10T20:41:26.171+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:26.171+02:00'
+  updated_by: 296
+240_-_spécialités_pluritechnologiques_matériaux_souples:
+  id: 7
+  active: false
+  label: 240 - Spécialités pluritechnologiques matériaux souples
+  created_at: '2020-09-10T20:41:26.196+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:26.196+02:00'
+  updated_by: 296
+250_-_spécialités_pluritechnologiques_mécanique-électricité_(y_compris_maintenance_mécano-électrique):
+  id: 8
+  active: false
+  label: 250 - Spécialités pluritechnologiques mécanique-électricité (y compris maintenance
+    mécano-électrique)
+  created_at: '2020-09-10T20:41:26.206+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:26.206+02:00'
+  updated_by: 296
+? 310_-_spécialités_plurivalentes_des_échanges_et_de_la_gestion_(y_compris_administration_générale_des_entreprises_et_des_collectivités)
+: id: 9
+  active: false
+  label: 310 - Spécialités plurivalentes des échanges et de la gestion (y compris
+    administration générale des entreprises et des collectivités)
+  created_at: '2020-09-10T20:41:26.218+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:26.218+02:00'
+  updated_by: 296
+320_-_spécialités_plurivalentes_de_la_communication:
+  id: 10
+  active: false
+  label: 320 - Spécialités plurivalentes de la communication
+  created_at: '2020-09-10T20:41:26.229+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:26.229+02:00'
+  updated_by: 296
+330_-_spécialités_plurivalentes_sanitaires_et_sociales:
+  id: 11
+  active: false
+  label: 330 - Spécialités plurivalentes sanitaires et sociales
+  created_at: '2020-09-10T20:41:26.260+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:26.260+02:00'
+  updated_by: 296
+410_-_spécialités_concernant_plusieurs_capacités:
+  id: 12
+  active: false
+  label: 410 - Spécialités concernant plusieurs capacités
+  created_at: '2020-09-10T20:41:26.279+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:26.279+02:00'
+  updated_by: 296
+autres:
+  id: 13
+  active: true
+  label: Autres
+  created_at: '2020-09-10T20:41:26.292+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:26.292+02:00'
+  updated_by: 296
+111_-_physique-chimie:
+  id: 14
+  active: true
+  label: 111 - Physique-chimie
+  created_at: '2021-03-23T12:48:52.842+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.842+01:00'
+  updated_by: 42
+112_-_chimie-biologie,_biochimie:
+  id: 15
+  active: true
+  label: 112 - Chimie-biologie, biochimie
+  created_at: '2021-03-23T12:48:52.846+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.846+01:00'
+  updated_by: 42
+113_-_sciences_naturelles_(biologie-géologie):
+  id: 16
+  active: true
+  label: 113 - Sciences naturelles (biologie-géologie)
+  created_at: '2021-03-23T12:48:52.846+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.846+01:00'
+  updated_by: 42
+114_-_mathématiques:
+  id: 17
+  active: true
+  label: 114 - Mathématiques
+  created_at: '2021-03-23T12:48:52.846+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.846+01:00'
+  updated_by: 42
+115_-_physique:
+  id: 18
+  active: true
+  label: 115 - Physique
+  created_at: '2021-03-23T12:48:52.847+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.847+01:00'
+  updated_by: 42
+116_-_chimie:
+  id: 19
+  active: true
+  label: 116 - Chimie
+  created_at: '2021-03-23T12:48:52.847+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.847+01:00'
+  updated_by: 42
+117_-_sciences_de_la_terre:
+  id: 20
+  active: true
+  label: 117 - Sciences de la terre
+  created_at: '2021-03-23T12:48:52.847+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.847+01:00'
+  updated_by: 42
+118_-_sciences_de_la_vie:
+  id: 21
+  active: true
+  label: 118 - Sciences de la vie
+  created_at: '2021-03-23T12:48:52.848+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.848+01:00'
+  updated_by: 42
+121_-_géographie:
+  id: 22
+  active: true
+  label: 121 - Géographie
+  created_at: '2021-03-23T12:48:52.848+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.848+01:00'
+  updated_by: 42
+122_-_économie:
+  id: 23
+  active: true
+  label: 122 - Économie
+  created_at: '2021-03-23T12:48:52.848+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.848+01:00'
+  updated_by: 42
+123_-_sciences_sociales_(y_compris_démographie,_anthropologie):
+  id: 24
+  active: true
+  label: 123 - Sciences sociales (y compris démographie, anthropologie)
+  created_at: '2021-03-23T12:48:52.848+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.848+01:00'
+  updated_by: 42
+124_-_psychologie:
+  id: 25
+  active: true
+  label: 124 - Psychologie
+  created_at: '2021-03-23T12:48:52.849+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.849+01:00'
+  updated_by: 42
+125_-_linguistique:
+  id: 26
+  active: true
+  label: 125 - Linguistique
+  created_at: '2021-03-23T12:48:52.849+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.849+01:00'
+  updated_by: 42
+126_-_histoire:
+  id: 27
+  active: true
+  label: 126 - Histoire
+  created_at: '2021-03-23T12:48:52.849+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.849+01:00'
+  updated_by: 42
+127_-_philosophie,_éthique_et_théologie:
+  id: 28
+  active: true
+  label: 127 - Philosophie, éthique et théologie
+  created_at: '2021-03-23T12:48:52.849+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.849+01:00'
+  updated_by: 42
+128_-_droit,_sciences_politiques:
+  id: 29
+  active: true
+  label: 128 - Droit, sciences politiques
+  created_at: '2021-03-23T12:48:52.849+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.849+01:00'
+  updated_by: 42
+131_-_français,_littérature_et_civilisation_française:
+  id: 30
+  active: true
+  label: 131 - Français, littérature et civilisation française
+  created_at: '2021-03-23T12:48:52.850+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.850+01:00'
+  updated_by: 42
+132_-_arts_plastiques:
+  id: 31
+  active: true
+  label: 132 - Arts plastiques
+  created_at: '2021-03-23T12:48:52.850+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.850+01:00'
+  updated_by: 42
+133_-_musique,_arts_du_spectacle:
+  id: 32
+  active: true
+  label: 133 - Musique, arts du spectacle
+  created_at: '2021-03-23T12:48:52.850+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.850+01:00'
+  updated_by: 42
+134_-_autres_disciplines_artistiques_et_spécialités_artistiques_plurivalentes:
+  id: 33
+  active: true
+  label: 134 - Autres disciplines artistiques et spécialités artistiques plurivalentes
+  created_at: '2021-03-23T12:48:52.850+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.850+01:00'
+  updated_by: 42
+135_-_langues_et_civilisations_anciennes:
+  id: 34
+  active: true
+  label: 135 - Langues et civilisations anciennes
+  created_at: '2021-03-23T12:48:52.850+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.850+01:00'
+  updated_by: 42
+136_-_langues_vivantes,_civilisations_étrangères_et_régionales:
+  id: 35
+  active: true
+  label: 136 - Langues vivantes, civilisations étrangères et régionales
+  created_at: '2021-03-23T12:48:52.851+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.851+01:00'
+  updated_by: 42
+? 201_-_technologies_de_commandes_des_transformations_industriels_(automatismes_et_robotique_industriels,_informatique_industrielle)
+: id: 36
+  active: true
+  label: 201 - Technologies de commandes des transformations industriels (automatismes
+    et robotique industriels, informatique industrielle)
+  created_at: '2021-03-23T12:48:52.851+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.851+01:00'
+  updated_by: 42
+211_-_productions_végétales,_cultures_spécialisées_(horticulture,_viticulture,_arboriculture_fruitière...):
+  id: 37
+  active: true
+  label: 211 - Productions végétales, cultures spécialisées (horticulture, viticulture,
+    arboriculture fruitière...)
+  created_at: '2021-03-23T12:48:52.851+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.851+01:00'
+  updated_by: 42
+212_-_productions_animales,_élevage_spécialisé,_aquaculture,_soins_aux_animaux,_y_compris_vétérinaire:
+  id: 38
+  active: true
+  label: 212 - Productions animales, élevage spécialisé, aquaculture, soins aux animaux,
+    y compris vétérinaire
+  created_at: '2021-03-23T12:48:52.851+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.851+01:00'
+  updated_by: 42
+213_-_forêts,_espaces_naturels,_faune_sauvage,_pêche:
+  id: 39
+  active: true
+  label: 213 - Forêts, espaces naturels, faune sauvage, pêche
+  created_at: '2021-03-23T12:48:52.852+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.852+01:00'
+  updated_by: 42
+214_-_aménagement_paysager_(parcs,_jardins,_espaces_verts_...):
+  id: 40
+  active: true
+  label: 214 - Aménagement paysager (parcs, jardins, espaces verts ...)
+  created_at: '2021-03-23T12:48:52.852+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.852+01:00'
+  updated_by: 42
+221_-_agro-alimentaire,_alimentation,_cuisine:
+  id: 41
+  active: true
+  label: 221 - Agro-alimentaire, alimentation, cuisine
+  created_at: '2021-03-23T12:48:52.852+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.852+01:00'
+  updated_by: 42
+222_-_transformations_chimiques_et_apparentées_(y_compris_industrie_pharmaceutique):
+  id: 42
+  active: true
+  label: 222 - Transformations chimiques et apparentées (y compris industrie pharmaceutique)
+  created_at: '2021-03-23T12:48:52.852+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.852+01:00'
+  updated_by: 42
+223_-_métallurgie_(y_compris_sidérurgie,_fonderie,_non_ferreux...):
+  id: 43
+  active: true
+  label: 223 - Métallurgie (y compris sidérurgie, fonderie, non ferreux...)
+  created_at: '2021-03-23T12:48:52.852+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.852+01:00'
+  updated_by: 42
+224_-_matériaux_de_construction,_verre,_céramique:
+  id: 44
+  active: true
+  label: 224 - Matériaux de construction, verre, céramique
+  created_at: '2021-03-23T12:48:52.853+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.853+01:00'
+  updated_by: 42
+225_-_plasturgie,_matériaux_composites:
+  id: 45
+  active: true
+  label: 225 - Plasturgie, matériaux composites
+  created_at: '2021-03-23T12:48:52.853+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.853+01:00'
+  updated_by: 42
+226_-_papier,_carton:
+  id: 46
+  active: true
+  label: 226 - Papier, carton
+  created_at: '2021-03-23T12:48:52.853+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.853+01:00'
+  updated_by: 42
+227_-_énergie,_génie_climatique_(y_compris_énergie_nucléaire,_thermique,_hydraulique):
+  id: 47
+  active: true
+  label: 227 - Énergie, génie climatique (y compris énergie nucléaire, thermique,
+    hydraulique)
+  created_at: '2021-03-23T12:48:52.853+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.853+01:00'
+  updated_by: 42
+231_-_mines_et_carrières,_génie_civil,_topographie:
+  id: 48
+  active: true
+  label: 231 - Mines et carrières, génie civil, topographie
+  created_at: '2021-03-23T12:48:52.853+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.853+01:00'
+  updated_by: 42
+232_-_bâtiment_:_construction_et_couverture:
+  id: 49
+  active: true
+  label: '232 - Bâtiment : construction et couverture'
+  created_at: '2021-03-23T12:48:52.853+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.853+01:00'
+  updated_by: 42
+233_-_bâtiment_:_finitions:
+  id: 50
+  active: true
+  label: '233 - Bâtiment : finitions'
+  created_at: '2021-03-23T12:48:52.854+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.854+01:00'
+  updated_by: 42
+234_-_travail_du_bois_et_de_l'ameublement:
+  id: 51
+  active: true
+  label: 234 - Travail du bois et de l'ameublement
+  created_at: '2021-03-23T12:48:52.854+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.854+01:00'
+  updated_by: 42
+241_-_textile:
+  id: 52
+  active: true
+  label: 241 - Textile
+  created_at: '2021-03-23T12:48:52.854+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.854+01:00'
+  updated_by: 42
+242_-_habillement_(y_compris_mode,_couture):
+  id: 53
+  active: true
+  label: 242 - Habillement (y compris mode, couture)
+  created_at: '2021-03-23T12:48:52.854+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.854+01:00'
+  updated_by: 42
+243_-_cuirs_et_peaux:
+  id: 54
+  active: true
+  label: 243 - Cuirs et peaux
+  created_at: '2021-03-23T12:48:52.854+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.854+01:00'
+  updated_by: 42
+251_-_mécanique_générale_et_de_précision,_usinage:
+  id: 55
+  active: true
+  label: 251 - Mécanique générale et de précision, usinage
+  created_at: '2021-03-23T12:48:52.855+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.855+01:00'
+  updated_by: 42
+252_-_moteurs_et_mécanique_auto:
+  id: 56
+  active: true
+  label: 252 - Moteurs et mécanique auto
+  created_at: '2021-03-23T12:48:52.855+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.855+01:00'
+  updated_by: 42
+253_-_mécanique_aéronautique_et_spatiale:
+  id: 57
+  active: true
+  label: 253 - Mécanique aéronautique et spatiale
+  created_at: '2021-03-23T12:48:52.855+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.855+01:00'
+  updated_by: 42
+254_-_structures_métalliques_(y_compris_soudure,_carrosserie,_coque_bateau,_cellule_avion):
+  id: 58
+  active: true
+  label: 254 - Structures métalliques (y compris soudure, carrosserie, coque bateau,
+    cellule avion)
+  created_at: '2021-03-23T12:48:52.855+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.855+01:00'
+  updated_by: 42
+255_-_électricité,_électronique_(non_compris_automatismes,_productique):
+  id: 59
+  active: true
+  label: 255 - Électricité, électronique (non compris automatismes, productique)
+  created_at: '2021-03-23T12:48:52.855+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.855+01:00'
+  updated_by: 42
+311_-_transports,_manutention,_magasinage:
+  id: 60
+  active: true
+  label: 311 - Transports, manutention, magasinage
+  created_at: '2021-03-23T12:48:52.856+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.856+01:00'
+  updated_by: 42
+312_-_commerce,_vente:
+  id: 61
+  active: true
+  label: 312 - Commerce, vente
+  created_at: '2021-03-23T12:48:52.856+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.856+01:00'
+  updated_by: 42
+313_-_finances,_banque,_assurances:
+  id: 62
+  active: true
+  label: 313 - Finances, banque, assurances
+  created_at: '2021-03-23T12:48:52.856+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.856+01:00'
+  updated_by: 42
+314_-_comptabilité,_gestion:
+  id: 63
+  active: true
+  label: 314 - Comptabilité, gestion
+  created_at: '2021-03-23T12:48:52.856+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.856+01:00'
+  updated_by: 42
+315_-_ressources_humaines,_gestion_du_personnel,_gestion_de_l'emploi:
+  id: 64
+  active: true
+  label: 315 - Ressources humaines, gestion du personnel, gestion de l'emploi
+  created_at: '2021-03-23T12:48:52.856+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.856+01:00'
+  updated_by: 42
+321_-_journalisme,_communication_(y_compris_communication_graphique_et_publicité):
+  id: 65
+  active: true
+  label: 321 - Journalisme, communication (y compris communication graphique et publicité)
+  created_at: '2021-03-23T12:48:52.857+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.857+01:00'
+  updated_by: 42
+322_-_techniques_de_l'imprimerie_et_de_l'édition:
+  id: 66
+  active: true
+  label: 322 - Techniques de l'imprimerie et de l'édition
+  created_at: '2021-03-23T12:48:52.857+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.857+01:00'
+  updated_by: 42
+323_-_techniques_de_l'image_et_du_son,_métiers_connexes_du_spectacle:
+  id: 67
+  active: true
+  label: 323 - Techniques de l'image et du son, métiers connexes du spectacle
+  created_at: '2021-03-23T12:48:52.857+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.857+01:00'
+  updated_by: 42
+324_-_secrétariat,_bureautique:
+  id: 68
+  active: true
+  label: 324 - Secrétariat, bureautique
+  created_at: '2021-03-23T12:48:52.857+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.857+01:00'
+  updated_by: 42
+325_-_documentation,_bibliothèques,_administration_des_données:
+  id: 69
+  active: true
+  label: 325 - Documentation, bibliothèques, administration des données
+  created_at: '2021-03-23T12:48:52.857+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.857+01:00'
+  updated_by: 42
+326_-_informatique,_traitement_de_l'information,_réseaux_de_transmission_des_données:
+  id: 70
+  active: true
+  label: 326 - Informatique, traitement de l'information, réseaux de transmission
+    des données
+  created_at: '2021-03-23T12:48:52.858+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.858+01:00'
+  updated_by: 42
+331_-_santé:
+  id: 71
+  active: true
+  label: 331 - Santé
+  created_at: '2021-03-23T12:48:52.858+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.858+01:00'
+  updated_by: 42
+332_-_travail_social:
+  id: 72
+  active: true
+  label: 332 - Travail social
+  created_at: '2021-03-23T12:48:52.858+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.858+01:00'
+  updated_by: 42
+333_-_enseignement,_formation:
+  id: 73
+  active: true
+  label: 333 - Enseignement, formation
+  created_at: '2021-03-23T12:48:52.858+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.858+01:00'
+  updated_by: 42
+334_-_accueil,_hôtellerie,_tourisme:
+  id: 74
+  active: true
+  label: 334 - Accueil, hôtellerie, tourisme
+  created_at: '2021-03-23T12:48:52.859+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.859+01:00'
+  updated_by: 42
+335_-_animation_culturelle,_sportive_et_de_loisirs:
+  id: 75
+  active: true
+  label: 335 - Animation culturelle, sportive et de loisirs
+  created_at: '2021-03-23T12:48:52.859+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.859+01:00'
+  updated_by: 42
+336_-_coiffure,_esthétique_et_autres_spécialités_des_services_aux_personnes:
+  id: 76
+  active: true
+  label: 336 - Coiffure, esthétique et autres spécialités des services aux personnes
+  created_at: '2021-03-23T12:48:52.859+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.859+01:00'
+  updated_by: 42
+341_-_aménagement_du_territoire,_développement,_urbanisme:
+  id: 77
+  active: true
+  label: 341 - Aménagement du territoire, développement, urbanisme
+  created_at: '2021-03-23T12:48:52.859+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.859+01:00'
+  updated_by: 42
+342_-_protection_et_développement_du_patrimoine:
+  id: 78
+  active: true
+  label: 342 - Protection et développement du patrimoine
+  created_at: '2021-03-23T12:48:52.859+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.859+01:00'
+  updated_by: 42
+343_-_nettoyage,_assainissement,_protection_de_l'environnement:
+  id: 79
+  active: true
+  label: 343 - Nettoyage, assainissement, protection de l'environnement
+  created_at: '2021-03-23T12:48:52.860+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.860+01:00'
+  updated_by: 42
+344_-_sécurité_des_biens_et_des_personnes,_police,_surveillance_(y_compris_hygiène_et_sécurité):
+  id: 80
+  active: true
+  label: 344 - Sécurité des biens et des personnes, police, surveillance (y compris
+    hygiène et sécurité)
+  created_at: '2021-03-23T12:48:52.860+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.860+01:00'
+  updated_by: 42
+345_-_application_des_droits_et_statut_des_personnes:
+  id: 81
+  active: true
+  label: 345 - Application des droits et statut des personnes
+  created_at: '2021-03-23T12:48:52.860+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.860+01:00'
+  updated_by: 42
+346_-_spécialités_militaires:
+  id: 82
+  active: true
+  label: 346 - Spécialités militaires
+  created_at: '2021-03-23T12:48:52.860+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.860+01:00'
+  updated_by: 42
+411_-_pratiques_sportives_(y_compris_:_arts_martiaux):
+  id: 83
+  active: true
+  label: '411 - Pratiques sportives (y compris : arts martiaux)'
+  created_at: '2021-03-23T12:48:52.861+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.861+01:00'
+  updated_by: 42
+412_-_développement_des_capacités_mentales_et_apprentissages_de_base:
+  id: 84
+  active: true
+  label: 412 - Développement des capacités mentales et apprentissages de base
+  created_at: '2021-03-23T12:48:52.861+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.861+01:00'
+  updated_by: 42
+413_-_développement_des_capacités_comportementales_et_relationnelles:
+  id: 85
+  active: true
+  label: 413 - Développement des capacités comportementales et relationnelles
+  created_at: '2021-03-23T12:48:52.861+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.861+01:00'
+  updated_by: 42
+414_-_développement_des_capacités_individuelles_d'organisation:
+  id: 86
+  active: true
+  label: 414 - Développement des capacités individuelles d'organisation
+  created_at: '2021-03-23T12:48:52.861+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.861+01:00'
+  updated_by: 42
+415_-_développement_des_capacités_d'orientation,_d'insertion_ou_de_réinsertion_sociales:
+  id: 87
+  active: true
+  label: 415 - Développement des capacités d'orientation, d'insertion ou de réinsertion
+    sociales
+  created_at: '2021-03-23T12:48:52.861+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.861+01:00'
+  updated_by: 42
+421_-_jeux_et_activités_spécifiques_de_loisirs:
+  id: 88
+  active: true
+  label: 421 - Jeux et activités spécifiques de loisirs
+  created_at: '2021-03-23T12:48:52.861+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.861+01:00'
+  updated_by: 42
+422_-_économie_et_activités_domestiques:
+  id: 89
+  active: true
+  label: 422 - Économie et activités domestiques
+  created_at: '2021-03-23T12:48:52.862+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.862+01:00'
+  updated_by: 42
+423_-_vie_familiale,_vie_sociale_et_autres_formations_au_développement_personnel:
+  id: 90
+  active: true
+  label: 423 - Vie familiale, vie sociale et autres formations au développement personnel
+  created_at: '2021-03-23T12:48:52.862+01:00'
+  created_by: 42
+  updated_at: '2021-03-23T12:48:52.862+01:00'
+  updated_by: 42

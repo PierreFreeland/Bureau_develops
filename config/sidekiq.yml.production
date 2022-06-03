@@ -1,0 +1,9 @@
+production:
+  :verbose: true
+  :pidfile: ./tmp/pids/sidekiq.pid
+  :concurrency: <%= ENV['SIDEKIQ_CONCURRENCY'] || 10 %>
+  :timeout: 90
+  :queues:
+    - default
+    - mailers
+    - tiq

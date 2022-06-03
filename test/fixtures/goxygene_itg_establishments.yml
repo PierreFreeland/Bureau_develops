@@ -1,0 +1,391 @@
+institut_du_temps_géré:
+  id: 1
+  itg_company_id: 1
+  contact_datum_id: 288
+  active: true
+  default_etab: true
+  name: Institut du Temps Géré
+  appelation: Institut du Temps Géré
+  siret: '88267908870686'
+  urssaf_number: '967330053667001011'
+  opened_on: '1996-04-01T00:00:00.000+02:00'
+  account_tier: SIE
+  payroll_code: '01'
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+montgomery_conseil:
+  id: 2
+  itg_company_id: 2
+  contact_datum_id: 288
+  active: true
+  default_etab: true
+  name: Montgomery conseil
+  appelation: Montgomery conseil
+  siret: '73454267228865'
+  urssaf_number: '967332284667001011'
+  opened_on: '2003-12-16T00:00:00.000+01:00'
+  account_tier: SIE
+  payroll_code: '02'
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+approche:
+  id: 3
+  itg_company_id: 3
+  contact_datum_id: 290
+  active: false
+  default_etab: true
+  name: APPROCHE
+  appelation: Approche
+  siret: ''
+  urssaf_number: '756429383870001011'
+  opened_on: '2006-01-11T00:00:00.000+01:00'
+  account_tier: SIE
+  payroll_code: '01'
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+financiere_jm:
+  id: 4
+  itg_company_id: 4
+  contact_datum_id: 292
+  active: false
+  default_etab: true
+  name: Financiere JM
+  appelation: Financiere JM
+  siret: ''
+  urssaf_number: ''
+  opened_on: '2003-12-16T00:00:00.000+01:00'
+  account_tier: SIE
+  payroll_code: '04'
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+itg_gestion:
+  id: 6
+  itg_company_id: 6
+  contact_datum_id: 294
+  active: false
+  default_etab: true
+  name: ITG GESTION
+  appelation: I.T.G - GESTION
+  siret: ''
+  urssaf_number: '7564119009850010113'
+  opened_on: '2000-11-01T00:00:00.000+01:00'
+  account_tier: SIE
+  payroll_code: '06'
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+itg_consultants:
+  id: 7
+  itg_company_id: 7
+  contact_datum_id: 296
+  active: true
+  default_etab: true
+  name: ITG CONSULTANTS
+  appelation: I.T.G - CONSULTANTS
+  siret: ''
+  urssaf_number: '967881921382001011 '
+  opened_on: '2000-12-18T00:00:00.000+01:00'
+  account_tier: SIE
+  payroll_code: '07'
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+itg_formation:
+  id: 8
+  itg_company_id: 8
+  contact_datum_id: 298
+  active: true
+  default_etab: true
+  name: ITG FORMATION
+  appelation: I.T.G - FORMATION
+  siret: ''
+  urssaf_number: '967862146264001011'
+  opened_on: '2002-12-11T00:00:00.000+01:00'
+  account_tier: SIE
+  payroll_code: '08'
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+itg_conseil:
+  id: 9
+  itg_company_id: 9
+  contact_datum_id: 300
+  active: true
+  default_etab: true
+  name: ITG CONSEIL
+  appelation: I.T.G - CONSEIL
+  siret: ''
+  urssaf_number: '967112146256001011'
+  opened_on: '2002-12-20T00:00:00.000+01:00'
+  account_tier: SIE
+  payroll_code: '09'
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+missionéo:
+  id: 10
+  itg_company_id: 10
+  contact_datum_id: 302
+  active: true
+  default_etab: true
+  name: Missionéo
+  appelation: Missionéo Group
+  siret: ''
+  urssaf_number: '756203214161001011'
+  opened_on: '2006-04-10T00:00:00.000+02:00'
+  account_tier: SIE
+  payroll_code: '0001'
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+itg_constr._etudes_et_diagnost:
+  id: 11
+  itg_company_id: 11
+  contact_datum_id: 304
+  active: true
+  default_etab: true
+  name: ITG CONSTR. ETUDES ET DIAGNOST
+  appelation: ITG CONSTR. ETUDES ET DIAGNOSTICS
+  siret: ''
+  urssaf_number: '967893245456002011'
+  opened_on: '2008-05-14T00:00:00.000+02:00'
+  account_tier: SIE
+  payroll_code: '11'
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+primus_53_sas:
+  id: 12
+  itg_company_id: 12
+  contact_datum_id: 306
+  active: false
+  default_etab: true
+  name: 'Primus 53 SAS                           '
+  appelation: 'Primus 53 SAS                           '
+  siret: ''
+  urssaf_number: ''
+  opened_on:
+  account_tier: SIE
+  payroll_code: ''
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+missioneo_group:
+  id: 13
+  itg_company_id: 13
+  contact_datum_id:
+  active: false
+  default_etab: true
+  name: 'Missioneo Group                         '
+  appelation: 'Missioneo Group                         '
+  siret: ''
+  urssaf_number: ''
+  opened_on:
+  account_tier: SIE
+  payroll_code: ''
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+a.c.p.i.:
+  id: 14
+  itg_company_id: 14
+  contact_datum_id: 308
+  active: true
+  default_etab: true
+  name: A.C.P.I.
+  appelation: Agence Conseil Pour les Intervenants
+  siret: ''
+  urssaf_number: '967422081872001011'
+  opened_on: '2013-10-13T00:00:00.000+02:00'
+  account_tier: SIE
+  payroll_code: '14'
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+acpi_exécutive:
+  id: 15
+  itg_company_id: 15
+  contact_datum_id: 310
+  active: true
+  default_etab: true
+  name: ACPI Exécutive
+  appelation: ACPI Exécutive
+  siret: ''
+  urssaf_number: 117 1512454740
+  opened_on: '2013-11-12T00:00:00.000+01:00'
+  account_tier: SIE
+  payroll_code: '15'
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+portage_salarial_services:
+  id: 16
+  itg_company_id: 16
+  contact_datum_id: 312
+  active: true
+  default_etab: true
+  name: Portage Salarial Services
+  appelation: PORTAGE SALARIAL SERVICES
+  siret: ''
+  urssaf_number: '967184384502001011'
+  opened_on: '2014-01-24T00:00:00.000+01:00'
+  account_tier: SIE
+  payroll_code: '16'
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+trajectoires_missioneo:
+  id: 17
+  itg_company_id: 17
+  contact_datum_id: 314
+  active: true
+  default_etab: true
+  name: Trajectoires Missioneo
+  appelation: TRAJECTOIRES MISSIONEO
+  siret: ''
+  urssaf_number: ''
+  opened_on: '2014-01-24T00:00:00.000+01:00'
+  account_tier: SIE
+  payroll_code: '17'
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+bga:
+  id: 18
+  itg_company_id: 18
+  contact_datum_id: 316
+  active: false
+  default_etab: true
+  name: 'BGA                                     '
+  appelation: 'BGA                                     '
+  siret: ''
+  urssaf_number: ''
+  opened_on:
+  account_tier: SIE
+  payroll_code: ''
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+freeland_group:
+  id: 19
+  itg_company_id: 19
+  contact_datum_id: 318
+  active: false
+  default_etab: true
+  name: 'FREELAND GROUP                          '
+  appelation: 'FREELAND GROUP                          '
+  siret: ''
+  urssaf_number: ''
+  opened_on:
+  account_tier: SIE
+  payroll_code: ''
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+snps:
+  id: 20
+  itg_company_id: 20
+  contact_datum_id: 320
+  active: true
+  default_etab: true
+  name: SNPS
+  appelation: SNPS PORTEO
+  siret: ''
+  urssaf_number: ''
+  opened_on: '2018-11-23T00:00:00.000+01:00'
+  account_tier: SIE
+  payroll_code: ''
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+sigma_conseil_sas:
+  id: 200
+  itg_company_id: 200
+  contact_datum_id: 322
+  active: false
+  default_etab: true
+  name: 'SIGMA CONSEIL SAS                       '
+  appelation: 'SIGMA CONSEIL SAS                       '
+  siret: ''
+  urssaf_number: ''
+  opened_on:
+  account_tier: SIE
+  payroll_code: ''
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+fondation_itg:
+  id: 300
+  itg_company_id: 300
+  contact_datum_id: 324
+  active: false
+  default_etab: true
+  name: 'FONDATION ITG                           '
+  appelation: 'FONDATION ITG                           '
+  siret: ''
+  urssaf_number: ''
+  opened_on:
+  account_tier: SIE
+  payroll_code: ''
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+association_iprodap:
+  id: 900
+  itg_company_id: 900
+  contact_datum_id: 326
+  active: false
+  default_etab: true
+  name: 'ASSOCIATION IPRODAP                     '
+  appelation: 'ASSOCIATION IPRODAP                     '
+  siret: ''
+  urssaf_number: ''
+  opened_on:
+  account_tier: SIE
+  payroll_code: ''
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296
+liens_en_erreur:
+  id: 99
+  itg_company_id: 99
+  contact_datum_id:
+  active: false
+  default_etab: false
+  name: Liens en erreur
+  appelation: Liens en erreur
+  siret: ''
+  urssaf_number: ''
+  opened_on:
+  account_tier: ''
+  payroll_code: ''
+  created_at: '2019-07-07T15:23:16.622+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T15:23:16.622+02:00'
+  updated_by: 296

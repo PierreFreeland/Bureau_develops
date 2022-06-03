@@ -1,0 +1,2 @@
+class CasinoUser < ApplicationRecord
+end

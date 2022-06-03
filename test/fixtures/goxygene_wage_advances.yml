@@ -1,0 +1,3264 @@
+jackie_denesik_14023:
+  id: 14023
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 265797
+  wage_advance_status: completed
+  date: '2012-02-20'
+  amount: '849.0'
+  consultant_comment: ''
+  correspondant_comment: Rbst Immo apple
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:02.637+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:02.637+01:00'
+  updated_by: 296
+jackie_denesik_14326:
+  id: 14326
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 272099
+  wage_advance_status: completed
+  date: '2012-05-03'
+  amount: '637.0'
+  consultant_comment: ''
+  correspondant_comment: IMMO APPLE 16/03/12
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:03.368+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:03.368+01:00'
+  updated_by: 296
+jackie_denesik_14705:
+  id: 14705
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 279785
+  wage_advance_status: completed
+  date: '2012-07-31'
+  amount: '3372.19'
+  consultant_comment: ''
+  correspondant_comment: RBT IMMO APPLE 22/07
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:04.544+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:04.544+01:00'
+  updated_by: 296
+jackie_denesik_14778:
+  id: 14778
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 281143
+  wage_advance_status: completed
+  date: '2012-08-23'
+  amount: '1865.76'
+  consultant_comment: ''
+  correspondant_comment: immo apple 20/07/12
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:04.726+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:04.726+01:00'
+  updated_by: 296
+jackie_denesik_15189:
+  id: 15189
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 290977
+  wage_advance_status: completed
+  date: '2012-12-21'
+  amount: '928.0'
+  consultant_comment: ''
+  correspondant_comment: Apple
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:06.003+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:06.003+01:00'
+  updated_by: 296
+jackie_denesik_15349:
+  id: 15349
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 295605
+  wage_advance_status: completed
+  date: '2013-02-07'
+  amount: '928.0'
+  consultant_comment: ''
+  correspondant_comment: compl,sal dec
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:06.421+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:06.421+01:00'
+  updated_by: 296
+jackie_denesik_15628:
+  id: 15628
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 302893
+  wage_advance_status: completed
+  date: '2013-05-07'
+  amount: '1255.25'
+  consultant_comment: ''
+  correspondant_comment: immo ldlc 04/04/13
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:07.292+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:07.292+01:00'
+  updated_by: 296
+jackie_denesik_16124:
+  id: 16124
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 315901
+  wage_advance_status: completed
+  date: '2013-10-18'
+  amount: '899.0'
+  consultant_comment: ''
+  correspondant_comment: FCT APPLE 20/09/13
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:08.695+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:08.695+01:00'
+  updated_by: 296
+jackie_denesik_16753:
+  id: 16753
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 330343
+  wage_advance_status: completed
+  date: '2014-03-27'
+  amount: '1500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:10.479+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:10.479+01:00'
+  updated_by: 296
+jackie_denesik_19900:
+  id: 19900
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 405910
+  wage_advance_status: completed
+  date: '2016-06-01'
+  amount: '9000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:18.987+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:18.987+01:00'
+  updated_by: 296
+jackie_denesik_17457:
+  id: 17457
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 346809
+  wage_advance_status: completed
+  date: '2014-10-07'
+  amount: '2000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:12.305+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:12.305+01:00'
+  updated_by: 296
+jackie_denesik_22123:
+  id: 22123
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 464442
+  wage_advance_status: completed
+  date: '2017-12-01'
+  amount: '6000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:25.015+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:25.015+01:00'
+  updated_by: 296
+jackie_denesik_17806:
+  id: 17806
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 354194
+  wage_advance_status: completed
+  date: '2014-12-23'
+  amount: '899.0'
+  consultant_comment: ''
+  correspondant_comment: FCT APPLE 04/11/14
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:13.349+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:13.349+01:00'
+  updated_by: 296
+jackie_denesik_18908:
+  id: 18908
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 381792
+  wage_advance_status: completed
+  date: '2015-10-02'
+  amount: '2340.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:16.148+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:16.148+01:00'
+  updated_by: 296
+jackie_denesik_18911:
+  id: 18911
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 381793
+  wage_advance_status: completed
+  date: '2015-10-05'
+  amount: '969.0'
+  consultant_comment: ''
+  correspondant_comment: FCT APPLE DISTRIBUTI
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:16.153+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:16.153+01:00'
+  updated_by: 296
+jackie_denesik_19017:
+  id: 19017
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 384762
+  wage_advance_status: completed
+  date: '2015-11-03'
+  amount: '5000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:16.617+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:16.617+01:00'
+  updated_by: 296
+jackie_denesik_19130:
+  id: 19130
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 387697
+  wage_advance_status: completed
+  date: '2015-12-02'
+  amount: '5000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:16.886+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:16.886+01:00'
+  updated_by: 296
+jackie_denesik_19377:
+  id: 19377
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 393649
+  wage_advance_status: completed
+  date: '2016-02-01'
+  amount: '8000.0'
+  consultant_comment: ''
+  correspondant_comment: Accord AH
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:17.514+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:17.514+01:00'
+  updated_by: 296
+jackie_denesik_19524:
+  id: 19524
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 397384
+  wage_advance_status: completed
+  date: '2016-03-04'
+  amount: '7000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:18.070+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:18.070+01:00'
+  updated_by: 296
+jackie_denesik_19662:
+  id: 19662
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 399796
+  wage_advance_status: completed
+  date: '2016-04-01'
+  amount: '8000.0'
+  consultant_comment: ''
+  correspondant_comment: Accord AH
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:18.392+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:18.392+01:00'
+  updated_by: 296
+jackie_denesik_19795:
+  id: 19795
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 403054
+  wage_advance_status: completed
+  date: '2016-05-03'
+  amount: '8000.0'
+  consultant_comment: ''
+  correspondant_comment: Accord AH
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:18.737+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:18.737+01:00'
+  updated_by: 296
+jackie_denesik_19819:
+  id: 19819
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 403405
+  wage_advance_status: completed
+  date: '2016-05-10'
+  amount: '2500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:18.788+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:18.788+01:00'
+  updated_by: 296
+jackie_denesik_20029:
+  id: 20029
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 409317
+  wage_advance_status: completed
+  date: '2016-07-04'
+  amount: '9000.0'
+  consultant_comment: ''
+  correspondant_comment: Accord AH
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:19.291+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:19.291+01:00'
+  updated_by: 296
+jackie_denesik_20185:
+  id: 20185
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 412644
+  wage_advance_status: completed
+  date: '2016-08-08'
+  amount: '3500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:19.847+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:19.847+01:00'
+  updated_by: 296
+jackie_denesik_20265:
+  id: 20265
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 414824
+  wage_advance_status: completed
+  date: '2016-09-02'
+  amount: '4500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:20.036+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:20.036+01:00'
+  updated_by: 296
+jackie_denesik_20351:
+  id: 20351
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 416696
+  wage_advance_status: completed
+  date: '2016-09-29'
+  amount: '5500.0'
+  consultant_comment: ''
+  correspondant_comment: OK AH
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:20.247+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:20.247+01:00'
+  updated_by: 296
+jackie_denesik_20499:
+  id: 20499
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 420854
+  wage_advance_status: completed
+  date: '2016-11-02'
+  amount: '6000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:20.593+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:20.593+01:00'
+  updated_by: 296
+jackie_denesik_20625:
+  id: 20625
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 423323
+  wage_advance_status: completed
+  date: '2016-11-30'
+  amount: '6000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:20.865+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:20.865+01:00'
+  updated_by: 296
+jackie_denesik_20757:
+  id: 20757
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 427531
+  wage_advance_status: completed
+  date: '2016-12-30'
+  amount: '8000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:21.371+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:21.371+01:00'
+  updated_by: 296
+jackie_denesik_20898:
+  id: 20898
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 431586
+  wage_advance_status: completed
+  date: '2017-02-02'
+  amount: '7600.0'
+  consultant_comment: ''
+  correspondant_comment: OK AH
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:21.693+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:21.693+01:00'
+  updated_by: 296
+jackie_denesik_21151:
+  id: 21151
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 438791
+  wage_advance_status: completed
+  date: '2017-04-10'
+  amount: '1471.95'
+  consultant_comment: ''
+  correspondant_comment: Pmt Fct Apple Store
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:22.307+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:22.307+01:00'
+  updated_by: 296
+jackie_denesik_21153:
+  id: 21153
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 438793
+  wage_advance_status: completed
+  date: '2017-04-11'
+  amount: '713.0'
+  consultant_comment: ''
+  correspondant_comment: Pmt FCt Omnicharge
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:22.313+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:22.313+01:00'
+  updated_by: 296
+jackie_denesik_21186:
+  id: 21186
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 439408
+  wage_advance_status: completed
+  date: '2017-04-20'
+  amount: '2636.4'
+  consultant_comment: ''
+  correspondant_comment: RBT FCT APPLE
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:22.398+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:22.398+01:00'
+  updated_by: 296
+jackie_denesik_21187:
+  id: 21187
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 439405
+  wage_advance_status: completed
+  date: '2017-04-20'
+  amount: '742.0'
+  consultant_comment: ''
+  correspondant_comment: RBT FCT OLANO
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:22.400+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:22.400+01:00'
+  updated_by: 296
+jackie_denesik_21188:
+  id: 21188
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 439410
+  wage_advance_status: completed
+  date: '2017-04-20'
+  amount: '1228.0'
+  consultant_comment: ''
+  correspondant_comment: RBT FCT APPLE DISTRI
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:22.403+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:22.403+01:00'
+  updated_by: 296
+jackie_denesik_21381:
+  id: 21381
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 445430
+  wage_advance_status: completed
+  date: '2017-06-07'
+  amount: '1399.98'
+  consultant_comment: ''
+  correspondant_comment: RBT FCT AMAZON
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:23.056+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:23.056+01:00'
+  updated_by: 296
+jackie_denesik_22930:
+  id: 22930
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 482410
+  wage_advance_status: completed
+  date: '2018-04-30'
+  amount: '13600.0'
+  consultant_comment: ''
+  correspondant_comment: Avance OK SG
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:27.085+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:27.085+01:00'
+  updated_by: 296
+jackie_denesik_23046:
+  id: 23046
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 486037
+  wage_advance_status: completed
+  date: '2019-05-30'
+  amount: '14600.0'
+  consultant_comment: ''
+  correspondant_comment: avance
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:27.548+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:27.548+01:00'
+  updated_by: 296
+jackie_denesik_23195:
+  id: 23195
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 490116
+  wage_advance_status: completed
+  date: '2019-07-02'
+  amount: '10900.0'
+  consultant_comment: ''
+  correspondant_comment: OK AH
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:27.874+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:27.874+01:00'
+  updated_by: 296
+jackie_denesik_23363:
+  id: 23363
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 494083
+  wage_advance_status: completed
+  date: '2019-08-02'
+  amount: '11700.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:28.290+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:28.290+01:00'
+  updated_by: 296
+jackie_denesik_23523:
+  id: 23523
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 497136
+  wage_advance_status: completed
+  date: '2019-09-05'
+  amount: '9400.0'
+  consultant_comment: ''
+  correspondant_comment: OK AH
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:28.643+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:28.643+01:00'
+  updated_by: 296
+jackie_denesik_23653:
+  id: 23653
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 500131
+  wage_advance_status: completed
+  date: '2019-10-02'
+  amount: '7600.0'
+  consultant_comment: ''
+  correspondant_comment: OK AH
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:29.142+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:29.142+01:00'
+  updated_by: 296
+jackie_denesik_23654:
+  id: 23654
+  itg_company_id: 9
+  consultant_id: 9392
+  disbursement_id: 500135
+  wage_advance_status: completed
+  date: '2019-10-02'
+  amount: '7600.0'
+  consultant_comment: ''
+  correspondant_comment: OK AH
+  validated_at:
+  validated_by:
+  created_at: '2018-12-20T05:50:29.145+01:00'
+  created_by: 296
+  updated_at: '2018-12-20T05:50:29.145+01:00'
+  updated_by: 296
+drew_gutkowski_12679:
+  id: 12679
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 235692
+  wage_advance_status: completed
+  date: '2011-02-08'
+  amount: '500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:54.378+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:54.378+02:00'
+  updated_by: 296
+drew_gutkowski_12765:
+  id: 12765
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 237850
+  wage_advance_status: completed
+  date: '2011-03-07'
+  amount: '1100.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:54.772+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:54.772+02:00'
+  updated_by: 296
+drew_gutkowski_12787:
+  id: 12787
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 238255
+  wage_advance_status: completed
+  date: '2011-03-11'
+  amount: '1300.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:54.819+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:54.819+02:00'
+  updated_by: 296
+drew_gutkowski_12844:
+  id: 12844
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 239311
+  wage_advance_status: completed
+  date: '2011-03-30'
+  amount: '2000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:54.963+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:54.963+02:00'
+  updated_by: 296
+drew_gutkowski_12881:
+  id: 12881
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 240313
+  wage_advance_status: completed
+  date: '2011-04-07'
+  amount: '1500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:55.041+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:55.041+02:00'
+  updated_by: 296
+drew_gutkowski_12892:
+  id: 12892
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 240640
+  wage_advance_status: completed
+  date: '2011-04-12'
+  amount: '550.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:55.069+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:55.069+02:00'
+  updated_by: 296
+drew_gutkowski_12906:
+  id: 12906
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 240831
+  wage_advance_status: completed
+  date: '2011-04-14'
+  amount: '350.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:55.095+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:55.095+02:00'
+  updated_by: 296
+drew_gutkowski_12936:
+  id: 12936
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 241092
+  wage_advance_status: completed
+  date: '2011-04-21'
+  amount: '350.0'
+  consultant_comment: ''
+  correspondant_comment: av tél 21/04/2011
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:55.153+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:55.153+02:00'
+  updated_by: 296
+drew_gutkowski_12977:
+  id: 12977
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 242121
+  wage_advance_status: completed
+  date: '2011-05-03'
+  amount: '500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:55.243+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:55.243+02:00'
+  updated_by: 296
+drew_gutkowski_13009:
+  id: 13009
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 242780
+  wage_advance_status: completed
+  date: '2011-05-09'
+  amount: '2500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:55.319+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:55.319+02:00'
+  updated_by: 296
+drew_gutkowski_13103:
+  id: 13103
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 244810
+  wage_advance_status: completed
+  date: '2011-06-07'
+  amount: '1500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:55.557+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:55.557+02:00'
+  updated_by: 296
+drew_gutkowski_13133:
+  id: 13133
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 245506
+  wage_advance_status: completed
+  date: '2011-06-16'
+  amount: '1500.0'
+  consultant_comment: ''
+  correspondant_comment: AV OK MA
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:55.628+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:55.628+02:00'
+  updated_by: 296
+drew_gutkowski_13179:
+  id: 13179
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 246515
+  wage_advance_status: completed
+  date: '2011-06-30'
+  amount: '1000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:55.743+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:55.743+02:00'
+  updated_by: 296
+drew_gutkowski_13200:
+  id: 13200
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 247144
+  wage_advance_status: completed
+  date: '2011-07-05'
+  amount: '1000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:55.792+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:55.792+02:00'
+  updated_by: 296
+drew_gutkowski_13245:
+  id: 13245
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 248018
+  wage_advance_status: completed
+  date: '2011-07-18'
+  amount: '1600.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:55.887+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:55.887+02:00'
+  updated_by: 296
+drew_gutkowski_13300:
+  id: 13300
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 249563
+  wage_advance_status: completed
+  date: '2011-08-02'
+  amount: '2800.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:56.203+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:56.203+02:00'
+  updated_by: 296
+drew_gutkowski_13328:
+  id: 13328
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 250213
+  wage_advance_status: completed
+  date: '2011-08-10'
+  amount: '500.0'
+  consultant_comment: ''
+  correspondant_comment: 'Ace tel ss le 10 '
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:56.264+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:56.264+02:00'
+  updated_by: 296
+drew_gutkowski_13334:
+  id: 13334
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 250285
+  wage_advance_status: completed
+  date: '2011-08-12'
+  amount: '1000.0'
+  consultant_comment: ''
+  correspondant_comment: Ace tel le 12 ss
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:56.277+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:56.277+02:00'
+  updated_by: 296
+drew_gutkowski_13412:
+  id: 13412
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 252169
+  wage_advance_status: completed
+  date: '2011-09-09'
+  amount: '1200.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:56.457+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:56.457+02:00'
+  updated_by: 296
+drew_gutkowski_13436:
+  id: 13436
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 252519
+  wage_advance_status: completed
+  date: '2011-09-16'
+  amount: '1100.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:56.505+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:56.505+02:00'
+  updated_by: 296
+drew_gutkowski_13500:
+  id: 13500
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 253874
+  wage_advance_status: completed
+  date: '2011-10-04'
+  amount: '1500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:56.651+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:56.651+02:00'
+  updated_by: 296
+drew_gutkowski_13544:
+  id: 13544
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 254872
+  wage_advance_status: completed
+  date: '2011-10-17'
+  amount: '500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:56.752+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:56.752+02:00'
+  updated_by: 296
+drew_gutkowski_13563:
+  id: 13563
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 255055
+  wage_advance_status: completed
+  date: '2011-10-20'
+  amount: '3300.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:56.796+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:56.796+02:00'
+  updated_by: 296
+drew_gutkowski_13604:
+  id: 13604
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 256005
+  wage_advance_status: completed
+  date: '2011-10-31'
+  amount: '4000.0'
+  consultant_comment: ''
+  correspondant_comment: av demande LT
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:56.883+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:56.883+02:00'
+  updated_by: 296
+drew_gutkowski_13611:
+  id: 13611
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 256279
+  wage_advance_status: completed
+  date: '2011-11-02'
+  amount: '1018.0'
+  consultant_comment: ''
+  correspondant_comment: IMMO APPLES 28/10
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:56.902+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:56.902+02:00'
+  updated_by: 296
+drew_gutkowski_13634:
+  id: 13634
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 256881
+  wage_advance_status: completed
+  date: '2011-11-08'
+  amount: '3500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:56.954+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:56.954+02:00'
+  updated_by: 296
+drew_gutkowski_13671:
+  id: 13671
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 257480
+  wage_advance_status: completed
+  date: '2011-11-17'
+  amount: '2300.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:57.038+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:57.038+02:00'
+  updated_by: 296
+drew_gutkowski_13711:
+  id: 13711
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 258486
+  wage_advance_status: completed
+  date: '2011-11-30'
+  amount: '3000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:57.140+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:57.140+02:00'
+  updated_by: 296
+drew_gutkowski_13758:
+  id: 13758
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 259928
+  wage_advance_status: completed
+  date: '2011-12-13'
+  amount: '2000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:57.247+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:57.247+02:00'
+  updated_by: 296
+drew_gutkowski_13788:
+  id: 13788
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 260270
+  wage_advance_status: completed
+  date: '2011-12-20'
+  amount: '2500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:57.320+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:57.320+02:00'
+  updated_by: 296
+drew_gutkowski_13818:
+  id: 13818
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 261613
+  wage_advance_status: completed
+  date: '2011-12-30'
+  amount: '3000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:57.395+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:57.395+02:00'
+  updated_by: 296
+drew_gutkowski_14003:
+  id: 14003
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 265536
+  wage_advance_status: completed
+  date: '2012-02-15'
+  amount: '1500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:58.033+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:58.033+02:00'
+  updated_by: 296
+drew_gutkowski_14108:
+  id: 14108
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 267555
+  wage_advance_status: completed
+  date: '2012-03-09'
+  amount: '1500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:58.281+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:58.281+02:00'
+  updated_by: 296
+drew_gutkowski_14119:
+  id: 14119
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 267694
+  wage_advance_status: completed
+  date: '2012-03-13'
+  amount: '1000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:58.297+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:58.297+02:00'
+  updated_by: 296
+drew_gutkowski_14187:
+  id: 14187
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 268913
+  wage_advance_status: completed
+  date: '2012-03-29'
+  amount: '3000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:58.449+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:58.449+02:00'
+  updated_by: 296
+drew_gutkowski_14265:
+  id: 14265
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 270763
+  wage_advance_status: completed
+  date: '2012-04-19'
+  amount: '2000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:58.621+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:58.621+02:00'
+  updated_by: 296
+drew_gutkowski_14388:
+  id: 14388
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 272357
+  wage_advance_status: completed
+  date: '2012-05-09'
+  amount: '500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:58.928+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:58.928+02:00'
+  updated_by: 296
+drew_gutkowski_14402:
+  id: 14402
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 272610
+  wage_advance_status: completed
+  date: '2012-05-14'
+  amount: '2000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:58.962+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:58.962+02:00'
+  updated_by: 296
+drew_gutkowski_14416:
+  id: 14416
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 272829
+  wage_advance_status: completed
+  date: '2012-05-15'
+  amount: '1500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:59.177+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:59.177+02:00'
+  updated_by: 296
+drew_gutkowski_14463:
+  id: 14463
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 274150
+  wage_advance_status: completed
+  date: '2012-05-31'
+  amount: '1500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:59.298+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:59.298+02:00'
+  updated_by: 296
+drew_gutkowski_14571:
+  id: 14571
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 276527
+  wage_advance_status: completed
+  date: '2012-06-28'
+  amount: '300.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:59.552+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:59.552+02:00'
+  updated_by: 296
+drew_gutkowski_14625:
+  id: 14625
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 277994
+  wage_advance_status: completed
+  date: '2012-07-12'
+  amount: '1500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:59.681+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:59.681+02:00'
+  updated_by: 296
+drew_gutkowski_14652:
+  id: 14652
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 278478
+  wage_advance_status: completed
+  date: '2012-07-19'
+  amount: '2000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:59.751+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:59.751+02:00'
+  updated_by: 296
+drew_gutkowski_14677:
+  id: 14677
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 278944
+  wage_advance_status: completed
+  date: '2012-07-25'
+  amount: '350.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:59.811+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:59.811+02:00'
+  updated_by: 296
+drew_gutkowski_14706:
+  id: 14706
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 279786
+  wage_advance_status: completed
+  date: '2012-07-31'
+  amount: '3496.5'
+  consultant_comment: ''
+  correspondant_comment: RBT IMMO APPLE 24/07
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:31:59.884+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:31:59.884+02:00'
+  updated_by: 296
+drew_gutkowski_14823:
+  id: 14823
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 282505
+  wage_advance_status: completed
+  date: '2012-09-06'
+  amount: '928.53'
+  consultant_comment: ''
+  correspondant_comment: fct fnac 05/09/12
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:00.164+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:00.164+02:00'
+  updated_by: 296
+drew_gutkowski_14914:
+  id: 14914
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 284957
+  wage_advance_status: completed
+  date: '2012-10-08'
+  amount: '500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:00.388+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:00.388+02:00'
+  updated_by: 296
+drew_gutkowski_14931:
+  id: 14931
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 285342
+  wage_advance_status: completed
+  date: '2012-10-15'
+  amount: '500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:00.432+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:00.432+02:00'
+  updated_by: 296
+drew_gutkowski_14948:
+  id: 14948
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 285598
+  wage_advance_status: completed
+  date: '2012-10-19'
+  amount: '500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:00.662+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:00.662+02:00'
+  updated_by: 296
+drew_gutkowski_15035:
+  id: 15035
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 287584
+  wage_advance_status: completed
+  date: '2012-11-12'
+  amount: '700.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:00.881+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:00.881+02:00'
+  updated_by: 296
+drew_gutkowski_15047:
+  id: 15047
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 287756
+  wage_advance_status: completed
+  date: '2012-11-14'
+  amount: '1000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:00.910+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:00.910+02:00'
+  updated_by: 296
+drew_gutkowski_15163:
+  id: 15163
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 290453
+  wage_advance_status: completed
+  date: '2012-12-12'
+  amount: '2000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:01.154+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:01.154+02:00'
+  updated_by: 296
+drew_gutkowski_15194:
+  id: 15194
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 291018
+  wage_advance_status: completed
+  date: '2012-12-21'
+  amount: '2700.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:01.233+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:01.233+02:00'
+  updated_by: 296
+drew_gutkowski_15207:
+  id: 15207
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 291692
+  wage_advance_status: completed
+  date: '2012-12-28'
+  amount: '1000.0'
+  consultant_comment: ''
+  correspondant_comment: mail du 28/12/12
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:01.266+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:01.266+02:00'
+  updated_by: 296
+drew_gutkowski_15278:
+  id: 15278
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 293580
+  wage_advance_status: completed
+  date: '2013-01-15'
+  amount: '2000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:01.437+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:01.437+02:00'
+  updated_by: 296
+drew_gutkowski_15290:
+  id: 15290
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 293874
+  wage_advance_status: completed
+  date: '2013-01-18'
+  amount: '2000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:01.466+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:01.466+02:00'
+  updated_by: 296
+drew_gutkowski_15366:
+  id: 15366
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 295986
+  wage_advance_status: completed
+  date: '2013-02-13'
+  amount: '2000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:01.654+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:01.654+02:00'
+  updated_by: 296
+drew_gutkowski_15570:
+  id: 15570
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 301329
+  wage_advance_status: completed
+  date: '2013-04-22'
+  amount: '10660.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:02.329+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:02.329+02:00'
+  updated_by: 296
+drew_gutkowski_15632:
+  id: 15632
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 302895
+  wage_advance_status: completed
+  date: '2013-05-13'
+  amount: '3460.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:02.462+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:02.462+02:00'
+  updated_by: 296
+drew_gutkowski_15732:
+  id: 15732
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 305506
+  wage_advance_status: completed
+  date: '2013-06-10'
+  amount: '4000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:02.690+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:02.690+02:00'
+  updated_by: 296
+drew_gutkowski_15817:
+  id: 15817
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 307799
+  wage_advance_status: completed
+  date: '2013-07-08'
+  amount: '5000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:02.884+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:02.884+02:00'
+  updated_by: 296
+drew_gutkowski_15829:
+  id: 15829
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 308181
+  wage_advance_status: completed
+  date: '2013-07-12'
+  amount: '2500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:02.916+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:02.916+02:00'
+  updated_by: 296
+drew_gutkowski_15841:
+  id: 15841
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 308303
+  wage_advance_status: completed
+  date: '2013-07-15'
+  amount: '1000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:02.949+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:02.949+02:00'
+  updated_by: 296
+drew_gutkowski_15901:
+  id: 15901
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 310114
+  wage_advance_status: completed
+  date: '2013-08-02'
+  amount: '4500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:03.069+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:03.069+02:00'
+  updated_by: 296
+drew_gutkowski_15927:
+  id: 15927
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 310721
+  wage_advance_status: completed
+  date: '2013-08-12'
+  amount: '7500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:03.130+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:03.130+02:00'
+  updated_by: 296
+drew_gutkowski_15991:
+  id: 15991
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 311986
+  wage_advance_status: completed
+  date: '2013-09-02'
+  amount: '2000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:03.283+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:03.283+02:00'
+  updated_by: 296
+drew_gutkowski_15999:
+  id: 15999
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 312608
+  wage_advance_status: completed
+  date: '2013-09-05'
+  amount: '5000.0'
+  consultant_comment: ''
+  correspondant_comment: demande livith
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:03.306+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:03.306+02:00'
+  updated_by: 296
+drew_gutkowski_16025:
+  id: 16025
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 313264
+  wage_advance_status: completed
+  date: '2013-09-16'
+  amount: '3000.0'
+  consultant_comment: ''
+  correspondant_comment: OK AH
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:03.367+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:03.367+02:00'
+  updated_by: 296
+drew_gutkowski_16075:
+  id: 16075
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 314720
+  wage_advance_status: completed
+  date: '2013-10-04'
+  amount: '838.0'
+  consultant_comment: ''
+  correspondant_comment: FCT APLE STORE 27/09
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:03.484+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:03.484+02:00'
+  updated_by: 296
+drew_gutkowski_16109:
+  id: 16109
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 315503
+  wage_advance_status: completed
+  date: '2013-10-14'
+  amount: '6500.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:03.752+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:03.752+02:00'
+  updated_by: 296
+drew_gutkowski_16183:
+  id: 16183
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 317332
+  wage_advance_status: completed
+  date: '2013-11-06'
+  amount: '10000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:03.933+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:03.933+02:00'
+  updated_by: 296
+drew_gutkowski_16311:
+  id: 16311
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 320430
+  wage_advance_status: completed
+  date: '2013-12-09'
+  amount: '8000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:04.237+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:04.237+02:00'
+  updated_by: 296
+drew_gutkowski_16451:
+  id: 16451
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 323782
+  wage_advance_status: completed
+  date: '2014-01-10'
+  amount: '11000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:04.581+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:04.581+02:00'
+  updated_by: 296
+drew_gutkowski_16577:
+  id: 16577
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 326394
+  wage_advance_status: completed
+  date: '2014-02-08'
+  amount: '8000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:04.874+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:04.874+02:00'
+  updated_by: 296
+drew_gutkowski_16582:
+  id: 16582
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 326482
+  wage_advance_status: completed
+  date: '2014-02-10'
+  amount: '1489.82'
+  consultant_comment: ''
+  correspondant_comment: FCT FNAC 08/02/14
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:04.884+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:04.884+02:00'
+  updated_by: 296
+drew_gutkowski_16684:
+  id: 16684
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 328728
+  wage_advance_status: completed
+  date: '2014-03-07'
+  amount: '8000.0'
+  consultant_comment: ''
+  correspondant_comment: VU AVEC AH
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:05.332+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:05.332+02:00'
+  updated_by: 296
+drew_gutkowski_16796:
+  id: 16796
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 331933
+  wage_advance_status: completed
+  date: '2014-04-10'
+  amount: '5500.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:05.613+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:05.613+02:00'
+  updated_by: 296
+drew_gutkowski_16880:
+  id: 16880
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 333734
+  wage_advance_status: completed
+  date: '2014-05-06'
+  amount: '9500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:05.815+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:05.815+02:00'
+  updated_by: 296
+drew_gutkowski_17031:
+  id: 17031
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 336972
+  wage_advance_status: completed
+  date: '2014-06-13'
+  amount: '10000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:06.193+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:06.193+02:00'
+  updated_by: 296
+drew_gutkowski_17128:
+  id: 17128
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 339541
+  wage_advance_status: completed
+  date: '2014-07-08'
+  amount: '10000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:06.400+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:06.400+02:00'
+  updated_by: 296
+drew_gutkowski_17136:
+  id: 17136
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 339746
+  wage_advance_status: completed
+  date: '2014-07-11'
+  amount: '2000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:06.411+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:06.411+02:00'
+  updated_by: 296
+drew_gutkowski_17228:
+  id: 17228
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 341723
+  wage_advance_status: completed
+  date: '2014-08-01'
+  amount: '1219.8'
+  consultant_comment: ''
+  correspondant_comment: FCT IMMO 21/07/14
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:06.787+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:06.787+02:00'
+  updated_by: 296
+drew_gutkowski_17240:
+  id: 17240
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 341868
+  wage_advance_status: completed
+  date: '2014-08-05'
+  amount: '22000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:06.814+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:06.814+02:00'
+  updated_by: 296
+drew_gutkowski_17348:
+  id: 17348
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 344532
+  wage_advance_status: completed
+  date: '2014-09-09'
+  amount: '7000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:07.049+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:07.049+02:00'
+  updated_by: 296
+drew_gutkowski_17461:
+  id: 17461
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 346959
+  wage_advance_status: completed
+  date: '2014-10-07'
+  amount: '15000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:07.286+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:07.286+02:00'
+  updated_by: 296
+drew_gutkowski_17495:
+  id: 17495
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 347310
+  wage_advance_status: completed
+  date: '2014-10-10'
+  amount: '2055.0'
+  consultant_comment: ''
+  correspondant_comment: FCT APPLE 14/10/14
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:07.364+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:07.364+02:00'
+  updated_by: 296
+drew_gutkowski_17621:
+  id: 17621
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 349992
+  wage_advance_status: completed
+  date: '2014-11-07'
+  amount: '8000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:07.647+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:07.647+02:00'
+  updated_by: 296
+drew_gutkowski_17640:
+  id: 17640
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 350169
+  wage_advance_status: completed
+  date: '2014-11-13'
+  amount: '3000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:07.691+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:07.691+02:00'
+  updated_by: 296
+drew_gutkowski_17751:
+  id: 17751
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 352867
+  wage_advance_status: completed
+  date: '2014-12-09'
+  amount: '9000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:07.960+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:07.960+02:00'
+  updated_by: 296
+drew_gutkowski_17881:
+  id: 17881
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 356210
+  wage_advance_status: completed
+  date: '2015-01-09'
+  amount: '2298.0'
+  consultant_comment: ''
+  correspondant_comment: FCT APPLE 23/12/14
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:08.468+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:08.468+02:00'
+  updated_by: 296
+drew_gutkowski_17891:
+  id: 17891
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 356322
+  wage_advance_status: completed
+  date: '2015-01-12'
+  amount: '15000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:08.493+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:08.493+02:00'
+  updated_by: 296
+drew_gutkowski_18005:
+  id: 18005
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 359074
+  wage_advance_status: completed
+  date: '2015-02-06'
+  amount: '8500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:08.766+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:08.766+02:00'
+  updated_by: 296
+drew_gutkowski_18137:
+  id: 18137
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 362109
+  wage_advance_status: completed
+  date: '2015-03-11'
+  amount: '12200.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:09.073+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:09.073+02:00'
+  updated_by: 296
+drew_gutkowski_18234:
+  id: 18234
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 364187
+  wage_advance_status: completed
+  date: '2015-04-03'
+  amount: '8500.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:09.288+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:09.288+02:00'
+  updated_by: 296
+drew_gutkowski_18384:
+  id: 18384
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 367493
+  wage_advance_status: completed
+  date: '2015-05-07'
+  amount: '10000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:09.770+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:09.770+02:00'
+  updated_by: 296
+drew_gutkowski_18445:
+  id: 18445
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 369195
+  wage_advance_status: completed
+  date: '2015-05-29'
+  amount: '3500.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:09.918+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:09.918+02:00'
+  updated_by: 296
+drew_gutkowski_18497:
+  id: 18497
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 370869
+  wage_advance_status: completed
+  date: '2015-06-12'
+  amount: '2200.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:10.046+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:10.046+02:00'
+  updated_by: 296
+drew_gutkowski_18602:
+  id: 18602
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 373266
+  wage_advance_status: completed
+  date: '2015-07-03'
+  amount: '8000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:10.279+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:10.279+02:00'
+  updated_by: 296
+drew_gutkowski_18703:
+  id: 18703
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 376021
+  wage_advance_status: completed
+  date: '2015-08-03'
+  amount: '7500.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:10.512+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:10.512+02:00'
+  updated_by: 296
+drew_gutkowski_18750:
+  id: 18750
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 377139
+  wage_advance_status: completed
+  date: '2015-08-18'
+  amount: '550.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:10.613+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:10.613+02:00'
+  updated_by: 296
+drew_gutkowski_18804:
+  id: 18804
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 378884
+  wage_advance_status: completed
+  date: '2015-09-02'
+  amount: '4500.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:10.732+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:10.732+02:00'
+  updated_by: 296
+drew_gutkowski_18830:
+  id: 18830
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 379458
+  wage_advance_status: completed
+  date: '2015-09-10'
+  amount: '2000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:10.788+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:10.788+02:00'
+  updated_by: 296
+drew_gutkowski_18863:
+  id: 18863
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 379867
+  wage_advance_status: completed
+  date: '2015-09-23'
+  amount: '500.0'
+  consultant_comment: ''
+  correspondant_comment: avce tel sg
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:10.868+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:10.868+02:00'
+  updated_by: 296
+drew_gutkowski_18904:
+  id: 18904
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 381590
+  wage_advance_status: completed
+  date: '2015-10-01'
+  amount: '4500.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:10.956+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:10.956+02:00'
+  updated_by: 296
+drew_gutkowski_18947:
+  id: 18947
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 382343
+  wage_advance_status: completed
+  date: '2015-10-12'
+  amount: '4000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:11.058+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:11.058+02:00'
+  updated_by: 296
+drew_gutkowski_19009:
+  id: 19009
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 384420
+  wage_advance_status: completed
+  date: '2015-11-02'
+  amount: '4500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:11.399+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:11.399+02:00'
+  updated_by: 296
+drew_gutkowski_19044:
+  id: 19044
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 385193
+  wage_advance_status: completed
+  date: '2015-11-10'
+  amount: '5000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:11.486+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:11.486+02:00'
+  updated_by: 296
+drew_gutkowski_19135:
+  id: 19135
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 387749
+  wage_advance_status: completed
+  date: '2015-12-03'
+  amount: '4500.0'
+  consultant_comment: ''
+  correspondant_comment: "                    "
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:11.689+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:11.689+02:00'
+  updated_by: 296
+drew_gutkowski_19245:
+  id: 19245
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 390423
+  wage_advance_status: completed
+  date: '2015-12-31'
+  amount: '4500.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:11.943+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:11.943+02:00'
+  updated_by: 296
+drew_gutkowski_19274:
+  id: 19274
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 391358
+  wage_advance_status: completed
+  date: '2016-01-08'
+  amount: '10000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:12.014+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:12.014+02:00'
+  updated_by: 296
+drew_gutkowski_19275:
+  id: 19275
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 391313
+  wage_advance_status: completed
+  date: '2016-01-08'
+  amount: '10000.0'
+  consultant_comment: ''
+  correspondant_comment: AVCE
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:12.016+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:12.016+02:00'
+  updated_by: 296
+drew_gutkowski_19412:
+  id: 19412
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 394481
+  wage_advance_status: completed
+  date: '2016-02-05'
+  amount: '5500.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:12.329+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:12.329+02:00'
+  updated_by: 296
+drew_gutkowski_19534:
+  id: 19534
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 397537
+  wage_advance_status: completed
+  date: '2016-03-07'
+  amount: '5000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:12.814+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:12.814+02:00'
+  updated_by: 296
+drew_gutkowski_19620:
+  id: 19620
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 398473
+  wage_advance_status: completed
+  date: '2016-03-23'
+  amount: '5000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:12.985+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:12.985+02:00'
+  updated_by: 296
+drew_gutkowski_19706:
+  id: 19706
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 400713
+  wage_advance_status: completed
+  date: '2016-04-12'
+  amount: '2000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:13.178+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:13.178+02:00'
+  updated_by: 296
+drew_gutkowski_19775:
+  id: 19775
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 402028
+  wage_advance_status: completed
+  date: '2016-04-27'
+  amount: '3000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:13.328+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:13.328+02:00'
+  updated_by: 296
+drew_gutkowski_19810:
+  id: 19810
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 403278
+  wage_advance_status: completed
+  date: '2016-05-09'
+  amount: '2000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:13.409+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:13.409+02:00'
+  updated_by: 296
+drew_gutkowski_19903:
+  id: 19903
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 405911
+  wage_advance_status: completed
+  date: '2016-06-01'
+  amount: '5000.0'
+  consultant_comment: ''
+  correspondant_comment: OK AH
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:13.630+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:13.630+02:00'
+  updated_by: 296
+drew_gutkowski_20016:
+  id: 20016
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 408379
+  wage_advance_status: completed
+  date: '2016-06-29'
+  amount: '5000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:13.871+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:13.871+02:00'
+  updated_by: 296
+drew_gutkowski_20176:
+  id: 20176
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 412447
+  wage_advance_status: completed
+  date: '2016-08-04'
+  amount: '8000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:14.414+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:14.414+02:00'
+  updated_by: 296
+drew_gutkowski_20256:
+  id: 20256
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 414366
+  wage_advance_status: completed
+  date: '2016-08-31'
+  amount: '4000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:14.593+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:14.593+02:00'
+  updated_by: 296
+drew_gutkowski_20340:
+  id: 20340
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 416290
+  wage_advance_status: completed
+  date: '2016-09-27'
+  amount: '4000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:14.786+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:14.786+02:00'
+  updated_by: 296
+drew_gutkowski_20478:
+  id: 20478
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 419683
+  wage_advance_status: completed
+  date: '2016-10-27'
+  amount: '5000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:15.096+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:15.096+02:00'
+  updated_by: 296
+drew_gutkowski_20616:
+  id: 20616
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 422753
+  wage_advance_status: completed
+  date: '2016-11-28'
+  amount: '7000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:15.384+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:15.384+02:00'
+  updated_by: 296
+drew_gutkowski_20671:
+  id: 20671
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 424996
+  wage_advance_status: completed
+  date: '2016-12-09'
+  amount: '2000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:15.508+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:15.508+02:00'
+  updated_by: 296
+drew_gutkowski_20771:
+  id: 20771
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 428326
+  wage_advance_status: completed
+  date: '2017-01-04'
+  amount: '5000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:15.924+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:15.924+02:00'
+  updated_by: 296
+drew_gutkowski_20863:
+  id: 20863
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 430006
+  wage_advance_status: completed
+  date: '2017-01-27'
+  amount: '5000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:16.129+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:16.129+02:00'
+  updated_by: 296
+drew_gutkowski_20906:
+  id: 20906
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 431834
+  wage_advance_status: completed
+  date: '2017-02-03'
+  amount: '7000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:16.217+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:16.217+02:00'
+  updated_by: 296
+drew_gutkowski_21001:
+  id: 21001
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 434847
+  wage_advance_status: completed
+  date: '2017-03-02'
+  amount: '5000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:16.448+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:16.448+02:00'
+  updated_by: 296
+drew_gutkowski_21037:
+  id: 21037
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 435590
+  wage_advance_status: completed
+  date: '2017-03-09'
+  amount: '3000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:16.528+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:16.528+02:00'
+  updated_by: 296
+drew_gutkowski_21114:
+  id: 21114
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 437714
+  wage_advance_status: completed
+  date: '2017-03-31'
+  amount: '7000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:16.700+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:16.700+02:00'
+  updated_by: 296
+drew_gutkowski_21127:
+  id: 21127
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 438332
+  wage_advance_status: completed
+  date: '2017-04-04'
+  amount: '3000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:16.734+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:16.734+02:00'
+  updated_by: 296
+drew_gutkowski_21157:
+  id: 21157
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 438939
+  wage_advance_status: completed
+  date: '2017-04-11'
+  amount: '1000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:16.803+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:16.803+02:00'
+  updated_by: 296
+drew_gutkowski_21211:
+  id: 21211
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 440396
+  wage_advance_status: completed
+  date: '2017-04-28'
+  amount: '5000.0'
+  consultant_comment: ''
+  correspondant_comment: OK LT
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:16.936+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:16.936+02:00'
+  updated_by: 296
+drew_gutkowski_21237:
+  id: 21237
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 441643
+  wage_advance_status: completed
+  date: '2017-05-04'
+  amount: '4000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:16.993+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:16.993+02:00'
+  updated_by: 296
+drew_gutkowski_21328:
+  id: 21328
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 443750
+  wage_advance_status: completed
+  date: '2017-05-29'
+  amount: '10000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:17.389+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:17.389+02:00'
+  updated_by: 296
+drew_gutkowski_21490:
+  id: 21490
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 448477
+  wage_advance_status: completed
+  date: '2017-07-04'
+  amount: '12000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:17.747+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:17.747+02:00'
+  updated_by: 296
+drew_gutkowski_21642:
+  id: 21642
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 452113
+  wage_advance_status: completed
+  date: '2017-08-04'
+  amount: '10000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:18.106+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:18.106+02:00'
+  updated_by: 296
+drew_gutkowski_21720:
+  id: 21720
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 453519
+  wage_advance_status: completed
+  date: '2017-08-28'
+  amount: '8500.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:18.266+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:18.266+02:00'
+  updated_by: 296
+drew_gutkowski_21824:
+  id: 21824
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 455944
+  wage_advance_status: completed
+  date: '2017-09-20'
+  amount: '1100.0'
+  consultant_comment: ''
+  correspondant_comment: OK SGO
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:18.466+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:18.466+02:00'
+  updated_by: 296
+drew_gutkowski_21856:
+  id: 21856
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 456844
+  wage_advance_status: completed
+  date: '2017-09-28'
+  amount: '10000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:18.542+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:18.542+02:00'
+  updated_by: 296
+drew_gutkowski_21957:
+  id: 21957
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 459163
+  wage_advance_status: completed
+  date: '2017-10-18'
+  amount: '1032.0'
+  consultant_comment: ''
+  correspondant_comment: FNAC 05/09/17
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:18.972+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:18.972+02:00'
+  updated_by: 296
+drew_gutkowski_22024:
+  id: 22024
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 461527
+  wage_advance_status: completed
+  date: '2017-11-02'
+  amount: '10500.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:19.118+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:19.118+02:00'
+  updated_by: 296
+drew_gutkowski_22145:
+  id: 22145
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 465015
+  wage_advance_status: completed
+  date: '2017-12-05'
+  amount: '9500.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:19.419+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:19.419+02:00'
+  updated_by: 296
+drew_gutkowski_22342:
+  id: 22342
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 469064
+  wage_advance_status: completed
+  date: '2018-01-04'
+  amount: '12500.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:19.854+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:19.854+02:00'
+  updated_by: 296
+drew_gutkowski_22539:
+  id: 22539
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 473098
+  wage_advance_status: completed
+  date: '2018-02-06'
+  amount: '8000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:20.496+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:20.496+02:00'
+  updated_by: 296
+drew_gutkowski_22684:
+  id: 22684
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 476613
+  wage_advance_status: completed
+  date: '2018-03-06'
+  amount: '7000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:20.826+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:20.826+02:00'
+  updated_by: 296
+drew_gutkowski_22785:
+  id: 22785
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 478692
+  wage_advance_status: completed
+  date: '2018-03-28'
+  amount: '6000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:21.049+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:21.049+02:00'
+  updated_by: 296
+drew_gutkowski_22970:
+  id: 22970
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 483878
+  wage_advance_status: completed
+  date: '2018-05-09'
+  amount: '6000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:21.466+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:21.466+02:00'
+  updated_by: 296
+drew_gutkowski_23088:
+  id: 23088
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 487151
+  wage_advance_status: completed
+  date: '2018-06-06'
+  amount: '6000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:21.908+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:21.908+02:00'
+  updated_by: 296
+drew_gutkowski_23212:
+  id: 23212
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 490369
+  wage_advance_status: completed
+  date: '2018-07-03'
+  amount: '6000.0'
+  consultant_comment: ''
+  correspondant_comment: ''
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:22.176+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:22.176+02:00'
+  updated_by: 296
+drew_gutkowski_23372:
+  id: 23372
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 494143
+  wage_advance_status: completed
+  date: '2018-08-02'
+  amount: '6000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:22.539+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:22.539+02:00'
+  updated_by: 296
+drew_gutkowski_23500:
+  id: 23500
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 496697
+  wage_advance_status: completed
+  date: '2018-08-31'
+  amount: '8000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:22.816+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:22.816+02:00'
+  updated_by: 296
+drew_gutkowski_23652:
+  id: 23652
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 500134
+  wage_advance_status: completed
+  date: '2018-10-02'
+  amount: '6000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:23.362+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:23.362+02:00'
+  updated_by: 296
+drew_gutkowski_23726:
+  id: 23726
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 501198
+  wage_advance_status: completed
+  date: '2018-10-16'
+  amount: '1000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:23.537+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:23.537+02:00'
+  updated_by: 296
+drew_gutkowski_23832:
+  id: 23832
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 503931
+  wage_advance_status: completed
+  date: '2018-11-05'
+  amount: '6000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:23.757+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:23.757+02:00'
+  updated_by: 296
+drew_gutkowski_23991:
+  id: 23991
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 506954
+  wage_advance_status: completed
+  date: '2018-12-03'
+  amount: '6000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:24.122+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:24.122+02:00'
+  updated_by: 296
+drew_gutkowski_24354:
+  id: 24354
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 514476
+  wage_advance_status: completed
+  date: '2019-01-31'
+  amount: '5000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:25.416+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:25.416+02:00'
+  updated_by: 296
+drew_gutkowski_24383:
+  id: 24383
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id: 515622
+  wage_advance_status: completed
+  date: '2019-02-05'
+  amount: '5000.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:25.483+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:25.483+02:00'
+  updated_by: 296
+drew_gutkowski_24384:
+  id: 24384
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id:
+  wage_advance_status: itg_editing
+  date: '2019-02-05'
+  amount: '12500.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:25.483+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:25.483+02:00'
+  updated_by: 296
+drew_gutkowski_24385:
+  id: 24385
+  itg_company_id: 9
+  consultant_id: 8786
+  disbursement_id:
+  wage_advance_status: itg_editing
+  date: '2019-02-05'
+  amount: '12500.0'
+  consultant_comment: ''
+  correspondant_comment: ok ah
+  validated_at:
+  validated_by:
+  created_at: '2019-04-04T10:32:25.483+02:00'
+  created_by: 296
+  updated_at: '2019-04-04T10:32:25.483+02:00'
+  updated_by: 296

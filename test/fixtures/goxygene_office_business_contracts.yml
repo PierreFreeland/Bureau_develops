@@ -1,0 +1,2052 @@
+liane_bahringer_13894_40004:
+  id: 40004
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 4970
+  establishment_id: 2873
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 849
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2018-06-01'
+  ending_date: '2018-06-30'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '290.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Maintenance site web annuelle 2etp.bzh, prestation
+  expenses_paid: false
+  expenses_comment: ''
+  payment_comment: ''
+  expenses_payback_comment: ''
+  contract_handling_comment: paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: Bonjour M. GRATEPANCHE, je m'occupe d'envoyer le contrat au
+    client. merci paiement total à réception
+  correspondant_comment: ''
+  consultant_validation: '2018-06-20T22:55:55.410+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T21:24:55.966+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:24:55.966+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_35708:
+  id: 35708
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 5374
+  establishment_id: 3277
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 1037
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2017-08-09'
+  ending_date: '2017-09-09'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '190.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Contrat de maintenance web annuelle stratetgite.co
+  expenses_paid: false
+  expenses_comment: aucun
+  payment_comment: ''
+  expenses_payback_comment: aucun
+  contract_handling_comment: paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le mercredi 09 ao&ucirc;t
+    2017 à 15:54 :\n\nBonjour Maud, je m'occupe de faire signer le contrat à mon client.\r\nMerci
+    \ paiement total à réception"
+  correspondant_comment: ''
+  consultant_validation: '2017-08-09T15:54:24.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T21:24:57.881+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:24:57.881+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_40018:
+  id: 40018
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 5411
+  establishment_id: 3314
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 1075
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2018-06-01'
+  ending_date: '2018-06-30'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '190.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Contrat de maintenance web annuelle lamaisonpavie.
+  expenses_paid: false
+  expenses_comment: ''
+  payment_comment: ''
+  expenses_payback_comment: ''
+  contract_handling_comment: Paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: Bonjour M. GRATEPANCHE, je m'occupe d'envoyer le contrat à mon
+    client. Paiement total à réception
+  correspondant_comment: ''
+  consultant_validation: '2018-06-21T17:21:38.323+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T21:24:58.259+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:24:58.259+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_40015:
+  id: 40015
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 5412
+  establishment_id: 3315
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 1076
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2018-06-01'
+  ending_date: '2018-06-30'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '190.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Maintenance web annuelle agro-consult.fr. Prestati
+  expenses_paid: false
+  expenses_comment: ''
+  payment_comment: ''
+  expenses_payback_comment: ''
+  contract_handling_comment: Paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: Bonjour M. GRATEPANCHE, je m'occupe d'envoyer le contrat à mon
+    client. Paiement total à réception
+  correspondant_comment: ''
+  consultant_validation: '2018-06-21T13:36:35.750+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T21:24:58.269+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:24:58.269+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_40005:
+  id: 40005
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 5476
+  establishment_id: 3379
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 1095
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2018-06-01'
+  ending_date: '2018-06-30'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '370.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Maintenance web annuelle lib.bzh. Prestation réali
+  expenses_paid: false
+  expenses_comment: ''
+  payment_comment: ''
+  expenses_payback_comment: ''
+  contract_handling_comment: paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: Bonjour M. GRATEPANCHE, je m'occupe d'envoyer le contrat au
+    client. merci paiement total à réception
+  correspondant_comment: ''
+  consultant_validation: '2018-06-20T23:15:37.680+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T21:24:58.453+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:24:58.453+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_39464:
+  id: 39464
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 5578
+  establishment_id: 3481
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 1134
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2018-05-01'
+  ending_date: '2018-05-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '250.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Contrat de maintenance web annuelle coquillagesbre
+  expenses_paid: false
+  expenses_comment: aucun
+  payment_comment: ''
+  expenses_payback_comment: aucun
+  contract_handling_comment: paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: |-
+    QUICLET Pierre a fait une nouvelle demande de contrat d'intervention concernant un nouveau client sur le site bureau.itg.fr le vendredi 11 mai 2018 à 15:29 :
+
+    Bonjour M. GRATEPANCHE, je me charge d'envoyer le contrat à mon client. Merci paiement total à réception
+  correspondant_comment: ''
+  consultant_validation: '2018-05-11T15:29:59.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T21:24:58.842+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:24:58.842+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_39457:
+  id: 39457
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 5579
+  establishment_id: 3482
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 1135
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2018-05-01'
+  ending_date: '2018-05-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '120.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Contrat de maintenance web annuelle artetrenovatio
+  expenses_paid: false
+  expenses_comment: aucun
+  payment_comment: ''
+  expenses_payback_comment: aucun
+  contract_handling_comment: paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: |-
+    QUICLET Pierre a fait une nouvelle demande de contrat d'intervention concernant un nouveau client sur le site bureau.itg.fr le vendredi 11 mai 2018 à 15:01 :
+
+    Bonjour M. GRATEPANCHE, je me charge d'envoyer le contrat à mon client. Merci paiement total à réception
+  correspondant_comment: ''
+  consultant_validation: '2018-05-11T15:01:22.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T21:24:58.852+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:24:58.852+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_39780:
+  id: 39780
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 5656
+  establishment_id: 3559
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 1173
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: fixed_price
+  billing_pace:
+  begining_date: '2018-06-02'
+  ending_date: '2018-06-30'
+  time_length: '0.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '950.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: "Développement site web hinconcept.com\r\nPrestation "
+  expenses_paid: false
+  expenses_comment: '0'
+  payment_comment: ''
+  expenses_payback_comment: '0'
+  contract_handling_comment: paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: |-
+    QUICLET Pierre a fait une nouvelle demande de contrat d'intervention concernant un nouveau client sur le site bureau.itg.fr le mercredi 06 juin 2018 à 14:17 :
+
+     paiement total à réception
+  correspondant_comment: ''
+  consultant_validation: '2018-06-06T14:17:40.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T21:24:59.229+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:24:59.229+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_40090:
+  id: 40090
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 9201
+  establishment_id: 7104
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 2863
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2018-06-01'
+  ending_date: '2018-06-30'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '190.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Maintenance annuelle site web affaire-de-steel.com
+  expenses_paid: false
+  expenses_comment: ''
+  payment_comment: ''
+  expenses_payback_comment: ''
+  contract_handling_comment: paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: Bonjour M. GRATEPANCHE, je me charge d'envoyer le contrat à
+    mon client paiement total à réception
+  correspondant_comment: ''
+  consultant_validation: '2018-06-26T12:02:33.547+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T21:25:16.161+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:16.161+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_32143:
+  id: 32143
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 13000
+  establishment_id: 10903
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5018
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2016-12-01'
+  ending_date: '2016-12-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '490.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: "Contrat de maintenance web annuel bw-archi.fr.\r\nRe"
+  expenses_paid: false
+  expenses_comment: inclus
+  payment_comment: ''
+  expenses_payback_comment: inclus
+  contract_handling_comment: paiement total à réception
+  competences: ''
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le jeudi 01 d&eacute;cembre
+    2016 à 09:39 :\n\nBonjour Maud,\r\nje m'occupe d'envoyer le contrat à ce client\r\nCordialement
+    paiement total à réception"
+  correspondant_comment: ''
+  consultant_validation: '2016-12-01T09:39:31.000+01:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2016-12-08T11:28:58.000+01:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:38.185+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:38.185+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_31304:
+  id: 31304
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 13080
+  establishment_id: 10983
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5141
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2016-10-01'
+  ending_date: '2016-10-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '290.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: "Contrat de maintenance web annuel delcros-sarl.fr\r"
+  expenses_paid: false
+  expenses_comment: inclus
+  payment_comment: ''
+  expenses_payback_comment: inclus
+  contract_handling_comment: paiement total à réception
+  competences: ''
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le mercredi 12 octobre
+    2016 à 14:57 :\n\nBonjour Sauria\r\nJe m'occupe d'envoyer le contrat à mon client\r\nMerci
+    paiement total à réception"
+  correspondant_comment: ''
+  consultant_validation: '2016-10-12T14:57:39.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2016-12-05T14:36:18.000+01:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:39.434+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:39.434+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_31298:
+  id: 31298
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 13131
+  establishment_id: 11034
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5178
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2016-10-01'
+  ending_date: '2016-10-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '250.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Contrat de maintenance web annuel sarl-videloup.fr
+  expenses_paid: false
+  expenses_comment: inclus
+  payment_comment: ''
+  expenses_payback_comment: inclus
+  contract_handling_comment: paiement total à réception
+  competences: ''
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le mercredi 12 octobre
+    2016 à 13:34 :\n\nBonjour Sauria\r\nJe m'occupe d'envoyer le contrat à mon client\r\nMerci
+    paiement total à réception"
+  correspondant_comment: ''
+  consultant_validation: '2016-10-12T13:34:48.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2016-12-01T15:10:57.000+01:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:39.807+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:39.807+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_31306:
+  id: 31306
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 13196
+  establishment_id: 11099
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5216
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2016-10-01'
+  ending_date: '2016-10-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '100.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: "Contrat de maintenance web annuel f2h-immo.com\r\nre"
+  expenses_paid: false
+  expenses_comment: inclus
+  payment_comment: ''
+  expenses_payback_comment: inclus
+  contract_handling_comment: paiement total à réception
+  competences: ''
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le mercredi 12 octobre
+    2016 à 15:07 :\n\nBonjour Sauria\r\nJe m'occupe d'envoyer le contrat à mon client\r\nMerci
+    paiement total à réception"
+  correspondant_comment: ''
+  consultant_validation: '2016-10-12T15:07:50.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2016-11-29T13:51:55.000+01:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:40.197+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:40.197+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_31297:
+  id: 31297
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 13269
+  establishment_id: 11172
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5316
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2016-10-01'
+  ending_date: '2016-10-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '290.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Contrat de maintenance web annuel piscineloisirs.f
+  expenses_paid: false
+  expenses_comment: inclus
+  payment_comment: ''
+  expenses_payback_comment: inclus
+  contract_handling_comment: paiement total à réception
+  competences: ''
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le mercredi 12 octobre
+    2016 à 13:30 :\n\nBonjour Sauria\r\nJe m'occupe d'envoyer le contrat à mon client\r\nMerci
+    paiement total à réception"
+  correspondant_comment: ''
+  consultant_validation: '2016-10-12T13:30:21.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2016-11-24T11:46:17.000+01:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:41.210+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:41.210+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_31309:
+  id: 31309
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 13470
+  establishment_id: 11373
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5432
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2016-10-01'
+  ending_date: '2016-10-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '360.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Contrat de maintenance web annuel designconstructi
+  expenses_paid: false
+  expenses_comment: inclus
+  payment_comment: ''
+  expenses_payback_comment: inclus
+  contract_handling_comment: paiement total à réception
+  competences: ''
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le mercredi 12 octobre
+    2016 à 15:37 :\n\nBonjour Sauria\r\nJe m'occupe d'envoyer le contrat à mon client\r\nMerci
+    paiement total à réception"
+  correspondant_comment: ''
+  consultant_validation: '2016-10-12T15:37:26.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2016-11-10T10:19:11.000+01:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:42.385+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:42.385+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_31295:
+  id: 31295
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 13525
+  establishment_id: 11428
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5460
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2016-10-01'
+  ending_date: '2016-10-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '290.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Contrat de maintenance web annuel laneurologiefonc
+  expenses_paid: false
+  expenses_comment: inclus
+  payment_comment: ''
+  expenses_payback_comment: inclus
+  contract_handling_comment: paiement total à réception
+  competences: ''
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le mercredi 12 octobre
+    2016 à 11:37 :\n\nBonjour Sauria\r\nJe m'occupe d'envoyer le contrat à mon client\r\nMerci
+    paiement total à réception"
+  correspondant_comment: ''
+  consultant_validation: '2016-10-12T11:37:55.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2016-11-07T11:53:31.000+01:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:42.672+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:42.672+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_33310:
+  id: 33310
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 13525
+  establishment_id: 11428
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5461
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2017-02-17'
+  ending_date: '2017-02-18'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '250.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: "Mise en place réseau informatique nouveaux locaux\r"
+  expenses_paid: false
+  expenses_comment: '0'
+  payment_comment: ''
+  expenses_payback_comment: '0'
+  contract_handling_comment: paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: |-
+    QUICLET Pierre a fait une nouvelle demande de contrat d'intervention sur le site bureau.itg.fr le vendredi 17 f&eacute;vrier 2017 à 17:05 :
+
+     paiement total à réception
+  correspondant_comment: ''
+  consultant_validation: '2017-02-17T17:05:10.000+01:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2017-08-01T09:42:14.000+02:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:42.682+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:42.682+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_39623:
+  id: 39623
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 13525
+  establishment_id: 11428
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5462
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: fixed_price
+  billing_pace:
+  begining_date: '2018-05-01'
+  ending_date: '2018-05-31'
+  time_length: '0.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '900.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: "Réalisation site web logement.brainmoove.com\r\nPres"
+  expenses_paid: false
+  expenses_comment: '0'
+  payment_comment: ''
+  expenses_payback_comment: '0'
+  contract_handling_comment: paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    sur le site bureau.itg.fr le dimanche 27 mai 2018 à 12:03 :\n\nBonjour M. GRATEPANCHE,
+    je me charge d'envoyer le contrat à mon client.\r\nBonne journée paiement total
+    à réception"
+  correspondant_comment: ''
+  consultant_validation: '2018-05-27T12:03:54.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T21:25:42.691+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:42.691+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_31312:
+  id: 31312
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 13656
+  establishment_id: 11559
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5539
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2016-10-01'
+  ending_date: '2016-10-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '500.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Contrat de maintenance web annuel mecabois.com / j
+  expenses_paid: false
+  expenses_comment: inclus
+  payment_comment: ''
+  expenses_payback_comment: inclus
+  contract_handling_comment: paiement total à réception
+  competences: ''
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le mercredi 12 octobre
+    2016 à 16:15 :\n\nBonjour Sauria\r\nJe m'occupe d'envoyer le contrat à mon client\r\nMerci
+    paiement total à réception"
+  correspondant_comment: ''
+  consultant_validation: '2016-10-12T16:15:49.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2016-10-26T11:39:04.000+02:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:43.520+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:43.520+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_31300:
+  id: 31300
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id:
+  establishment_id:
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5599
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: office_validated
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2016-10-01'
+  ending_date: '2016-10-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '290.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: "Contrat de maintenance web annuel emloncle.com\r\nre"
+  expenses_paid: false
+  expenses_comment: inclus
+  payment_comment: ''
+  expenses_payback_comment: inclus
+  contract_handling_comment: paiement total à réception
+  competences: ''
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le mercredi 12 octobre
+    2016 à 13:52 :\n\nBonjour Sauria\r\nJe m'occupe d'envoyer le contrat à mon client\r\nMerci
+    paiement total à réception"
+  correspondant_comment: ''
+  consultant_validation: '2016-10-12T13:52:03.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T21:25:44.117+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:44.117+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_31305:
+  id: 31305
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 13734
+  establishment_id: 11637
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5605
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2016-10-01'
+  ending_date: '2016-10-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '190.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Contrat de maintenance web annuel manoirvilledavy.
+  expenses_paid: false
+  expenses_comment: inclus
+  payment_comment: ''
+  expenses_payback_comment: inclus
+  contract_handling_comment: paiement total à réception
+  competences: ''
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le mercredi 12 octobre
+    2016 à 15:02 :\n\nBonjour Sauria\r\nJe m'occupe d'envoyer le contrat à mon client\r\nMerci
+    paiement total à réception"
+  correspondant_comment: ''
+  consultant_validation: '2016-10-12T15:02:48.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2016-10-21T16:38:56.000+02:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:44.179+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:44.179+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_31308:
+  id: 31308
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 13735
+  establishment_id: 11638
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5606
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2016-10-01'
+  ending_date: '2016-10-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '380.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: "Contrat de maintenance web annuel apitu.com\r\nrecon"
+  expenses_paid: false
+  expenses_comment: inclus
+  payment_comment: ''
+  expenses_payback_comment: inclus
+  contract_handling_comment: paiement total à réception
+  competences: ''
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le mercredi 12 octobre
+    2016 à 15:23 :\n\nBonjour Sauria\r\nJe m'occupe d'envoyer le contrat à mon client\r\nMerci
+    paiement total à réception"
+  correspondant_comment: ''
+  consultant_validation: '2016-10-12T15:23:54.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2016-10-21T16:38:08.000+02:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:44.189+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:44.189+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_31301:
+  id: 31301
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 13736
+  establishment_id: 11639
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5607
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2016-10-01'
+  ending_date: '2016-10-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '290.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Contrat de maintenance web annuel didierfougeray.c
+  expenses_paid: false
+  expenses_comment: inclus
+  payment_comment: ''
+  expenses_payback_comment: inclus
+  contract_handling_comment: paiement total à réception
+  competences: ''
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le mercredi 12 octobre
+    2016 à 13:57 :\n\nBonjour Sauria\r\nJe m'occupe d'envoyer le contrat à mon client\r\nMerci
+    paiement total à réception"
+  correspondant_comment: ''
+  consultant_validation: '2016-10-12T13:57:58.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2016-10-21T16:37:17.000+02:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:44.199+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:44.199+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_31255:
+  id: 31255
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 13737
+  establishment_id: 11640
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5608
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2016-10-01'
+  ending_date: '2016-10-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '290.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: "Contrat de maintenance web annuel spasloisirs.fr\r\n"
+  expenses_paid: false
+  expenses_comment: inclus
+  payment_comment: ''
+  expenses_payback_comment: inclus
+  contract_handling_comment: paiement total à réception
+  competences: ''
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le mercredi 12 octobre
+    2016 à 10:52 :\n\nBonjour Sauria\r\nJe m'occupe d'envoyer le contrat à mon client\r\nMerci
+    paiement total à réception"
+  correspondant_comment: ''
+  consultant_validation: '2016-10-12T10:52:50.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2016-10-21T16:36:35.000+02:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:44.209+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:44.209+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_31307:
+  id: 31307
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 19605
+  establishment_id: 10213
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5609
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: office_validated
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2016-10-01'
+  ending_date: '2016-10-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '290.0'
+  order_amount_euros: '290.0'
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Contrat de maintenance web annuel grouazel-group.c
+  expenses_paid: false
+  expenses_comment: inclus
+  payment_comment: ''
+  expenses_payback_comment: inclus
+  contract_handling_comment: paiement total à réception
+  competences: ''
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le mercredi 12 octobre
+    2016 à 15:20 :\n\nBonjour Sauria\r\nJe m'occupe d'envoyer le contrat à mon client\r\nMerci
+    paiement total à réception"
+  correspondant_comment: ''
+  consultant_validation: '2016-10-12T15:20:56.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T21:25:44.219+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:44.219+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_30931:
+  id: 30931
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 14180
+  establishment_id: 12083
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5935
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: fixed_price
+  billing_pace:
+  begining_date: '2016-10-01'
+  ending_date: '2016-10-31'
+  time_length: '0.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '800.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: "CF cahier des charge \r\nDéveloppement du site web e"
+  expenses_paid: false
+  expenses_comment: inclus
+  payment_comment: ''
+  expenses_payback_comment: inclus
+  contract_handling_comment: facturation mensuelle / paiement à réception
+  competences: ''
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le jeudi 22 septembre 2016
+    à 11:55 :\n\nBonjour Sauria,\r\nJe préfère envoyer moi-même le contrat à mon client
+    par email.\r\nMerci facturation mensuelle / paiement à réception"
+  correspondant_comment: ''
+  consultant_validation: '2016-09-22T11:55:02.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2016-09-22T11:58:59.000+02:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:47.531+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:47.531+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_31313:
+  id: 31313
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 14180
+  establishment_id: 12083
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5936
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2016-10-01'
+  ending_date: '2016-10-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '220.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Contrat de maintenance web annuel confidence-canin
+  expenses_paid: false
+  expenses_comment: inclus
+  payment_comment: ''
+  expenses_payback_comment: inclus
+  contract_handling_comment: paiement total à réception
+  competences: ''
+  consultant_comment: "QUICLET Pierre a fait une nouvelle demande de contrat d'intervention
+    sur le site bureau.itg.fr le mercredi 12 octobre 2016 à 16:39 :\n\nBonjour Sauria\r\nJe
+    m'occupe d'envoyer le contrat à mon client\r\nMerci paiement total à réception"
+  correspondant_comment: ''
+  consultant_validation: '2016-10-12T16:39:29.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2016-12-09T12:08:10.000+01:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:47.542+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:47.542+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_32928:
+  id: 32928
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 14180
+  establishment_id: 12083
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5937
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2017-01-01'
+  ending_date: '2017-01-31'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '220.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: "Contrat de maintenance web annuel leboutduquai.fr\r"
+  expenses_paid: false
+  expenses_comment: '0'
+  payment_comment: ''
+  expenses_payback_comment: '0'
+  contract_handling_comment: paiement total à réception
+  competences: Développement web - maintenance web
+  consultant_comment: |-
+    QUICLET Pierre a fait une nouvelle demande de contrat d'intervention sur le site bureau.itg.fr le mercredi 25 janvier 2017 à 18:07 :
+
+    Bonjour Maud, je me charge d'envoyer le contrat à mon client. paiement total à réception
+  correspondant_comment: ''
+  consultant_validation: '2017-01-25T18:07:43.000+01:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2017-02-09T10:59:50.000+01:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:47.553+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:47.553+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_33311:
+  id: 33311
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 14180
+  establishment_id: 12083
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5938
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: fixed_price
+  billing_pace:
+  begining_date: '2017-02-14'
+  ending_date: '2017-03-14'
+  time_length: '0.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '800.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: "Développement site web pasta e pizza\r\nCF cahier de"
+  expenses_paid: false
+  expenses_comment: '0'
+  payment_comment: ''
+  expenses_payback_comment: '0'
+  contract_handling_comment: paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: |-
+    QUICLET Pierre a fait une nouvelle demande de contrat d'intervention sur le site bureau.itg.fr le vendredi 17 f&eacute;vrier 2017 à 17:18 :
+
+     paiement total à réception
+  correspondant_comment: ''
+  consultant_validation: '2017-02-17T17:18:57.000+01:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2017-02-21T11:15:51.000+01:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:47.563+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:47.563+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_33312:
+  id: 33312
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 14180
+  establishment_id: 12083
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5939
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: fixed_price
+  billing_pace:
+  begining_date: '2017-02-14'
+  ending_date: '2017-03-14'
+  time_length: '0.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '975.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: "Développement site web Qualinautic\r\nCF cahier des "
+  expenses_paid: false
+  expenses_comment: '0'
+  payment_comment: ''
+  expenses_payback_comment: '0'
+  contract_handling_comment: paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: |-
+    QUICLET Pierre a fait une nouvelle demande de contrat d'intervention sur le site bureau.itg.fr le vendredi 17 f&eacute;vrier 2017 à 17:31 :
+
+     paiement total à réception
+  correspondant_comment: ''
+  consultant_validation: '2017-02-17T17:31:13.000+01:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T21:25:47.572+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:47.572+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_35660:
+  id: 35660
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 14180
+  establishment_id: 12083
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5940
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: fixed_price
+  billing_pace:
+  begining_date: '2017-07-01'
+  ending_date: '2017-07-31'
+  time_length: '0.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '775.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: "Développement site web simavil\r\nCF cahier des char"
+  expenses_paid: false
+  expenses_comment: '0'
+  payment_comment: ''
+  expenses_payback_comment: '0'
+  contract_handling_comment: paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: |-
+    QUICLET Pierre a fait une nouvelle demande de contrat d'intervention sur le site bureau.itg.fr le lundi 31 juillet 2017 à 22:12 :
+
+    Bonjour Maud, je m'occupe d'envoyer le contrat à mon client. Je vous le renvoie signé sous peu. paiement total à réception
+  correspondant_comment: ''
+  consultant_validation: '2017-07-31T22:12:28.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2017-08-07T10:08:46.000+02:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:47.582+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:47.582+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_39466:
+  id: 39466
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 14180
+  establishment_id: 12083
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 5941
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: fixed_price
+  billing_pace:
+  begining_date: '2018-05-01'
+  ending_date: '2018-05-31'
+  time_length: '0.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '1250.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: "Développement site web cancale-campings.fr\r\nintégr"
+  expenses_paid: false
+  expenses_comment: '0'
+  payment_comment: ''
+  expenses_payback_comment: '0'
+  contract_handling_comment: paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: |-
+    QUICLET Pierre a fait une nouvelle demande de contrat d'intervention sur le site bureau.itg.fr le vendredi 11 mai 2018 à 17:35 :
+
+    Bonjour M. GRATEPANCHE, je me charge d'envoyer le contrat à signer à mon client, merci. paiement total à réception
+  correspondant_comment: ''
+  consultant_validation: '2018-05-11T17:35:06.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at: '2018-05-15T14:03:21.000+02:00'
+  validated_by: 296
+  created_at: '2019-06-14T21:25:47.591+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:25:47.591+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_35709:
+  id: 35709
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id:
+  establishment_id:
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 32540
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: office_validated
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2017-08-09'
+  ending_date: '2017-09-09'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '290.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Contrat de maintenance web annuelle affaire-de-ste
+  expenses_paid: false
+  expenses_comment: aucun
+  payment_comment: ''
+  expenses_payback_comment: aucun
+  contract_handling_comment: paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: |-
+    QUICLET Pierre a fait une nouvelle demande de contrat d'intervention concernant un nouveau client sur le site bureau.itg.fr le mercredi 09 ao&ucirc;t 2017 à 16:14 :
+
+    Bonjour Maud, je m'occupe de faire signer le contrat à mon client. Merci paiement total à réception
+  correspondant_comment: ''
+  consultant_validation: '2017-08-09T16:14:56.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T21:30:16.079+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:30:16.079+02:00'
+  updated_by: 296
+  itg_company_id:
+liane_bahringer_13894_35710:
+  id: 35710
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id:
+  establishment_id:
+  consultant_id: 13894
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 32540
+  construction_insurance_rate_id:
+  type: training_agreement
+  business_contract_status: office_validated
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2017-08-09'
+  ending_date: '2017-09-09'
+  time_length: '1.0'
+  notice_period:
+  daily_order_amount: '0.0'
+  daily_order_amount_euros:
+  order_amount: '290.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: Contrat de maintenance web annuelle affaire-de-ste
+  expenses_paid: false
+  expenses_comment: aucun
+  payment_comment: ''
+  expenses_payback_comment: aucun
+  contract_handling_comment: paiement total à réception
+  competences: Conseil en Développement Web et en Web design
+  consultant_comment: |-
+    QUICLET Pierre a fait une nouvelle demande de contrat d'intervention concernant un nouveau client sur le site bureau.itg.fr le mercredi 09 ao&ucirc;t 2017 à 16:14 :
+
+    Bonjour Maud, je m'occupe de faire signer le contrat à mon client. Merci paiement total à réception
+  correspondant_comment: ''
+  consultant_validation: '2017-08-09T16:14:56.000+02:00'
+  qr_code_date:
+  qr_code_page_count:
+  qr_code_scan_date:
+  qr_code_status:
+  validated_at:
+  validated_by:
+  created_at: '2019-06-14T21:30:16.079+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:30:16.079+02:00'
+  updated_by: 296
+  itg_company_id:
+jackie_denesik_28916:
+  id: 28916
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 14529
+  establishment_id: 12517
+  consultant_id: 9392
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 3
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 6452
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2019-03-26'
+  ending_date: '2019-03-29'
+  time_length: 2
+  order_amount: '1200.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_id: 3
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: mise en place certificat ssl sécurisé pour la dila
+  expenses_paid: false
+  expenses_comment: ''
+  consultant_comment: "JAKIMOWICZ Fabien a fait une nouvelle demande de contrat d'intervention
+    concernant un nouveau client sur le site bureau.itg.fr le mardi 29 mars 2016 à
+    22:31 :\n\n                                                                                                                                                       "
+  correspondant_comment: ''
+  consultant_validation: '2016-03-29T22:31:02.000+02:00'
+  validated_at: '2016-04-12T10:47:45.000+02:00'
+  validated_by: 296
+  created_at: '2018-12-19T21:07:34.028+01:00'
+  created_by: 296
+  updated_at: '2018-12-19T21:07:34.028+01:00'
+  updated_by: 296
+jackie_denesik_29009:
+  id: 29009
+  itg_establishment_id: 9
+  consultant_itg_establishment_id: 9
+  customer_id: 14529
+  establishment_id: 12517
+  consultant_id: 9392
+  business_contract_id:
+  business_opportunity_id:
+  framework_agreement_id:
+  vat_id: 12
+  payment_type_id:
+  contract_mail_contact_id:
+  billing_contact_id:
+  currency_id: 1
+  office_customer_update_id: 6453
+  construction_insurance_rate_id:
+  type: contract_of_operation
+  business_contract_status: itg_ok
+  billing_mode: time_basis
+  billing_pace:
+  begining_date: '2019-04-01'
+  ending_date: '2019-04-05'
+  time_length: 1
+  order_amount: '600.0'
+  order_amount_euros:
+  advance_payment:
+  advance_payment_euros:
+  vat_id: 12
+  vat_euros:
+  total:
+  total_euros:
+  mission_subject: " - développement d'une implémentation spécifique p"
+  expenses_paid: false
+  expenses_comment: ''
+  consultant_comment: "JAKIMOWICZ Fabien a fait une nouvelle demande de contrat d'intervention
+    sur le site bureau.itg.fr le lundi 04 avril 2016 à 20:38 :\n\n                                                                                                                                                       "
+  correspondant_comment: ''
+  consultant_validation: '2016-04-04T20:38:28.000+02:00'
+  validated_at: '2016-04-27T14:26:46.000+02:00'
+  validated_by: 296
+  created_at: '2018-12-19T21:07:34.037+01:00'
+  created_by: 296
+  updated_at: '2018-12-19T21:07:34.037+01:00'
+  updated_by: 296

@@ -1,0 +1,119 @@
+include:
+  - project: 'plunge/gitlab-ci-templates'
+    ref: master
+    file: '/templates/Auto-DevOps.gitlab-ci.yml'
+
+variables:
+  # For Tests
+  WITH_TESTS: "true"
+  DATABASE_TYPE: "postgres"
+  DATABASE_VERSION: "13"
+  # Deployment config
+  RANCHERV2_CATALOG_APP_NAME: "itg"
+  RANCHERV2_CATALOG_APP_NAMESPACE: "itg"
+  RANCHERV2_CATALOG_APP_VERSION: "0.1.0"
+  RANCHERV2_PREFIX_APP_NAME: "hub-"
+  ## Review
+  REVIEW_DOMAIN: "hub-itg.staging.plunge.cloud"
+  ## Staging
+  STAGING_URL: "https://staging-itg.staging.plunge.cloud"
+  # Sentry
+  SENTRY_PROJECT: "itg"
+  SENTRY_ORG: "itg-hub-applicatif"
+  # Disable default submodule strategy to fetch from private github repo
+  GIT_SUBMODULE_STRATEGY: none
+  HUB_MAIN_COLOR_LIGHT: "#08af9f"
+  HUB_MAIN_COLOR_DARK: "#0142bb"
+  HUB_SECONDARY_COLOR_DARK: "#ffcb77"
+
+submodule setup:
+  stage: setup
+  image:
+    name: alpine/git:latest
+    entrypoint: [""]
+  cache: []
+  script:
+    - git config --global url."https://${GITHUB_USERNAME}:${GITHUB_TOKEN}@github.com".insteadOf "https://github.com"
+    - rm -rf ./vendor/engines
+    - git submodule sync
+    - git submodule update --init
+    - |
+      cat << EOF > config/database.yml
+      default: &default
+        adapter: postgresql
+        # port: <%= ENV.fetch("POSTGRES_PORT", 5432) %>
+        encoding: unicode
+        pool: <%= ENV.fetch("DB_POOL") { 25 } %>
+        username: <%= ENV.fetch("DB_USERNAME") %>
+        database: <%= ENV.fetch("DB_DATABASE") %>
+        password: <%= ENV.fetch("DB_PASSWORD") %>
+        host: <%= ENV.fetch("DB_HOST") %>
+
+      development:
+        <<: *default
+
+      test:
+        <<: *default
+
+      staging:
+        <<: *default
+
+      production:
+        <<: *default
+
+      cms_development:
+        <<: *default
+        database:  <%= ENV.fetch("CMS_DB_DATABASE") %>
+
+      cms_test:
+        <<: *default
+        database:  <%= ENV.fetch("CMS_DB_DATABASE") %>
+      EOF
+  artifacts:
+    untracked: true
+    paths:
+      - ${CI_PROJECT_DIR}/vendor
+      - ${CI_PROJECT_DIR}/config/database.yml
+
+base:
+  needs:
+    - job: submodule setup
+  dependencies:
+    - submodule setup
+test:
+  needs:
+    - job: submodule setup
+  dependencies:
+    - submodule setup
+run tests:
+  allow_failure: true
+  needs:
+    - job: test
+    - job: submodule setup
+  dependencies:
+    - submodule setup
+  script:
+    - |
+      app_env_file=${CI_PROJECT_DIR}/ops/ci/release/test_runner/app_env
+      if [ -e "$app_env_file" ]; then
+        source "$app_env_file"
+      fi
+    - PGPASSWORD=${DB_PASSWORD} psql -U "${DB_USERNAME}" -h "${DB_HOST}" -d postgres -c "CREATE DATABASE \"services_test\";"
+    - rake db:create
+    - rake db:structure:load
+    - rake db:fixtures:load
+    - rake test ALL=yes BACKTRACE=yes
+
+compile assets:
+  needs:
+    - job: test
+    - job: submodule setup
+  dependencies:
+    - submodule setup
+app:
+  needs:
+    - job: submodule setup
+    - job: compile assets
+  dependencies:
+    - compile assets
+    - submodule setup

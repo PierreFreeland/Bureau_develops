@@ -1,0 +1,211 @@
+customer_bill_388263_146984:
+  id: 146984
+  customer_bill_id: 388263
+  detail_type: comment
+  label: '07/09/2017 : Mission participation Jury de Formateurs'
+  amount: '0.0'
+  no_vat: false
+  created_at: '2019-06-14T21:39:13.415+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:39:13.415+02:00'
+  updated_by: 296
+customer_bill_388263_146985:
+  id: 146985
+  customer_bill_id: 388263
+  detail_type: fees
+  label: FORFAIT
+  amount: '200.0'
+  no_vat: false
+  created_at: '2019-06-14T21:39:13.415+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:39:13.415+02:00'
+  updated_by: 296
+customer_bill_388263_146986:
+  id: 146986
+  customer_bill_id: 388263
+  detail_type: comment
+  label: '08/09/2017 : Mission participation Jury de Formateurs'
+  amount: '0.0'
+  no_vat: false
+  created_at: '2019-06-14T21:39:13.415+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:39:13.415+02:00'
+  updated_by: 296
+customer_bill_388263_146987:
+  id: 146987
+  customer_bill_id: 388263
+  detail_type: fees
+  label: FORFAIT
+  amount: '200.0'
+  no_vat: false
+  created_at: '2019-06-14T21:39:13.415+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:39:13.415+02:00'
+  updated_by: 296
+customer_bill_388263_146988:
+  id: 146988
+  customer_bill_id: 388263
+  detail_type: comment
+  label: ''
+  amount: '0.0'
+  no_vat: false
+  created_at: '2019-06-14T21:39:13.415+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:39:13.415+02:00'
+  updated_by: 296
+customer_bill_388263_146989:
+  id: 146989
+  customer_bill_id: 388263
+  detail_type: comment
+  label: Prestation de Monsieur Yves Buron
+  amount: '0.0'
+  no_vat: false
+  created_at: '2019-06-14T21:39:13.415+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T21:39:13.415+02:00'
+  updated_by: 296
+customer_bill_447442_579514:
+  id: 579514
+  customer_bill_id: 447442
+  detail_type: comment
+  label: Prestation de M. Yves BURON
+  amount: '0.0'
+  no_vat: false
+  created_at: '2019-06-14T22:01:14.324+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T22:01:14.324+02:00'
+  updated_by: 296
+customer_bill_447442_579515:
+  id: 579515
+  customer_bill_id: 447442
+  detail_type: comment
+  label: ''
+  amount: '0.0'
+  no_vat: false
+  created_at: '2019-06-14T22:01:14.324+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T22:01:14.324+02:00'
+  updated_by: 296
+customer_bill_447442_579516:
+  id: 579516
+  customer_bill_id: 447442
+  detail_type: comment
+  label: 'Centre de Profit : 324-3NA204'
+  amount: '0.0'
+  no_vat: false
+  created_at: '2019-06-14T22:01:14.324+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T22:01:14.324+02:00'
+  updated_by: 296
+customer_bill_447442_579517:
+  id: 579517
+  customer_bill_id: 447442
+  detail_type: fees
+  label: 12/02/2019 08h30-12h00 Gestion de projet 45,00 €/h 3,50 h
+  amount: '157.5'
+  no_vat: false
+  created_at: '2019-06-14T22:01:14.324+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T22:01:14.324+02:00'
+  updated_by: 296
+customer_bill_447442_579518:
+  id: 579518
+  customer_bill_id: 447442
+  detail_type: fees
+  label: 04/02/2019 08h30-12h00 Gestion de projet 45,00 €/h 3,50 h
+  amount: '157.5'
+  no_vat: false
+  created_at: '2019-06-14T22:01:14.324+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T22:01:14.324+02:00'
+  updated_by: 296
+customer_bill_447442_579519:
+  id: 579519
+  customer_bill_id: 447442
+  detail_type: fees
+  label: 06/02/2019 08h30-12h00 Evaluer et analyser les résultats d'un projet 45,00
+    €/h 3,50 h
+  amount: '157.5'
+  no_vat: false
+  created_at: '2019-06-14T22:01:14.324+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T22:01:14.324+02:00'
+  updated_by: 296
+customer_bill_447442_579520:
+  id: 579520
+  customer_bill_id: 447442
+  detail_type: comment
+  label: ''
+  amount: '0.0'
+  no_vat: false
+  created_at: '2019-06-14T22:01:14.324+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T22:01:14.324+02:00'
+  updated_by: 296
+customer_bill_447442_579521:
+  id: 579521
+  customer_bill_id: 447442
+  detail_type: comment
+  label: 'Centre de Profit : 334-1NA205'
+  amount: '0.0'
+  no_vat: false
+  created_at: '2019-06-14T22:01:14.324+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T22:01:14.324+02:00'
+  updated_by: 296
+customer_bill_447442_579522:
+  id: 579522
+  customer_bill_id: 447442
+  detail_type: fees
+  label: 05/02/2019 13h30-17h00 Mettre en oeuvre des actions d'optimisation 45,00
+    €/h 3,50 h
+  amount: '157.5'
+  no_vat: false
+  created_at: '2019-06-14T22:01:14.324+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T22:01:14.324+02:00'
+  updated_by: 296
+customer_bill_447442_579523:
+  id: 579523
+  customer_bill_id: 447442
+  detail_type: comment
+  label: ''
+  amount: '0.0'
+  no_vat: false
+  created_at: '2019-06-14T22:01:14.324+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T22:01:14.324+02:00'
+  updated_by: 296
+customer_bill_447442_579524:
+  id: 579524
+  customer_bill_id: 447442
+  detail_type: comment
+  label: ''
+  amount: '0.0'
+  no_vat: false
+  created_at: '2019-06-14T22:01:14.324+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T22:01:14.324+02:00'
+  updated_by: 296
+customer_bill_447442_579525:
+  id: 579525
+  customer_bill_id: 447442
+  detail_type: comment
+  label: ''
+  amount: '0.0'
+  no_vat: false
+  created_at: '2019-06-14T22:01:14.324+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T22:01:14.324+02:00'
+  updated_by: 296
+customer_bill_447442_579526:
+  id: 579526
+  customer_bill_id: 447442
+  detail_type: comment
+  label: ''
+  amount: '0.0'
+  no_vat: false
+  created_at: '2019-06-14T22:01:14.324+02:00'
+  created_by: 296
+  updated_at: '2019-06-14T22:01:14.324+02:00'
+  updated_by: 296

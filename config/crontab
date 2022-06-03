@@ -1,0 +1,16 @@
+0 */1 * * * env - `cat /etc/environment` /bin/bash -lc 'cd /app ; rbenv exec bundle exec rake cache:enqueue_consultant_accounts_refresh' >> /var/log/cron.log 2>&1
+0 8 * * 1-5 env - `cat /etc/environment` /bin/bash -lc 'cd /app ; rbenv exec bundle exec rake goxygene:expense_reports:validates' >> /var/log/cron.log 2>&1
+0 */3 * * * env - `cat /etc/environment` /bin/bash -lc 'cd /app ; rbenv exec bundle exec rake intercom:push_consultants' >> /var/log/cron.log 2>&1
+0 21 * * *  env - `cat /etc/environment` /bin/bash -lc 'cd /app ; rbenv exec bundle exec rake goxygene:notification_emails:consultant_disbursement_transferred' >> /var/log/cron.log 2>&1
+15 21 * * * env - `cat /etc/environment` /bin/bash -lc 'cd /app ; rbenv exec bundle exec rake goxygene:synchronize_payroll_data_task:update_consultants_from_payroll' >> /var/log/cron.log 2>&1
+00 22 * * * env - `cat /etc/environment` /bin/bash -lc 'cd /app ; rbenv exec bundle exec rake goxygene:update_payroll_transport_zone_task:update_payroll_transport_zone' >> /var/log/cron.log 2>&1
+30 22 * * * env - `cat /etc/environment` /bin/bash -lc 'cd /app ; rbenv exec bundle exec rake goxygene:update_consultants_cumuls:update_consultants_cumuls_from_accountancy' >> /var/log/cron.log 2>&1
+30 7  * * * env - `cat /etc/environment` /bin/bash -lc 'cd /app ; rbenv exec bundle exec rake goxygene:consultants_accounting_entries:update_from_accountancy' >> /var/log/cron.log 2>&1
+0 23 * * *  env - `cat /etc/environment` /bin/bash -lc 'cd /app ; rbenv exec bundle exec rake goxygene:update_advisor_employees:update_advisor_employees' >> /var/log/cron.log 2>&1
+00 20 * * * env - `cat /etc/environment` /bin/bash -lc 'cd /app ; rbenv exec bundle exec rake goxygene:update_cities_and_zipcodes_task:update_cities_and_zipcodes_task' >> /var/log/cron.log 2>&1
+00 8  * * * env - `cat /etc/environment` /bin/bash -lc 'cd /app ; rbenv exec bundle exec rake goxygene:office_activity_reports:reminder' >> /var/log/cron.log 2>&1
+30 23 * * * env - `cat /etc/environment` /bin/bash -lc 'cd /app ; rbenv exec bundle exec rake goxygene:synchronize_satismeter_task:intercom_synchronize_satismeter' >> /var/log/cron.log 2>&1
+0  9  * * * env - `cat /etc/environment` /bin/bash -lc 'cd /app ; rbenv exec bundle exec rake goxygene:consultant_emails:send_second_welcome_mail_after_two_days_created' >> /var/log/cron.log 2>&1
+0  7  * * * env - `cat /etc/environment` /bin/bash -lc 'cd /app ; rbenv exec bundle exec rake goxygene:subcontractor_office_customer_bills:reminder' >> /var/log/cron.log 2>&1
+0  7  * * * env - `cat /etc/environment` /bin/bash -lc 'cd /app ; rbenv exec bundle exec rake goxygene:subcontractor_documents:reminder' >> /var/log/cron.log 2>&1
+# Don't remove the empty line at the end of this file. It is required to run the cron job

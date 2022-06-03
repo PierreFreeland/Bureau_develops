@@ -1,0 +1,99 @@
+crca_paris_c_af_george_v_1:
+  id: 1
+  establishment_id: 10213
+  active: true
+  sort_code: '00420'
+  swift: AGRIFRPP882
+  domiciliation: "CRCA Paris C AF George V"
+  created_at: '2019-07-07T20:51:56.951+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T20:51:56.951+02:00'
+  updated_by: 296
+paris_bourse_entreprise_2_4:
+  id: 4
+  establishment_id: 25639
+  active: true
+  sort_code: '03160'
+  swift: SOGEFRPPABO
+  domiciliation: "PARIS BOURSE ENTREPRISE 2"
+  created_at: '2019-07-07T20:51:56.951+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T20:51:56.951+02:00'
+  updated_by: 296
+hsbc_france_2:
+  id: 2
+  establishment_id: 12517
+  active: true
+  sort_code: '00811'
+  swift: CCFRFRPP
+  domiciliation: "HSBC France"
+  created_at: '2019-07-07T20:51:56.951+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T20:51:56.951+02:00'
+  updated_by: 296
+paris_bourse_entreprise_3:
+  id: 3
+  establishment_id: 9255
+  active: true
+  sort_code: '00059'
+  swift: SOGEFRPP
+  domiciliation: "PARIS BOURSE ENTREPRISE"
+  created_at: '2019-07-07T20:51:56.951+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T20:51:56.951+02:00'
+  updated_by: 296
+bnp_paribas_9:
+  id: 9
+  establishment_id: 14187
+  active: true
+  sort_code: '02516'
+  swift: BNPAFRPPXXX
+  domiciliation: "BNP PARIBAS"
+  created_at: '2019-07-07T20:51:56.951+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T20:51:56.951+02:00'
+  updated_by: 296
+lcl_direction_entreprise_paris__8:
+  id: 8
+  establishment_id: 63164
+  active: true
+  sort_code: '05670'
+  swift: CRLYFRPP
+  domiciliation: "LCL Direction Entreprise Paris "
+  created_at: '2019-07-07T20:51:56.951+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T20:51:56.951+02:00'
+  updated_by: 296
+agence_paris_louvre_10:
+  id: 10
+  establishment_id: 63165
+  active: true
+  sort_code: '02046'
+  swift: NORDFRPP
+  domiciliation: "Agence Paris Louvre"
+  created_at: '2019-07-07T20:51:56.951+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T20:51:56.951+02:00'
+  updated_by: 296
+banque_populaire_occitane_11:
+  id: 11
+  establishment_id: 63166
+  active: true
+  sort_code: '00611'
+  swift: CCBPFRPPTLS
+  domiciliation: "Banque Populaire Occitane"
+  created_at: '2019-07-07T20:51:56.951+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T20:51:56.951+02:00'
+  updated_by: 296
+hsbc_france_12:
+  id: 12
+  establishment_id: 63167
+  active: true
+  sort_code: '00611'
+  swift: CCFRFRPP
+  domiciliation: "HSBC France"
+  created_at: '2019-07-07T20:51:56.951+02:00'
+  created_by: 296
+  updated_at: '2019-07-07T20:51:56.951+02:00'
+  updated_by: 296

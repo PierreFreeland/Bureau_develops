@@ -1,0 +1,222 @@
+---
+aucune:
+  id: 1
+  active: true
+  label: Aucune
+  rate: '0.0'
+  accountancy_code: Aucune
+  not_controlled: false
+  default_for_france: false
+  default_for_ecc: false
+  default_for_french_overseas: false
+  default_for_ecc_partneers: false
+  showonbureau: true
+  show_on_oxygene: true
+  created_at: '2020-09-10T20:41:19.897+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:19.897+02:00'
+  updated_by: 296
+ancien:
+  id: 2
+  active: false
+  label: Ancien
+  rate: '20.6'
+  accountancy_code: Ancien
+  not_controlled: false
+  default_for_france: false
+  default_for_ecc: false
+  default_for_french_overseas: false
+  default_for_ecc_partneers: false
+  showonbureau: false
+  show_on_oxygene: true
+  created_at: '2020-09-10T20:41:19.947+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:19.947+02:00'
+  updated_by: 296
+cee:
+  id: 3
+  active: true
+  label: CEE
+  rate: '0.0'
+  accountancy_code: Cee
+  not_controlled: false
+  default_for_france: false
+  default_for_ecc: true
+  default_for_french_overseas: false
+  default_for_ecc_partneers: false
+  showonbureau: true
+  show_on_oxygene: true
+  created_at: '2020-09-10T20:41:19.997+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:19.997+02:00'
+  updated_by: 296
+hors_cee:
+  id: 4
+  active: true
+  label: Hors CEE
+  rate: '0.0'
+  accountancy_code: Hors_Cee
+  not_controlled: false
+  default_for_france: false
+  default_for_ecc: false
+  default_for_french_overseas: false
+  default_for_ecc_partneers: false
+  showonbureau: true
+  show_on_oxygene: true
+  created_at: '2020-09-10T20:41:20.047+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:20.047+02:00'
+  updated_by: 296
+dom:
+  id: 5
+  active: true
+  label: DOM
+  rate: '8.5'
+  accountancy_code: DOM
+  not_controlled: false
+  default_for_france: false
+  default_for_ecc: false
+  default_for_french_overseas: true
+  default_for_ecc_partneers: false
+  showonbureau: true
+  show_on_oxygene: true
+  created_at: '2020-09-10T20:41:20.059+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:20.059+02:00'
+  updated_by: 296
+formation_professionnelle_continue:
+  id: 6
+  active: true
+  label: Formation professionnelle continue
+  rate: '0.0'
+  accountancy_code: Formation
+  not_controlled: false
+  default_for_france: false
+  default_for_ecc: false
+  default_for_french_overseas: false
+  default_for_ecc_partneers: false
+  showonbureau: true
+  show_on_oxygene: true
+  created_at: '2020-09-10T20:41:20.110+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:20.110+02:00'
+  updated_by: 296
+taux_réduit:
+  id: 7
+  active: true
+  label: Taux réduit
+  rate: '5.5'
+  accountancy_code: Reduit
+  not_controlled: false
+  default_for_france: false
+  default_for_ecc: false
+  default_for_french_overseas: false
+  default_for_ecc_partneers: false
+  showonbureau: true
+  show_on_oxygene: true
+  created_at: '2020-09-10T20:41:20.160+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:20.160+02:00'
+  updated_by: 296
+taux_réduit_sup:
+  id: 8
+  active: true
+  label: Taux réduit sup
+  rate: '2.1'
+  accountancy_code: Reduit_Sup
+  not_controlled: false
+  default_for_france: false
+  default_for_ecc: false
+  default_for_french_overseas: false
+  default_for_ecc_partneers: false
+  showonbureau: false
+  show_on_oxygene: true
+  created_at: '2020-09-10T20:41:20.210+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:20.210+02:00'
+  updated_by: 296
+ancien_taux_normal:
+  id: 9
+  active: false
+  label: Ancien taux normal
+  rate: '19.6'
+  accountancy_code: Ancien_Normal
+  not_controlled: false
+  default_for_france: false
+  default_for_ecc: false
+  default_for_french_overseas: false
+  default_for_ecc_partneers: false
+  showonbureau: false
+  show_on_oxygene: true
+  created_at: '2020-09-10T20:41:20.260+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:20.260+02:00'
+  updated_by: 296
+ancien_taux_interméd.:
+  id: 10
+  active: false
+  label: Ancien taux interméd.
+  rate: '7.0'
+  accountancy_code: Ancien_Interm
+  not_controlled: false
+  default_for_france: false
+  default_for_ecc: false
+  default_for_french_overseas: false
+  default_for_ecc_partneers: false
+  showonbureau: true
+  show_on_oxygene: true
+  created_at: '2020-09-10T20:41:20.311+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:20.311+02:00'
+  updated_by: 296
+taux_intermédiaire:
+  id: 11
+  active: true
+  label: Taux intermédiaire
+  rate: '10.0'
+  accountancy_code: Intermediaire
+  not_controlled: false
+  default_for_france: false
+  default_for_ecc: false
+  default_for_french_overseas: false
+  default_for_ecc_partneers: false
+  showonbureau: true
+  show_on_oxygene: true
+  created_at: '2020-09-10T20:41:20.360+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:20.360+02:00'
+  updated_by: 296
+taux_normal:
+  id: 12
+  active: true
+  label: Taux normal
+  rate: '20.0'
+  accountancy_code: Normal
+  not_controlled: false
+  default_for_france: true
+  default_for_ecc: false
+  default_for_french_overseas: false
+  default_for_ecc_partneers: false
+  showonbureau: true
+  show_on_oxygene: true
+  created_at: '2020-09-10T20:41:20.410+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:20.410+02:00'
+  updated_by: 296
+non_contrôlé:
+  id: 100
+  active: true
+  label: Non contrôlé
+  rate: '20.0'
+  accountancy_code: NCT
+  not_controlled: true
+  default_for_france: false
+  default_for_ecc: false
+  default_for_french_overseas: false
+  default_for_ecc_partneers: false
+  showonbureau: false
+  show_on_oxygene: false
+  created_at: '2020-09-10T20:41:20.463+02:00'
+  created_by: 296
+  updated_at: '2020-09-10T20:41:20.463+02:00'
+  updated_by: 296

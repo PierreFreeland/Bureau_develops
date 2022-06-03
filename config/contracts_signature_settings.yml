@@ -1,0 +1,122 @@
+cdi_contrat_initial:
+  {
+    employee:  { page: 4, llx: 52,  lly: 110, urx: 292, ury: 140 },
+    manager:   { page: 4, llx: 307, lly: 110, urx: 557, ury: 140 }
+  }
+
+cdd_contrat_initial:
+  {   employee:  { page: 4, llx: 52,  lly: 110,  urx: 292, ury: 200 },
+      manager:   { page: 4, llx: 307, lly: 110,  urx: 557, ury: 200 }
+  }
+
+avenant_cdd_mission:
+  {
+    employee:  { page: 2, llx: 52,  lly: 450, urx: 290, ury: 474 },
+    manager:   { page: 2, llx: 307, lly: 450, urx: 550, ury: 474 }
+  }
+
+avenant_cdd_duree:
+  {
+    employee:  { page: 1, llx: 52,  lly: 180,  urx: 292, ury: 210 },
+    manager:   { page: 1, llx: 307, lly: 180,  urx: 555, ury: 210 }
+  }
+
+cdi_contrat_retrocession_all:
+  {
+    employee:  { page: 4, llx: 52,  lly: 130, urx: 292, ury: 160 },
+    manager:   { page: 4, llx: 307, lly: 130, urx: 557, ury: 160 }
+  }
+
+cdd_contrat_retrocession_all:
+  {   employee:  { page: 4, llx: 52,  lly: 210, urx: 292, ury: 240 },
+      manager:   { page: 4, llx: 307, lly: 210, urx: 557, ury: 240 }
+  }
+
+cdi_contrat_retrocession_construction:
+  {
+    employee:  { page: 4, llx: 52,  lly: 150, urx: 292, ury: 170 },
+    manager:   { page: 4, llx: 307, lly: 150, urx: 557, ury: 170 }
+  }
+
+cdd_contrat_retrocession_construction:
+  {   employee:  { page: 4, llx: 45,  lly: 240,  urx: 292, ury: 280 },
+      manager:   { page: 4, llx: 303, lly: 240,  urx: 550, ury: 280 }
+  }
+
+avenant_cdd_mission_retrocession:
+  {
+    employee:  { page: 2, llx: 52,  lly: 450, urx: 290, ury: 474 },
+    manager:   { page: 2, llx: 307, lly: 450, urx: 550, ury: 474 }
+  }
+
+avenant_cdd_duree_retrocession:
+  {
+    employee:  { page: 1, llx: 52,  lly: 180,  urx: 292, ury: 210 },
+    manager:   { page: 1, llx: 307, lly: 180,  urx: 555, ury: 210 }
+  }
+
+cpro_retrocession_all:
+  {
+    employee:  { page: 4, llx: 52,  lly: 110, urx: 292, ury: 160 },
+    manager:   { page: 4, llx: 307, lly: 110, urx: 557, ury: 160 }
+  }
+
+cpro_retrocession_construction:
+  {
+    employee:  { page: 4, llx: 52,  lly: 110,  urx: 292, ury: 160 },
+    manager:   { page: 4, llx: 307, lly: 110,  urx: 557, ury: 160 }
+  }
+
+cdd_imprecise_contrat_all:
+  {
+    employee:  { page: 4, llx: 52,  lly: 170,  urx: 292, ury: 200 },
+    manager:   { page: 4, llx: 307, lly: 170,  urx: 557, ury: 200 }
+  }
+
+cdd_imprecise_contrat_retrocession_all:
+  {
+    employee:  { page: 4, llx: 45,  lly: 145,  urx: 292, ury: 185 },
+    manager:   { page: 4, llx: 303, lly: 145,  urx: 550, ury: 185 }
+  }
+
+cdd_imprecise_contrat_construction:
+  {
+    employee:  { page: 4, llx: 52,  lly: 170,  urx: 292, ury: 200 },
+    manager:   { page: 4, llx: 307, lly: 170,  urx: 557, ury: 200 }
+  }
+
+cdd_imprecise_contrat_retrocession_construction:
+  {
+    employee:  { page: 4, llx: 52,  lly: 110,  urx: 292, ury: 160 },
+    manager:   { page: 4, llx: 307, lly: 110,  urx: 557, ury: 160 }
+  }
+
+cdi_contrat_tp_initial:
+  {
+    employee:  { page: 6, llx: 52,  lly: 570,  urx: 290, ury: 600 },
+    manager:   { page: 6, llx: 307, lly: 570,  urx: 550, ury: 600 }
+  }
+
+cdd_contrat_tp_initial:
+  {
+    employee:  { page: 6, llx: 52,  lly: 530,  urx: 290, ury: 560 },
+    manager:   { page: 6, llx: 307, lly: 530,  urx: 550, ury: 560 }
+  }
+
+cdd_imprecise_contrat_tp_all:
+  {
+    employee:  { page: 6, llx: 52,  lly: 530,  urx: 290, ury: 560 },
+    manager:   { page: 6, llx: 307, lly: 530,  urx: 550, ury: 560 }
+  }
+
+avenant_cdd_tp_mission:
+  {
+    employee:  { page: 2, llx: 52,  lly: 450, urx: 290, ury: 474 },
+    manager:   { page: 2, llx: 307, lly: 450, urx: 550, ury: 474 }
+  }
+
+avenant_cdd_tp_duree:
+  {
+    employee:  { page: 1, llx: 52,  lly: 180,  urx: 292, ury: 210 },
+    manager:   { page: 1, llx: 307, lly: 180,  urx: 555, ury: 210 }
+  }
