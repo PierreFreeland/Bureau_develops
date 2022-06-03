@@ -1,1 +1,0 @@
-DB_VERSION = Goxygene::Parameter.db_version rescue nil

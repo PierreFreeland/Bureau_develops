@@ -1,9 +1,0 @@
-tva:
-    label: 'TVA Française'
-    rate: 0.2
-    accountancy_code: 'jgp5PHB4tfrlXycT2eUk'
-    show_on_oxygene: true
-    created_at: '2018-12-19T20:44:41.630+01:00'
-    created_by: 296
-    updated_at: '2018-12-19T20:44:41.630+01:00'
-    updated_by: 296
