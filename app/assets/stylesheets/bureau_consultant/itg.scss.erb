@@ -9,7 +9,7 @@ IMPORT        ***********/
 *************************/
 $main-color-light: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#5a2861' %>;
 $main-color-dark: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#47204d' %>;
-$secondary-color-light: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17b10' %>;
+$secondary-color-light: <%= ENV['HUB_SECONDARY_COLOR_LIGHT'] || '#f17b10' %>;
 $secondary-color-dark: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
 /*************************
 *** RESPONSIVE
@@ -1364,7 +1364,7 @@ HEADER        ***********/
 	}
 }
 .stat-board .board-title {
-  color: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#5a2861' %>;
+  color: $main-color-light;
   font-size: 16px;
   display: inline-block;
   vertical-align: middle;
@@ -3838,13 +3838,14 @@ color: #fff;
 	text-transform: capitalize;
 	vertical-align: middle;
 }
-#calendar-view, .duplicate-calendar-view {
+#calendar-view {
   width: 100%;
   clear: both;
   overflow: auto;
   border-radius: 5px;
   background-color: #fff;
   margin-bottom: 20px;
+  margin-top: -37px;
 }
 
 .fc-ltr .fc-basic-view .fc-day-number {

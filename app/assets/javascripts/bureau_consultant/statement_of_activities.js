@@ -93,27 +93,12 @@ $(document).ready(function () {
         $('#office_activity_report_mission_in_foreign_country').val($(this).data('value'));
     });
 
-    $("#office_activity_report_line_activity_type_id").on('change', function () {
-        var option = $(this).find(':selected');
-        if (option.attr('data-absence')) {
-            $(".activity-time-span .btn:not(:last-child)").addClass('disabled', option.attr('data-absence'));
-            var full_time_span = $(".activity-time-span .btn:last-child");
-            $(".activity-time-span .btn").removeClass('selected');
-            full_time_span.addClass('selected');
-            $('#office_activity_report_line_time_span').val(full_time_span.data('value'));
-        } else {
-            $(".activity-time-span .btn:not(:last-child)").removeClass('disabled', option.attr('data-absence'));
-        }
-    }).change();
-
     $(".activity-time-span .btn[data-value='" + $('#office_activity_report_line_time_span').val() + "']").addClass('selected');
 
     $(".activity-time-span .btn").on('click', function () {
-        if (!$(this).hasClass('disabled')) {
-            $(".activity-time-span .btn").removeClass('selected');
-            $(this).addClass('selected');
-            $('#office_activity_report_line_time_span').val($(this).data('value'));
-        }
+        $(".activity-time-span .btn").removeClass('selected');
+        $(this).addClass('selected');
+        $('#office_activity_report_line_time_span').val($(this).data('value'));
     });
 
     if ($('span#max_expenses_reimbursement').length != 0) {
@@ -313,7 +298,6 @@ $(document).ready(function () {
     if ($("#calendar-view.mock").length > 0) {
         for (var i = 0; i < selectable_days.length; i++) {
             var day_calendar = '.fc-day-top[data-date="' + selectable_days[i] + '"]';
-            var values = { mission: 0, development: 0, unemployment: 0, absence: 0 };
             $(day_calendar).removeClass('add-disable-calendar');
 
             if (days_with_activity[selectable_days[i]]) {
@@ -323,23 +307,18 @@ $(document).ready(function () {
                     container: 'body',
                     placement: 'auto right'
                 });
-                values.mission = days_with_activity[selectable_days[i]]['mission'] * 100;
-                values.development = days_with_activity[selectable_days[i]]['development'] * 100;
-                values.unemployment = days_with_activity[selectable_days[i]]['unemployment'] * 100;
-                values.absence = days_with_activity[selectable_days[i]]['absence'] * 100;
+                left_bar_size = days_with_activity[selectable_days[i]]['mission'] * 100
+                middle_bar_size = days_with_activity[selectable_days[i]]['unemployment'] * 100
+                right_bar_size = days_with_activity[selectable_days[i]]['development'] * 100
+            } else {
+                left_bar_size = 0
+                middle_bar_size = 0
+                right_bar_size = 0
             }
 
+
             $(day_calendar).append(div_progess_bar());
-            add_style_progess_bar(day_calendar, values);
-        }
-        for (var i = 0; i < out_of_contract_days.length; i++) {
-            var day_calendar = '.fc-day-top[data-date="' + out_of_contract_days[i] + '"]';
-            $(day_calendar).popover({
-                content: 'Pas de contrat de travail',
-                trigger: 'hover',
-                container: 'body',
-                placement: 'auto right'
-            });
+            add_style_progess_bar(day_calendar, left_bar_size, middle_bar_size, right_bar_size);
         }
 
     } else if ($(".duplicate-calendar-view").length > 0) {
@@ -363,7 +342,6 @@ $(document).ready(function () {
 
         for (var i = 0; i < selectable_days.length; i++) {
             var day_calendar = '.fc-day-top[data-date="' + selectable_days[i] + '"]';
-            var values = { mission: 0, development: 0, unemployment: 0, absence: 0 };
 
             if (days_with_activity[selectable_days[i]]) {
                 $(day_calendar).popover({
@@ -372,23 +350,18 @@ $(document).ready(function () {
                     container: 'body',
                     placement: 'auto right'
                 });
-                values.mission = days_with_activity[selectable_days[i]]['mission'] * 100;
-                values.development = days_with_activity[selectable_days[i]]['development'] * 100;
-                values.unemployment = days_with_activity[selectable_days[i]]['unemployment'] * 100;
-                values.absence = days_with_activity[selectable_days[i]]['absence'] * 100;
+                left_bar_size = days_with_activity[selectable_days[i]]['mission'] * 100
+                middle_bar_size = days_with_activity[selectable_days[i]]['unemployment'] * 100
+                right_bar_size = days_with_activity[selectable_days[i]]['development'] * 100
+            } else {
+                left_bar_size = 0
+                middle_bar_size = 0
+                right_bar_size = 0
             }
 
+
             $(day_calendar).append(div_progess_bar());
-            add_style_progess_bar(day_calendar, values);
-        }
-        for (var i = 0; i < out_of_contract_days.length; i++) {
-            var day_calendar = '.fc-day-top[data-date="' + out_of_contract_days[i] + '"]';
-            $(day_calendar).popover({
-                content: 'Pas de contrat de travail',
-                trigger: 'hover',
-                container: 'body',
-                placement: 'auto right'
-            });
+            add_style_progess_bar(day_calendar, left_bar_size, middle_bar_size, right_bar_size);
         }
     } else if ($(".insert-calendar-view").length > 0) {
         var date = new Date();
@@ -397,13 +370,13 @@ $(document).ready(function () {
         var add_progess_bar_at_date = '2018-' + month + '-' + day;
 
         var progess_bar_selector = '.fc-day-top[data-date="' + add_progess_bar_at_date + '"]';
-        var variant_sizes = [0, 15, 30, 50, 70, 90, 100];
-        left_bar_size = variant_sizes[Math.floor(Math.random() * variant_sizes.length)];
+        var left_bar_sizes = [0, 15, 30, 50, 70, 90, 100]
+        left_bar_size = left_bar_sizes[Math.floor(Math.random() * left_bar_sizes.length)];
         right_bar_size = 100 - left_bar_size;
-        var values = { mission: left_bar_size, development: right_bar_size, unemployment: 0, absence: 0 };
+
 
         $(progess_bar_selector).append(div_progess_bar());
-        add_style_progess_bar(progess_bar_selector, values);
+        add_style_progess_bar(progess_bar_selector, left_bar_size, middle_bar_size, right_bar_size);
     }
 
     $('.add-postal-code').click(function () {
@@ -584,21 +557,36 @@ function selectMultidate(container, date, date_array) {
 }
 
 function div_progess_bar() {
-    return '<div class="calendar-progess-bar activity-type-mission"></div>' +
-        '<div class="calendar-progess-bar activity-type-development"></div>' +
-        '<div class="calendar-progess-bar activity-type-unemployment"></div>' +
-        '<div class="calendar-progess-bar activity-type-absence"></div>'
+    return '<div class="calendar-progess-bar-left"></div>' +
+        '<div class="calendar-progess-bar-middle"></div>' +
+        '<div class="calendar-progess-bar-right"></div>'
 }
 
-function add_style_progess_bar(selector, values) {
-    var left = 0;
-    $(selector + ' .activity-type-mission').css({width: values.mission + '%', left: left + '%'});
-    left += values.mission;
-    $(selector + ' .activity-type-development').css({width: values.development + '%', left: left + '%'});
-    left += values.development;
-    $(selector + ' .activity-type-unemployment').css({width: values.unemployment + '%', left: left + '%'});
-    left += values.unemployment;
-    $(selector + ' .activity-type-absence').css({width: values.absence + '%', left: left + '%'});
+function add_style_progess_bar(selector, left_bar_size, middle_bar_size, right_bar_size) {
+    // left side
+    $(selector + ' .calendar-progess-bar-left').css({
+        bottom: '-2px',
+        left: 0,
+        width: left_bar_size + '%',
+        'background-color': '#ef7c11', position: 'absolute', height: '10px'
+    })
+
+    // middle side
+    $(selector + ' .calendar-progess-bar-middle').css({
+        bottom: '-2px',
+        left: left_bar_size + '%',
+        width: middle_bar_size + '%',
+        'background-color': '#ffbb78', position: 'absolute', height: '10px'
+    })
+
+    // right side
+    $(selector + ' .calendar-progess-bar-right').css({
+        bottom: '-2px',
+        left: (left_bar_size + middle_bar_size) + '%',
+        width: right_bar_size + '%',
+        'background-color': '#5a2861', position: 'absolute', height: '10px'
+    })
+
 }
 
 function disable_all_calendar() {

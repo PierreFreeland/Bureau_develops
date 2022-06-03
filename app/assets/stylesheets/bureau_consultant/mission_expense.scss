@@ -51,12 +51,12 @@
     vertical-align: text-top;
     width: 20px;
     height: 20px;
-    background: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+    background: #5a2a60;
   }
 
   // Box checked
   &:checked + label:before {
-    background: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+    background: #5a2a60;
   }
 
   // Checkmark. Could be replaced with an image

@@ -15,7 +15,7 @@
               data-content="Le nombre d’heures travaillées correspond au nombre de jours travaillés multiplié
               par 7 (il y a 7 heures de travail dans une journée)">
             <div class="label-top text-violet">Heures <br/> travaillées</div>
-            <div class="value c2ValueHeure text-center"><%= statement_of_activities_request.pre_calculate_filled_working_hours %></div>
+            <div class="value c2ValueHeure text-center"><%= statement_of_activities_request.hours %></div>
           </td>
           <td class="no-wrap"
               data-toggle="popover"
@@ -29,23 +29,6 @@
         </tr>
         </tbody>
       </table>
-
-      <% if current_consultant.full_time? %>
-        <table class="table text-center">
-          <tbody>
-          <tr style="border-top: 1px solid #5a2861;">
-            <td class="no-wrap border-right">
-              <div class="label-top text-violet">Nombre de jours d’absences</div>
-              <div class="value c1ValueJour text-center"><%= statement_of_activities_request.calculated_absences_days %></div>
-            </td>
-            <td class="no-wrap">
-              <div class="label-top text-violet">Nombre d’heures d’absences</div>
-              <div class="value c2ValueHeure text-center"><%= statement_of_activities_request.pre_calculate_absence_hours %></div>
-            </td>
-          </tr>
-          </tbody>
-        </table>
-      <% end %>
     </div>
   </div>
 </div>

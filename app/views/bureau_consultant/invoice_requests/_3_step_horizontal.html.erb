@@ -3,33 +3,27 @@
 <ul id="progressbar" class="progressbar step_3_node">
   <li class="<%= add_active_step_class(1, step) %>">
     Client
-    <% if Goxygene.is_freeland? %>
-      <div class="m-t-5">
-        <div style="margin-left: -15px">
-          <%= raw(add_tooltip_modal(1, step, current_modal)) %>
-        </div>
+    <div class="m-t-5">
+      <div style="margin-left: -15px">
+        <%= raw(add_tooltip_modal(1, step, current_modal)) %>
       </div>
-    <% end %>
+    </div>
   </li>
   <li class="<%= "#{add_active_step_class(2, step)} #{add_future_step(2, step)}" %>">
     Facturation
-    <% if Goxygene.is_freeland? %>
-      <div class="m-t-5">
-        <div style="margin-left: -15px">
-          <%= raw(add_tooltip_modal(2, step, current_modal)) %>
-        </div>
+    <div class="m-t-5">
+      <div style="margin-left: -15px">
+        <%= raw(add_tooltip_modal(2, step, current_modal)) %>
       </div>
-    <% end %>
+    </div>
   </li>
   <li class="<%= "#{add_active_step_class(3, step)} #{add_future_step(3, step)}" %>">
     Synthèse
-    <% if Goxygene.is_freeland? %>
-      <div class="m-t-5">
-        <div style="margin-left: -15px">
-          <%= raw(add_tooltip_modal(3, step, current_modal)) %>
-        </div>
+    <div class="m-t-5">
+      <div style="margin-left: -15px">
+        <%= raw(add_tooltip_modal(3, step, current_modal)) %>
       </div>
-    <% end %>
+    </div>
   </li>
 </ul>
 

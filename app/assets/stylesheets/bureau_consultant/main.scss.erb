@@ -23,7 +23,7 @@
     margin-right: 15px;
     padding-top: 4px;
     font-size: 13px;
-    color: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#5a2861' %>;
+    color: #592961;
   }
 
   #user-account {
@@ -37,7 +37,7 @@
     > ul .popover-menu, .popover-menu {
       position: absolute;
       background: white;
-      color: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#5a2861' %>;
+      color: #592961;
       border: 1px solid #e5e5e5;
       box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
       right: 12px;
@@ -63,7 +63,7 @@
       }
       a {
         padding: 8px 15px;
-        color: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#5a2861' %>;
+        color: #592961;
         font-size: 13px;
       }
     }
@@ -108,7 +108,7 @@
       right: 13px;
     }
     .slick-next:before, .slick-prev:before {
-      color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
+      color: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#f17c0f' %>;
     }
   }
 
@@ -123,7 +123,7 @@
 }
 
 .stat-board .stat {
-  border-left: 1px solid <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#5a2861' %>;
+  border-left: 1px solid #592961;
   padding-left: 8px;
   padding-right: 8px;
   margin-right: 0;
@@ -142,7 +142,7 @@
 
   .title {
     font-size: 12px;
-    color: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#5a2861' %>;
+    color: #592961;
   }
   .value {
     font-size: 15px;
@@ -305,14 +305,6 @@ pre.text-wrap {
 
 .text-orange2 {
   color: #ffbb78;
-}
-
-.text-grey3 {
-  color: #858585;
-}
-
-input[type=file].form-control {
-  padding: 3px 12px;
 }
 
 .btn-narrow {

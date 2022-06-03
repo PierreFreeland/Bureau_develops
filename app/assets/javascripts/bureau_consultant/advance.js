@@ -1,6 +1,6 @@
 function validateAmount(e) {
-    var amountVal = $("#advance_amount").val() === '' ? 0 : parseFloat($("#advance_amount").val());
-    var maxAmount = $("#amount_maximum").data("value") === '' ? 0 : parseFloat($("#amount_maximum").data("value"));
+    var amountVal = $("#advance_amount").val();
+    var maxAmount = $("#amount_maximum").data("value");
     var error = false;
     var form = e;
 

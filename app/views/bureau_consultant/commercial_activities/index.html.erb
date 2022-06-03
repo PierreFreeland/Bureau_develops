@@ -30,7 +30,7 @@
         </div>
       </div>
 
-      <% if Goxygene.is_freeland? %>
+      <% unless ENV['FREETEAM'] %>
         <div class="col-md-6">
           <div class="commercial-activity-boxes soft-green">
 
@@ -43,58 +43,11 @@
             <div class="right-content full-content-xs">
               <p class="commercial-activity-title text-xs-center">MES CONVENTIONS DE FORMATION</p>
 
-              <% if current_consultant.considered_qualiopi? %>
-                <button class='btn btn-yellow btn-no-rounded btn-wrapable' data-toggle="modal" data-target="#newTrainingModal">CRÉER UNE NOUVELLE CONVENTION</button>
-              <% else %>
-                <%= link_to "CRÉER UNE NOUVELLE CONVENTION", new_office_training_agreement_path, class: 'btn btn-yellow btn-no-rounded btn-wrapable' %>
-              <% end %>
+              <%= link_to 'CRÉER UNE NOUVELLE CONVENTION', new_office_training_agreement_path, class: 'btn btn-yellow btn-no-rounded btn-wrapable' %>
 
               <div class="group-link">
                 <div class="link"><%= link_to 'Historique de mes conventions signées >',     signed_office_training_agreements_path   %></div>
                 <div class="link"><%= link_to 'Historique de mes demandes de conventions >', requests_office_training_agreements_path %></div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="modal fade" id="newTrainingModal" tabindex="-1" role="dialog" aria-labelledby="newTrainingModalLabel" aria-hidden="true">
-          <div class="modal-dialog" role="document">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h5 class="modal-title" id="newTrainingModalLabel">CERTIFICATION QUALIOPI</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Annuler">
-                  <span aria-hidden="true">&times;</span>
-                </button>
-              </div>
-              <div class="modal-body">
-                <p>Vous contractualisez votre action par une convention de formation. Cela signifie que votre client mobilise des fonds publics/mutualisés (prise en charge OPCO, financement pôle emploi, réponse à un appel d’offre/appel à projet) et que par conséquent, vous bénéficiez de la certification Qualiopi.</p>
-                <p>
-                  <b>Si ce n’est pas le cas, nous vous demandons de contractualiser via un contrat de prestation.</b>
-                </p>
-                <p>Pour être conforme au référentiel national qualité, il vous est demandé de conserver toutes les preuves mentionnées dans la check-list ci-dessous. S’agissant d’une obligation réglementaire, celles-ci vous seront systématiquement demandées.</p>
-                <p>Ci-dessous la liste des documents à nous remettre (la liste est disponible dans le kit formateur).</p>
-                <ul>
-                  <li>Mon offre de formation</li>
-                  <li>Demande / Besoin formation</li>
-                  <li>Evaluation acquis début formation</li>
-                  <li>Programme</li>
-                  <li>Convocation</li>
-                  <li>Lieu formation</li>
-                  <li>Feuilles présence</li>
-                  <li>Supports formation</li>
-                  <li>Evaluation compétences</li>
-                  <li>Evaluation satisfaction stagiaires</li>
-                  <li>Evaluation satisfaction commanditaire</li>
-                  <li>Certificat réalisation</li>
-                  <li>Preuve envoi docs aux stagiaires</li>
-                  <li>Amélioration continue</li>
-                  <li>Evaluation à froid</li>
-                  <li>Veille</li>
-                </ul>
-              </div>
-              <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Annuler</button>
-                <%= link_to "J'ai compris", new_office_training_agreement_path, class: 'btn btn-yellow btn-no-rounded btn-wrapable' %>
               </div>
             </div>
           </div>

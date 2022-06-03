@@ -7,7 +7,7 @@
 }
 
 .btn-empty-orange.selected {
-  background-color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+  background-color: #ef7c11;
   color: white;
 }
 
@@ -71,7 +71,7 @@
   }
 
   .disabled.disabled-date, .disabled.disabled-date:hover {
-    background: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+    background: #5a2a60;
     border-radius: 30px;
     color: grey !important;
   }
@@ -142,28 +142,5 @@
     text-align: center;
     -ms-text-align-last: center;
     -moz-text-align-last: center;
-  }
-}
-
-.calendar-progess-bar {
-  bottom: -2px;
-  left: 0;
-  position: absolute;
-  height: 10px;
-
-  &.activity-type-mission {
-    background-color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f58929' %>;
-  }
-
-  &.activity-type-development {
-    background-color:  <%= ENV['HUB_MAIN_COLOR_DARK'] || '#4f2f7e' %>;
-  }
-
-  &.activity-type-unemployment {
-    background-color: #ffbb78;
-  }
-
-  &.activity-type-absence {
-    background-color: #858585;
   }
 }

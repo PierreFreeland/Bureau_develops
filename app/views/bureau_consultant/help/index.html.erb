@@ -1,7 +1,7 @@
 <div class="help">
   <div class="row">
     <div class="col-md-12">
-      <div class="<%= Goxygene.is_freeteam? ? 'col' : 'col-md-6' %>">
+      <div class="col-md-6">
         <div class="bg-white p-b-20">
           <div class="help-header">
             <div class="help-header-title align-center">QUESTIONS FRÉQUENTES</div>
@@ -42,6 +42,7 @@
                         <div class="subaccordion">
 
                           <% c.documentations.only_active.each_with_index do |d, index_sub| %>
+
                             <div class="subaccordion-panel panel-default">
                               <div class="panel-heading help-panel normal"
                                    data-toggle="collapse"
@@ -57,7 +58,7 @@
                               </div>
                               <div id="submenu_<%= index %>_<%= index_sub %>" class="panel-collapse collapse" role="subtabpanel">
                                 <div class="panel-body">
-                                  <%= link_to raw(d.text), help_download_path(d), target: "_blank" %>
+                                  <%= link_to raw(d.text), help_download_path(d) %>
                                 </div>
                               </div>
                             </div>
@@ -78,94 +79,94 @@
 
       </div>
 
-      <% if Goxygene.is_freeland? %>
-        <div class="col-md-6">
-          <div class="bg-white p-b-20 m-b-20">
-            <div class="help-header-title align-center">TUTORIELS</div>
-            <div class="itg-video-tools">
-              <div class="help-header-subtitle align-center"><%="VOS OUTILS #{Goxygene::Parameter.value_for_group}"%></div>
 
-              <div class="video-section padding-left-right">
+      <div class="col-md-6">
+        <div class="bg-white p-b-20 m-b-20">
+          <div class="help-header-title align-center">TUTORIELS</div>
+          <div class="itg-video-tools">
+            <div class="help-header-subtitle align-center">VOS OUTILS ITG</div>
 
-                <%= link_to '//www.youtube.com/watch?v=31GtWpOoU6E', target: "_blank" do %>
-                <div class="row video-link p-b-20 p-t-20 p-l-15 overflow-auto">
-                    <div class="pull-left p-r-15">
-                      <%= image_tag get_thumbnail_from_link('31GtWpOoU6E'), class: 'img-square', alt: 'itg' %>
-                    </div>
+            <div class="video-section padding-left-right">
 
-                    <div class="p-r-15 overflow-auto">
-                      <div class="video-title">DÉCOUVRIR MES OUTILS DIGITAUX</div>
-                      <div class="video-detail"><%="Simplifiez-vous la vie avec les outls digitaux #{Goxygene::Parameter.value_for_group} où que vous soyez!"%>
-                      </div>
-                    </div>
-                </div>
-                <% end %>
-
-                <%= link_to 'https://youtu.be/o8xYvFoyyIw', target: "_blank" do %>
-                <div class="row video-link p-b-20 p-t-20 p-l-15 overflow-auto">
+              <%= link_to '//www.youtube.com/watch?v=31GtWpOoU6E', target: "_blank" do %>
+              <div class="row video-link p-b-20 p-t-20 p-l-15 overflow-auto">
                   <div class="pull-left p-r-15">
-                    <%= image_tag get_thumbnail_from_link('o8xYvFoyyIw'), class: 'img-square', alt: 'itg' %>
+                    <%= image_tag get_thumbnail_from_link('31GtWpOoU6E'), class: 'img-square', alt: 'itg' %>
                   </div>
 
                   <div class="p-r-15 overflow-auto">
-                    <div class="video-title">RÉALISER MA DÉCLARATION D’ACTIVITÉ</div>
-                    <div class="video-detail">Comment bien réaliser ma déclaration d’activité chaque
-                      fin de mois travaillé afin de percevoir mon salaire.
+                    <div class="video-title">DÉCOUVRIR MES OUTILS DIGITAUX</div>
+                    <div class="video-detail">Simplifiez-vous la vie avec les outls digitaux ITG où que vous soyez!
                     </div>
                   </div>
-                </div>
-                <% end %>
-
-                <%= link_to 'https://youtu.be/Pp8IKwvAvzE', target: "_blank" do %>
-                <div class="row video-link p-b-20 p-t-20 p-l-15 overflow-auto">
-                  <div class="pull-left p-r-15">
-                    <%= image_tag get_thumbnail_from_link('Pp8IKwvAvzE'), class: 'img-square', alt: 'itg' %>
-                  </div>
-
-                  <div class="p-r-15 overflow-auto">
-                    <div class="video-title">MES CONTRATS DE PRESTATION</div>
-                    <div class="video-detail">Comment créer et valider mes contrats de prestation pour mes clients.
-                    </div>
-                  </div>
-                </div>
-                <% end %>
-
-                <%= link_to 'https://youtu.be/2S3ADEHdiWo', target: "_blank" do %>
-                <div class="row video-link p-b-20 p-t-20 p-l-15 overflow-auto">
-                  <div class="pull-left p-r-15">
-                    <%= image_tag get_thumbnail_from_link('2S3ADEHdiWo'), class: 'img-square', alt: 'itg' %>
-                  </div>
-
-                  <div class="p-r-15 overflow-auto">
-                    <div class="video-title">MA FACTURATION</div>
-                    <div class="video-detail">Comment bien facturer mes clients le plus rapidement possible.
-                    </div>
-                  </div>
-                </div>
-                <% end %>
-
-                <%= link_to 'https://youtu.be/j72GxzcjOn8?t=1s', target: "_blank" do %>
-                  <div class="row video-link p-b-20 p-t-20 p-l-15 overflow-auto">
-                    <div class="pull-left p-r-15">
-                      <%# use force link cause at 0seconds of this video is only back screen %>
-                      <%= image_tag 'https://img.youtube.com/vi/j72GxzcjOn8/2.jpg', class: 'img-square', alt: 'itg' %>
-                    </div>
-
-                    <div class="p-r-15 overflow-auto">
-                      <div class="video-title">MES DEPENSES DE FONCTIONNEMENT</div>
-                      <div class="video-detail">
-                        Comment déclarer ses dépenses de fonctionnement en quelques clics
-                      </div>
-                    </div>
-                  </div>
-                <% end %>
-
               </div>
+              <% end %>
+
+              <%= link_to 'https://youtu.be/o8xYvFoyyIw', target: "_blank" do %>
+              <div class="row video-link p-b-20 p-t-20 p-l-15 overflow-auto">
+                <div class="pull-left p-r-15">
+                  <%= image_tag get_thumbnail_from_link('o8xYvFoyyIw'), class: 'img-square', alt: 'itg' %>
+                </div>
+
+                <div class="p-r-15 overflow-auto">
+                  <div class="video-title">RÉALISER MA DÉCLARATION D’ACTIVITÉ</div>
+                  <div class="video-detail">Comment bien réaliser ma déclaration d’activité chaque
+                    fin de mois travaillé afin de percevoir mon salaire.
+                  </div>
+                </div>
+              </div>
+              <% end %>
+
+              <%= link_to 'https://youtu.be/Pp8IKwvAvzE', target: "_blank" do %>
+              <div class="row video-link p-b-20 p-t-20 p-l-15 overflow-auto">
+                <div class="pull-left p-r-15">
+                  <%= image_tag get_thumbnail_from_link('Pp8IKwvAvzE'), class: 'img-square', alt: 'itg' %>
+                </div>
+
+                <div class="p-r-15 overflow-auto">
+                  <div class="video-title">MES CONTRATS DE PRESTATION</div>
+                  <div class="video-detail">Comment créer et valider mes contrats de prestation pour mes clients.
+                  </div>
+                </div>
+              </div>
+              <% end %>
+
+              <%= link_to 'https://youtu.be/2S3ADEHdiWo', target: "_blank" do %>
+              <div class="row video-link p-b-20 p-t-20 p-l-15 overflow-auto">
+                <div class="pull-left p-r-15">
+                  <%= image_tag get_thumbnail_from_link('2S3ADEHdiWo'), class: 'img-square', alt: 'itg' %>
+                </div>
+
+                <div class="p-r-15 overflow-auto">
+                  <div class="video-title">MA FACTURATION</div>
+                  <div class="video-detail">Comment bien facturer mes clients le plus rapidement possible.
+                  </div>
+                </div>
+              </div>
+              <% end %>
+
+              <%= link_to 'https://youtu.be/j72GxzcjOn8?t=1s', target: "_blank" do %>
+                <div class="row video-link p-b-20 p-t-20 p-l-15 overflow-auto">
+                  <div class="pull-left p-r-15">
+                    <%# use force link cause at 0seconds of this video is only back screen %>
+                    <%= image_tag 'https://img.youtube.com/vi/j72GxzcjOn8/2.jpg', class: 'img-square', alt: 'itg' %>
+                  </div>
+
+                  <div class="p-r-15 overflow-auto">
+                    <div class="video-title">MES DEPENSES DE FONCTIONNEMENT</div>
+                    <div class="video-detail">
+                      Comment déclarer ses dépenses de fonctionnement en quelques clics
+                    </div>
+                  </div>
+                </div>
+              <% end %>
 
             </div>
+
           </div>
         </div>
-      <% end %>
+      </div>
+
 
     </div>
   </div>

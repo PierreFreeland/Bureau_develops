@@ -33,5 +33,5 @@ span.fc-day-number.actived {
 
 .month-year {
   font-size: 18px;
-  color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+  color: #5a2a60;
 }

@@ -15,7 +15,7 @@
   </thead>
   <tbody id="office_business_contract_expenses">
   <%= f.fields_for :office_business_contract_expenses,
-                     f.object.office_business_contract_expenses.sort_by {|l| l.persisted? ? l.created_at.to_f : '9999-99-99'},
+                     f.object.office_business_contract_expenses.sort_by {|l| l.persisted? ? "#{l.created_at.to_i}#{l.created_at.usec}".to_i : '9999-99-99'},
                      wrapper: false do |business_contract_expense| %>
     <tr class="fields">
       <td>

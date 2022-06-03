@@ -69,7 +69,7 @@ module BureauConsultant
     end
 
     def display_logo_image_path(consultant)
-      company_logo_id = consultant.itg_establishment_id || (Goxygene.is_freeteam? ? 1001 : 1 )
+      company_logo_id = consultant.itg_establishment_id || 1
       "bureau_consultant/company_logos/#{company_logo_id}"
     end
 
@@ -162,12 +162,9 @@ module BureauConsultant
         && statement_of_activities_request&.can_have_unemployment_activities? \
         && (activity&.date && !activity.date.saturday? && !activity.date.sunday?)
       can_have_formation_activities = current_consultant.c_pro_type?
-      can_have_full_time_activities = current_consultant.full_time? && !activity&.date&.saturday? && !activity&.date&.sunday?
       options = Goxygene::ActivityType.options
       options.delete_if { |row| row[1] == 8 } unless can_have_unemployment_activities
       options.delete_if { |row| row[1] == 10 } unless can_have_formation_activities
-      options.delete_if { |row| row[1].in? [9, 11, 12, 13, 14]} unless can_have_full_time_activities
-      options.delete_if { |row| row[1] == 15 }
       options
     end
 

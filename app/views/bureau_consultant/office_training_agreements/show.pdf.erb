@@ -475,7 +475,7 @@
       </div>
       <div class="column-max cls_004t standard-blank-box"><%= @office_business_contract&.office_training_agreement&.training_target&.label %></div>
       <div class="column-max cls_003 standard-box">
-        <div class="column-2">Consultant <%= Goxygene::Parameter.value_for_group %> en charge</div>
+        <div class="column-2">Consultant ITG en charge</div>
         <div class="column-2">Date de début</div>
         <div class="column-2">Date de fin</div>
         <div class="column-2">Durée (en jours)</div>
@@ -486,7 +486,7 @@
         <div class="column-2"><%= display_datetime(@office_business_contract&.begining_date) %></div>
         <div class="column-2"><%= display_datetime(@office_business_contract&.ending_date) %></div>
         <div class="column-2"><%= @office_business_contract&.time_length %></div>
-        <div class="column-2"><%= number_with_precision(@office_business_contract&.time_hours_length, separator: ',', delimiter: '', strip_insignificant_zeros: true) %></div>
+        <div class="column-2"><%= @office_business_contract&.time_hours_length %></div>
       </div>
       <div class="column-max cls_003 standard-box">Lieux</div>
       <div class="column-max cls_004t standard-blank-box"><%= @office_business_contract&.office_training_agreement&.training_location %></div>
@@ -639,7 +639,7 @@
           <div class="column standard-blank-box"><%= display_datetime Date.today %></div>
         </div>
         <div class="column-max signature-box">
-          <div style="text-align:center;" class="column-max standard-box padding-all-4">pour ITG"%>, signature de la
+          <div style="text-align:center;" class="column-max standard-box padding-all-4">pour ITG, signature de la
             personne habilitée ci-dessus
           </div>
           <div class="column-max signature-white-box"></div>

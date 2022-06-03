@@ -190,8 +190,6 @@ BureauConsultant::Engine.routes.draw do
       post :duplicate_few_days
       get :insert_activity_new
       get :handle_expenses
-      get :manage_luncheon_vouchers
-      post :update_luncheon_vouchers
     end
   end
 

@@ -13,9 +13,11 @@
         </h4>
       </div>
     </div>
+
     <div class="step_horizontal visible-sm visible-xs">
       <%= render '3_step_horizontal', step: 2, video_part: 3 %>
     </div>
+
 
     <div class="col-xs-12 col-sm-12 col-md-12 panel m-t-20">
       <form class="form no-margintop scrollable da-1">
@@ -30,7 +32,7 @@
               <div class="m-t-20">
 
                 <div class="flex_wrap hidden-md hidden-sm hidden-xs">
-                  <%= link_to 'PRÉCÉDENT', current_consultant.has_luncheon_vouchers ? manage_luncheon_vouchers_statement_of_activities_path : new_statement_of_activity_path,
+                  <%= link_to 'PRÉCÉDENT', new_statement_of_activity_path,
                               class: 'btn btn-grey btn-flex btn-no-rounded' %>
 
                   <%= link_to 'SAISIR MES FRAIS', manage_mission_statement_of_activities_path,
@@ -71,12 +73,9 @@
             <div class="m-t-10">
               Pour modifier la puissance fiscale de votre véhicule, merci d'en adresser la demande à votre
               correspondant et en joignant la copie du certificat d'immatriculation de votre nouveau véhicule.
-
-              <% if Goxygene.is_freeland? %>
-                <%= link_to 'En savoir plus sur la puissance fiscale et la TVS',
-                            'https://bureau.itg.fr/dl_fic_outils/141117_183144_FIC.pdf',
-                            target: '_blank' %>
-              <% end %>
+              <%= link_to 'En savoir plus sur la puissance fiscale et la TVS',
+                          'https://bureau.itg.fr/dl_fic_outils/141117_183144_FIC.pdf',
+                          target: '_blank' %>
             </div>
 
           </div>

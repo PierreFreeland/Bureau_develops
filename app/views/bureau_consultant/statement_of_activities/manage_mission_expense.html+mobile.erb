@@ -48,12 +48,6 @@
               <td class="table-padding"><%= activity.label %></td>
             </tr>
           </table>
-
-          <% if activity.have_luncheon_vouchers? %>
-            <div class="m-l-5 m-t-5 text-left">
-              <div class="badge badge-primary"><%= fa_icon 'check', text: 'Ticket restaurant demandé' %></div>
-            </div>
-          <% end %>
         </div>
 
         <%= form_for @mission_expense, validate: true, url: update_expense_statement_of_activities_path(activity_id: activity.id, expense_id: @mission_expense.id) do |f| %>

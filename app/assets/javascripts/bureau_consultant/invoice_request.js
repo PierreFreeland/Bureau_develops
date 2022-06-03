@@ -93,7 +93,10 @@ $(document).ready(function() {
 
       $.ajax({ url: '/bureau_consultant/establishments/' + siret })
         .done(function(data) {
-          $('#loading').modal('hide');
+          $("#loading").removeClass("in");
+          $(".modal-backdrop").remove();
+          $("#loading").hide();
+          //$('#loading').modal('hide'); // conflit avec le modal(hide) de loadDefaultCountryVatRate qui est appelé apres avoir la recherche par siret (quand on select un nom) dans la creation de facture esapce consultant
 
           $('#siret_existing span.siret').html(data.siret);
           $('#siret_existing span.name').html(data.name);
@@ -102,7 +105,10 @@ $(document).ready(function() {
 
         })
         .fail(function() {
-          $('#loading').modal('hide');
+          $("#loading").removeClass("in");
+          $(".modal-backdrop").remove();
+          $("#loading").hide();
+          //$('#loading').modal('hide'); // conflit avec le modal(hide) de loadDefaultCountryVatRate qui est appelé apres avoir la recherche par siret (quand on select un nom) dans la creation de facture esapce consultant
           $('form.invoice_request button#search_by_siret').show();
         });
     } else {

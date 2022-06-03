@@ -1,11 +1,10 @@
 <div class="row">
   <div class="top">
     <span class="contract-reqest-title">PRÉVISUALISATION</span>
-    <% if Goxygene.is_freeland? %>
-      <span class="modal-video-tutoreial hidden-xs">
-        <i class="fa fa-question-circle question-icon-size m-l-20 text-violet" data-toggle="modal" data-target="#video-part-2"></i>
-      </span>
-    <% end %>
+
+    <span class="modal-video-tutoreial hidden-xs">
+      <i class="fa fa-question-circle question-icon-size m-l-20 text-violet" data-toggle="modal" data-target="#video-part-2"></i>
+    </span>
 
     <%= link_to "< Retour au contrat", new_office_training_agreement_path, class: 'btn btn-lightgrey pull-right hidden-xs' %>
 
@@ -101,12 +100,12 @@
     </div>
   </div>
 
-  <div class="col-md-8">
+  <div class="col-md-4">
     <div class="well">
-      <div class="text-grey">Document(s)</div>
+      <div class="text-grey">Annexe(s)</div>
       <% @office_training_agreement.office_business_contracts_documents.each do |business_contracts_document| %>
         <div class="text-bold">
-          <%= business_contracts_document.filename %> (<%= business_contracts_document.document.document_type.label %>)
+          <%= business_contracts_document.filename %>
         </div>
       <% end %>
     </div>

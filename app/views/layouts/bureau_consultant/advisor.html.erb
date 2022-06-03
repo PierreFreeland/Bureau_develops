@@ -4,7 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <%= render 'layouts/bureau_consultant/google_tag_manager' %>
 
-  <title><%= Goxygene::Parameter.value_for_group %> Bureau Consultant</title>
+  <title>ITG Bureau Consultant</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <%= stylesheet_link_tag "//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css", media: "all" %>
@@ -28,11 +28,7 @@
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
             <span class="sr-only">Toggle navigation</span> <i class="userMobile fa fa-user"></i>
           </button>
-          <% if Goxygene.is_freeteam? %>
-            <a class="navbar-brand" href="#/itg"><%= image_tag 'bureau_consultant/logo-header-freeteam.png', width: '64px' %></a><span id="breadcrumbHeader">Freeteam</span>
-          <% else %>
-            <a class="navbar-brand" href="#/itg"><%= image_tag 'bureau_consultant/logo-header-itg.png' %></a><span id="breadcrumbHeader">Institut du Temps Géré</span>
-          <% end %>
+          <a class="navbar-brand" href="#/itg"><%= image_tag 'bureau_consultant/logo-header-itg.png' %></a><span id="breadcrumbHeader">Institut du Temps Géré</span>
         </div>
         <div id="user-account" class="navbar-collapse collapse pull-right">
           <ul class="nav navbar-nav navbar-right">
@@ -89,6 +85,7 @@
   <div class="footer container-fluid">
     <div class="row">
       <div class="col-xs-12">
+        <span class="pull-left">© ITG 2017</span>
         <span class="pull-right" title="<%= true_cas_authentication.login %>">
         <span class="clr-red"><%= true_cas_authentication.login %> <i class="fa fa-user-secret"></i></span>
       </span>

@@ -1,6 +1,6 @@
 $main-color-light: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#5a2861' %>;
 $main-color-dark: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#47204d' %>;
-$secondary-color-light: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17b10' %>;
+$secondary-color-light: <%= ENV['HUB_SECONDARY_COLOR_LIGHT'] || '#f17b10' %>;
 $secondary-color-dark: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
 
 .btn-flex {
@@ -31,7 +31,7 @@ $secondary-color-dark: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
 }
 
 .btn-orange {
-  background:  <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+  background:  #ef7c11;
 }
 
 .btn-violet {
@@ -60,8 +60,8 @@ $secondary-color-dark: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
     background: transparent;
   }
   &.btn-orange {
-    color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
-    border: 1px solid <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+    color: #ef7c11;
+    border: 1px solid #ef7c11;
   }
 
   &.btn-violet {
@@ -139,8 +139,8 @@ $secondary-color-dark: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
 }
 
 .btn-empty-orange, .btn-empty-orange:hover {
-  color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
-  border: 1px solid <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+  color: #ef7c11;
+  border: 1px solid #ef7c11;
 }
 
 .btn-empty-grey, .btn-empty-grey:hover {
@@ -158,19 +158,11 @@ $secondary-color-dark: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
   border: 1px solid #d3102a;
 }
 
-.calendar-progess-bar-left {
-  background-color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
-}
-
-.calendar-progess-bar-right {
-  background-color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#47204d' %>;
-}
-
 /////////////////////////////////// btn empty on click ///////////////////////////////
 
 .btn-empty-orange:active {
   color : #fff;
-  background-color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+  background-color: rgba(239, 124, 17, .5);
 }
 
 .btn-empty-grey:active {
@@ -180,7 +172,7 @@ $secondary-color-dark: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
 
 .btn-empty-violet:active {
   color : #fff;
-  background-color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#47204d' %>;
+  background-color: rgba(90, 40, 97, .5);
 }
 
 .btn-empty-red:active {
@@ -202,7 +194,7 @@ $secondary-color-dark: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
 }
 
 .btn-orange-static, .btn-orange-static:hover, .btn-orange:active {
-  background:  <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+  background:  #ef7c11;
   color: white;
 }
 

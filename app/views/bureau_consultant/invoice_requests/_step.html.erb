@@ -6,12 +6,9 @@
       <div class="border">
         <div class="step-text <%= add_text_bold(1, step) %>">
           Client
-
-          <% if Goxygene.is_freeland? %>
-            <div class="m-t-10">
-              <%= raw(add_tooltip_modal(1, step, current_modal)) %>
-            </div>
-          <% end%>
+          <div class="m-t-10">
+            <%= raw(add_tooltip_modal(1, step, current_modal)) %>
+          </div>
         </div>
       </div>
     </li>
@@ -19,11 +16,9 @@
       <div class="border2">
         <div class="step-text <%= add_text_bold(2, step) %>">
           Facturation
-          <% if Goxygene.is_freeland? %>
-            <div class="m-t-10">
-              <%= raw(add_tooltip_modal(2, step, current_modal)) %>
-            </div>
-          <% end %>
+          <div class="m-t-10">
+            <%= raw(add_tooltip_modal(2, step, current_modal)) %>
+          </div>
         </div>
       </div>
     </li>
@@ -31,11 +26,9 @@
       <div class="border2">
         <div class="step-text <%= add_text_bold(3, step) %>">
           Synthèse
-          <% if Goxygene.is_freeland? %>
-            <div class="m-t-10">
-              <%= raw(add_tooltip_modal(3, step, current_modal)) %>
-            </div>
-          <% end %>
+          <div class="m-t-10">
+            <%= raw(add_tooltip_modal(3, step, current_modal)) %>
+          </div>
         </div>
       </div>
     </li>

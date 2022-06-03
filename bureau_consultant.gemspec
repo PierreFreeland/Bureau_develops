@@ -49,5 +49,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'rqrcode'
 
-  s.add_dependency "select2-rails", "4.0.13"
+  s.add_dependency "select2-rails", "4.0.2"
 end

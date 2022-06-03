@@ -9,7 +9,7 @@ bureau_consultant:
   accounts_cache:
     duration: 12
 
-  rss_url: <%= ENV['BUREAU_INFOS_URL'] || 'https://www.itg.fr/portage-salarial/Les_actualites_rss?xpage=plain' %>
+  rss_url: 'https://www.itg.fr/portage-salarial/Les_actualites_rss?xpage=plain'
   rss_duration:
     articles: 12
 

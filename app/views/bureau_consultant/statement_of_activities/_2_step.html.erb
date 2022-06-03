@@ -1,4 +1,4 @@
-  <% video_part ||= '#video-da-part-1' %>
+<% video_part ||= '#video-da-part-1' %>
 
 <div class="tunnel-container m-t-40 m-b-20">
   <ol class="tunnel">
@@ -6,11 +6,10 @@
       <div class="border">
         <div class="step-text <%= add_text_bold(1, step) %>">
           Saisie d’activités
-          <% if Goxygene.is_freeland? %>
-            <div class="m-t-10">
-              <%= raw(add_tooltip_modal(1, step, '#video-da-part-1')) %>
-            </div>
-          <% end%>
+
+          <div class="m-t-10">
+            <%= raw(add_tooltip_modal(1, step, '#video-da-part-1')) %>
+          </div>
         </div>
       </div>
     </li>
@@ -19,13 +18,12 @@
       <div class="border2">
         <div class="step-text <%= add_text_bold(2, step) %>">
           <%= t('declaration_activities.steps.synthesis') %>
-          <% if Goxygene.is_freeland? %>
-            <div class="m-t-10">
-              <% if video_part == 5 %>
-                <%= raw(add_tooltip_modal(2, step, '#video-da-part-5')) %>
-              <% end %>
-            </div>
-          <% end %>
+
+          <div class="m-t-10">
+            <% if video_part == 5 %>
+              <%= raw(add_tooltip_modal(2, step, '#video-da-part-5')) %>
+            <% end %>
+          </div>
         </div>
       </div>
     </li>

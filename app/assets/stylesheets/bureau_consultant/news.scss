@@ -3,13 +3,13 @@
   .news-header-title {
     font-size: 24px;
     font-weight: bold;
-    color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+    color: #5a2a60;
   }
 
   .news-filter {
     margin-top: 20px;
     font-size: 20px;
-    color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+    color: #5a2a60;
   }
 
   .news-filter-title {
@@ -17,7 +17,7 @@
   }
 
   .news-filter-active {
-    border: 1px solid <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+    border: 1px solid #5a2a60;
     font-weight: bold;
     padding: 10px 20px;
   }

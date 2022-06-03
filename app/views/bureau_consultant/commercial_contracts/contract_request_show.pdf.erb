@@ -8,7 +8,7 @@
     <div class="col-xs-9 text-right" style="margin-top: -21px; margin-right: -20px">
       <h3 class="text-uppercase tittle-size color-purple">Contrat commercial de prestation de<br/> portage salarial</h3>
       <p class="text-uppercase tittle-size2 text-bold">
-        <%= current_consultant.itg_establishment&.name || "GROUPE #{Goxygene::Parameter.value_for_group}" %> / <%= current_consultant.itg_establishment&.itg_company&.contact_datum&.address_1 || "18 rue de la Ville l'Évêque 75008 Paris" %><br />
+        <%= current_consultant.itg_establishment&.name || 'GROUPE ITG' %> / <%= current_consultant.itg_establishment&.itg_company&.contact_datum&.address_1 || "18 rue de la Ville l'Évêque 75008 Paris" %><br />
         Téléphone : <%= current_consultant.itg_establishment&.itg_company&.contact_datum&.phone || "01 44 69 80 40" %> / Site web : <%= current_consultant.itg_establishment&.itg_company&.contact_datum&.web_site || "www.itg.fr" %>
       </p>
     </div>
@@ -268,9 +268,9 @@
           Le consultant est également tenu au strict respect de la confidentialité des données professionnelles et à la
           protection des données personnelles auxquelles il pourrait avoir accès dans le cadre de son activité auprès
           du client (détail des engagements des parties accessible à l’adresse suivante :
-          <a href="<%= Goxygene.is_freeteam? ? 'https://www.freeteam.com/mentions-legales/' : 'https://www.itg.fr/upload/Document/KIT_SURVIE_RGPD_RG1.pdf' %>">
-            <%= Goxygene.is_freeteam? ? 'https://www.freeteam.com/mentions-legales/' : 'https://www.itg.fr/upload/Document/KIT_SURVIE_RGPD_RG1.pdf' %>
-          </a> - Politique de données personnelles <%= Goxygene::Parameter.value_for_group %>
+          <a href="https://www.itg.fr/upload/Document/protection-dp-itg.pdf">
+            https://www.itg.fr/upload/Document/protection-dp-itg.pdf
+          </a> - Politique de données personnelles d’ITG
         </p>
 
         <p class="text-left text-bold color-purple mt-5" style="font-size: 7px;">

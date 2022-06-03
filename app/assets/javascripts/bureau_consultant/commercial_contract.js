@@ -135,7 +135,10 @@ $(document).ready(function(){
 
         $.ajax({ url: '/bureau_consultant/establishments/' + siret })
             .done(function (data) {
-              $('#loading').modal('hide');
+              $("#loading").removeClass("in");
+              $(".modal-backdrop").remove();
+              $("#loading").hide();
+              //$('#loading').modal('hide');  // conflit avec le modal(hide)
 
               $('#siret_existing span.siret').html(data.siret);
               $('#siret_existing span.name').html(data.name);
@@ -144,7 +147,12 @@ $(document).ready(function(){
 
             })
             .fail(function () {
-              $('#loading').modal('hide');
+              $("#loading").removeClass("in");
+              $(".modal-backdrop").remove();
+              $("#loading").hide();
+
+              //$('#loading').modal('hide');  // conflit avec le modal(hide)
+
               $('form.commercial_contract button#search_by_siret, form.office_training_agreement button#search_by_siret').show();
             });
 

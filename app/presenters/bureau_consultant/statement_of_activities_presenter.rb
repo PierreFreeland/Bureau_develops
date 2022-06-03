@@ -15,10 +15,8 @@ class StatementOfActivitiesPresenter < BasePresenter
            number: %i{
              days_of_work
              hours
-             absences_hours
              kilometers
              total_worked_days
-             unpaid_absences_days
              total_days_of_work
              total_days
            }
@@ -33,18 +31,6 @@ class StatementOfActivitiesPresenter < BasePresenter
 
   def total_days
     work_days + enhancement_days + unemployment_days
-  end
-
-  def pre_calculate_filled_working_hours
-    total_days * Goxygene::Parameter.daily_work_hours_max
-  end
-
-  def pre_calculate_absence_hours
-    if calculated_absences_days < 17
-      calculated_absences_days * Goxygene::Parameter.daily_work_hours_max
-    else
-      total_of_hours_da - pre_calculate_filled_working_hours
-    end
   end
 
   def formated_max_salary

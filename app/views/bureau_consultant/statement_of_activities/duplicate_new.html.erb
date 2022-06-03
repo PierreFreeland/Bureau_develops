@@ -8,26 +8,42 @@
   </div>
 
   <div class="col-xs-12 col-sm-12 col-md-5 m-t-20">
-    <%= render 'top-panel' %>
+    <div class="top-panel row">
+      <div class="col-sm-12">
+        <div class="panel info-panel" style="padding-bottom: 19px">
+          <table class="table">
+            <tbody>
+            <tr>
+              <td class="no-wrap border-right">
+                <div class="label-top text-violet">Jours travaillés</div>
+                <div class="value c1ValueJour text-center">0</div>
+              </td>
+              <td class="no-wrap border-right">
+                <div class="label-top text-violet">Heures travaillées</div>
+                <div class="value c2ValueHeure text-center">0</div>
+              </td>
+              <td class="no-wrap">
+                <div class="label-top text-violet">Salaire conventionnel</div>
+                <div class="value c3ValueSalaireConventionel text-center">0 €</div>
+              </td>
+            </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
 
     <script>
         var current_month         = <%= raw current_month.iso8601.to_json %>
         var selectable_days       = <%= raw selectable_days.to_json %>
         var days_with_activity    = <%= raw days_with_activity.to_json %>
-        var out_of_contract_days  = <%= raw no_employment_contract_days.to_json  %>
     </script>
     <div class="duplicate-calendar-view">
     </div>
 
     <div>
       <span class="m-r-20"><i class="fa fa-square text-orange btn-no-rounded"></i> Mission</span>
-      <span class="m-r-20"><i class="fa fa-square text-violet btn-no-rounded"></i> Développement</span>
-      <% if statement_of_activities_request&.can_have_unemployment_activities? %>
-        <span class="m-r-20"><i class="fa fa-square text-orange2 btn-no-rounded"></i> Chômage partiel</span>
-      <% end %>
-      <% if current_consultant.full_time? %>
-        <span class="m-r-20"><i class="fa fa-square text-grey3 btn-no-rounded"></i> Absence</span>
-      <% end %>
+      <span class=""><i class="fa fa-square text-violet btn-no-rounded"></i> Développement</span>
     </div>
   </div>
 

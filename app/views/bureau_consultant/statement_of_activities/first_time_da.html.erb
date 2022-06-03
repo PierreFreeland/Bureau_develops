@@ -9,13 +9,14 @@
 </div>
 
 <div class="row">
-    <div class="col-md-2 hidden-sm hidden-xs">
-      <%= render 'step', step: 1, video_part: 1  %>
-    </div>
+  <div class="col-md-2 hidden-sm hidden-xs">
+    <%= render 'step', step: 1, video_part: 1  %>
+  </div>
 
-    <div class="step_horizontal visible-sm visible-xs">
-      <%= render '3_step_horizontal', step: 1, video_part: 1 %>
-    </div>
+  <div class="step_horizontal visible-sm visible-xs">
+    <%= render '3_step_horizontal', step: 1, video_part: 1 %>
+  </div>
+
   <div class="col-sm-12 col-md-8 col-xs-12 m-t-20">
     <div class="panel">
       <%= form_tag statement_of_activities_path, class: 'form no-margintop scrollable da-1', id: 'declaration_form' do %>
@@ -156,27 +157,29 @@
   </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
 
-<div class="modal fade mission-expense" id="modal_create_empty" tabindex="-1" role="dialog" aria-hidden="true"
-     data-keyboard="false" data-backdrop="static">
-  <div class="modal-dialog">
-    <div class="modal-content before-modify">
-      <div class="modal-body">
-        <div class="align-center">
-          Je déclare ne pas avoir d’activité ; en conséquence, je m’engage à ne pas déclarer de frais sur cette période.<br>
-          Pour rappel, une des conditions pour déclarer des frais d'activité est d’avoir un bulletin de salaire sur le mois et de déclarer des heures de travail (mission/prospection/formation)
+<% if current_consultant.max_salary <= 0 %>
+  <div class="modal fade mission-expense" id="modal_create_empty" tabindex="-1" role="dialog" aria-hidden="true"
+       data-keyboard="false" data-backdrop="static">
+    <div class="modal-dialog">
+      <div class="modal-content before-modify">
+        <div class="modal-body">
+          <div class="align-center">
+            Je déclare ne pas avoir d’activité ; en conséquence, je m’engage à ne pas déclarer de frais sur cette période.<br>
+            Pour rappel, une des conditions pour déclarer des frais d'activité est d’avoir un bulletin de salaire sur le mois et de déclarer des heures de travail (mission/prospection/formation)
+          </div>
         </div>
-      </div>
-      <div class="modal-footer align-center">
-        <button type="button" class="btn btn-empty-grey btn-no-margin-tb" id="create_empty">
-          Je confirme
-        </button>
-        <button type="button" class="btn btn-empty-grey btn-no-margin-tb" data-dismiss="modal">
-          Je souhaite déclarer de l'activité
-        </button>
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
+        <div class="modal-footer align-center">
+          <button type="button" class="btn btn-empty-grey btn-no-margin-tb" id="create_empty">
+            Je confirme
+          </button>
+          <button type="button" class="btn btn-empty-grey btn-no-margin-tb" data-dismiss="modal">
+            Je souhaite déclarer de l'activité
+          </button>
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+<% end %>
 
 <%= render partial: 'layouts/bureau_consultant/loading_modal' %>
 

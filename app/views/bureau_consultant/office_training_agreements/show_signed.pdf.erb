@@ -471,7 +471,7 @@
       </div>
       <div class="column-max cls_004 standard-blank-box"><%= @business_contract&.business_contract_versions&.last.training_target&.label %></div>
       <div class="column-max cls_003 standard-box">
-        <div class="column-3">Consultant <%= Goxygene::Parameter.value_for_group %> en charge</div>
+        <div class="column-3">Consultant ITG en charge</div>
         <div class="column-2">Date de début</div>
         <div class="column-2">Date de fin</div>
         <div class="column-3">Durée</div>
@@ -510,7 +510,7 @@
           <div class="column-25 standard-box"> Total HT</div>
         </div>
       </div>
-      <% @business_contract&.business_contract_versions&.last.business_contract_expenses.sort_by {|l| l.persisted? ? l.created_at.to_f : '9999-99-99'}.each do |expense| %>
+      <% @business_contract&.business_contract_versions&.last.business_contract_expenses.sort_by {|l| l.persisted? ? "#{l.created_at.to_i}#{l.created_at.usec}".to_i : '9999-99-99'}.each do |expense| %>
         <div class="column-max cls_003">
           <div class="column standard-blank-box"><%= expense&.label %></div>
           <div class="column">
@@ -580,7 +580,7 @@
           L'EPS OF n’a jamais accès à ces données personnelles ou professionnelles. Le consultant est également tenu au
           strict respect de la confidentialité des données professionnelles et à la protection des données personnelles
           auxquelles il pourrait avoir accès dans le cadre de son activité auprès du client (détail des engagements des
-          parties accessible à l’adresse suivante : www.itg.fr - Politique de données personnelles de <%= Goxygene::Parameter.value_for_group %>.
+          parties accessible à l’adresse suivante : www.itg.fr - Politique de données personnelles d’ITG.
         </div>
       </div>
       <div class="column-max padding-top-4">
@@ -627,7 +627,7 @@
           <div class="column standard-blank-box"><%= display_datetime Date.today %></div>
         </div>
         <div class="column-max signature-box">
-          <div style="text-align:center;" class="column-max standard-box padding-all-4">pour <%= Goxygene::Parameter.value_for_group %>, signature de la
+          <div style="text-align:center;" class="column-max standard-box padding-all-4">pour ITG, signature de la
             personne habilitée ci-dessus
           </div>
           <div class="column-max signature-white-box"></div>

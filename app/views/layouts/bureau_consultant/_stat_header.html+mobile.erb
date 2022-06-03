@@ -1,9 +1,7 @@
 <div class="mon-compte-board">
   <div class="board-title text-center padding-5">
     <%= link_to bureau_consultant.root_path do %>
-      <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" fill="<%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#5a2861' %>" class="bi bi-bank2" viewBox="0 0 16 16">
-                  <path d="M8.277.084a.5.5 0 0 0-.554 0l-7.5 5A.5.5 0 0 0 .5 6h1.875v7H1.5a.5.5 0 0 0 0 1h13a.5.5 0 1 0 0-1h-.875V6H15.5a.5.5 0 0 0 .277-.916l-7.5-5zM12.375 6v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zM8 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2zM.5 15a.5.5 0 0 0 0 1h15a.5.5 0 1 0 0-1H.5z"/>
-                </svg>
+      <%= image_tag('bureau_consultant/icon-bank') %>
       <span class="text-bold text-bigger text-upcase text-violet" style="vertical-align: middle">
         Mes Comptes
       </span>
@@ -22,53 +20,51 @@
       <div class="title">Financier</div>
       <div class="value orange"><%= current_consultant.dashboard_activity %></div>
     </a>
-    <% if Goxygene.is_freeland? %>
-      <a class="stat text-violet" href="<%= billing_accounts_path %>"
-        data-toggle="popover"
-        data-html="true"
-        data-container="body"
-        data-placement="auto"
-        data-content="<p><b>L'indicateur facturation</b>, est le montant de vos factures envoyés chez vos clients et qui ne sont pas encore réglés.</p><p>Dès le règlement, elles alimenteront instantanément votre compte financier</p>">
-        <div class="title">Facturation</div>
-        <div class="value"><%= current_consultant.dashboard_invoicing %></div>
-      </a>
-      <a class="stat text-violet" href="<%= treasury_accounts_path %>"
-        data-toggle="popover"
-        data-html="true"
-        data-container="body"
-        data-placement="auto"
-        data-content="<p><b>L'indicateur trésorerie</b> enregistre les flux entre <%= current_consultant.itg_establishment&.name %> et VOUS.</p><p>Par exemple, une avance d'<%= current_consultant.itg_establishment&.name %> fera apparaître une trésorerie négative, à l'inverse le remboursement de votre immobilisation (comme un ordinateur) rendra le compte positif.</p>">
-        <div class="title">Trésorerie</div>
-        <div class="value"><%= current_consultant.dashboard_cash %></div>
-      </a>
-      <a class="stat text-violet" href="<%= salary_accounts_path %>"
-        data-toggle="popover"
-        data-html="true"
-        data-container="body"
-        data-placement="auto"
-        data-content="<p><b>L'indicateur salaire</b>, est un aperçu du montant de vos salaires en cours de traitement.</p>">
-        <div class="title">Salaire</div>
-        <div class="value"><%= current_consultant.dashboard_next_salary %></div>
-      </a>
-      <a class="stat text-violet <%= 'disabled' unless current_consultant.allowed_expenses_refund? %>" href="<%= pending_costs_accounts_path %>"
-        data-toggle="popover"
-        data-html="true"
-        data-container="body"
-        data-placement="auto"
-        data-content="<p><b>L'indicateur frais</b>, présentant le montant de vos frais en cours de traitement et qui ne vous ont pas encore été remboursés.</p>">
-        <div class="title">Frais</div>
-        <div class="value"><%= current_consultant.dashboard_expenses %></div>
-      </a>
-      <a class="stat text-violet no-mrg-right" href="<%= transfers_accounts_path %>"
-        data-toggle="popover"
-        data-html="true"
-        data-container="body"
-        data-placement="auto"
-        data-content="<p><b>L'indicateur virement</b>, présentant le montant de vos virements en cours de traitement</p>">
-        <div class="title">Virements</div>
-        <div class="value">0,00 €</div>
-      </a>
-    <% end %>
+    <a class="stat text-violet" href="<%= billing_accounts_path %>"
+       data-toggle="popover"
+       data-html="true"
+       data-container="body"
+       data-placement="auto"
+       data-content="<p><b>L'indicateur facturation</b>, est le montant de vos factures envoyés chez vos clients et qui ne sont pas encore réglés.</p><p>Dès le règlement, elles alimenteront instantanément votre compte financier</p>">
+      <div class="title">Facturation</div>
+      <div class="value"><%= current_consultant.dashboard_invoicing %></div>
+    </a>
+    <a class="stat text-violet" href="<%= treasury_accounts_path %>"
+       data-toggle="popover"
+       data-html="true"
+       data-container="body"
+       data-placement="auto"
+       data-content="<p><b>L'indicateur trésorerie</b> enregistre les flux entre <%= current_consultant.itg_establishment&.name %> et VOUS.</p><p>Par exemple, une avance d'<%= current_consultant.itg_establishment&.name %> fera apparaître une trésorerie négative, à l'inverse le remboursement de votre immobilisation (comme un ordinateur) rendra le compte positif.</p>">
+      <div class="title">Trésorerie</div>
+      <div class="value"><%= current_consultant.dashboard_cash %></div>
+    </a>
+    <a class="stat text-violet" href="<%= salary_accounts_path %>"
+       data-toggle="popover"
+       data-html="true"
+       data-container="body"
+       data-placement="auto"
+       data-content="<p><b>L'indicateur salaire</b>, est un aperçu du montant de vos salaires en cours de traitement.</p>">
+      <div class="title">Salaire</div>
+      <div class="value"><%= current_consultant.dashboard_next_salary %></div>
+    </a>
+    <a class="stat text-violet <%= 'disabled' unless current_consultant.allowed_expenses_refund? %>" href="<%= pending_costs_accounts_path %>"
+       data-toggle="popover"
+       data-html="true"
+       data-container="body"
+       data-placement="auto"
+       data-content="<p><b>L'indicateur frais</b>, présentant le montant de vos frais en cours de traitement et qui ne vous ont pas encore été remboursés.</p>">
+      <div class="title">Frais</div>
+      <div class="value"><%= current_consultant.dashboard_expenses %></div>
+    </a>
+    <a class="stat text-violet no-mrg-right" href="<%= transfers_accounts_path %>"
+       data-toggle="popover"
+       data-html="true"
+       data-container="body"
+       data-placement="auto"
+       data-content="<p><b>L'indicateur virement</b>, présentant le montant de vos virements en cours de traitement</p>">
+      <div class="title">Virements</div>
+      <div class="value">0,00 €</div>
+    </a>
   </div>
 </div>
 

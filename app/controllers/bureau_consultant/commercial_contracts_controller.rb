@@ -183,7 +183,7 @@ module BureauConsultant
       @correspondant_employee = @commercial_contract_request.consultant&.correspondant_employee
 
       # Generate QR code as PNG file
-      qrcode = RQRCode::QRCode.new("#{Goxygene::Parameter.value_for_group}|DCC:#{@commercial_contract_request.id}|1/1|123456", level: :m)
+      qrcode = RQRCode::QRCode.new("ITG|DCC:#{@commercial_contract_request.id}|1/1|123456", level: :m)
       png = qrcode.as_png(size: 54, border_modules: 0)
       IO.binwrite("/tmp/OfficeBusinessContractQRCode_#{@commercial_contract_request.id}.png", png.to_s)
     end

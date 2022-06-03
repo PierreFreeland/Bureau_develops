@@ -101,7 +101,6 @@ module BureauConsultant
         soa.submit!
         redirect_to history_statement_of_activities_requests_path
       else
-        soa.update_counts
         redirect_to first_time_new_statement_of_activities_path
       end
 
@@ -296,42 +295,15 @@ module BureauConsultant
       if statement_of_activities_request.update(
            statement_of_activities_request_mission_location_params
          )
-        if current_consultant.has_luncheon_vouchers?
-          redirect_to manage_luncheon_vouchers_statement_of_activities_path
-        elsif current_consultant.reload.granted_expenses
+
+        if current_consultant.reload.granted_expenses
           redirect_to mission_expense_statement_of_activities_path
         else
           redirect_to synthesis_2_calendar_statement_of_activities_path
         end
+
       else
         render :new
-      end
-    end
-
-    def manage_luncheon_vouchers
-      @dda = statement_of_activities_request
-      @date_activities = activities.group_by(&:date)
-
-      # initial luncheon_vouchers
-      @date_activities.each do |date, _|
-        if @dda.can_request_luncheon_voucher_on?(date) && @dda.office_activity_report_luncheon_vouchers.none? { |v| v.date == date }
-          @dda.office_activity_report_luncheon_vouchers.build(date: date)
-        end
-      end
-    end
-
-    def update_luncheon_vouchers
-      if params[:office_activity_report] && statement_of_activities_request.update(update_luncheon_vouchers_params)
-        statement_of_activities_request.office_activity_report_luncheon_vouchers.each do |voucher|
-          voucher.decline_corresponding_expenses
-        end
-        statement_of_activities_request.reload.update_counts
-      end
-
-      if current_consultant.reload.granted_expenses
-        redirect_to mission_expense_statement_of_activities_path
-      else
-        redirect_to synthesis_2_calendar_statement_of_activities_path
       end
     end
 
@@ -435,12 +407,7 @@ module BureauConsultant
       end
     end
 
-    def synthesis_2_calendar
-      statement_of_activities_request.fill_unpaid_absences if current_consultant.full_time?
-    end
-
     def synthesis_3_step
-      statement_of_activities_request.fill_unpaid_absences if current_consultant.full_time?
     end
 
     def submit
@@ -450,7 +417,7 @@ module BureauConsultant
             year:  Date.parse(statement_of_activities_request_params[:date]).year,
             month: Date.parse(statement_of_activities_request_params[:date]).month,
             no_activity: true,
-            gross_wage: params[:statement_of_activities_request][:gross_wage] || 0
+            gross_wage: params[:statement_of_activities_request][:gross_wage]
           )
           @statement_of_activities_request.submit!
         end
@@ -463,12 +430,6 @@ module BureauConsultant
           return
         else
           current_consultant.office_activity_reports.transaction do
-            document_count = statement_of_activities_request_validation_params[:office_activity_report_documents_attributes].to_h.count
-            for i in 0...document_count
-              document_type = Goxygene::DocumentType.find(params[:office_activity_report][:office_activity_report_documents_attributes][i.to_s][:document_attributes][:document_type_id])
-              file = params[:office_activity_report][:office_activity_report_documents_attributes][i.to_s][:document_attributes][:filename]
-              file.original_filename = document_type.filename + "_" + file.original_filename if file
-            end
             statement_of_activities_request.assign_attributes statement_of_activities_request_validation_params
             statement_of_activities_request.in_validation_phase = true
             statement_of_activities_request.submit! params[:activities_only] && current_consultant.granted_expenses ? :activities : :all
@@ -603,7 +564,7 @@ module BureauConsultant
       @days_with_activity = {}
 
       activities.each do |activity|
-        @days_with_activity[activity.date.to_date.iso8601] ||= { mission: 0, development: 0, unemployment: 0, absence: 0, label: [] }
+        @days_with_activity[activity.date.to_date.iso8601] ||= { mission: 0, development: 0, unemployment: 0, label: [] }
 
         if activity.is_mission?
           @days_with_activity[activity.date.to_date.iso8601][:mission] += activity.time_span.to_f
@@ -611,9 +572,6 @@ module BureauConsultant
         elsif activity.is_unemployment?
           @days_with_activity[activity.date.to_date.iso8601][:unemployment] += activity.time_span.to_f
           @days_with_activity[activity.date.to_date.iso8601][:label].push "Chômage partiel #{activity.label}"
-        elsif activity.is_holidays? || activity.is_sick_day? || activity.is_unpaid_absences?
-          @days_with_activity[activity.date.to_date.iso8601][:absence] += activity.time_span.to_f
-          @days_with_activity[activity.date.to_date.iso8601][:label].push "Absence #{activity.label}"
         else
           @days_with_activity[activity.date.to_date.iso8601][:development] += activity.time_span.to_f
           @days_with_activity[activity.date.to_date.iso8601][:label].push "Développement #{activity.label}"
@@ -628,28 +586,6 @@ module BureauConsultant
       return @selectable_days if @selectable_days
 
       @selectable_days = (current_month.beginning_of_month..current_month.end_of_month).to_a.collect(&:iso8601)
-
-      if current_consultant.full_time? && statement_of_activities_request
-        employment_contract_days = statement_of_activities_request.employment_contract_scoped_days.to_a.collect(&:iso8601)
-        @selectable_days & employment_contract_days
-      else
-        @selectable_days
-      end
-    end
-
-    helper_method :no_employment_contract_days
-    def no_employment_contract_days
-      if statement_of_activities_request
-        first_date = Date.new(statement_of_activities_request.year, statement_of_activities_request.month)
-        end_date = first_date.end_of_month
-        full_calendar_days = (first_date..end_date).to_a.collect(&:iso8601)
-        employment_contract_days = statement_of_activities_request.employment_contract_scoped_days.to_a.collect(&:iso8601)
-        full_calendar_days - employment_contract_days
-      else
-        first_date = Date.current.beginning_of_month
-        end_date = first_date.end_of_month
-        (first_date..end_date).to_a.collect(&:iso8601)
-      end
     end
 
     def set_errors_for_duplicated_lines
@@ -739,13 +675,14 @@ module BureauConsultant
     end
 
     def statement_of_activities_request_validation_params
-      params.require(:office_activity_report)
-          .permit(
-              :consultant_comment, :gross_wage, :no_activity, :attachment,
-              office_activity_report_documents_attributes:  {
-                  document_attributes: [ :filename, :document_type_id, :tier_id ]
-              }
-          )
+      params
+        .require(:office_activity_report)
+        .permit(%i{
+          consultant_comment
+          gross_wage
+          no_activity
+          attachment
+        })
     end
 
     def load_statement_of_activities
@@ -755,12 +692,6 @@ module BureauConsultant
 
       @q = current_consultant.activity_reports.ransack(params[:q])
       @statement_of_activities = StatementOfActivitiesPresenter.collection(result_for(@q), view_context)
-    end
-
-    def update_luncheon_vouchers_params
-      params
-          .require(:office_activity_report)
-          .permit(office_activity_report_luncheon_vouchers_attributes: [:id, :status, :date])
     end
   end
 end

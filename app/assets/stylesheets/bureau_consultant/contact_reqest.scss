@@ -6,7 +6,7 @@
 .contract-reqest-title {
   font-size: 20px;
   font-weight: 500;
-  color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+  color: #5a2a60;
 }
 
 .total, .contact-request-title {
@@ -19,11 +19,11 @@
 }
 
 .purple-link {
-  color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+  color: #5a2a60;
 }
 
 .purple-link:hover {
-  color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+  color: #5a2a60;
   text-decoration: underline;
 }
 

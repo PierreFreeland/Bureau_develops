@@ -66,13 +66,13 @@
     </div>
 
 
-    <% unless current_consultant.is_porteo? %>
+    <% unless current_consultant.is_porteo? || ENV['FREETEAM'] %>
       <div class="info-feeds m-b-20">
         <div class="info-white-bg p-b-20">
           <div class="row padding-left-right">
 
             <div class="topic-header">
-              <div class="title-header-text"><%="INFOS #{Goxygene::Parameter.value_for_group}"%></div>
+              <div class="title-header-text">INFOS ITG</div>
             </div>
 
             <div class="col-xs-12">
@@ -112,7 +112,7 @@
               <% end %>
 
               <div class="pull-right all_link">
-                <%= link_to "Toutes les infos #{Goxygene::Parameter.value_for_group} >", articles_path %>
+                <%= link_to 'Toutes les infos ITG >', articles_path %>
               </div>
             </div>
 
@@ -142,7 +142,7 @@
                   <div class="below-search-box">
 
                     <%= link_to my_relation_pages_path do %>
-                      <div class=<%= Goxygene.is_freeland? ? 'col-sm-6' : 'col' %>>
+                      <div class="col-sm-6">
                         <div class="red-frame large-lower-text">
                           <div class="icon-key-hand"></div>
                           <div>Ma relation contractuelle</div>
@@ -150,16 +150,14 @@
                       </div>
                     <% end %>
 
-                    <% if Goxygene.is_freeland? %>
-                      <%= link_to rules_pages_path do %>
-                        <div class="col-sm-6">
-                          <div class="red-frame lower-text">
-                            <div class="icon-key-hand"></div>
-                            <br/>
-                            Les règles du portage salarial
-                          </div>
+                    <%= link_to rules_pages_path do %>
+                      <div class="col-sm-6">
+                        <div class="red-frame lower-text">
+                          <div class="icon-key-hand"></div>
+                          <br/>
+                          Les règles du portage salarial
                         </div>
-                      <% end %>
+                      </div>
                     <% end %>
 
                   </div>
@@ -171,7 +169,7 @@
       </div>
     <% end %>
 
-    <% unless current_consultant.is_porteo? %>
+    <% unless current_consultant.is_porteo? || ENV['FREETEAM'] %>
       <div class="actus m-b-20">
         <div class="actus-white-bg p-b-20">
 
@@ -218,7 +216,7 @@
             </div>
 
             <div class="pull-right all_link">
-              <%= link_to 'Toutes les actus >', Settings.goxygene.send("#{Goxygene::Parameter.value_for_group}_info").news_url , target: '_blank' %>
+              <%= link_to 'Toutes les actus >', 'https://www.itg.fr/portage-salarial/les-actualites', target: '_blank' %>
             </div>
           </div>
         </div>

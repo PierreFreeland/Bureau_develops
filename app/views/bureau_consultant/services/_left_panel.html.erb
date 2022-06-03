@@ -6,7 +6,7 @@
     <li class="red-frame">
       <%= link_to service_path('d7'), target: '_blank' do %>
         <p>Ce mois-ci, découvrez :</p>
-        <div class="group-name">Le Plan Epargne <br>Entreprise <%= Goxygene::Parameter.value_for_group %></div>
+        <div class="text-bold">Le Plan Epargne <br>Entreprise ITG</div>
       <% end %>
     </li>
     <li class="red-frame hide">
@@ -18,7 +18,7 @@
     <li class="red-frame <%= add_active_class('services', 'all') %>">
       <%= link_to all_services_path do %>
         <div class="icon-key-hand"></div>
-        <div class="text-bold">TOUS LES SERVICES <%= Goxygene::Parameter.value_for_group %></div>
+        <div class="text-bold">TOUS LES SERVICES ITG</div>
       <% end %>
     </li>
   </ul>

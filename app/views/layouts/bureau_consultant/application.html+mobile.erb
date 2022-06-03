@@ -4,7 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <%= render 'layouts/bureau_consultant/google_tag_manager' %>
 
-  <title><%= Goxygene::Parameter.value_for_group %> Bureau Consultant</title>
+  <title>ITG Bureau Consultant</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
   <%= stylesheet_link_tag "//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css", media: "all" %>
@@ -20,7 +20,7 @@
   <%= javascript_include_tag "//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" %>
   <%= javascript_include_tag "//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" %>
   <%= javascript_include_tag "//cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.4/jquery.touchSwipe.min.js" %>
-  
+
   <%= csrf_meta_tags %>
 
   <!-- Mobile app styles -->
@@ -177,7 +177,7 @@
 
       <div class="nav-title text-bigger text-center text-upcase"
            style="display: table-cell; padding-left: 15px; padding-right: 15px; vertical-align: middle; line-height: 1.1">
-        <%=" content_for?(:mobile_nav_title) ? yield(:mobile_nav_title) : #{Goxygene::Parameter.value_for_group}" %>
+        <%= content_for?(:mobile_nav_title) ? yield(:mobile_nav_title) : 'ITG' %>
       </div>
 
       <div style="display: table-cell; vertical-align: middle; padding-left: 15px; padding-right: 15px" class="nav-right text-right">
@@ -208,7 +208,7 @@
 
       <div class="text-bigger text-center text-upcase"
            style="display: table-cell; padding-left: 15px; padding-right: 15px; vertical-align: middle; line-height: 1.1">
-        <%=" content_for?(:mobile_nav_bottom_content) ? yield(:mobile_nav_bottom_content) : #{Goxygene::Parameter.value_for_group}"%>
+        <%= content_for?(:mobile_nav_bottom_content) ? yield(:mobile_nav_bottom_content) : 'ITG' %>
       </div>
     </div>
   </div>

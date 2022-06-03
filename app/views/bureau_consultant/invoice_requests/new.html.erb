@@ -10,9 +10,9 @@
            validate: true do |f|
 %>
   <div class="row manage-mission">
-      <div class="col-md-2 hidden-xs hidden-sm">
-          <%= render 'step', step: 1, current_modal: '#video-part-2' %>
-      </div>
+    <div class="col-md-2 hidden-xs hidden-sm">
+      <%= render 'step', step: 1, current_modal: '#video-part-2' %>
+    </div>
 
     <div class="col-sm-10 col-md-10 no-p">
       <div class="page-top clearfix da">
@@ -62,7 +62,7 @@
 
             <div class="p-t-10">
               <label>
-                Contrat de prestation / Convention de formation
+                Contrat d’intervention concerné
                 <% if current_consultant.itg_establishment.itg_company.need_construction_insurance? %>
                     <span style="color:red">*</span>
                 <% end %>

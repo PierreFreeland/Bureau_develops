@@ -23,8 +23,6 @@ fr:
         time_span: "Temps travaillé"
       goxygene/office_activity_report_expense:
         label: "Libellé"
-      goxygene/office_activity_report/office_activity_report_documents:
-        document: "Document d'activité"
       bureau_consultant/invoice_request:
         nom1: "raison sociale"
         adresse1: "nom du destinataire"
@@ -53,7 +51,6 @@ fr:
         unemployment_document: ""
       goxygene/office_customer_bill:
         date: "Date de facturation"
-        business_contract: "Contrat de prestation / Convention de formation"
     warnings:
       models:
         goxygene/office_activity_report_line:
@@ -90,9 +87,9 @@ fr:
             base:
               must_have_contract: "Votre compte ne permet pas la création d'une Déclaration d'Activités, veuillez contacter votre conseiller"
               gross_wage_must_equals_standard_gross_wage: "Compte tenu de vos activités déclarées et de votre solde financier, votre salaire du mois doit être égal à votre salaire brut conventionnel"
+              greater_or_equal_to_standard_gross_wage: "Salaire brut demandé doit être supérieur ou égal à %{standard_gross_wage}"
               must_no_newer_office_activity_report: "Un demande de DA postérieur existe pour ce consultant."
             gross_wage:
-              greater_or_equal_to_standard_gross_wage: "^Le montant minimum du salaire brut doit être de %{standard_gross_wage}"
               exceeds_maximum_salary: "ne peut excéder %{max_salary} €"
             mission_zip_code:
               blank: "Merci de renseigner code postal de votre mission"
@@ -295,7 +292,6 @@ fr:
   declaration_activities:
     steps:
       declaration_activities: "Déclaration d'activité"
-      luncheon_voucher_request: "Demande de tickets restaurant"
       mission_expenses: "Frais de mission"
       synthesis: "Synthèse"
     title: "Déclaration d'activité"
@@ -303,5 +299,3 @@ fr:
 
     mission_expenses:
       title: "Frais de mission"
-    luncheon_voucher_request:
-      title: "Demande de tickets restaurant"

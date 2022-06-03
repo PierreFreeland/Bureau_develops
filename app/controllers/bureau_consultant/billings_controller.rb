@@ -29,12 +29,7 @@ module BureauConsultant
       @number_format = { unit: @invoice.currency.short_name, separator: '.', delimiter: ' ', format: '%n %u', precision: 2 }
       respond_to do |format|
         format.pdf do
-          render pdf: "invoice_history_#{@invoice.id}",
-                 footer: {
-                     html: {
-                         template: 'bureau_consultant/billings/pdf_footer.pdf.erb',
-                     }
-                 }
+          render pdf: "invoice_history_#{@invoice.id}"
         end
       end
     end

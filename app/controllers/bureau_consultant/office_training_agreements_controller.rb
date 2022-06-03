@@ -33,15 +33,16 @@ module BureauConsultant
       if @office_training_agreement.save!
         # save successful, now handling annexes creation
         if params[:attachments].is_a? Array
-          params[:attachments].each_with_index do |attachment, i|
+          params[:attachments].each do |attachment|
             next unless attachment.is_a? ActionDispatch::Http::UploadedFile
 
             document = current_consultant.individual.tier.documents.create!(
-              filename: attachment,
-              document_type_id: params[:attachment_types][i]
+              filename:        attachment,
+              document_type:   Goxygene::DocumentType.commercial_contract_annex
             )
 
             @office_training_agreement.office_business_contracts_documents.create! document: document
+
           end
         end
 

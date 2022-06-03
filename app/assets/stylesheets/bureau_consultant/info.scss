@@ -4,7 +4,7 @@
   }
   .info-header-title {
     font-size: 28px;
-    color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+    color: #5a2a60;
     font-weight: bold;
   }
   .border-another-article-title {

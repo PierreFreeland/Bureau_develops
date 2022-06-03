@@ -6,10 +6,9 @@ $(function () {
       var contractFileUploadBlueprint = $("#office_training_agreement_file_upload_blueprint");
       var newUploadField = contractFileUploadBlueprint.clone(true);
 
-    newUploadField.find("input[type=file]").attr("disabled", false);
-    newUploadField.find("select").attr("disabled", false);
-    newUploadField.removeAttr("id");
-    newUploadField.show();
+      newUploadField.find("input[type=file]").attr('disabled', false);
+      newUploadField.removeAttr('id');
+      newUploadField.show();
 
       $(".office_training_agreement_file_upload").last().after(newUploadField);
   });

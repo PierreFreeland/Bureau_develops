@@ -29,18 +29,9 @@
     <div class="m-t-10 text-orange text-bold">+ Ajouter un commentaire</div>
     <%= f.text_area :consultant_comment, rows: 5, class: 'full_textarea m-t-5 form-control input-no-rounded' %>
 
-    <% Goxygene::ActivityTypesDocumentType.all.each do |link| %>
-      <% if statement_of_activities_request.office_activity_report_lines.where(activity_type_id: link.activity_type_id).exists? %>
-        <div class="m-t-10 text-orange text-bold">+ <%= link.document_type.label %></div>
-        <%= f.fields_for :office_activity_report_documents, f.object.office_activity_report_documents.build do |report_doc| %>
-          <%= report_doc.fields_for :document, report_doc.object.build_document do |document| %>
-            <%= document.file_field :filename, class: 'form-control' %>
-            <%= document.hidden_field :document_type_id, value: link.document_type_id %>
-            <%= document.hidden_field :tier_id, value: current_cas_authentication.cas_user.tier_id %>
-          <% end %>
-        <% end %>
-      <% end %>
+    <% if statement_of_activities_request.has_unemployment_activities? %>
+      <div class="m-t-10 text-orange text-bold">+ Ajouter un justificatif</div>
+      <%= f.file_field :attachment, class: 'form-control' %>
     <% end %>
-
   <% end %>
 </div>

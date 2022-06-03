@@ -34,7 +34,7 @@
 
 #menu ul .menu-plus .fa {
   color: #fff;
-  background: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
+  background: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#f17c0f' %>;
   margin: 0;
   padding: 0;
   border-radius: 50%;
@@ -152,15 +152,15 @@
 /* Color: orange */
 #menu ul > li.menu-orange:hover > a,
 #menu ul > li.menu-orange.active > a {
-  border-color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+  border-color: #ef7c11;
 }
 #menu ul > li.menu-orange .dropdown-menu li a {
   background: #ffeddd;
-  color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+  color: #ef7c11;
 }
 #menu ul > li.menu-orange .dropdown-menu li a:hover {
-  border-color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
-  background: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+  border-color: #ef7c11;
+  background: #ef7c11;
   color: white;
 }
 /* ----- // Styles for the color of menus ----- */
@@ -265,8 +265,8 @@
     }
 
     li a:hover {
-      background: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %> !important;
-      border-bottom: 2px solid <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %> !important;
+      background: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#f17c0f' %> !important;
+      border-bottom: 2px solid <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#f17c0f' %> !important;
     }
 
     li:last-child a {
@@ -317,7 +317,7 @@
     }
   }
   &-button {
-    background: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
+    background: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#f17c0f' %>;
     color: #fff;
     border: 0;
     padding: 1em 2em;

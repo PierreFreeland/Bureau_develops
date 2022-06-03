@@ -119,7 +119,7 @@
         <td>
           Attention ! La TVA n'est récupérable que sur les péages, les parkings,<br>
           les invitations (frais de réception), si la facture, portant le TTC dont TVA,<br>
-          est établie au nom '<%= @statement_of_activity.itg_company.corporate_name %> et si les noms et sociétés des convives sont indiqués.
+          est établie au nom d'<%= @statement_of_activity.itg_company.corporate_name %> et si les noms et sociétés des convives sont indiqués.
         </td>
       </tr>
     </table>
@@ -159,9 +159,6 @@
       <td rowspan="2" class="text-bold">Nb jours</td>
       <td rowspan="2" class="text-bold">type activité</td>
       <td rowspan="2" class="text-bold">Déclaration de l'activité professionnelle du mois</td>
-      <% if @consultant.has_luncheon_vouchers %>
-        <td rowspan="2" class="text-bold">TR</td>
-      <% end %>
       <td rowspan="2" class="text-bold">N°</td>
       <td rowspan="2" class="text-bold">Déclaration des frais de mission</td>
       <td rowspan="2" class="text-bold">Km parcourus</td>
@@ -178,17 +175,11 @@
         <td><%= request_line.time_span %></td>
         <td><%= request_line.activity_type&.label %></td>
         <td><%= request_line.label %></td>
-        <% if @consultant.has_luncheon_vouchers %>
-          <td><%= request_line.have_luncheon_vouchers? ? 'Oui' : 'Non' %></td>
-        <% end %>
         <td colspan="5">&nbsp;</td>
       </tr>
       <% request_line.activity_report_expenses.order(:proof_of_expense_number).each do |request_expense| %>
         <tr class="avoid-page-break line2 <%= statement_of_activities_line_class_for(request_expense) %>">
           <td colspan="4">&nbsp;</td>
-          <% if @consultant.has_luncheon_vouchers %>
-            <td> </td>
-          <% end %>
           <td><%= request_expense.proof_of_expense_number %></td>
           <td><%= request_expense.label %></td>
           <td><%= request_expense.kilometers %></td>
@@ -204,13 +195,6 @@
     <td rowspan="2">Totaux déclarés</td>
     <td>Jours</td>
     <td>Heures</td>
-    <% if @consultant.payroll_contract_type_id.in?([5,6,7]) %>
-      <td>Jours d’absence</td>
-      <td>Heures d’absence</td>
-    <% end %>
-    <% if @consultant.has_luncheon_vouchers %>
-      <td>Total TR</td>
-    <% end %>
     <td>Total km</td>
     <td>Total cout km</td>
     <td>Frais TTC</td>
@@ -220,13 +204,6 @@
   <tr>
     <td><%= @statement_of_activities_request.work_days + @statement_of_activities_request.enhancement_days %></td>
     <td><%= @statement_of_activities_request.hours %></td>
-    <% if @consultant.payroll_contract_type_id.in?([5,6,7]) %>
-      <td><%= @statement_of_activities_request.unpaid_absences_days %></td>
-      <td><%= @statement_of_activities_request.absences_hours %></td>
-    <% end %>
-    <% if @consultant.has_luncheon_vouchers %>
-      <td><%= @statement_of_activities_request.total_of_luncheon_vouchers %></td>
-    <% end %>
     <td><%= @statement_of_activities_request.kilometers %></td>
     <td><%= @statement_of_activities_request.kilometer_cost %></td>
     <td><%= @statement_of_activities_request.expenses_with_taxes %></td>
@@ -237,13 +214,6 @@
     <td class="highlight-bg">Totaux acceptés par la société</td>
     <td><%= @statement_of_activity.work_days + @statement_of_activity.enhancement_days %></td>
     <td><%= @statement_of_activity.hours %></td>
-    <% if @consultant.payroll_contract_type_id.in?([5,6,7]) %>
-      <td><%= @statement_of_activity.unpaid_absences_days %></td>
-      <td><%= @statement_of_activity.absences_hours %></td>
-    <% end %>
-    <% if @consultant.has_luncheon_vouchers %>
-      <td><%= @statement_of_activity.total_of_luncheon_vouchers %></td>
-    <% end %>
     <td><%= @statement_of_activity.kilometers %></td>
     <td><%= @statement_of_activity.kilometer_cost %></td>
     <td><%= @statement_of_activity.expenses_with_taxes %></td>

@@ -2,7 +2,7 @@
   .contact-header-title {
     font-size: 28px;
     font-weight: bold;
-    color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+    color: #5a2a60;
     padding-top: 20px;
   }
 
@@ -86,8 +86,8 @@
   }
 
   .yellow-btn:hover {
-    color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
-    border: 1px solid <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+    color: #ef7c11;
+    border: 1px solid #ef7c11;
     background: #fff;
   }
 
@@ -104,7 +104,7 @@
   }
 
   .btn-empty-orange:hover {
-    background: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+    background: #ef7c11;
     color: #fff;
   }
 

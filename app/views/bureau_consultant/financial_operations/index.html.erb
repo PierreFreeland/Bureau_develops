@@ -28,30 +28,29 @@
 
         </div>
       </div>
-      <% if Goxygene.is_freeland? %>
-        <div class="col-md-6">
-          <div class="financial-operation-boxes dark-purple ">
 
-            <div class="left-icon bg-dark-purple hidden-xs">
-              <div class="icon-middle">
-                <%= image_tag('bureau_consultant/icon-financial-billing') %>
-              </div>
+      <div class="col-md-6">
+        <div class="financial-operation-boxes dark-purple ">
+
+          <div class="left-icon bg-dark-purple hidden-xs">
+            <div class="icon-middle">
+              <%= image_tag('bureau_consultant/icon-financial-billing') %>
             </div>
+          </div>
 
-            <div class="right-content full-content-xs">
-              <p class="financial-operation-title text-xs-center">MA FACTURATION</p>
+          <div class="right-content full-content-xs">
+            <p class="financial-operation-title text-xs-center">MA FACTURATION</p>
 
-              <%= link_to "FACTURER UN CLIENT", new_invoice_request_path, class: 'btn btn-yellow btn-no-rounded btn-wrapable' %>
+            <%= link_to "FACTURER UN CLIENT", new_invoice_request_path, class: 'btn btn-yellow btn-no-rounded btn-wrapable' %>
 
-              <div class="group-link">
+            <div class="group-link">
 
-                <div class="link"><%= link_to "Historique de ma facturation >", history_billings_path %></div>
-                <div class="link"><%= link_to "Historique de mes demandes de factures >", history_invoice_requests_path %></div>
-              </div>
+              <div class="link"><%= link_to "Historique de ma facturation >", history_billings_path %></div>
+              <div class="link"><%= link_to "Historique de mes demandes de factures >", history_invoice_requests_path %></div>
             </div>
           </div>
         </div>
-      <% end%>
+      </div>
 
       <div class="col-md-6">
         <div class="financial-operation-boxes dark-purple ">

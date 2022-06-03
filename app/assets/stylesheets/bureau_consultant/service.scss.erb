@@ -2,7 +2,7 @@
   background-color: white;
 }
 .text-orange {
-  color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
+  color: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#f17c0f' %>;
 }
 .text-purple {
   color: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#5a2861' %>;
@@ -78,7 +78,7 @@ ul.list-with-orange-arrow, ul.list-with-arrow-rounded {
       left: 0;
       margin-top: 2px;
       font-size: 10px;
-      color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
+      color: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#f17c0f' %>;
       list-style: none;
       margin-left: -15px;
     }
@@ -95,12 +95,12 @@ ul.list-with-orange-arrow, ul.list-with-arrow-rounded {
       color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#c13856' %>;
     }
     .orange &:before {
-      color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+      color: #ef7c11;
     }
     a {
       color: black;
       &:hover {
-        color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
+        color: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#f17c0f' %>;
       }
     }
   }
@@ -133,8 +133,8 @@ ul.list-with-arrow-rounded {
 
 .btn.btn-orange-invert {
   background-color: #fff;
-  color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
-  border: 1px solid <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
+  color: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#f17c0f' %>;
+  border: 1px solid <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#f17c0f' %>;
 }
 
 .btn {
@@ -362,13 +362,13 @@ ul.list-with-arrow-rounded {
     }
   }
   .orange {
-    color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+    color: #ef7c11;
     background-color: #fdf2e7;
     .left-icon {
-      background-color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+      background-color: #ef7c11;
     }
     .right-content, .right-content:after {
-      color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+      color: #ef7c11;
     }
   }
 }
@@ -412,7 +412,7 @@ ul.list-with-arrow-rounded {
   }
   .orange {
     &:hover {
-      background-color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+      background-color: #ef7c11;
     }
   }
 }
@@ -531,7 +531,7 @@ ul.list-with-arrow-rounded {
   }
   .orange {
     &.accordion .panel-heading[aria-expanded="true"] {
-      background-color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+      background-color: #ef7c11;
       .right-content {
         color: white;
         &:after {
@@ -689,7 +689,7 @@ ul.list-with-arrow-rounded {
   .panel-title {
     text-transform: none;
     a {
-      color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
+      color: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#f17c0f' %>;
       &.collapsed {
         color: black;
       }
