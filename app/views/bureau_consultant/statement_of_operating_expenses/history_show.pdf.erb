@@ -1,0 +1,198 @@
+<style>
+  .pdf-page {
+    margin: 0px;
+    padding: 0px;
+  }
+
+  #content {
+    font-size: 13px;
+    height: auto;
+  }
+
+  h4 {
+    margin: 0;
+    font-size: 16px;
+  }
+
+  .m-b-20 {
+    margin-bottom: 20px !important;
+  }
+
+  .m-b-50 {
+    margin-bottom: 50px !important;
+  }
+
+  .m-t-20 {
+    margin-top: 20px !important;
+  }
+
+  .m-t-50 {
+    margin-top: 50px !important;
+  }
+
+  .bottom {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+  }
+
+  .pdf-page .text-small {
+    font-size: 10px;
+  }
+
+  .pdf-page .col-left {
+    width: 40%;
+  }
+
+  .pdf-page .col-right {
+    width: 60%;
+  }
+
+  .pdf-page .table {
+    border: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border-collapse: collapse;
+  }
+
+  .pdf-page .table .cell-border-bottom td {
+    border-bottom: 1px solid #000;
+    padding-bottom: 5px;
+  }
+
+  .pdf-page .table .cell-border-bottom+tr td {
+    padding-top: 5px;
+  }
+
+  .pdf-page .table td {
+    border: 0;
+  }
+
+  .line:nth-child(odd) {
+    background: #f4f4f4;
+  }
+
+  .pdf-page .avoid-page-break {
+    page-break-inside: avoid;
+  }
+  .pdf-page .highlight-bg {
+    background: #f0f0f0;
+  }
+
+  .pdf-page .text-linethrough {
+    text-decoration: line-through;
+  }
+  .pdf-page .text-red {
+    color: #dd0c3a;
+  }
+  .pdf-page .text-green {
+    color: #598824;
+  }
+  .pdf-page .text-blue {
+    color: #3876b2;
+  }
+</style>
+
+<div class="header">
+  <%= wicked_pdf_image_tag display_logo_image_path(current_consultant), class: 'header-logo' %>
+  <h2 class="text-right">
+    Dépenses de fonctionnement du Consultant<br>
+    <% if @statement_of_operating_expense.operating_expenses_status %>
+    (Etat document : <%= @statement_of_operating_expense.operating_expenses_status.text %>)
+    <% end %>
+  </h2>
+</div>
+
+<p>
+  Le <%= set_datetime_format DateTime.current %> : Note de frais de <%= @consultant.name %>
+</p>
+
+<table class="table-bordered text-small" style="width: 40%">
+  <tr>
+    <td rowspan="2" width="21%">
+      Veuillez numéroter les justificatifs selon les numérotations des lignes ci-dessous
+    </td>
+    <td>
+      Pour vos frais Telecom, joignez votre facture détaillée : seuls sont remboursés vos appels professionnels
+    </td>
+  </tr>
+  <tr>
+    <td class="text-bold">
+      La TVA n'est récupérable que si elle figure sur votre facture établie au nom de la société.<br>
+      Les montants pour chaque type de frais sont HT si la TVA est récupérable, et TTC si la TVA est non récupérable
+    </td>
+  </tr>
+</table>
+
+<h4 class="text-right">
+  Note de frais du mois de <%= I18n.t("date.month_names")[@statement_of_operating_expense.month].capitalize %> <%= @statement_of_operating_expense.year %>
+</h4>
+
+<table class="table-bordered text-small text-center m-t-20 m-b-50 text-bold">
+  <tr>
+    <td rowspan="2" class="text-bold">N°</td>
+    <td rowspan="2" class="text-bold">Date</td>
+    <td rowspan="2" class="text-bold">Détails des dépenses (hors frais voyages et déplacements)</td>
+    <td colspan="2" class="text-bold">Devise en euros</td>
+    <td rowspan="2" class="text-bold">TVA<br>si<br>récupérable</td>
+    <td rowspan="2" class="text-bold">Bureau<br>Fournitures<br>Informatique</td>
+    <td rowspan="2" class="text-bold">Formation<br>Documen-<br>-tation</td>
+    <td rowspan="2" class="text-bold">Poste<br>Ports<br>Expéditions</td>
+    <td rowspan="2" class="text-bold">Telecom<br>Téléphone<br>Fax</td>
+    <td rowspan="2" class="text-bold">Autres<br>Dépenses<br>diverses</td>
+  </tr>
+  <tr>
+    <td class="text-bold">Payé TTC</td>
+    <td class="text-bold">Taux</td>
+  </tr>
+
+  <% @statement_of_operating_expenses_lines.each do |request_line| %>
+      <tr class="avoid-page-break line <%= statement_of_operating_expenses_line_class_for(request_line) %>">
+        <td><%= request_line.proof_of_expense_number %></td>
+        <td><%= set_datetime_format request_line.date %></td>
+        <td><%= number_with_precision(request_line.label, @number_format) %></td>
+        <td><%= number_with_precision(request_line.total_with_taxes, @number_format) %></td>
+        <td><%= number_with_precision(request_line.vat_rate&.label, @number_format) %></td>
+        <td><%= number_with_precision(request_line.vat || 0, @number_format) %></td>
+        <td><%= number_with_precision(request_line.office, @number_format) %></td>
+        <td><%= number_with_precision(request_line.training, @number_format) %></td>
+        <td><%= number_with_precision(request_line.post_office, @number_format) %></td>
+        <td><%= number_with_precision(request_line.telecom, @number_format) %></td>
+        <td><%= number_with_precision(request_line.other, @number_format) %></td>
+      </tr>
+  <% end %>
+</table>
+
+<table class="table-bordered text-small text-center m-t-20 m-b-50 text-bold avoid-page-break" style="width: 55%; float: right; clear: both;">
+  <tr>
+    <td>Total TTC déclarés</td>
+    <td colspan="6">Totaux déclarés par le consultant</td>
+  </tr>
+  <tr>
+    <td><%= number_with_precision(@statement_of_operating_expenses_request.total_with_taxes, @number_format) %></td>
+    <td><%= number_with_precision(@statement_of_operating_expenses_request.vat || 0, @number_format) %></td>
+    <td><%= number_with_precision(@statement_of_operating_expenses_request.office, @number_format) %></td>
+    <td><%= number_with_precision(@statement_of_operating_expenses_request.training, @number_format) %></td>
+    <td><%= number_with_precision(@statement_of_operating_expenses_request.post_office, @number_format) %></td>
+    <td><%= number_with_precision(@statement_of_operating_expenses_request.telecom, @number_format) %></td>
+    <td><%= number_with_precision(@statement_of_operating_expenses_request.other, @number_format) %></td>
+  </tr>
+  <tr class="highlight-bg">
+    <td>Accepté par la société<br>A remboursé</td>
+    <td colspan="6">Totaux validés par la société</td>
+  </tr>
+  <tr class="highlight-bg">
+    <td><%= number_with_precision(@statement_of_operating_expense.total_with_taxes, @number_format) %></td>
+    <td><%= number_with_precision(@statement_of_operating_expense.vat || 0, @number_format) %></td>
+    <td><%= number_with_precision(@statement_of_operating_expense.office, @number_format) %></td>
+    <td><%= number_with_precision(@statement_of_operating_expense.training, @number_format) %></td>
+    <td><%= number_with_precision(@statement_of_operating_expense.post_office, @number_format) %></td>
+    <td><%= number_with_precision(@statement_of_operating_expense.telecom, @number_format) %></td>
+    <td><%= number_with_precision(@statement_of_operating_expense.other, @number_format) %></td>
+  </tr>
+</table>
+
+<div class="clearfix"></div>
+
+</div>

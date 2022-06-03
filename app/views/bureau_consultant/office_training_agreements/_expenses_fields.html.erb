@@ -1,0 +1,53 @@
+<table class="list-table no-hover no-top hidden-xs">
+  <thead>
+  <tr>
+    <th>Action</th>
+    <th>Coût unitaire</th>
+    <th>Heures</th>
+    <th>Stagiaires</th>
+    <th>Total</th>
+    <th>
+      <%= f.link_to_add :office_business_contract_expenses, class: 'business-contract-expenses-plus', data: { target: '#office_business_contract_expenses' } do %>
+        <i class="fa fa-plus float-right text-orange clickable"></i>
+      <% end %>
+    </th>
+  </tr>
+  </thead>
+  <tbody id="office_business_contract_expenses">
+  <%= f.fields_for :office_business_contract_expenses,
+                     f.object.office_business_contract_expenses.sort_by {|l| l.persisted? ? l.created_at.to_f : '9999-99-99'},
+                     wrapper: false do |business_contract_expense| %>
+    <tr class="fields">
+      <td>
+        <%= business_contract_expense.text_field :label, class: 'form-control', maxlength: 70 %>
+      </td>
+      <td class="expense-cost">
+        <%= business_contract_expense.text_field :cost, class: 'form-control' %>
+      </td>
+      <td class="expense-number">
+        <%= business_contract_expense.text_field :number, class: 'form-control' %>
+      </td>
+      <td class="expense-trainees">
+        <%= business_contract_expense.text_field :trainees, class: 'form-control' %>
+      </td>
+      <td class="expense-total">
+        <%= business_contract_expense.text_field :total_cost, class: 'form-control' %>
+      </td>
+      <td>
+        <%= business_contract_expense.link_to_remove class: 'remove-nested-form-link', data: {confirm: t("views.confirm_deletion")} do %>
+          <i class="fa fa-minus text-orange" data-toggle="tooltip" title="Supprimer"></i>
+        <% end %>
+      </td>
+    </tr>
+  <% end %>
+  </tbody>
+
+  <tr>
+    <th>Totaux</th>
+    <th class="total-expense-cost"></th>
+    <th class="total-expense-number"></th>
+    <th class="total-expense-trainees"></th>
+    <th class="total-expense-total"></th>
+  </tr>
+
+</table>

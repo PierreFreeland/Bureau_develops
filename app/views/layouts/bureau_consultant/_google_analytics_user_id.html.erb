@@ -1,0 +1,9 @@
+<% if true_cas_authentication.cas_user_type == 'Goxygene::Consultant' %>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+      'userId' : '<%= current_consultant.google_analytics_id! %>',
+      'event' : '<%= user_id_event %>'
+    });
+  </script>
+<% end %>

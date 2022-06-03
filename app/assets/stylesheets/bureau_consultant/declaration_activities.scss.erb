@@ -1,0 +1,169 @@
+#declaration_form {
+  select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+  }
+}
+
+.btn-empty-orange.selected {
+  background-color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11' %>;
+  color: white;
+}
+
+.btn-orange.selected {
+  background-color: white;
+  border: 1px solid <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c10' %>;
+  color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c10' %>;
+}
+
+.flex {
+  display: flex;
+  .btn {
+    width: 100%;
+  }
+}
+
+.panel.add-activities {
+  .flex-between .btn {
+    min-width: 72px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+}
+
+.wider-area {
+  width: 60px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.floating-block {
+  position: fixed;
+  width: 30%;
+  top: 170px;
+  overflow-x: hidden;
+  bottom: 45px;
+}
+
+.flex-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.add-line-statement-of-activities-wrap {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.add-line-statement-of-activities {
+  margin-left: 40px;
+}
+
+.input-thinner {
+  width: 250px;
+}
+
+.add-activty-page {
+  .old, .new {
+    visibility: hidden;
+  }
+
+  .disabled.disabled-date, .disabled.disabled-date:hover {
+    background: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+    border-radius: 30px;
+    color: grey !important;
+  }
+}
+
+.not-show-error-pls {
+  .field_with_errors {
+    label.message.help-block.error-message {
+      display: none;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .manage-mission {
+    field_with_errors {
+      position: relative;
+      width: 100%;
+
+      label {
+        position: absolute;
+        margin-top: -100px;
+        padding: 5px;
+        border: 3px solid black;
+        background: #fff;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+      }
+
+      label:before {
+        content: "";
+        position: absolute;
+        bottom: -20px;
+        left: 8px;
+        border-width: 20px 20px 0;
+        border-style: solid;
+        border-color: black transparent;
+        display: block;
+        width: 0;
+      }
+
+      label:after {
+        content: "";
+        position: absolute;
+        bottom: -16px;
+        left: 12px;
+        border-width: 16px 16px 0;
+        border-style: solid;
+        border-color: #fff transparent;
+        display: block;
+        width: 0;
+      }
+    }
+  }
+
+}
+
+.manage-mission {
+  tr.activity-form > td {
+    white-space: normal;
+  }
+}
+
+.select-horizontal {
+  select {
+    text-align-last: center;
+    text-align: center;
+    -ms-text-align-last: center;
+    -moz-text-align-last: center;
+  }
+}
+
+.calendar-progess-bar {
+  bottom: -2px;
+  left: 0;
+  position: absolute;
+  height: 10px;
+
+  &.activity-type-mission {
+    background-color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f58929' %>;
+  }
+
+  &.activity-type-development {
+    background-color:  <%= ENV['HUB_MAIN_COLOR_DARK'] || '#4f2f7e' %>;
+  }
+
+  &.activity-type-unemployment {
+    background-color: #ffbb78;
+  }
+
+  &.activity-type-absence {
+    background-color: #858585;
+  }
+}

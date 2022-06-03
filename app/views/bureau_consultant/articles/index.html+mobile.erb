@@ -1,0 +1,103 @@
+<div class="faq">
+  <div class="bg-white m-b-10">
+    <div class="help-header">
+      <div class="help-header-title align-center"><%= current_consultant.itg_establishment.name %> VOUS INFORME</div>
+    </div>
+
+    <div class="m-t-20">
+      <div class="accordion-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+        <% @topics.each_with_index do |t, index| %>
+
+          <div class="accordion panel-default">
+            <div class="panel-heading help-panel normal"
+                 data-toggle="collapse"
+                 data-parent="#accordion"
+                 data-target='#menu_<%= index %>'
+                 role="tab"
+                 style="cursor: pointer">
+
+              <h4 class="panel-title text-smaller help-panel padding-5">
+                <a class="collapsed">
+                  <%= t.name %>
+                </a>
+              </h4>
+
+            </div>
+            <div id="menu_<%= index %>" class="panel-collapse collapse" role="tabpanel">
+              <div class="panel-body">
+                <div class="subaccordion">
+
+                  <% t.articles.only_active.each_with_index do |a, index_sub| %>
+
+                    <div class="subaccordion-panel panel-default">
+                      <div class="panel-heading help-panel normal"
+                           data-toggle="collapse"
+                           data-parent="#accordion"
+                           data-target='#submenu_<%= index %>_<%= index_sub %>'
+                           role="tab"
+                           style="cursor: pointer">
+                        <h4 class="panel-title text-smaller help-panel">
+                          <a class="collapsed">
+                            <%= a.title %>
+                          </a>
+                        </h4>
+                      </div>
+                      <div id="submenu_<%= index %>_<%= index_sub %>" class="panel-collapse collapse" role="subtabpanel">
+                        <%= link_to article_path(a) do %>
+                          <div class="panel-body">
+                            <%= strip_tags(a.chapo) %>
+                          </div>
+                        <% end %>
+                      </div>
+                    </div>
+
+                  <% end %>
+                </div>
+              </div>
+            </div>
+          </div>
+        <% end %>
+
+      </div>
+    </div>
+
+
+  </div>
+</div>
+
+<%= render 'bureau_consultant/shared/mobile_top_nav',
+           nav_color: '#f2ab1d',
+           nav_title: 'News',
+           nav_left: link_to(image_tag('bureau_consultant/icon-mobile-nav-back', class: 'mobile-nav-icon'), '#', onclick: 'navGoBack();'),
+           nav_right: link_to(image_tag('bureau_consultant/icon-mobile-nav-close', class: 'mobile-nav-icon'), home_index_path) %>
+
+<style>
+  .mobile-app .news-filter {
+    font-size: 14px;
+  }
+
+  .mobile-app .news-filter-list span {
+    padding: 3px 6px;
+  }
+
+  .mobile-app .news-filter {
+    padding: 15px;
+  }
+
+  .mobile-app .news .item .border-another-article-body img.img-responsive {
+    width: 100%;
+  }
+
+  .mobile-app .border-another-article-title {
+    padding-top: 0;
+    min-height: auto;
+    margin-top: 5px;
+  }
+
+  .mobile-app .another-article-header-title-wrapper {
+    height: auto;
+    overflow: auto;
+    padding-bottom: 10px;
+  }
+</style>

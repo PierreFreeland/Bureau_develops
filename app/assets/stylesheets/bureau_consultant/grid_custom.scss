@@ -1,0 +1,93 @@
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  $col-padding: 15px;
+  $col-small-width: 35%;
+  $col-big-width: 65%;
+
+  .row {
+    &.grid-big-right, &.grid-big-left {
+      .col-left, .col-right {
+        float: left;
+        position: relative;
+        min-height: 1px;
+        padding-right: $col-padding;
+        padding-left: $col-padding;
+      }
+    }
+
+    // Grille 2 (700px, 380px)
+    &.grid-big-left {
+      >.col-left {
+        width: $col-big-width;
+      }
+      >.col-right {
+        width: $col-small-width;
+      }
+    }
+
+    // Grille 3 (380px, 700px)
+    &.grid-big-right {
+      >.col-left {
+        width: $col-small-width;
+      }
+      >.col-right {
+        width: $col-big-width;
+      }
+    }
+  }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  $col-padding: 15px;
+  $col-small-width: 380px;
+  $col-big-width: 700px;
+
+  .row {
+    &.grid-big-right, &.grid-big-left {
+      .col-left, .col-right {
+        float: left;
+        position: relative;
+        min-height: 1px;
+        padding-right: $col-padding;
+        padding-left: $col-padding;
+      }
+    }
+
+    // Grille 2 (700px, 380px)
+    .grid-big-left {
+      >.col-left {
+        width: $col-big-width + 2*$col-padding;
+      }
+      >.col-right {
+        width: $col-small-width + 2*$col-padding;
+      }
+    }
+
+    // Grille 3 (380px, 700px)
+    .grid-big-right {
+      >.col-left {
+        width: $col-small-width + 2*$col-padding;
+      }
+      >.col-right {
+        width: $col-big-width + 2*$col-padding;
+      }
+    }
+  }
+}
+
+.small-gutter {
+  margin-left: -5px;
+  margin-right: -5px;
+  > [class*='col-'] {
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+}

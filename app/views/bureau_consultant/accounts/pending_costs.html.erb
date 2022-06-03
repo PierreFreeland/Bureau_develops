@@ -1,0 +1,78 @@
+<div class="row">
+  <div class="col-xs-12">
+
+    <span class="contract-reqest-title">FRAIS EN ATTENTE</span>
+
+    <div class="clearfix m-t-20 row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 form-group">
+        <%= render 'bureau_consultant/shared/paginate', collection: @accounts %>
+      </div>
+
+      <div class="col-xs-12 col-md-9 col-sm-9 col-lg-6 form-group">
+        <%= form_tag pending_costs_accounts_path, method: :get, :class => 'form-inline' do %>
+            <%= search_field_tag 'q[date_gteq]', {}, :class => 'datepicker shorter form-control form-group', value: set_datetime_format(params[:q][:date_gteq]) %>
+            <div class="form-group">
+              <span class="text-bigger">à</span>
+            </div>
+            <%= search_field_tag 'q[date_lteq]', {}, :class => 'datepicker shorter form-control form-group', value: set_datetime_format(params[:q][:date_lteq]) %>
+            <%= submit_tag 'Filtre', class: 'btn btn-violet btn-short btn-no-margin form-group hidden-xs' %>
+
+            <div class="align-center visible-xs">
+              <%= submit_tag 'Filtre', class: 'btn btn-violet btn-short btn-no-margin btn-no-rounded' %>
+
+              <span data-toggle="submit" data-target="#account" class="btn btn-orange-static btn-no-rounded btn-no-margin">
+                <i class="fa fa-external-link p-r-10"></i>Exporter
+              </span>
+            </div>
+        <% end %>
+      </div>
+
+      <div data-toggle="submit" data-target="#account" class="col-md-3 col-sm-3 col-lg-2
+           btn btn-orange btn-short btn-no-rounded btn-no-margin
+           hidden-xs visible-sm visible-lg visible-md">
+        <i class="fa fa-external-link p-r-10"></i>Exporter
+      </div>
+    </div>
+
+    <%= form_tag export_pending_costs_accounts_path(format: :xlsx), method: :get, id: 'account' do %>
+        <%= hidden_field_tag "q[date_gteq]", params[:q][:date_gteq] %>
+        <%= hidden_field_tag "q[date_lteq]", params[:q][:date_lteq] %>
+        <section class="panel m-t-20">
+          <div class="panel-item">
+            <div class="table-wrap">
+              <table class="list-table no-top">
+                <thead>
+                <tr>
+                  <th>
+                    <div class="line clearfix">
+                      <input type="checkbox" value="" name=""/>
+                    </div>
+                  </th>
+
+                  <th>NDF du</th>
+                  <th>Commentaire</th>
+                  <th>KM</th>
+                  <th>Dépl.</th>
+                  <th>Bureau</th>
+                  <th>Doc.</th>
+                  <th>Poste</th>
+                  <th>Tél.</th>
+                  <th>Divers</th>
+                  <th>TVA</th>
+                  <th>HT</th>
+                  <th>TTC</th>
+                </tr>
+                </thead>
+                <tbody>
+                <%= render partial: 'pending_costs_table_row', collection: @accounts, as: :account %>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+    <% end %>
+    <%= render 'bureau_consultant/shared/paginate', collection: @accounts %>
+
+
+  </div>
+</div>

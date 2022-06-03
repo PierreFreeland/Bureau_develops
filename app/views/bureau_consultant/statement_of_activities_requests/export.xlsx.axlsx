@@ -1,0 +1,26 @@
+wb = xlsx_package.workbook
+wb.add_worksheet(name: "DECLARATIONS D'ACTIVITÉ") do |sheet|
+  sheet.add_row ["Année",
+                 "Mois",
+                 "Jours",
+                 "Heures",
+                 "Jours d'absences de la DA",
+                 "Nombre d'heures d'absence",
+                 "Salaire à percevoir",
+                 "Frais",
+                 "KM",
+                 "Etat"]
+  @statement_of_activities_requests.each do |office_activity_report|
+    sheet.add_row [
+                   office_activity_report.year,
+                   I18n.t("date.month_names")[office_activity_report.month].capitalize,
+                   office_activity_report.work_days,
+                   office_activity_report.hours,
+                   office_activity_report.unpaid_absences_days,
+                   office_activity_report.absences_hours,
+                   office_activity_report.gross_wage,
+                   office_activity_report.expenses,
+                   office_activity_report.kilometers,
+                   office_activity_report.activity_report_status.text]
+  end
+end

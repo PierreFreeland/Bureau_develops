@@ -1,0 +1,1314 @@
+<html>
+<head>
+  <meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+  <style type="text/css">
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Open Sans Light", serif;
+      font-weight: normal;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .column-max {
+      float: left;
+      width: 100%;
+      vertical-align: middle;
+    }
+
+    .column {
+      float: left;
+      width: 50%;
+      vertical-align: middle;
+    }
+
+    .column-20 {
+      float: left;
+      width: 20%;
+      vertical-align: middle;
+    }
+
+    .column-25 {
+      float: left;
+      width: 25%;
+      vertical-align: middle;
+    }
+
+    .column-30 {
+      float: left;
+      width: 30%;
+      vertical-align: middle;
+    }
+
+    .column-75 {
+      float: left;
+      width: 75%;
+      vertical-align: middle;
+    }
+
+    .column-1 {
+      float: left;
+      width: 10%;
+      vertical-align: middle;
+    }
+
+    .column-2 {
+      float: left;
+      width: 20%;
+      vertical-align: middle;
+    }
+
+    .column-3 {
+      float: left;
+      width: 30%;
+      vertical-align: middle;
+    }
+
+    .column-4 {
+      float: left;
+      width: 40%;
+      vertical-align: middle;
+    }
+
+    .column-6 {
+      float: left;
+      width: 60%;
+      vertical-align: middle;
+    }
+
+    .column-9 {
+      float: left;
+      width: 90%;
+      vertical-align: middle;
+    }
+
+    .detail-box {
+      margin-top: 15px;
+    }
+
+    .standard-box {
+      background-color: #E4E4E4;
+      height: 16px;
+      padding: 4px;
+    }
+
+    .standard-blank-box {
+      background-color: rgb(255, 255, 255);
+      height: 16px;
+      padding: 4px;
+    }
+
+    .address-box {
+      padding: 4px;
+      height: 64px;
+    }
+
+    .detail-box {
+      margin-top: 15px;
+    }
+
+    .border-all-solid-grey {
+      padding: 1px;
+      border: 1px solid rgb(113, 113, 113);
+    }
+
+    .padding-top-4 {
+      margin-top: 4px;
+    }
+
+    .padding-left-3 {
+      padding-left: 3px;
+    }
+
+    .padding-right-3 {
+      padding-right: 3px;
+    }
+
+    .padding-bottom-2 {
+      padding-bottom: 2px;
+    }
+
+    .padding-bottom-4 {
+      padding-bottom: 4px;
+    }
+
+    .margin-bottom-8 {
+      margin-bottom: 8px;
+    }
+
+    .padding-top-8 {
+      margin-top: 8px;
+    }
+
+    .padding-all-4 {
+      padding: 4px;
+    }
+
+    .signature-white-box {
+      height: 50px;
+      background-color: white;
+    }
+
+    .signature-box {
+      padding: 1px;
+      border: 1px solid black;
+    }
+
+    .custom-text-box {
+      text-align: justify;
+      line-height: 10px;
+    }
+
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    <!--
+    span.cls_002 {
+      font-family: "Open Sans Light", serif;
+      font-size: 15px;
+      color: rgb(0, 0, 0);
+      font-weight: normal;
+      font-style: normal;
+      text-decoration: none
+    }
+
+    div.cls_002 {
+      font-family: "Open Sans Light", serif;
+      font-size: 15px;
+      color: rgb(0, 0, 0);
+      font-weight: normal;
+      font-style: normal;
+      text-decoration: none
+    }
+
+    span.cls_003 {
+      font-family: "Open Sans Light", serif;
+      font-size: 8px;
+      color: rgb(0, 0, 0);
+      font-weight: normal;
+      font-style: normal;
+      text-decoration: none
+    }
+
+    div.cls_003 {
+      font-family: "Open Sans Light", serif;
+      font-size: 8px;
+      color: rgb(0, 0, 0);
+      font-weight: normal;
+      font-style: normal;
+      text-decoration: none
+    }
+
+    span.cls_004 {
+      font-family: "Open Sans Light", serif;
+      font-size: 8px;
+      color: rgb(0, 0, 0);
+      font-weight: bold;
+      font-style: normal;
+      text-decoration: none
+    }
+
+    div.cls_004 {
+      font-family: "Open Sans Light", serif;
+      font-size: 8px;
+      color: rgb(0, 0, 0);
+      font-weight: bold;
+      font-style: normal;
+      text-decoration: none
+    }
+
+    span.cls_004t {
+      font-family: "Open Sans Light", serif;
+      font-size: 8px;
+      color: rgb(0, 0, 0);
+      font-weight: normal;
+      font-style: normal;
+      text-decoration: none
+    }
+
+    div.cls_004t {
+      font-family: "Open Sans Light", serif;
+      font-size: 8px;
+      color: rgb(0, 0, 0);
+      font-weight: normal;
+      font-style: normal;
+      text-decoration: none
+    }
+
+    span.cls_009 {
+      font-family: "Open Sans Light", serif;
+      font-size: 8px;
+      color: rgb(0, 0, 0);
+      font-weight: normal;
+      font-style: normal;
+      text-decoration: none
+    }
+
+    div.cls_009 {
+      font-family: "Open Sans Light", serif;
+      font-size: 8px;
+      color: rgb(0, 0, 0);
+      font-weight: normal;
+      font-style: normal;
+      text-decoration: none
+    }
+
+    span.cls_006 {
+      font-family: "Open Sans Light", serif;
+      font-size: 8px;
+      color: rgb(0, 0, 0);
+      font-weight: normal;
+      font-style: normal;
+      text-decoration: underline
+    }
+
+    div.cls_006 {
+      font-family: "Open Sans Light", serif;
+      font-size: 8px;
+      color: rgb(0, 0, 0);
+      font-weight: normal;
+      font-style: normal;
+      text-decoration: none
+    }
+
+    span.cls_005 {
+      font-family: "Open Sans Light", serif;
+      font-size: 4.6px;
+      color: rgb(0, 0, 0);
+      font-weight: normal;
+      font-style: normal;
+      text-decoration: none
+    }
+
+    div.cls_005 {
+      font-family: "Open Sans Light", serif;
+      font-size: 4.6px;
+      color: rgb(0, 0, 0);
+      font-weight: normal;
+      font-style: normal;
+      text-decoration: none
+    }
+
+    .orange {
+      color: rgb(246, 140, 0);
+    }
+
+    .violet {
+      color: rgb(114, 58, 164);
+    }
+
+    .page-break {
+      display: block;
+      clear: both;
+      page-break-after: always;
+    }
+
+    .page-container {
+      padding-top: 3mm;
+    }
+
+    .text-center {
+      text-align: center;
+    }
+    -->
+  </style>
+</head>
+<body>
+<div class="page-container">
+  <div class="row">
+    <div class="column-1">
+      <%= wicked_pdf_image_tag "goxygene/logo/#{@business_contract.itg_establishment.itg_company_id}.jpg", height: '50px' %>
+    </div>
+    <div class="column-9">
+      <div class="column-max">
+        <div style="float:right;white-space:nowrap;" class="cls_002">Convention simple de formation professionnelle
+        </div>
+      </div>
+      <div class="column-max">
+        <div style="float:right;white-space:nowrap;" class="cls_003">(Article L.6353-1 et 6353-2 du code du travail)
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="column padding-right-3">
+      <div class="cls_004">Entre</div>
+      <div class="column-max cls_003 border-all-solid-grey">
+        <div class="column-25 standard-box">N° SIRET</div>
+        <div class="column-25 standard-blank-box"><%= @business_contract&.itg_establishment&.siret %></div>
+        <div class="column-25 standard-box">N° TVA UEE</div>
+        <div class="column-25 standard-blank-box"><%= @business_contract&.itg_establishment&.itg_company&.vat_number %></div>
+      </div>
+    </div>
+    <div class="column padding-left-3">
+      <div class="cls_004">Et</div>
+      <div class="column-max cls_003 border-all-solid-grey">
+        <div class="column-25 standard-box">N° SIRET</div>
+        <div class="column-25 standard-blank-box"><%= @business_contract&.establishment&.siret %></div>
+        <div class="column-25 standard-box">N° TVA UEE</div>
+        <div class="column-25 standard-blank-box"><%= @business_contract&.establishment&.company&.vat_number %></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row detail-box">
+    <div class="column padding-right-3 cls_003">
+      <div class="column-max border-all-solid-grey">
+        <div class="column-max">
+          <div class="column-25 standard-box">Raison sociale</div>
+          <div class="column-75 standard-blank-box"><%= @business_contract&.itg_establishment&.itg_company&.corporate_name %></div>
+        </div>
+        <div class="column-max">
+          <div class="column-25 standard-box">Forme et capital</div>
+          <div class="column-75 standard-blank-box"><%= @business_contract&.itg_establishment&.itg_company&.legal_form&.acronym %> <%= @business_contract&.itg_establishment&.itg_company&.capital %></div>
+        </div>
+        <div class="column-max">
+          <div class="column-25 standard-box">Siège</div>
+          <div class="column-75 standard-blank-box"><%= @business_contract&.itg_establishment&.itg_company&.contact_datum&.slice(:address_1, :address_2, :address_3, :zip_code, :city).values&.join(" ") %></div>
+        </div>
+        <div class="column-max">
+          <div class="column standard-box">Identité du garant financier</div>
+          <div class="column-25 standard-box"></div>
+          <div class="column-25 standard-blank-box"><%= @business_contract&.itg_establishment&.itg_company&.itg_insurance_contracts&.valid_for(@business_contract.business_contract_versions&.last&.begining_date)&.financial_guarantee&.last&.insurance_company&.company&.corporate_name %></div>
+        </div>
+        <div class="column-max">
+          <div class="column">
+            <div style="white-space:nowrap;" class="column standard-box">Police d'assurance</div>
+            <div class="column standard-blank-box"><%= @business_contract&.itg_establishment&.itg_company&.itg_insurance_contracts&.valid_for(@business_contract.business_contract_versions&.last&.begining_date)&.rcp&.last&.reference_number %></div>
+          </div>
+          <div class="column">
+            <div class="column standard-box">Assureur</div>
+            <div class="column standard-blank-box"><%= @business_contract&.itg_establishment&.itg_company&.itg_insurance_contracts&.valid_for(@business_contract.business_contract_versions&.last&.begining_date)&.rcp&.last&.insurance_company&.company&.corporate_name %></div>
+          </div>
+        </div>
+        <div class="column-max">
+          <div class="column">
+            <div class="column standard-box">Tel</div>
+            <div class="column standard-blank-box"><%= @business_contract&.itg_establishment&.itg_company&.contact_datum&.phone %></div>
+          </div>
+          <div class="column">
+            <div class="column standard-box">Fax</div>
+            <div class="column standard-blank-box"><%= @business_contract&.itg_establishment&.itg_company&.contact_datum&.fax %></div>
+          </div>
+        </div>
+        <div class="column-max">
+          <div class="column-25 standard-box">Représentée par</div>
+          <div class="column-75 standard-blank-box"><%= @business_contract&.itg_establishment&.itg_company&.representatives&.last&.employee&.individual&.full_name %></div>
+        </div>
+        <div class="column-max">
+          <div class="column-75 standard-box">signataire dûment habilité(e) aux fins des présentes</div>
+          <div class="column-25 standard-box"></div>
+        </div>
+      </div>
+      <div class="column-max cls_004 standard-blank-box">ci après dénommé(e) l’Organisme de Formation</div>
+      <div class="column-max cls_004 standard-blank-box">il a été arrêté et convenu ce qui suit :</div>
+    </div>
+
+    <div class="column padding-left-3 cls_003">
+      <div class="column-max border-all-solid-grey">
+        <div class="column-max">
+          <div class="column-25 standard-box padding-all-4">Raison sociale</div>
+          <div class="column-75 padding-all-4"><%= @business_contract&.establishment&.name %></div>
+        </div>
+        <div class="column-max">
+          <div class="column-25 address-box standard-box">Adresse</div>
+          <div class="column-75 ">
+            <% if @business_contract&.establishment&.contact_datum&.address_1.present? %>
+              <div class="column-max padding-all-4"><%= @business_contract&.establishment&.contact_datum&.address_1 %></div>
+            <% end %>
+            <% if @business_contract&.establishment&.contact_datum&.address_2.present? %>
+              <div class="column-max padding-all-4"><%= @business_contract&.establishment&.contact_datum&.address_2 %></div>
+            <% end %>
+            <% if @business_contract&.establishment&.contact_datum&.address_3.present? %>
+              <div class="column-max padding-all-4"><%= @business_contract&.establishment&.contact_datum&.address_3 %></div>
+            <% end %>
+            <% if [@business_contract&.establishment&.contact_datum&.slice(:zip_code, :city)&.values&.join(", "), @business_contract&.establishment&.contact_datum&.country&.label].join(", ").present? %>
+              <div class="column-max padding-all-4"><%= [@business_contract&.establishment&.contact_datum&.slice(:zip_code, :city)&.values&.join(", "), @business_contract&.establishment&.contact_datum&.country&.label].join(", ") %></div>
+            <% end %>
+          </div>
+        </div>
+        <div class="column-max">
+          <div class="column">
+            <div class="column standard-box padding-all-4">Email</div>
+            <div class="column padding-all-4"><%= @business_contract&.establishment&.contact_datum&.email %></div>
+          </div>
+          <div class="column">
+            <div class="column standard-box padding-all-4">Tel</div>
+            <div class="column padding-all-4"><%= @business_contract&.establishment&.contact_datum&.phone %></div>
+          </div>
+        </div>
+        <div class="column-max">
+          <div class="column-25 standard-box padding-all-4">Représentée par</div>
+          <div class="column-75 padding-all-4"><%= @business_contract&.establishment_contract_by_bill&.individual&.full_name %></div>
+        </div>
+        <div class="column-max">
+          <div class="column-75 standard-box">signataire dûment habilité(e) aux fins des présentes</div>
+          <div class="column-25 standard-box"></div>
+        </div>
+      </div>
+      <div class="column-max cls_004 padding-all-4">ci après dénommée "le client"</div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="column-max cls_004 padding-top-2 padding-bottom-2"><span class="orange">1.</span><span class="violet"> L’organisme de formation, au travers de son consultant désigné ci-après, organisera l'action de formation suivante :</span>
+    </div>
+    <div class="column-max border-all-solid-grey">
+      <div class="column-max cls_003 standard-box">Intitulé de stage et risques liés aux conditions de travail identifiées sur site</div>
+      <div class="column-max cls_004 standard-blank-box"><%= @business_contract&.business_contract_versions&.last.mission_subject %></div>
+      <div class="column-max cls_003 standard-box">Objectifs</div>
+      <div class="column-75 cls_004 standard-blank-box"><%= @business_contract&.business_contract_versions&.last.training_purpose %></div>
+      <div class="column-25 cls_003 standard-box">Programmes et méthodes en annexe 1</div>
+      <div class="column-max cls_003 standard-box">Type d’action de formation : (article L 6353-1 et 6353-2 du code du
+        travail)
+      </div>
+      <div class="column-max cls_004 standard-blank-box"><%= @business_contract&.business_contract_versions&.last.training_target&.label %></div>
+      <div class="column-max cls_003 standard-box">
+        <div class="column-3">Consultant <%= Goxygene::Parameter.value_for_group %> en charge</div>
+        <div class="column-2">Date de début</div>
+        <div class="column-2">Date de fin</div>
+        <div class="column-3">Durée</div>
+      </div>
+      <div class="column-max cls_003 standard-blank-box">
+        <div class="column-3"><%= @business_contract&.consultant&.individual&.full_name %></div>
+        <div class="column-2"><%= display_datetime(@business_contract&.business_contract_versions&.last&.begining_date) %></div>
+        <div class="column-2"><%= display_datetime(@business_contract&.business_contract_versions&.last&.ending_date) %></div>
+        <div class="column-3"><%= @business_contract&.business_contract_versions&.last&.time_length %></div>
+      </div>
+      <div class="column-max cls_003 standard-box">Lieux</div>
+      <div class="column-max cls_004 standard-blank-box"><%= @business_contract&.business_contract_versions&.last&.training_location %></div>
+      <div class="column-max cls_003 standard-box">
+        <div class="column-75">La (les) salle(s) sera(ont) retenue(s) par, qui règlera les frais éventuels engendrés par
+          cette formation
+        </div>
+        <div class="column-25">Effectif formé (personnes)</div>
+      </div>
+      <div class="column-max cls_004 standard-blank-box">
+        <div class="column-75"><%= @business_contract&.business_contract_versions&.last&.training_location_booking %></div>
+        <div class="column-25"><%= @business_contract&.business_contract_versions&.last&.trainees %></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-2"><span class="orange">2.</span><span class="violet"> En contrepartie de cette action de formation, le client s'acquittera des coûts suivants, frais de formation :</span>
+    </div>
+    <div class="column-max border-all-solid-grey">
+      <div class="column-max cls_003">
+        <div class="column standard-box">Actions</div>
+        <div class="column">
+          <div class="column-25 standard-box">Coût unit. HT</div>
+          <div class="column-25 standard-box">Heures</div>
+          <div class="column-25 standard-box">Stagiaires</div>
+          <div class="column-25 standard-box"> Total HT</div>
+        </div>
+      </div>
+      <% @business_contract&.business_contract_versions&.last.business_contract_expenses.sort_by {|l| l.persisted? ? l.created_at.to_f : '9999-99-99'}.each do |expense| %>
+        <div class="column-max cls_003">
+          <div class="column standard-blank-box"><%= expense&.label %></div>
+          <div class="column">
+            <div class="column-25 standard-blank-box"><%= convert_to_france_number(expense&.cost) %> &euro;</div>
+            <div class="column-25 standard-blank-box"><%= convert_to_france_number(expense&.number) %></div>
+            <div class="column-25 standard-blank-box"><%= convert_to_france_number(expense&.trainees) %></div>
+            <div class="column-25 standard-blank-box"><%= convert_to_france_number(expense&.total_cost) %> &euro;</div>
+          </div>
+        </div>
+      <% end %>
+      <div class="column-max standard-box cls_003">
+        <div>Les conditions de frais et coûts de voyage, restauration et hébergement sont établis dans l'annexe 1</div>
+        <div></div>
+      </div>
+    </div>
+  </div>
+
+  <div style="page-break-inside: avoid;margin-top: 5px;">
+    <div class="row">
+      <div class="column-max cls_004 padding-top-4 padding-bottom-2"><span class="orange">3.</span><span class="violet"> Règlement.</span>
+      </div>
+      <div class="column-max border-all-solid-grey">
+        <div class="column-max cls_003">
+          <div class="column-25 standard-box">Acompte versé HT</div>
+          <div class="column-25 standard-box">Somme restant due TTC</div>
+          <div class="column-25 standard-box">TVA
+            à <%= display_france_number_percentage @business_contract&.business_contract_versions&.last&.vat_rate&.rate %></div>
+          <div class="column-25 standard-box">Total général TTC</div>
+        </div>
+        <div class="column-max">
+          <div class="column-25 standard-blank-box cls_003"><%= display_currency @business_contract&.business_contract_versions&.last.advance_payment_euros %></div>
+          <div class="column-25 standard-blank-box cls_004"><%= display_currency (params[:total_amount]&.to_f || 0) - (@business_contract&.business_contract_versions&.last&.advance_payment&.to_f || 0) %></div>
+          <div class="column-25 standard-blank-box cls_004"><%= display_currency params[:vat_amount] %></div>
+          <div class="column-25 standard-blank-box cls_004"><%= display_currency params[:total_amount] %></div>
+        </div>
+        <div class="column-max">
+          <div class="column-4 standard-box cls_003">Dispositions particulières pour le remboursement des frais :</div>
+          <div class="column-6 standard-blank-box cls_003"><%= @business_contract&.business_contract_versions&.last&.expenses_payback_comment %></div>
+        </div>
+        <div class="column-max">
+          <div class="column-4 standard-box cls_003">Modalités de facturation et de paiement :</div>
+          <div style="word-break:break-all;" class="column-6 standard-blank-box cls_003"><%= @business_contract&.business_contract_versions&.last&.payment_comment %></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="column-max padding-top-4">
+        <div class="column-max cls_004 padding-top-4 padding-bottom-2">
+          <span class="orange">4.</span><span class="violet"> Dédit ou abandon.</span></div>
+        <!--					<div class="column-max cls_003 custom-text-box">En cas de dédit par l'entreprise à moins de <%= @business_contract&.business_contract_versions&.last&.notice_period %> jours francs avant le début de l'action mentionnée ci-dessus, ou d'abandon en cours de formation par un ou plusieurs stagiaires, l'organisme remboursera sur le coût total, les sommes qu'il n'aura pas réellement dépensées ou engagées pour la réalisation de la dite action (ArticleL.6353-2 et 6353-1 du code du Travail).</div>-->
+        <div class="column-max cls_003 custom-text-box">
+          Les conditions générales de vente détaillent les conditions de report, d’annulation ou d’abandon de la
+          présente formation ainsi que leur incidence.
+        </div>
+      </div>
+      <div class="column-max padding-top-4">
+        <div class="column-max cls_004 padding-top-4 padding-bottom-2">
+          <span class="orange">5.</span><span class="violet"> Traitement des données personnelles (RGPD) et confidentialité des données clients.</span>
+        </div>
+        <div class="column-max cls_003 custom-text-box">L'EPS OF et le client se garantissent mutuellement que les
+          données personnelles transmises à chacune desdites parties ont été collectées et traitées dans le respect de
+          la règlementation en vigueur applicable à la protection des données personnelles. Chaque Partie garantit à
+          l’autre Partie une stricte confidentialité à l’égard des données, y compris des données personnelles, dont
+          elle aura eu connaissance. Dans le cadre de sa mission, le consultant pourra notamment avoir accès à des
+          données personnelles traitées par le client ou à des données professionnelles strictement confidentielles.
+          L'EPS OF n’a jamais accès à ces données personnelles ou professionnelles. Le consultant est également tenu au
+          strict respect de la confidentialité des données professionnelles et à la protection des données personnelles
+          auxquelles il pourrait avoir accès dans le cadre de son activité auprès du client (détail des engagements des
+          parties accessible à l’adresse suivante : www.itg.fr - Politique de données personnelles de <%= Goxygene::Parameter.value_for_group %>.
+        </div>
+      </div>
+      <div class="column-max padding-top-4">
+        <div class="column-max cls_004 padding-top-4 padding-bottom-2">
+          <span class="orange">6.</span><span class="violet"> Modalité de sanction.</span></div>
+        <div class="column-max cls_003 custom-text-box">Il sera remis au stagiaire une attestation de stage nominative à
+          l'issue de chaque action de formation.
+        </div>
+      </div>
+      <div class="column-max padding-top-4">
+        <div class="column-max cls_004 padding-top-4 padding-bottom-2">
+          <span class="orange">7.</span><span class="violet"> Différents éventuels.</span></div>
+        <div class="column-max cls_003 custom-text-box">Si une contestation ou un différend ne peuvent ëtre réglés à
+          l'amiable, le Tribunal de Commerce de Paris sera seul compétent.
+        </div>
+      </div>
+      <div class="column-max padding-top-4">
+        <div class="column-max cls_004 padding-top-4 padding-bottom-2">
+          <span class="orange">8.</span><span class="violet"> Conditions Générales de Vente.</span>
+        </div>
+        <div class="column-max cls_003 custom-text-box">
+          La présente Convention simple de formation professionnelle est établie selon le respect et l’application des
+          Conditions Générales de Vente.
+        </div>
+      </div>
+    </div>
+
+    <div class="row padding-top-8">
+      <div class="column padding-right-3 cls_004">
+        <div class="column-max border-all-solid-grey margin-bottom-8">
+          <div class="column standard-box">Fait en deux exemplaires :</div>
+          <div class="column standard-blank-box"><%= @business_contract&.itg_establishment&.itg_company&.contact_datum&.city %></div>
+        </div>
+        <div class="column-max signature-box">
+          <div style="text-align:center;" class="column-max standard-box padding-all-4">Pour le client, cachet et
+            signature de la personne habilitée ci-dessus
+          </div>
+          <div class="column-max signature-white-box"></div>
+        </div>
+      </div>
+      <div class="column padding-left-3 cls_004">
+        <div class="column-max border-all-solid-grey margin-bottom-8">
+          <div class="column standard-box">Le :</div>
+          <div class="column standard-blank-box"><%= display_datetime Date.today %></div>
+        </div>
+        <div class="column-max signature-box">
+          <div style="text-align:center;" class="column-max standard-box padding-all-4">pour <%= Goxygene::Parameter.value_for_group %>, signature de la
+            personne habilitée ci-dessus
+          </div>
+          <div class="column-max signature-white-box"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="page-break"></div>
+
+<div class="page-container">
+  <div class="padding-all-4">
+    <%= wicked_pdf_image_tag "goxygene/logo/#{@business_contract.itg_establishment.itg_company_id}.jpg", height: '50px' %>
+  </div>
+
+  <div class="padding-all-4">
+    <div class="text-center cls_002">
+      <b>Conditions générales de vente</b>
+    </div>
+  </div>
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">1.</span><span class="violet"> Définitions</span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      <b>Client :</b> co-contractant de <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %> tel
+      qu’identifié dans la Convention
+      de formation professionnelle.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      <b>Consultant :</b> formateur en portage salarial auprès
+      de <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %>, désigné
+      dans la Convention de formation professionnelle et qui exécute la mission de
+      formation auprès du Client.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      <b>Convention de formation professionnelle :</b> convention de formation
+      professionnelle incluant les Conditions générales de vente conclue entre
+      <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %> et le Client dans le cadre de la mission
+      du Consultant en
+      portage salarial. Cette convention peut prendre la forme d’une Convention de
+      formation professionnelle en bonne et due forme, d’un bon de commande émis
+      par le Client et validé par <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %> ou d’une
+      facture établie pour la
+      réalisation des actions de formation professionnelle.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      <b>Formation :</b> toute prestation délivrée par le Consultant au Client et faisant
+      l’objet de la Convention de formation professionnelle.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      <b>Formation interentreprises :</b> Formation réalisée dans les locaux de
+      <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %> ou dans des locaux mis à la disposition
+      de <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %>
+      par tout tiers et/ou à distance.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      <b>Formation intra-entreprise :</b> Formation conçue à la demande et pour les
+      besoins spécifiques du Client, réalisée soit dans les locaux du Client, soit dans les
+      locaux mis à la disposition du Client par tout tiers et/ou à distance.
+    </div>
+  </div>
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">2.</span><span class="violet"> Objet et champ d’application</span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Les présentes Conditions Générales définissent les termes et conditions
+      applicables aux Formations.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Les Conditions Générales ne s’appliquent pas aux consommateurs, c’est-à-dire à
+      toute personne physique agissant à des fins qui n’entrent pas dans le cadre de
+      son activité commerciale, industrielle, artisanale ou libérale.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      La Convention de formation professionnelle ou ses annexes préciseront l’intitulé
+      de la formation, sa nature ou type d’action, sa durée, ses effectifs, les modalités
+      de son déroulement et la sanction de la formation ainsi que son prix et les
+      contributions financières éventuelles de personnes publiques.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Toute Convention de formation professionnelle sera établie selon les dispositions
+      légales et réglementaires en vigueur et plus précisément suivant les articles
+      L6353-1 et L6353-2 du Code du travail.
+    </div>
+  </div>
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">3.</span><span class="violet"> Documents contractuels</span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Aucune dérogation aux Conditions Générales n’est
+      opposable à <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %> si elle n’a pas été
+      expressément acceptée par écrit
+      par celle-ci.
+    </div>
+  </div>
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">4.</span><span class="violet"> Date de formation - Report / annulation d’une Formation</span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      4.1 Les Dates de Formation sont fixées d’un commun accord et de façon ferme et
+      définitive entre le Consultant et le Client. Elles figurent à la Convention de
+      formation professionnelle
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      4.2. Report / annulation d’une Formation par Le Consultant.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Le Consultant se réserve la possibilité d’annuler ou de reporter des Formations
+      planifiées sans indemnités, sous réserve d’en informer le Client avec un préavis
+      raisonnable. Dans le cas où elle serait annulée sans avoir démarrée l’acompte
+      serait remboursable au Client sur simple demande. En cas d’annulation après
+      démarrage le prix de la formation serait dû au prorata du temps effectué et
+      incluant les frais fixes non remboursables.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      4.3. Report / Annulation d’une Formation par le Client
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Toute Formation ou cycle commencé est dû en totalité, sauf accord contraire
+      exprès du Consultant.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      En cas de report ou annulation par le Client d’une Formation planifiée en
+      commun, des indemnités compensatrices sont dues par le Client dans les
+      conditions suivantes :
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - report ou annulation communiqué au moins 30 jours ouvrés avant la date de
+      Formation : aucune indemnité sauf les coûts pédagogiques et frais annexes non
+      annulables.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - report ou annulation communiqué moins de 30 jours et au moins 15 jours
+      ouvrés avant la date de Formation : 30% du prix sera facturé au Client ainsi que
+      les coûts pédagogiques et frais annexes non annulables.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - report ou annulation communiqué moins de 15 jours ouvrés avant la session :
+      75% du prix de la Formation sera facturé au Client ainsi que les coûts
+      pédagogiques et frais annexes non annulables.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      4.4 Toute décision d’annulation d’une Formation à l’initiative du Client devra être
+      communiquée par écrit à <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %> dans les
+      conditions qui suivent :
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - Pour les Formations Inter et/ou Intra entreprises : La décision du Client devra
+      être communiquée au moins quinze (15) jours calendaires avant le début de la
+      Formation. A défaut, 100% du montant de la Formation restera immédiatement
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      exigible à titre d’indemnité forfaitaire ainsi que les coûts pédagogiques et frais
+      annexes non annulables.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - Pour les cycles et parcours : La décision du Client devra être communiquée au
+      moins quinze (15) jours calendaires avant le début de la Formation. A défaut,
+      50% du montant de la formation restera immédiatement exigible à titre
+      d’indemnité forfaitaire ainsi que les coûts pédagogiques et frais annexes non
+      annulables.
+    </div>
+  </div>
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">5.</span><span class="violet"> Remplacement d’un participant</span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Le Client fournit à <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %> la liste nominative
+      des participants au moins
+      48h avant la date de début de Formation figurant à la Convention de formation
+      professionnelle.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Sauf exception, sur demande écrite parvenant 48h avant le début de la
+      Formation, le Client a la possibilité de remplacer un participant sans facturation
+      supplémentaire.
+    </div>
+  </div>
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">6.</span><span class="violet"> Refus de former</span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %> se réserve la possibilité de refuser une
+      Formation dans le cas
+      où le Client n’aurait pas réglé dans son intégralité une précédente Formation
+      quelle ait été exécutée par le même Consultant ou un autre Consultant, sans
+      engager sa responsabilité, et sans que le Client puisse prétendre à une
+      quelconque indemnité, pour quelque raison que ce soit.
+    </div>
+  </div>
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">7.</span><span class="violet"> Prix et règlements</span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Tous les prix sont indiqués en euros et hors taxes. Ils sont à majorer de la TVA au
+      taux en vigueur au jour de l’émission de la facture correspondante.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Les factures sont payables trente (30) jours calendaires à compter de la date
+      d’émission de la facture, sans escompte et à l’ordre
+      de <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %>.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Tout paiement intervenant postérieurement aux dates d’échéances figurant sur
+      nos factures donnera lieu à des pénalités de retard égales à trois fois le taux
+      d’intérêt légal en vigueur ainsi qu’à une indemnité forfaitaire pour frais de
+      recouvrement de 40 euros.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Ces pénalités sont exigibles de plein droit, sans mise en demeure préalable, dès
+      le premier jour de retard de paiement par rapport à la date d’exigibilité du
+      paiement.
+    </div>
+  </div>
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">8.</span><span class="violet"> Règlement par un Opérateur de Compétences</span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Si le Client souhaite que le règlement soit effectué par l’Opérateur de
+      Compétences dont il dépend, il lui appartient :
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - de faire une demande de prise en charge avant le début de la Formation et de
+      s’assurer de la bonne fin de cette demande ;
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - de l’indiquer explicitement sur son bulletin d’inscription ou sur son bon de
+      commande ;
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - de s’assurer de la bonne fin du paiement par l’Opérateur de Compétences qu’il
+      aura désigné.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Si l’Opérateur de Compétences ne prend en charge que partiellement le coût de
+      la Formation, le reliquat sera facturé au Client.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Si <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %> n’a pas reçu la prise en charge de
+      l’Opérateur de
+      Compétences au 1er jour de la Formation, le Client sera facturé de l’intégralité du
+      coût de la Formation concernée par ce financement.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      En cas de non-paiement par l’Opérateur de Compétences, pour quelque motif
+      que ce soit, le Client sera redevable de l’intégralité du coût de la Formation et
+      sera facturé du montant correspondant.
+    </div>
+  </div>
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">9.</span><span class="violet"> Obligations et Responsabilité d’<%= @business_contract&.itg_establishment&.itg_company&.corporate_name %></span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Le Consultant s’engage à fournir la Formation avec diligence et soin raisonnables.
+      S’agissant d’une prestation intellectuelle, le Consultant n’est tenu qu’à une
+      obligation de moyens.
+    </div>
+  </div>
+
+</div>
+
+<div class="page-break"></div>
+
+<div class="page-container">
+  <div class="padding-all-4">
+    <%= wicked_pdf_image_tag "goxygene/logo/#{@business_contract.itg_establishment.itg_company_id}.jpg", height: '50px' %>
+  </div>
+
+  <div class="column-max padding-top-4">
+<!--    <div class="column-max cls_004 padding-top-4 padding-bottom-4">-->
+<!--      <span class="orange">9.</span><span class="violet"> Obligations et Responsabilité d’<%#= @business_contract&.itg_establishment&.itg_company&.corporate_name %></span>-->
+<!--    </div>-->
+<!--    <div class="column-max cls_003 custom-text-box padding-bottom-2">-->
+<!--      Le Consultant s’engage à fournir la Formation avec diligence et soin raisonnables.-->
+<!--      S’agissant d’une prestation intellectuelle, le Consultant n’est tenu qu’à une-->
+<!--      obligation de moyens.-->
+<!--    </div>-->
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      En conséquence, <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %> sera responsable
+      uniquement des dommages
+      directs résultant d’une mauvaise exécution des prestations de Formation, à
+      l’exclusion de tout dommage immatériel ou indirect consécutifs ou non.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      En toutes hypothèses, la responsabilité globale
+      de <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %>, au titre ou à
+      l'occasion de la Formation, sera limitée au prix total de la Formation.
+    </div>
+  </div>
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">10.</span><span class="violet"> Obligations du Client</span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Le Client s'engage à :
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - payer le prix de la Formation ;
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - n'effectuer aucune reproduction de matériel ou documents ainsi que des
+      supports de Formation dont les droits d'auteur appartiennent au Consultant, sans
+      l'accord écrit et préalable du Consultant ; et
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - ne pas utiliser de matériel d'enregistrement audio ou vidéo lors des Formations,
+      sans l'accord écrit et préalable du Consultant.
+    </div>
+  </div>
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">11.</span><span class="violet"> E-Learning</span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Dans le cadre d’une formation à distance, le Consultant accorde, le cas échéant,
+      au Client une licence d’utilisation non exclusive, incessible et non transférable de
+      ses contenus de formation à distance, ci-après le « Module ».
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      L’ensemble des Modules seront mis à la disposition du Client, dans un portail elearning, après la conclusion de
+      la Convention de formation professionnelle.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      L’accès aux Modules est géré par les plateformes e-learning.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Le cas échéant, un identifiant et un mot de passe sont communiqués au Client
+      pour chacun des participants sur la base des informations fournies par le Client
+      (nom, prénom, e-mail). L’identifiant et le mot de passe sont confidentiels,
+      personnels, incessibles et intransmissibles.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Le Client est responsable de la gestion et de la conservation des identifiants et
+      mots de passe. En conséquence, il appartient au Client de mettre en œuvre
+      toutes mesures de précaution nécessaires à leur protection et à leur
+      conservation. Le Client est responsable des conséquences de leur utilisation.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %> ne pourra en aucun cas être tenue pour
+      responsable de toute
+      utilisation frauduleuse de l’identifiant et du mot de passe du Client en ce compris
+      ceux des participants.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Le Client s’engage à informer le Consultant de toute utilisation frauduleuse de
+      l’identifiant et du mot de passe dès qu’il en a connaissance.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Le Client disposera d’un délai communiqué par le Consultant pour utiliser les
+      licences d’utilisation des Modules. Passé ce délai, la(les) licence(s) d’utilisation
+      consentie cessera(ont) immédiatement.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      L’hébergement des Modules sur les plateformes du Client et/ou la création de
+      contenus digitaux sur mesure font l’objet de dispositions spécifiques à négocier
+      entre les parties.
+    </div>
+  </div>
+
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">12.</span><span class="violet"> Confidentialité et Propriété Intellectuelle</span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Il est expressément convenu que toute information divulguée par
+      <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %> au titre ou à l’occasion de la Formation
+      doit être considérée
+      comme confidentielle (ci-après « Informations ») et ne peut être communiquée à
+      des tiers ou utilisée pour un objet différent de celui de la Formation, sans l’accord
+      préalable écrit du Consultant.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Le droit de propriété sur toutes les Informations que le Consultant divulgue, quel
+      qu’en soit la nature, le support et le mode de communication, dans le cadre ou à
+      l’occasion de la Formation, appartient exclusivement au Consultant. En
+      conséquence, le Client s’engage à conserver les Informations en lieu sûr et à y
+      apporter au minimum, les mêmes mesures de protection que celles qu’il applique
+      habituellement à ses propres informations. Le Client se porte fort du respect de
+      ces stipulations de confidentialité et de conservation par les participants.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      La divulgation d’Informations par le Consultant ne peut en aucun cas être
+      interprétée comme conférant de manière expresse ou implicite un droit
+      quelconque (aux termes d’une licence ou par tout autre moyen) sur les
+      Informations ou autres droits attachés à la propriété intellectuelle et industrielle,
+      propriété littéraire et artistique (copyright), les marques ou le secret des affaires.
+      Le paiement du prix n’opère aucun transfert de droit de propriété intellectuelle
+      sur les Informations.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Par dérogation, le Consultant accorde au participant, sous réserve des droits des
+      tiers, une licence d’utilisation non exclusive, non-cessible et strictement
+      personnelle du support de formation fourni, et ce quel que soit le support. Le
+      participant a le droit d’effectuer une photocopie de ce support pour son usage
+      personnel à des fins d’étude, à condition que la mention des droits d’auteur du
+      Consultant ou toute autre mention de propriété intellectuelle soient reproduites
+      sur chaque copie du support de formation. Le participant et le Client n’ont pas le
+      droit, sauf accord préalable du Consultant :
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - d'utiliser, copier, modifier, créer une œuvre dérivée et/ ou distribuer le support
+      de formation à l’exception de ce qui est prévu aux présentes Conditions
+      Générales ;
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - de désassembler, décompiler et/ou traduire le support de formation, sauf
+      dispositions légales contraires et sans possibilité de renonciation contractuelle ;
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - de sous licencier, louer et/ou prêter le support de formation ;
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - d’utiliser à d’autres fins que la formation le support associé.
+    </div>
+  </div>
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">13.</span><span class="violet"> Ethique</span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      13.1 Le Client garantit que ni lui ni aucune personne sous sa responsabilité ou
+      agissant en son nom ou pour son compte n’a accordé ni n’accordera d’offre, de
+      rémunération ou de paiement ou avantage d'aucune sorte, constituant ou
+      pouvant constituer selon la règlementation applicable à la Convention de
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      formation professionnelle et aux parties un acte ou une tentative de corruption
+      ou de trafic d’influence, directement ou indirectement, en vue ou en contrepartie
+      de l'attribution d’un avantage (ci-après les « Actes de Corruption »). Le Client
+      s’assurera qu’une enquête sera menée avec diligence en cas de preuve ou
+      soupçon relatif à la commission d’un Acte de Corruption et sera signalée à
+      <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %>.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      13.2 Le Client garantit :
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - que lui-même et toutes les personnes sous sa responsabilité ou agissant en son
+      nom ou pour son compte, ont connaissance et se conforment à toutes les lois et
+      réglementations sur la lutte contre la corruption qui leur sont applicables ;
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - qu’il a mis en œuvre des règles et procédures permettant de se conformer
+      auxdites lois et réglementations ;
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - qu’il a mis en place des règles et procédures appropriées visant à prévenir la
+      commission d’Actes de Corruption, par lui-même et par les personnes sous sa
+      responsabilité ou agissant en son nom ou pour son compte ;
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - que les archives relatives à ses activités, y compris les documents comptables,
+      sont tenues et conservées de manière à garantir leur intégrité.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      13.3 Tout manquement à une des obligations ci-dessus ouvrira le droit pour
+      <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %> de résilier immédiatement la Convention
+      de
+      formation
+      professionnelle et/ou de demander le paiement de dommages et intérêts
+    </div>
+  </div>
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">14.</span><span class="violet"> Protection des données personnelles</span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Dans le cadre de la réalisation des Formations et de l’exécution des Conventions
+      de formation professionnelles, le Consultant est amené à collecter des données à
+      caractère personnel. Ces données peuvent être partagées avec
+      <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %>, des sociétés du
+      groupe <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %> et éventuellement
+      avec des sociétés tierces (prestataires, sous-traitants…) pour le strict besoin des
+      Formations et de l’exécution des Conventions de formation professionnelles.
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      En outre les personnes concernées disposent, dans certaines conditions, sur les
+      données personnelles les concernant d’un droit d’accès, de rectification,
+      d’effacement, de limitation, de portabilité, et d’opposition. Les personnes
+      concernées seront susceptibles de faire valoir leurs droits directement auprès du
+      Consultant ou de l’éventuel prestataire ou sous-traitant, qui s’engage à y
+      répondre dans les délais règlementaires et à en
+      informer <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %>, en
+      écrivant à l’adresse suivante : <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %>, 18 rue
+      de
+      la Ville l’Evêque,
+      75008 Paris
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Conformément à l’exigence essentielle de sécurité des données personnelles, le
+      Consultant s’engage dans le cadre de l’exécution de ses Formations à prendre
+      toutes mesures techniques et organisationnelles utiles afin de préserver la
+      sécurité et la confidentialité des données à caractère personnel et notamment
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      d’empêcher qu’elles ne soient déformées, endommagées, perdues, détournées,
+      corrompues, divulguées, transmises et/ou communiquées à des personnes non
+      autorisées. Par conséquent, le Consultant s’engage à :
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - Ne traiter les données personnelles que pour le strict besoin des Formations ;
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - Conserver les données personnelles pendant trois (3) ans ou une durée
+      supérieure si requis pour se conformer aux obligations légales, résoudre
+      d’éventuels litiges et faire respecter les engagements contractuels ;
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - En cas de sous-traitance, le Consultant se porte fort du respect par ses soustraitants de tous ses engagements
+      en
+      matière de sécurité et de protection des
+      données personnelles et communique les coordonnées des sous-traitants à
+      <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %>
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      - Enfin, dans le cas où les données à caractère personnel seraient amenées à être
+      transférées hors de l’union européenne, il est rappelé que cela ne pourra se faire
+      sans l’accord du Client et/ou de la personne physique concernée.
+    </div>
+  </div>
+
+</div>
+
+<div class="page-break"></div>
+
+<div class="page-container">
+  <div class="padding-all-4">
+    <%= wicked_pdf_image_tag "goxygene/logo/#{@business_contract.itg_establishment.itg_company_id}.jpg", height: '50px' %>
+  </div>
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">15.</span><span class="violet"> Force majeure</span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      La force majeure s’entend de tout évènement extérieur à l’une des Parties,
+      échappant à son contrôle, présentant un caractère à la fois imprévisible et
+      irrésistible et reconnu comme tel par la jurisprudence des tribunaux français. Les
+      cas de force majeure suspendent temporairement l’exécution de la Convention
+      de formation professionnelle. La Partie invoquant un cas de force majeure doit,
+      sous peine de ne pouvoir s’en prévaloir, informer l’autre Partie dans les 48 heures
+      suivant la survenance de l’évènement, en justifiant de son caractère imprévisible,
+      irrésistible, échappant à son contrôle, la mettant selon elle dans l’impossibilité de
+      respecter ses obligations, en indiquant les dispositions prises ou qu’elle estime
+      nécessaire de prendre alors qu’elle est dans l’impossibilité de le faire par ellemême, ainsi que la durée
+      prévisible
+      du cas de force majeure. Dans tous les cas,
+      la Partie empêchée doit faire tout ce qui est en son pouvoir pour limiter la durée
+      et les effets de la force majeure. A l’issue de l’évènement, les conditions de la
+      Convention de formation professionnelle seront redéfinies entre les Parties. Si
+      l'empêchement est définitif, la Convention de formation professionnelle est résolu
+      de plein droit et les Parties sont libérées de leurs obligations dans les conditions
+      prévues aux articles 1351 et 1351-1 du Code civil. En cas de prolongation de
+      l’évènement au-delà d’une période d’un (1) mois, l’une ou l’autre des Parties,
+      pourra résilier la Convention de formation professionnelle par lettre
+      recommandée avec avis de réception.
+    </div>
+  </div>
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">16.</span><span class="violet"> Communication</span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Le Client autorise expressément le groupe <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %>
+      à
+      mentionner son
+      nom, son logo et à faire mention à titre de référence de la conclusion d’une
+    </div>
+
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Convention de formation professionnelle et de toute opération découlant de son
+      application dans l’ensemble de leurs documents commerciaux.
+    </div>
+  </div>
+
+  <div class="column-max padding-top-4">
+    <div class="column-max cls_004 padding-top-4 padding-bottom-4">
+      <span class="orange">17.</span><span class="violet"> Loi applicable et juridiction</span>
+    </div>
+    <div class="column-max cls_003 custom-text-box padding-bottom-2">
+      Les Conventions de formation professionnelle et tous les rapports entre
+      <%= @business_contract&.itg_establishment&.itg_company&.corporate_name %> et le Client relèvent de la Loi
+      française.
+      Tous litiges qui ne
+      pourraient être réglés à l’amiable dans un délai de soixante (60) jours à partir de
+      la date de la première présentation de la lettre recommandée avec accusé de
+      réception, que la partie qui soulève le différend devra avoir adressée à l’autre,
+      seront de la compétence exclusive du tribunal compétent de Paris quel que soit le
+      siège social du Client, nonobstant pluralité de défendeurs ou appel en garantie.
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+<div id="headerH" style="background: none; padding: 0">
+  <div id="user-account" class="navbar-collapse collapse pull-right" style="display: block !important; padding: 0; border: none;">
+    <ul class="nav navbar-nav navbar-right">
+
+      <% if impersonating? %>
+        <li class="user-icon dropdown">
+          <div class="dropdown-toggle" data-toggle="dropdown">
+            <%= link_to fa_icon('eye-slash'), stop_impersonating_users_path(device: params[:device]), method: :post, class: 'text-white' %>
+          </div>
+        </li>
+      <% else %>
+        <li class="user-icon dropdown">
+          <div class="dropdown-toggle" data-toggle="dropdown">
+            <a href="user-account-menu"><%= image_tag('bureau_consultant/icon-mobile-nav-user', class: 'mobile-nav-icon') %></a>
+          </div>
+          <ul class="dropdown-menu popover-menu">
+            <li><a rel="nofollow" data-method="delete" href="<%= main_app.destroy_cas_authentication_session_path(device: params[:device]) %>">DÉCONNEXION</a></li>
+          </ul>
+        </li>
+      <% end %>
+    </ul>
+  </div>
+</div>

@@ -1,0 +1,65 @@
+<div class="row">
+  <div class="col-xs-12">
+    <div class="article-left-white-bg m-b-0">
+      <div class="padding-left-right">
+        <div class="article-header p-t-15">
+          <div class="new-article-header-title" style="line-height: 1.2; font-size: 22px;">
+            <%= @article.title %>
+          </div>
+
+          <div class="m-t-20">
+            <%= raw(@article.chapo) %>
+          </div>
+
+          <% if @article.image.present? %>
+            <div class="m-t-20">
+              <%= image_tag @article.image.url, onerror: 'this.error=null;this.src="/assets/bureau_consultant/itg-logo.png"', size: '650x300' %>
+            </div>
+          <% end %>
+
+          <div class="m-t-20">
+            <%= raw(@article.text) %>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<%= render 'bureau_consultant/shared/mobile_top_nav',
+           nav_color: '#f2ab1d',
+           nav_title: @article.title.truncate(40),
+           nav_left: link_to(image_tag('bureau_consultant/icon-mobile-nav-back', class: 'mobile-nav-icon'), '#', onclick: 'navGoBack();'),
+           nav_right: link_to(image_tag('bureau_consultant/icon-mobile-nav-close', class: 'mobile-nav-icon'), home_index_path) %>
+
+<style>
+  .mobile-app .news-filter {
+    font-size: 14px;
+  }
+
+  .mobile-app .news-filter-list span {
+    padding: 3px 6px;
+  }
+
+  .mobile-app .news-filter {
+    padding: 15px;
+  }
+
+  .mobile-app .news .item .border-another-article-body img.img-responsive {
+    width: 100%;
+  }
+
+  .mobile-app .border-another-article-title {
+    padding-top: 0;
+    min-height: auto;
+    margin-top: 5px;
+  }
+
+  .mobile-app .another-article-header-title-wrapper {
+    height: auto;
+    overflow: auto;
+    padding-bottom: 10px;
+  }
+</style>

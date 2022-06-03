@@ -1,0 +1,7 @@
+wb = xlsx_package.workbook
+wb.add_worksheet(name: "Avance") do |sheet|
+  sheet.add_row ["Date", "Montant", "Etat"]
+  @advances.each do |wage_advance|
+    sheet.add_row [wage_advance.formated_date, wage_advance.amount, "Fait"]
+  end
+end

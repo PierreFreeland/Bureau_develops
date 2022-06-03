@@ -1,0 +1,19 @@
+<%= render partial: 'layouts/bureau_consultant/loading_modal' %>
+
+<% if @commercial_contract.errors.any? || !@errors.blank? %>
+    <div id="error_explanation" class="alert alert-danger">
+      <ul>
+        <% @commercial_contract.errors.full_messages.each do |message| %>
+            <li><%= message %></li>
+        <% end %>
+        <% if @errors %>
+	        <% @errors.each do |message| %>
+            <% next if @commercial_contract.errors.full_messages.include? message %>
+            <li><%= message %></li>
+	        <% end %>
+	    <% end %>
+      </ul>
+    </div>
+<% end %>
+
+<%= render partial: 'form_new', locals: { commercial_contract: @commercial_contract, action: 'preview_form'} %>

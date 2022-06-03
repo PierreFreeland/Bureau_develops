@@ -1,0 +1,18 @@
+<% has_errors = object.errors.any? %>
+<% show_error = params[:activity_id].present? ? \
+                has_errors && an_activity.id.to_s == params[:activity_id].to_s : \
+                has_errors %>
+
+<% if show_error %>
+  <div class="col-xs-12 m-t-15 padding-left-right-x2">
+    <div id="error_explanation" class="alert alert-danger">
+      <ul>
+        <% object.errors.full_messages.each do |message| %>
+          <li><%= message %></li>
+        <% end %>
+      </ul>
+    </div>
+  </div>
+<% end %>
+
+

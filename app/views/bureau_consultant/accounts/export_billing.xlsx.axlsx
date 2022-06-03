@@ -1,0 +1,14 @@
+wb = xlsx_package.workbook
+wb.add_worksheet(name: "Compte de Facturation") do |sheet|
+  sheet.add_row ["Date","Nature", "Pièce", "Libellé", "Débit", "Crédit", "Solde", "Lettré"]
+  @accounts.each do |account|
+    sheet.add_row [set_datetime_format(account.date),
+                   account.journal,
+                   account.id,
+                   account.label,
+                   account.debit,
+                   account.credit,
+                   account.balance,
+                   account.lettree]
+  end
+end

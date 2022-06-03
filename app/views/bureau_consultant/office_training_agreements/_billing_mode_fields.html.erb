@@ -1,0 +1,49 @@
+<div class="form-group <%= 'hide' if @office_training_agreement.is_flat_rate? %>" id="time-length-div">
+  <%= f.label :time_length, t('office_training_agreements.time_length'), class: 'control-label col-sm-5 custom-require-label' %>
+  <div class="col-sm-7">
+    <%= f.text_field :time_length,  class: 'number-field form-control custom-require-label',
+                                    id:'time-length-input',
+                                    validate: true,
+                                    onchange: 'calculate_order_amount()' %>
+  </div>
+</div>
+
+<div class="form-group">
+  <%= f.label :time_hours_length, t('office_training_agreements.time_hours_length'), class: 'control-label col-sm-5 custom-require-label' %>
+  <div class="col-sm-7">
+    <%= f.text_field :time_hours_length,  class: 'number-field form-control custom-require-label',
+                     validate: true,
+                     onchange: 'calculate_order_amount()' %>
+  </div>
+</div>
+
+<div class="form-group <%= 'hide' if @office_training_agreement.is_flat_rate? %>" id="daily-order-amount-div">
+  <%= f.label :daily_order_amount, t('office_training_agreements.daily_order_amount'), class: 'control-label col-sm-5 custom-require-label' %>
+  <div class="col-sm-7">
+    <%= f.text_field :daily_order_amount, class: 'number-field form-control',
+                                  id: 'daily-order-amount-input',
+                                  validate: { presence: true, numericality: true  },
+                                  onchange: 'calculate_order_amount()',
+                                  disabled: @office_training_agreement.is_flat_rate? ? true: false %>
+  </div>
+</div>
+
+<div class="form-group" id="billing-without-vat-div">
+  <%= f.label :order_amount, t('office_training_agreements.order_amount_ht'), class: 'control-label col-sm-5' %>
+  <div class="col-sm-7">
+    <%= f.text_field :order_amount, class: 'number-field form-control',
+                                           id: 'billing-without-vat-input',
+                                           readonly: @office_training_agreement.is_flat_rate? ? false: true,
+                                           validate: { presence: false, numericality: false  } %>
+  </div>
+</div>
+
+<div class="form-group <%= 'hide' unless @office_training_agreement.is_flat_rate? %>" id="time-length-approx-div">
+  <%= f.label :time_length_approx, t('office_training_agreements.time_length_approx'), class: 'control-label col-sm-5' %>
+  <div class="col-sm-7">
+    <%= f.text_field :time_length_approx, class: 'number-field form-control',
+                                           id: 'time-length-approx-input',
+                                           validate: false,
+                                           disabled: @office_training_agreement.is_flat_rate? ? false: true %>
+  </div>
+</div>

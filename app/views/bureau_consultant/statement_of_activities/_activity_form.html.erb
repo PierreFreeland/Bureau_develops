@@ -1,0 +1,259 @@
+<div class="row text-verticle-middle  hidden-xs">
+  <div class="col-xs-10 p-t-15">
+      <span class="">
+        <i class="fa fa-square text-violet btn-no-rounded"></i>
+      </span>
+    <span class="p-l-5 p-r-5 border-right border-grey"><%= l an_activity.date.to_date %></span>
+    <span class="p-l-5 p-r-5 border-right border-grey"><%= an_activity.time_span %> j</span>
+    <span class="p-l-5 p-r-5 border-right border-grey text-bold text-violet"><%= an_activity.activity_type.label %></span>
+    <span class="p-l-5 p-r-5" <%= tab_label_popover(an_activity.label, chars: 18) %>><%= an_activity.label.to_s.truncate(18) %></span>
+
+    <% if an_activity.have_luncheon_vouchers? %>
+      <span class="m-l-10">
+        <div class="badge badge-primary"><%= fa_icon 'check', text: 'Ticket restaurant demandé' %></div>
+      </span>
+    <% end %>
+  </div>
+
+  <div class="clearfix"></div>
+
+
+  <% if an_activity.has_expenses_allowed %>
+    <div class="padding-left-right m-t-15">
+      <div class="row padding-left-right">
+        <% @mission_expense = an_activity.office_activity_report_expenses.new unless @mission_expense.present? %>
+
+        <%= form_for @mission_expense,
+                     validate: false,
+                     url: update_expense_statement_of_activities_path(activity_id: an_activity.id,
+                                                                      expense_id: @mission_expense.id),
+                     html: { id: "form-#{an_activity.id}"} do |f| %>
+
+          <div class="form-error">
+            <%= render partial: 'form_error', locals: { object: @mission_expense, an_activity: an_activity } %>
+          </div>
+
+          <table class="table borderless not-show-error-pls text-center select-horizontal expenses">
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td class="text-grey">Frais TTC</td>
+              <td class="text-grey">TVA</td>
+              <td class="text-grey">KM</td>
+            </tr>
+
+            <% an_activity.office_activity_report_expenses.order(:proof_of_expense_number).select(&:persisted?).each do |expense| %>
+
+              <% if action_name == 'manage_mission_expense' &&
+                  an_activity.id == params[:activity_id].to_i &&
+                  expense.id == params[:expense_id].to_i %>
+                <tr class="activity-form text-center">
+                  <%= render 'edit_expense', an_activity: an_activity, expense: expense, form: f %>
+                </tr>
+              <% elsif action_name == 'update_expense' &&
+                  an_activity.id == params[:activity_id].to_i &&
+                  expense.id == params[:expense_id].to_i %>
+                <tr class="activity-form text-center">
+                  <%= render 'edit_expense', an_activity: an_activity, expense: expense, form: f %>
+                </tr>
+              <% else %>
+                <tr class="expense" style="<%= 'text-decoration: line-through;' if an_activity.rejected? %>">
+                  <%= render 'activity_expense', an_activity: an_activity, expense: expense %>
+                </tr>
+              <% end %>
+            <% end %>
+
+
+            <% if action_name != 'manage_mission_expense' && \
+                ['manage_mission','update_batch_expense'].include?(action_name) ||
+                action_name == 'update_expense' && @mission_expense.id.nil? %>
+
+              <% unless an_activity.rejected? %>
+
+                <tr class="text-center activity-form">
+                  <td></td>
+                  <td>
+                    <%= f.select :expense_type_id,
+                                 options_for_select(current_consultant.allowed_expense_types.for_activities.collect {|expense_type|
+                                   [
+                                       expense_type.label,
+                                       expense_type.id,
+                                       {
+                                           'data-is-distance' => expense_type.is_kilometers,
+                                           'data-has-vat' => expense_type.has_vat,
+                                       }
+
+                                   ]
+                                 }.rotate(1),
+                                                    selected: an_activity.id.to_s == params[:activity_id].to_s ? @mission_expense.expense_type_id : current_consultant.selected_option_for_expense_types),
+                                 {},
+                                 class: 'type-activite-select custom-dropdown-icon select-box-no-rounded field-taller select-expense-type'
+                    %>
+                  </td>
+
+                  <td class="">
+                    <%= f.text_field :label,
+                                     value: an_activity.id.to_s == params[:activity_id].to_s ? @mission_expense.label : '',
+                                     id: "statement_of_activities_request_line_expense_label_#{an_activity.id}",
+                                     class: 'input-no-rounded form-control field-taller expense-label input-thinner',
+                                     maxlength: 90,
+                                     placeholder: 'Libellé'
+                    %>
+                  </td>
+
+                  <td class="statement_of_activities_line_amount_field">
+                    <%= f.text_field :total,
+                                     value: an_activity.id.to_s == params[:activity_id].to_s ? @mission_expense.total : '',
+                                     id: "statement_of_activities_request_line_expense_with_vat_#{an_activity.id}",
+                                     class: 'number-field input-no-rounded form-control field-taller',
+                                     placeholder: 'TTC' %>
+                  </td>
+
+                  <td class="vat-container">
+                    <%= f.text_field :vat,
+                                     value: an_activity.id.to_s == params[:activity_id].to_s ? @mission_expense.vat : '',
+                                     class: 'number-field input-no-rounded form-control field-taller',
+                                     placeholder: 'TVA' %>
+                  </td>
+
+                  <td class="statement_of_activities_line_distance_field">
+                    <%= f.text_field :kilometers,
+                                     value: an_activity.id.to_s == params[:activity_id].to_s ? @mission_expense.kilometers : '',
+                                     class: 'number-field input-no-rounded form-control field-taller',
+                                     placeholder: 'kilomètres' %>
+                  </td>
+                  <td></td>
+                  <td></td>
+                  <td>
+                    <%= link_to '#', :onclick => "if (!formSubmitted) { formSubmitted = true; $(this).closest('form').submit() }; return false;" do %>
+                      <i class="fa fa-check btn-icon-form bg-orange text-white submit-icon vertical-center"
+                         data-toggle="popover"
+                         data-html="true"
+                         data-trigger="hover"
+                         data-container="body"
+                         data-placement="auto top"
+                         data-content="Valider votre frais">
+                        >
+                      </i>
+                    <% end %>
+                  </td>
+                </tr>
+
+              <% end %>
+
+            <% end %>
+
+          </table>
+        <% end %>
+      </div>
+    </div>
+  <% end %>
+</div>
+
+
+<div class="visible-xs">
+  <div class="col-xs-12">
+    <div class="content">
+      <div class="col-xs-12 align-center m-b-20" style="border-bottom: 1px solid <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>; ">
+        <span class="text-bold text-violet"><%= an_activity.activity_type.label %></span>
+      </div>
+
+      <div class="col-xs-4">
+        <span class=""><%= l an_activity.date.to_date %></span>
+      </div>
+      <div class="col-xs-3">
+        <span class=""><%= an_activity.time_span %> j</span>
+      </div>
+
+      <% if an_activity.has_expenses_allowed %>
+        <div class="col-xs-5 pull-right">
+          <%= link_to '+ FRAIS', manage_mission_expense_statement_of_activities_path(activity_id: an_activity.id),
+                      class: 'btn-frais btn btn-orange btn-no-rounded
+                            add-expense-btn btn-no-margin btn-xs' +
+                          (params[:activity_id].to_i == an_activity.id ? ' selected' : '')
+          %>
+        </div>
+      <% end %>
+      <div class="col-xs-12">
+        <span <%= tab_label_popover(an_activity.label, chars: 30) %>><%= an_activity.label.to_s.truncate(30) %></span>
+
+        <% if an_activity.have_luncheon_vouchers? %>
+          <div class="m-t-15">
+            <div class="badge badge-primary"><%= fa_icon 'check', text: 'Ticket restaurant demandé' %></div>
+          </div>
+        <% end %>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12 m-t-20">
+          <% if an_activity.office_activity_report_expenses.any? %>
+            <% an_activity.office_activity_report_expenses.select(&:persisted?).each do |expense| %>
+              <div class="col-xs-12" style="border-top: 1px solid black; ">
+                <div class="m-t-15">
+                  <%= link_to manage_mission_expense_statement_of_activities_path(activity_id: an_activity.id, expense_id: expense.id) do %>
+                    <i class='fa fa-pencil text-white bg-violet icon-for-mobile clickable' aria-hidden='true'
+                       data-toggle="popover"
+                       data-html="true"
+                       data-trigger="hover"
+                       data-container="body"
+                       data-placement="auto top"
+                       data-content="Modifier">
+                    </i>
+                  <% end %>
+
+                  <%= link_to destroy_expense_statement_of_activities_path(activity_id: an_activity.id, expense_id: expense.id), method: :delete, data: {confirm: 'Etes-vous sûr ?'} do %>
+                    <i class='fa fa-trash text-white bg-red icon-for-mobile clickable pull-right' aria-hidden='true'
+                       data-toggle="popover"
+                       data-html="true"
+                       data-trigger="hover"
+                       data-container="body"
+                       data-placement="auto top"
+                       data-content="Supprimer">
+                    </i>
+                  <% end %>
+                </div>
+
+                <div class="expenses m-b-10">
+                  <div class="m-t-10">
+                    <span class="expense_item_number"><%= expense.proof_of_expense_number %></span>. <span class="expense_type"><%= expense.expense_type.try :label %></span>
+                    <span class="pull-right">
+                              <% if expense.kilometers %>
+                                <%= "KM : #{expense.kilometers} ‎KM" %>
+                              <% else %>
+                                <%= "Frais HT : #{expense.total - expense.vat} €" %>
+                              <% end %>
+                            </span>
+                  </div>
+
+                  <div>
+                    <span <%= tab_label_popover(expense.label, chars: 13) %>><%= expense.label.truncate(13) %></span>
+                    <span class="pull-right"><%= "TVA : #{expense.vat} €" %></span>
+                  </div>
+                </div>
+
+              </div>
+            <% end %>
+          <% end %>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+</div>
+
+
+<script>
+    $(document).ready(function () {
+
+        if ($("#<% params[:activity_id] %>").length) {
+
+            $('html, body').animate({
+                scrollTop: $("#<% params[:activity_id] %>").offset().top
+            });
+        }
+
+        initOrginalFormData();
+    });
+</script>

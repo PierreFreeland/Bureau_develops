@@ -1,0 +1,37 @@
+<div class="col-md-2 hidden-xs hidden-sm">
+  <%= render '2_step', step: 2, video_part: 5 %>
+</div>
+
+<div class="step_horizontal visible-sm visible-xs" style="height:100px;">
+  <%= render '2_step_horizontal', step: 2, video_part: 5 %>
+</div>
+
+<div class="col-sm-12 col-md-5">
+  <div class="bg-white synthesis-content-boxes">
+    <div class="align-center p-t-50">
+      <%= image_tag 'bureau_consultant/icon-synthesis-mission', size: '100x100'%>
+      <div class="m-t-20 text-light-violet text-bold">Vous n'avez pas encore saison de frais de mission.</div>
+
+      <div class="m-t-50 text-italic">
+        Commencez en ajoutant des frais liés à des jours d'activité
+      </div>
+
+      <%= image_tag 'bureau_consultant/icon-arrow', size: '100x34', class: 'arrow-left hidden-sm hidden-xs' %>
+    </div>
+  </div>
+</div>
+
+<div class="col-sm-12 col-md-5">
+  <div class="bg-white synthesis-content-boxes">
+    <div class="align-center p-t-50 padding-left-right">
+      <%= image_tag 'bureau_consultant/icon-synthesis-mission', size: '100x100' %>
+      <div class="m-t-20 text-light-violet text-bold">Insérez vos frais de mission par jour d'activité</div>
+
+      <div class="m-t-50 text-italic">
+        Si vous avez inséré tous vos frais de mission pour ce mois, cliquez sur ÉTAPE SUIVANTE.
+      </div>
+
+      <%= image_tag 'bureau_consultant/icon-arrow', size: '100x34', class: 'arrow-right hidden-sm hidden-xs' %>
+    </div>
+  </div>
+</div>

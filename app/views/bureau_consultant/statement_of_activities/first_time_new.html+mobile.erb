@@ -1,0 +1,52 @@
+<div class="row">
+  <div class="col-sm-2 col-md-2 hidden-sm hidden-xs">
+    <%= render 'step', step: 1 %>
+  </div>
+
+  <div class="step_horizontal visible-sm visible-xs col-xs-12">
+    <%= render '3_step_horizontal', step: 1 %>
+  </div>
+
+  <div class="col-xs-12 col-sm-12 col-md-5 m-t-20">
+    <%= render 'top-panel' %>
+    <%= render 'calendar' %>
+  </div>
+
+  <div class="col-xs-12 col-sm-12 col-md-5 set-calendar-tab m-t-20">
+
+   <div class="align-center p-t-100 bg-white hide">
+     <i class="fa fa-file-text fa-4x text-grey"></i>
+     <div class="m-t-10 text-bold">
+         Vous n'avez pas encore saisi<br/>
+         de jours d'activité.
+     </div>
+
+
+     <div class="m-t-20 text-violet" style="min-height: 250px;">
+       <span style="float: left; left:15%; position: relative;">
+         <i class="fa fa-long-arrow-left hidden-xs hidden-sm"></i>
+       </span>
+
+
+       <span>
+         Commencez en cliquant sur un jour <br/>
+         pour lequel vous souhaitez <br/>
+         déclarer votre activité.
+       </span>
+     </div>
+   </div>
+
+    <%= render 'manage_activities_buttons' %>
+
+  </div>
+
+  <%= render 'manage_zipcode' %>
+</div>
+
+<%= render 'zipcode_error' %>
+
+<%= render 'bureau_consultant/shared/mobile_top_nav',
+           nav_color: ENV['HUB_MAIN_COLOR_DARK'] || '#8c2e60',
+           nav_title: 'DÉCLARATION D’ ACTIVITÉ',
+           nav_left: link_to(image_tag('bureau_consultant/icon-mobile-nav-back', class: 'mobile-nav-icon'), '#', onclick: 'navGoBack();'),
+           nav_right: link_to(image_tag('bureau_consultant/icon-mobile-nav-close', class: 'mobile-nav-icon'), home_index_path) %>

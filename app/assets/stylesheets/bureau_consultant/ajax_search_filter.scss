@@ -1,0 +1,21 @@
+.search-form {
+  .well {
+    background: white;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+  }
+
+  .ajax-search-field.loading {
+    &:before {
+      content: ' ';
+      background: image-url('bureau_consultant/ajax-loader.gif');
+      width: 25px;
+      height: 10px;
+      display: block;
+      position: absolute;
+      background-repeat: no-repeat;
+      margin: 11px;
+      right: 8px;
+    }
+  }
+}

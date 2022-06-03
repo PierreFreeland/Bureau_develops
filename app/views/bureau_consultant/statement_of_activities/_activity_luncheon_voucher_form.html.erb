@@ -1,0 +1,34 @@
+<div class="text-verticle-middle hidden-xs">
+  <% activities.each do |an_activity| %>
+    <div class="row">
+      <div class="col-xs-10">
+      <span class="">
+        <i class="fa fa-square text-violet btn-no-rounded"></i>
+      </span>
+        <span class="p-l-5 p-r-5 border-right border-grey"><%= l an_activity.date.to_date %></span>
+        <span class="p-l-5 p-r-5 border-right border-grey"><%= an_activity.time_span %> j</span>
+        <span class="p-l-5 p-r-5 border-right border-grey text-bold text-violet"><%= an_activity.activity_type.label %></span>
+        <span class="p-l-5 p-r-5" <%= tab_label_popover(an_activity.label, chars: 18) %>><%= an_activity.label.to_s.truncate(18) %></span>
+      </div>
+    </div>
+  <% end %>
+
+  <div class="m-t-10 m-l-10 row">
+    <div class="col-lg-3">
+      Totaux des heures de travail : <%= @dda.working_time_span_on(activity_date) %> j
+    </div>
+    <div class="col-lg-9">
+      <% if @dda.can_request_luncheon_voucher_on?(activity_date) %>
+        <%= form.fields_for :office_activity_report_luncheon_vouchers,
+                            @dda.office_activity_report_luncheon_vouchers.select { |v| v.date == activity_date }.first do |voucher| %>
+          <%= voucher.check_box :status, {}, 'validated', 'rejected' %>
+          <%= voucher.label :status, 'Demander un ticket restaurant' %>
+          <%= voucher.hidden_field :date, value: activity_date %>
+        <% end %>
+      <% end %>
+    </div>
+
+  </div>
+
+  <div class="clearfix"></div>
+</div>

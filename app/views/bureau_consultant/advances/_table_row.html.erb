@@ -1,0 +1,14 @@
+<tr class='wage_advance'>
+  <td>
+    <div class="line clearfix">
+      <div class="violet">
+        <input type="checkbox" value="<%= wage_advance.id %>" name="q[id_in][]" class="ids">
+        <span class="custom-checkbox"></span>
+      </div>
+    </div>
+  </td>
+
+  <td class="wage_advance_date"><%= wage_advance.formated_date %></td>
+  <td class="wage_advance_amount"><%= wage_advance.formated_amount %></td>
+  <td class="wage_advance_status"><%= wage_advance.wage_advance_status.text %></td>
+</tr>

@@ -1,0 +1,26 @@
+
+wb = xlsx_package.workbook
+wb.add_worksheet(name: "Salaires") do |sheet|
+  sheet.add_row ["Année",
+                 "Mois",
+                 "Demandé le",
+                 "Heures",
+                 "Prime (€)",
+                 "Brut (€)",
+                 "Charges patronales + Indemnités (€)",
+                 "Net (€)",
+                 "Coût (€)",
+                 "Fait le"]
+  @accounts.each do |account|
+    sheet.add_row [account.year,
+                   account.month,
+                   account.activity_report&.office_activity_report&.consultant_validation,
+                   account.hours,
+                   account.supplementary_gross_wage,
+                   account.gross_wage,
+                   account.cost - account.gross_wage,
+                   account.net_wage,
+                   account.cost,
+                   account.date]
+  end
+end

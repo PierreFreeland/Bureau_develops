@@ -1,0 +1,52 @@
+<tr id="invoice_<%= customer_bills.id %>" class="invoice">
+  <td>
+    <div class="line clearfix">
+      <div class="violet">
+        <input type="checkbox" value="<%= customer_bills.id %>" name="q[id_in][]" class="ids"/>
+        <span class="custom-checkbox"/>
+      </div>
+    </div>
+  </td>
+
+  <td><%= customer_bills.bill_type.text %></td>
+  <td class="invoice_date"><%= set_datetime_format(customer_bills.date) %></td>
+  <td data-toggle="popover"
+      data-html="true"
+      data-trigger="hover"
+      data-placement="auto top"
+      data-container="body"
+      data-content="<%= customer_bills.bill_number %>">
+        <%= customer_bills.bill_number&.truncate(15) %>
+  </td>
+  <td><%= customer_bills.business_contract&.business_contract_versions&.last&.customer_contract_reference %></td>
+  <td class="client"
+      data-toggle="popover"
+      data-html="true"
+      data-trigger="hover"
+      data-placement="auto top"
+      data-container="body"
+      data-content="<%= customer_bills.establishment.name %>">
+       <%= truncate(customer_bills.establishment.name, length: 30) %>
+  </td>
+  <td class="no-wrap"><%= customer_bills.formated_fees %></td>
+  <td class="no-wrap"><%= customer_bills.formated_expenses %></td>
+  <td class="no-wrap"><%= customer_bills.formated_total_without_vat %></td>
+  <td class="no-wrap"
+      data-toggle="popover"
+      data-html="true"
+      data-trigger="hover"
+      data-placement="auto top"
+      data-container="body"
+      data-content="TVA: <%= customer_bills.formated_total_tva %>">
+    <%= customer_bills.formated_total_ttc %></td>
+  <td><%= customer_bills.formated_left_to_pay_euros %></td>
+  <td><%= set_datetime_format(customer_bills.date_paid) %></td>
+  <td>
+    <%= link_to fa_icon('file-pdf-o'),
+                history_show_billings_path(customer_bills.id, format: :pdf),
+                target: :_blank,
+                data: { content: 'Télécharger le PDF', toggle: 'popover', trigger: 'hover', placement: 'auto top' }
+    %>
+  </td>
+
+</tr>

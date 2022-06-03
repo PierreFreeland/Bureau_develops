@@ -1,0 +1,345 @@
+<div class="row m-b-40">
+  <div class="col-xs-12">
+    <div class="row grid-big-right my-services search-page">
+      <div id="col-1-of-4-cols" class="col-left" style="display: none">
+        <div class="content-wrapper bg-white">
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="keyword-search">
+                <h2 class="text-center">RECHERCHER PAR MOTS-CLÉS</h2>
+                <div class="row small-gutter">
+                  <div class="col-xs-7">
+                    <div class="form-group">
+                      <input type="search" class="form-control input-no-rounded" placeholder="Rechercher un service ITG">
+                    </div>
+                  </div>
+                  <div class="col-xs-5">
+                    <input type="submit" class="btn btn-red btn-no-rounded btn-block" value="RECHERCHER">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="discover-block">
+                <h2 class="text-center">DÉCOUVREZ AUSSI :</h2>
+                <ul>
+                  <li class="red-frame">
+                    <a href="#">
+                      <p>Ce mois-ci, découvrez :</p>
+                      <div>ACADÉMIE <%= Goxygene::Parameter.value_for_group %> :<br>
+                        MON PARCOURS DE FORMATION SUR MESURE</div>
+                    </a>
+                  </li>
+                  <li class="red-frame">
+                    <a href="#">
+                      <div class="icon-heart"></div>
+                      <div>MES SERVICES FAVORIS</div>
+                    </a>
+                  </li>
+                  <li class="red-frame active">
+                    <a href="#">
+                      <div class="icon-key-hand"></div>
+                      <div>TOUS LES SERVICES <%= Goxygene::Parameter.value_for_group %></div>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-right" style="width: 100%">
+        <div class="row">
+          <div class="col-xs-12">
+
+            <div class="row grid-big-right">
+              <div id="col-2-of-4-cols" class="col-left" style="display: none">
+                <div class="bg-white">
+
+                  <div class="btn-group-1-col-block m-t-0">
+                    <div class="service-all-wrapper">
+                      <ul class="service-all text-bold">
+                        <li class="service-all-boxes dark-purple accordion">
+                          <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#service-all-collapse1">
+                            <div class="left-icon">
+                              <div class="icon-middle">
+                                <%= image_tag 'bureau_consultant/icon-rocket' %>
+                              </div>
+                            </div>
+                            <%= link_to 'DÉMARRER MON ACTIVITÉ', '#', class: 'right-content' %>
+                          </div>
+                          <div class="panel-body panel-collapse collapse" id="service-all-collapse1">
+                            sub menu here.
+                          </div>
+                        </li>
+
+                        <li class="service-all-boxes purple accordion">
+                          <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#service-all-collapse2">
+                          <div class="left-icon">
+                            <div class="icon-middle">
+                              <%= image_tag 'bureau_consultant/icon-arrow-up' %>
+                            </div>
+                          </div>
+                          <%= link_to 'FACILITER ET BOOSTER MON ACTIVITÉ', '#', class: 'right-content' %>
+                          </div>
+                          <div class="panel-body panel-collapse collapse" id="service-all-collapse2">
+                            sub menu here.
+                          </div>
+                        </li>
+
+                        <li class="service-all-boxes red accordion">
+                          <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#service-all-collapse3">
+                          <div class="left-icon">
+                            <div class="icon-middle">
+                              <%= image_tag 'bureau_consultant/icon-meetup' %>
+                            </div>
+                          </div>
+                          <%= link_to 'PARTAGER AVEC LA COMMUNAUTÉ ITG', '#', class: 'right-content' %>
+                          </div>
+                          <div class="panel-body panel-collapse collapse" id="service-all-collapse3">
+                            sub menu here.
+                          </div>
+                        </li>
+
+                        <li class="service-all-boxes orange accordion">
+                          <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#service-all-collapse4">
+                          <div class="left-icon">
+                            <div class="icon-middle">
+                              <%= image_tag 'bureau_consultant/icon-euro' %>
+                            </div>
+                          </div>
+                          <%= link_to 'OPTIMISER MA GESTION', '#', class: 'right-content' %>
+                          </div>
+                          <div class="panel-body panel-collapse collapse" id="service-all-collapse4">
+                            <ul class="list-with-arrow-rounded text-normal">
+                              <li><a href="#">Professionnaliser mon image</a></li>
+                              <li><a href="#">Espace Coworking</a></li>
+                              <li><a href="#">Location de véhicule</a></li>
+                              <li><a href="#">Mon espace <%= Goxygene::Parameter.value_for_group %></a></li>
+                              <li><a href="#">Atelier d’intégration</a></li>
+                              <li><a href="#">Mon bilan Annuel d’Activité</a></li>
+                              <li><a class="testok" href="#">Le Plan Epargne Entreprise <%= Goxygene::Parameter.value_for_group %></a></li>
+                              <li><a href="#">Mes Chèques Emploi Service (CESU)</a></li>
+                              <li><a href="#">Gérer mes frais professionnels</a></li>
+                            </ul>
+                          </div>
+                        </li>
+
+                        <li class="service-all-boxes yellow accordion">
+                          <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#service-all-collapse5">
+                          <div class="left-icon">
+                            <div class="icon-middle">
+                              <%= image_tag 'bureau_consultant/icon-ok-hand' %>
+                            </div>
+                          </div>
+                          <%= link_to 'PROFITER DES AVANTAGES DU SALARIAT', '#', class: 'right-content' %>
+                          </div>
+                          <div class="panel-body panel-collapse collapse" id="service-all-collapse5">
+                            sub menu here.
+                          </div>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-right" style="width: 100%">
+                <div class="row">
+                  <div class="col-xs-12">
+                    <div class="row grid-big-left">
+
+                      <div id="col-3-of-4-cols" class="col-left">
+                        <div class="row">
+
+                          <div class="col-xs-12">
+                            <div class="images-slider">
+                              <%= image_tag 'http://dummyimage.com/700x223.png' %>
+                            </div>
+                          </div>
+
+                          <div class="col-xs-12">
+                            <div class="bg-white border-gradient-bottom">
+                              <div class="padding-20">
+                                <div class="text-center m-b-40">
+                                  <button class="btn btn-red btn-no-rounded btn-icon-left m-r-10 padding-15">
+                                    <span class="icon-heart"></span>FAVORIS
+                                  </button>
+                                  <a href="#" class="btn btn-red btn-no-rounded padding-15">CTA SOLUTION</a>
+                                </div>
+
+                                <div class="content-block m-t-40">
+                                  <h3>Une opportunité d'épargne</h3>
+                                  <div>
+                                    Nom de la solution sur plusieurs lignes case de suppression cochée ordinibus parans hastisque
+                                    feriens
+                                    scuta qui habitus iram pugnantium concitat et dolorem proximos iam. Gestu terrebat
+                                  </div>
+                                </div>
+
+                                <div class="content-block m-t-40">
+                                  <h3>Données clés</h3>
+                                  <div class="row">
+                                    <div class="col-xs-6">
+                                      <div class="large-icon-text text-orange">300%</div>
+                                      <div class="text-smaller text-grey">d'abondement</div>
+                                    </div>
+                                    <div class="col-xs-6">
+                                      <div class="large-icon-text text-orange"><%= image_tag 'bureau_consultant/icon-orange-hand' %></div>
+                                      <div class="text-smaller text-grey">Service</div>
+                                    </div>
+                                  </div>
+                                </div>
+
+                                <div class="content-block m-t-40">
+                                  <h3>Les plus</h3>
+                                  <ul class="list-with-orange-arrow">
+                                    <li><a href="#">Nom de la solution sur plusieurs lignes case de suppression cochée</a></li>
+                                    <li><a href="#">Nom de la solution sur plusieurs lignes case de suppression cochée</a></li>
+                                    <li><a href="#">Nom de la solution sur plusieurs lignes case de suppression cochée</a></li>
+                                    <li><a href="#">Nom de la solution sur plusieurs lignes case de suppression cochée</a></li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="col-xs-12">
+                            <div>
+                              <div class="accordion-group services-of-the-month" id="accordion" role="tablist" aria-multiselectable="true">
+                                <div class="accordion panel-default">
+                                  <div class="panel-heading" role="tab" id="heading1">
+                                    <h4 class="panel-title text-bold">
+                                      <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false" aria-controls="collapse1">
+                                        Nos consultants vous en parle
+                                      </a>
+                                    </h4>
+                                  </div>
+                                  <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1" aria-expanded="false" style="height: 0px;">
+                                    <div class="panel-body">
+                                      <div class="block-with-circle-image-left">
+                                        <%= image_tag 'https://placeimg.com/56/56/people/grayscale', class: 'img-circle' %>
+                                        <div class="block-content">
+                                          <p>Post emensos insuperabilis expeditionis eventus languentibus partium animis, quas
+                                            periculorum varietas fregerat et laborum
+                                          </p>
+                                          <div class="text-italic text-bold text-smaller">Pithak P.</div>
+                                        </div>
+                                      </div>
+
+                                      <div class="block-with-circle-image-left">
+                                        <%= image_tag 'https://placeimg.com/56/56/people/grayscale', class: 'img-circle' %>
+                                        <div class="block-content">
+                                          <p>Post emensos insuperabilis expeditionis eventus languentibus partium animis, quas
+                                            periculorum varietas fregerat et laborum
+                                          </p>
+                                          <div class="text-italic text-bold text-smaller">Pithak P.</div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+
+                                <div class="accordion panel-default">
+                                  <div class="panel-heading" role="tab" id="heading2">
+                                    <h4 class="panel-title text-bold">
+                                      <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                                        Comment en profiter ?
+                                      </a>
+                                    </h4>
+                                  </div>
+                                  <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2" aria-expanded="false">
+                                    <div class="panel-body">
+                                      Dum haec in oriente aguntur, Arelate hiemem agens Constantius post theatralis ludos atque
+                                      circenses ambitioso editos apparatu diem sextum idus Octobres, qui imperii eius annum tricensimum
+                                      terminabat, insolentiae pondera gravius librans
+                                    </div>
+                                  </div>
+                                </div>
+
+                                <div class="accordion panel-default">
+                                  <div class="panel-heading" role="tab" id="heading3">
+                                    <h4 class="panel-title text-bold">
+                                      <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                                        Aller plus loin
+                                      </a>
+                                    </h4>
+                                  </div>
+                                  <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3" aria-expanded="false">
+                                    <div class="panel-body">
+                                      Dum haec in oriente aguntur, Arelate hiemem agens Constantius post theatralis ludos atque
+                                      circenses ambitioso editos apparatu diem sextum idus Octobres, qui imperii eius annum tricensimum
+                                      terminabat, insolentiae pondera gravius librans
+                                    </div>
+                                  </div>
+                                </div>
+
+                                <div class="text-center m-b-40 m-t-20">
+                                  <button class="btn btn-red btn-no-rounded btn-icon-left m-r-10 padding-15">
+                                    <span class="icon-heart"></span>FAVORIS
+                                  </button>
+                                  <a href="#" class="btn btn-red btn-no-rounded padding-15">CTA SOLUTION</a>
+                                </div>
+
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div id="col-4-of-4-cols" class="col-right">
+                        <div class="content-wrapper bg-white">
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <div class="download-block p-t-65 popup-closable">
+                                <a href="#" class="popup-close-btn"></a>
+                                <p>
+                                  Votre correspondant vous  rappelle dès que possible pour échanger ou prendre RDV ultérieurement.
+                                </p>
+                                <form action="<%= services_sent_services_path %>">
+                                  <div class="form-group">
+                                    <label>Prénom</label>
+                                    <span class="help-block error-message text-center">Message d’erreur</span>
+                                    <input type="text" class="form-control input-no-rounded">
+                                  </div>
+                                  <div class="form-group">
+                                    <label>Nom</label>
+                                    <span class="help-block error-message text-center">Message d’erreur</span>
+                                    <input type="text" class="form-control input-no-rounded">
+                                  </div>
+                                  <div class="form-group">
+                                    <label>Téléphone</label>
+                                    <span class="help-block error-message text-center">Message d’erreur</span>
+                                    <input type="tel" class="form-control input-no-rounded">
+                                  </div>
+                                  <div class="form-group">
+                                    <label>Votre message *</label>
+                                    <span class="help-block error-message text-center">Message d’erreur</span>
+                                    <textarea class="form-control input-no-rounded" rows="6"></textarea>
+                                  </div>
+                                  <div class="form-actions text-center m-t-25">
+                                    <button class="btn btn-red btn-no-rounded m-r-15">ÊTRE RAPPELLÉ</button>
+                                  </div>
+                                </form>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>

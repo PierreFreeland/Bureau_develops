@@ -1,0 +1,45 @@
+<div class="data-row m-b-0 padding-15">
+  <div>
+    <span>Année</span> :
+    <%= statement_of_operating_expenses.year %>
+  </div>
+
+  <div>
+    <span>Mois</span> :
+    <%= I18n.t("date.month_names")[statement_of_operating_expenses.month].capitalize %>
+  </div>
+
+  <div>
+    <span>Frais HT</span> :
+    <%= statement_of_operating_expenses.formated_total_expenses_without_vat %>
+  </div>
+
+  <div>
+    <span>Montant TVA</span> :
+    <%= statement_of_operating_expenses.formated_total_vat %>
+  </div>
+
+  <div>
+    <span>Frais TTC</span> :
+    <%= statement_of_operating_expenses.formated_total_expenses_with_vat %>
+  </div>
+
+  <div>
+    <span>Etat</span> :
+    <%= 'ITG' %>
+  </div>
+
+  <div class="file-download">
+    <%= link_to history_show_statement_of_operating_expenses_path(statement_of_operating_expenses.id, format: :pdf), target: :_blank do %>
+      <div class="btn btn-orange btn-no-rounded">
+        PDF
+      </div>
+    <% end %>
+  </div>
+</div>
+
+
+
+
+
+

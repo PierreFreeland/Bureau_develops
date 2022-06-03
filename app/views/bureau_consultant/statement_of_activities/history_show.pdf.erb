@@ -1,0 +1,305 @@
+<style>
+  .pdf-page {
+    margin: 0px;
+    padding: 0px;
+  }
+
+  #content {
+    font-size: 13px;
+    height: auto;
+  }
+
+  h4 {
+    margin: 0;
+    font-size: 14px;
+  }
+
+  .m-b-20 {
+    margin-bottom: 20px !important;
+  }
+
+  .m-b-50 {
+    margin-bottom: 50px !important;
+  }
+
+  .m-t-20 {
+    margin-top: 20px !important;
+  }
+
+  .m-t-50 {
+    margin-top: 50px !important;
+  }
+
+  .bottom {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+  }
+
+  .pdf-page .text-small {
+    font-size: 10px;
+  }
+
+  .pdf-page .col-left {
+    width: 40%;
+  }
+
+  .pdf-page .col-right {
+    width: 60%;
+  }
+
+  .pdf-page .table {
+    border: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border-collapse: collapse;
+  }
+
+  .pdf-page .table .cell-border-bottom td {
+    border-bottom: 1px solid #000;
+    padding-bottom: 5px;
+  }
+
+  .pdf-page .table .cell-border-bottom+tr td {
+    padding-top: 5px;
+  }
+
+  .pdf-page .table td {
+    border: 0;
+  }
+
+  .line:nth-child(odd) {
+    background: #f4f4f4;
+  }
+
+  .pdf-page .avoid-page-break {
+    page-break-inside: avoid;
+  }
+  .pdf-page .highlight-bg {
+    background: #f0f0f0;
+  }
+
+  .pdf-page .text-linethrough {
+    text-decoration: line-through;
+  }
+  .pdf-page .text-red {
+    color: #dd0c3a;
+  }
+  .pdf-page .text-green {
+    color: #598824;
+  }
+  .pdf-page .text-blue {
+    color: #3876b2;
+  }
+</style>
+
+<div class="header">
+  <%= wicked_pdf_image_tag display_logo_image_path(current_consultant), class: 'header-logo' %>
+  <h2 class="text-right">
+    Déclaration d'activité du consultant<br>
+    (Etat document : <%= @statement_of_activity.activity_report_status.text %>)
+  </h2>
+</div>
+
+<p>
+  Consultant(e) : <%= @consultant.name %> <br>
+  Le <%= set_datetime_format DateTime.current %> : Déclaration du mois de <%= I18n.t("date.month_names")[@statement_of_activity.month].capitalize %> <%= @statement_of_activity.year %>
+</p>
+
+<div class="content-2-cols">
+  <div class="col-left">
+    <table class="table-bordered text-small">
+      <tr class="highlight-bg">
+        <td colspan="2">
+          Veuillez numéroter les justificatifs selon les numérotations des lignes ci-dessous
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Attention ! La TVA n'est récupérable que sur les péages, les parkings,<br>
+          les invitations (frais de réception), si la facture, portant le TTC dont TVA,<br>
+          est établie au nom '<%= @statement_of_activity.itg_company.corporate_name %> et si les noms et sociétés des convives sont indiqués.
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="col-right">
+    <table class="table-bordered text-small">
+      <tr class="highlight-bg text-center">
+        <td>Informations</td>
+        <td>Salaire Brut</td>
+        <td>Paramètres</td>
+      </tr>
+      <tr>
+        <td>
+          Validé le : <%= set_datetime_format @statement_of_activities_request.consultant_validation %> <br>
+          Activité : <%= t "views.#{@statement_of_activity.no_activity ? 'no' : 'yes'}" %> <br>
+          Devise : Euros
+        </td>
+        <td>
+          Salaire à percevoir: <%= number_to_currency @statement_of_activity.gross_wage, @number_format %>
+          <br>&nbsp;
+          <br>&nbsp;
+        </td>
+        <td>
+          Chevaux fiscaux : <%= @statement_of_activity&.vehicle_taxe_weight_id %> cv <br>
+          Cumul Kms : <%= @statement_of_activity.kilometer_count_trace + @statement_of_activity.kilometers %> Km <br>
+          Coût du Km : <%= @statement_of_activity.kilometer_cost %>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<table class="table-bordered text-small text-center m-t-20 m-b-50 text-bold">
+    <tr class="highlight-bg">
+      <td rowspan="2" class="text-bold">Date</td>
+      <td rowspan="2" class="text-bold">Nb jours</td>
+      <td rowspan="2" class="text-bold">type activité</td>
+      <td rowspan="2" class="text-bold">Déclaration de l'activité professionnelle du mois</td>
+      <% if @consultant.has_luncheon_vouchers %>
+        <td rowspan="2" class="text-bold">TR</td>
+      <% end %>
+      <td rowspan="2" class="text-bold">N°</td>
+      <td rowspan="2" class="text-bold">Déclaration des frais de mission</td>
+      <td rowspan="2" class="text-bold">Km parcourus</td>
+      <td colspan="2" class="text-bold">TTC</td>
+    </tr>
+    <tr class="highlight-bg">
+      <td class="text-bold">TTC</td>
+      <td class="text-bold">Dont TVA</td>
+    </tr>
+
+    <% @statement_of_activities_lines.each do |request_line| %>
+      <tr class="avoid-page-break line <%= statement_of_activities_line_class_for(request_line) %>">
+        <td><%= set_datetime_format request_line.date %></td>
+        <td><%= request_line.time_span %></td>
+        <td><%= request_line.activity_type&.label %></td>
+        <td><%= request_line.label %></td>
+        <% if @consultant.has_luncheon_vouchers %>
+          <td><%= request_line.have_luncheon_vouchers? ? 'Oui' : 'Non' %></td>
+        <% end %>
+        <td colspan="5">&nbsp;</td>
+      </tr>
+      <% request_line.activity_report_expenses.order(:proof_of_expense_number).each do |request_expense| %>
+        <tr class="avoid-page-break line2 <%= statement_of_activities_line_class_for(request_expense) %>">
+          <td colspan="4">&nbsp;</td>
+          <% if @consultant.has_luncheon_vouchers %>
+            <td> </td>
+          <% end %>
+          <td><%= request_expense.proof_of_expense_number %></td>
+          <td><%= request_expense.label %></td>
+          <td><%= request_expense.kilometers %></td>
+          <td><%= request_expense.total %></td>
+          <td><%= request_expense.vat %></td>
+        </tr>
+      <% end %>
+    <% end %>
+</table>
+
+<table class="table-bordered text-small text-center m-t-20 m-b-50 text-bold avoid-page-break" style="width: 65%; float: right; clear: both;">
+  <tr class="highlight-bg">
+    <td rowspan="2">Totaux déclarés</td>
+    <td>Jours</td>
+    <td>Heures</td>
+    <% if @consultant.payroll_contract_type_id.in?([5,6,7]) %>
+      <td>Jours d’absence</td>
+      <td>Heures d’absence</td>
+    <% end %>
+    <% if @consultant.has_luncheon_vouchers %>
+      <td>Total TR</td>
+    <% end %>
+    <td>Total km</td>
+    <td>Total cout km</td>
+    <td>Frais TTC</td>
+    <td>Frais HT</td>
+    <td>Dont TVA</td>
+  </tr>
+  <tr>
+    <td><%= @statement_of_activities_request.work_days + @statement_of_activities_request.enhancement_days %></td>
+    <td><%= @statement_of_activities_request.hours %></td>
+    <% if @consultant.payroll_contract_type_id.in?([5,6,7]) %>
+      <td><%= @statement_of_activities_request.unpaid_absences_days %></td>
+      <td><%= @statement_of_activities_request.absences_hours %></td>
+    <% end %>
+    <% if @consultant.has_luncheon_vouchers %>
+      <td><%= @statement_of_activities_request.total_of_luncheon_vouchers %></td>
+    <% end %>
+    <td><%= @statement_of_activities_request.kilometers %></td>
+    <td><%= @statement_of_activities_request.kilometer_cost %></td>
+    <td><%= @statement_of_activities_request.expenses_with_taxes %></td>
+    <td><%= @statement_of_activities_request.expenses %></td>
+    <td><%= @statement_of_activities_request.expenses_vat %></td>
+  </tr>
+  <tr>
+    <td class="highlight-bg">Totaux acceptés par la société</td>
+    <td><%= @statement_of_activity.work_days + @statement_of_activity.enhancement_days %></td>
+    <td><%= @statement_of_activity.hours %></td>
+    <% if @consultant.payroll_contract_type_id.in?([5,6,7]) %>
+      <td><%= @statement_of_activity.unpaid_absences_days %></td>
+      <td><%= @statement_of_activity.absences_hours %></td>
+    <% end %>
+    <% if @consultant.has_luncheon_vouchers %>
+      <td><%= @statement_of_activity.total_of_luncheon_vouchers %></td>
+    <% end %>
+    <td><%= @statement_of_activity.kilometers %></td>
+    <td><%= @statement_of_activity.kilometer_cost %></td>
+    <td><%= @statement_of_activity.expenses_with_taxes %></td>
+    <td><%= @statement_of_activity.expenses %></td>
+    <td><%= @statement_of_activity.expenses_vat %></td>
+  </tr>
+</table>
+
+<div class="clearfix"></div>
+
+<table class="table-bordered avoid-page-break" style="font-size: 9px;">
+  <tr class="text-italic">
+    <td style="padding: 5px">
+      La réception par la société de la présente déclaration d'activités vaudra avenant au contrat de travail du consultant à moins que, dans un délai de 15 jours à compter de cette réception, la société ne s'y soit expressément opposé.
+      <br>
+      L'avenant accepté aura pour seul et unique effet de modifier la durée du travail initialement fixée en y ajoutant les jours ou les heures de travail, selon la qualification du consultant (Cadre autonome ou non) effectuées sur le mois correspondant.
+    </td>
+  </tr>
+</table>
+
+<div class="content-2-cols m-t-50 avoid-page-break">
+  <div class="col-left" style="width: 45%">
+    <table class="table-bordered text-small">
+      <tr>
+        <td class="text-center text-bold highlight-bg" width="30%">
+          &nbsp;<br>
+          Déclaration etablie le <br>
+          <br>
+          <%= set_datetime_format DateTime.current %><br>
+          &nbsp;<br>
+        </td>
+        <td>
+          <span class="text-italic">Signature</span> <br>
+          <br>
+          <br>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="col-right" style="width: 55%">
+    <table class="table-bordered text-small highlight-bg text-bold">
+      <tr>
+        <td>Procédure à suivre :</td>
+      </tr>
+      <tr>
+        <td>
+          1/ Imprimez déclaration, <br>
+          2/ Signez et datez la déclaration, <br>
+          3/ Joignez vos éventuels justificatifs, numérotés selon la numérotation des lignes du relevé, <br>
+          4/ Placez le tout dans une enveloppe et postez immédiatement à <%= @statement_of_activity.itg_company.corporate_name %> :
+          <span style="font-weight: normal">
+            <%= @statement_of_activity.itg_company.contact_datum.address_1 %>, <%= @statement_of_activity.itg_company.contact_datum.zip_code %> <%= @statement_of_activity.itg_company.contact_datum.city %>
+          </span>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>

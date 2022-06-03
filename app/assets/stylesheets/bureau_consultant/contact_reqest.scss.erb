@@ -1,0 +1,59 @@
+.request-boxes {
+  min-height: 100px;
+  margin-top: 20px;
+}
+
+.contract-reqest-title {
+  font-size: 20px;
+  font-weight: 500;
+  color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+}
+
+.total, .contact-request-title {
+  font-weight: bold;
+}
+
+.excel-icon {
+  color: #005935;
+  margin-top: -10px
+}
+
+.purple-link {
+  color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+}
+
+.purple-link:hover {
+  color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 544px) {
+  .preview-btn-group {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .two-line-btn {
+    margin-top: 20px;
+  }
+}
+
+.icon-for-mobile {
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
+  padding-top: 8px;
+  padding-left: 9.5px;
+}
+
+.expense-lists {
+  table td {
+    white-space: nowrap;
+  }
+
+  &.statement_of_operating_expenses {
+    table td {
+      white-space: normal;
+    }
+  }
+}

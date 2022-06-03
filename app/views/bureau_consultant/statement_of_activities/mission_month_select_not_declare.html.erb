@@ -1,0 +1,46 @@
+<div class="row">
+  <div class="col-md-2 hidden-xs hidden-sm">
+    <%= render 'step', step: 2, video_part: 3 %>
+  </div>
+
+  <div class="col-sm-12 col-xs-12 col-md-9">
+
+    <div class="page-top clearfix da">
+      <div class="col-sm-12 no-p-l-r">
+        <h4 class="list-title no-m-l">
+          <%= t('declaration_activities.mission_expenses.title') %>
+        </h4>
+      </div>
+    </div>
+
+    <div class="step_horizontal visible-sm visible-xs" style="height:100px;">
+      <%= render '3_step_horizontal', step: 2, video_part: 3 %>
+    </div>
+
+    <div class="col-sm-12 col-md-12">
+<div class="panel">
+        <form class="form no-margintop scrollable da-1">
+          <div class="scrollwp">
+            Mois concerné
+            <div class="field styled-select"><select class="field-taller">
+              <option value="Octobre">Octobre 2017</option>
+            </select><i class="icon fa fa-chevron-down custom-select-arrow"></i></div>
+
+            <div class="m-t-10">
+              Aucune déclaration d'activité n'est présente sur ce mois.Veuillez compléter <br/>
+              votre déclaration d'activité avant saisir vos frais.
+            </div>
+            <div class="cta-footer m-t-20">
+              <div class="col-xs-4">
+                <%= link_to 'DÉCLARER MON ACTIVITÉ', first_time_da_statement_of_activities_path,
+                            class: 'm-t-0 btn btn-rouge btn-block btn-no-rounded', method: :get %>
+
+              </div>
+            </div>
+          </div>
+        </form>
+</div>
+    </div>
+
+  </div>
+</div>

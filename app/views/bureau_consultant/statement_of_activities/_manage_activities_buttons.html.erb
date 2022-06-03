@@ -1,0 +1,10 @@
+<div class="m-t-20 flex_wrap">
+  <%= link_to statement_of_activities_path,
+              method: :delete,
+              data: {confirm: 'Etes-vous sûr ?'} do %>
+    <button class="btn btn-grey btn-flex btn-short btn-no-margin-top btn-no-rounded">SUPPRIMER LA<br/>DÉCLARATION</button>
+  <% end %>
+  <%= link_to "ÉTAPE SUIVANTE",
+              '#manage_zipcode',
+              class: 'btn btn-rouge btn-flex btn-short btn-no-margin-top btn-no-rounded add-postal-code' %>
+</div>

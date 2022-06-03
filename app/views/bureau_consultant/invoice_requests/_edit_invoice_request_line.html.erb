@@ -1,0 +1,42 @@
+<%= form_tag update_line_invoice_requests_path(id: index), method: :patch, id: 'edit_line', class: 'current_line desktop' do %>
+  <div class="row invoice_request_line in_edition">
+    <div class="col-md-1 no-p-l-r">
+      <%= select_for_invoice_request_line_type @invoice_request_line, disabled: false %>
+    </div>
+    <div class="col-md-11 bg-white">
+      <div class="row">
+        <div class="col-md-9">
+          <%= label_input_for_invoice_request_line @invoice_request_line %>
+        </div>
+        <div class="col-md-2 align-center">
+          <%= amount_input_for_invoice_request_line @invoice_request_line %>
+        </div>
+        <div class="col-md-1">
+          <%= link_to '#',
+                      onclick: "$(this).closest('form').submit(); return false;",
+                      style: 'position: absolute; top: 5px;' do %>
+            <i class="fa fa-check btn-icon-form bg-orange text-white small-icon-set clickable icon-centering" aria-hidden='true'
+             data-toggle="popover"
+             data-html="true"
+             data-trigger="hover"
+             data-container="body"
+             data-placement="auto top"
+             data-content="Valider">
+          </i>
+          <% end %>
+          <%= link_to manage_invoice_invoice_requests_path,
+                      style: 'position: absolute; right: 10px; top: 5px;' do %>
+            <i class="fa fa-times btn-icon-form bg-red text-white small-icon-set clickable icon-centering" aria-hidden='true'
+             data-toggle="popover"
+             data-html="true"
+             data-trigger="hover"
+             data-container="body"
+             data-placement="auto top"
+             data-content="Annuler">
+          </i>
+          <% end %>
+        </div>
+      </div>
+    </div>
+  </div>
+<% end %>

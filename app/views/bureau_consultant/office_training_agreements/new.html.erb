@@ -1,0 +1,19 @@
+<%= render partial: 'layouts/bureau_consultant/loading_modal' %>
+
+<% if @office_training_agreement.errors.any? || !@errors.blank? %>
+    <div id="error_explanation" class="alert alert-danger">
+      <ul>
+        <% @office_training_agreement.errors.full_messages.each do |message| %>
+            <li><%= message %></li>
+        <% end %>
+        <% if @errors %>
+	        <% @errors.each do |message| %>
+            <% next if @office_training_agreement.errors.full_messages.include? message %>
+            <li><%= message %></li>
+	        <% end %>
+	    <% end %>
+      </ul>
+    </div>
+<% end %>
+
+<%= render partial: 'form_new', locals: { office_training_agreement: @office_training_agreement, action: 'preview_form'} %>

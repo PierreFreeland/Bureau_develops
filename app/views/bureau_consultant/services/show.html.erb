@@ -1,0 +1,69 @@
+<div class="row grid-big-right my-services page-show">
+  <div class="col-left foldable-panel foldable-left-panel">
+    <div class="bg-white">
+      <div class="btn-group-1-col-block m-t-0">
+        <div class="service-all-wrapper">
+          <ul class="panel-group service-all text-bold" id="accordion-left">
+            <% @cms_pages.each do |solution_group, cms_pages| %>
+              <% next if cms_pages.size == 0 %>
+              <li class="panel panel-default service-all-boxes <%= render_color_class(solution_group) %> accordion">
+                <div class="panel-heading" data-toggle="collapse" data-parent="#accordion-left" data-target="#service-all-collapse-<%= solution_group %>" <%= 'aria-expanded=true' if cms_pages.ids.include? @cms_page.id %>>
+                  <div class="left-icon">
+                    <div class="icon-middle">
+                      <div class="icon-middle <%= render_icon_class(solution_group) %>"></div>
+                    </div>
+                  </div>
+                  <%= link_to cms_pages.first.category_name, '#', class: 'right-content' %>
+                </div>
+                <div class="panel-body panel-collapse collapse <%= 'in' if cms_pages.ids.include? @cms_page.id %>" id="service-all-collapse-<%= solution_group %>">
+                  <ul class="list-with-arrow-rounded text-normal">
+                    <% cms_pages.each do |cms_page| %>
+                      <li <%= 'class=active' if cms_page == @cms_page %>><%= link_to cms_page.solution_name, service_path(cms_page) %></li>
+                    <% end %>
+                  </ul>
+                </div>
+              </li>
+            <% end %>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-right" style="position: relative">
+    <%= raw @page_content %>
+
+    <div class="text-center top-cms-buttons">
+      <%= link_to 'IMPRIMER', fiches_services.cms_page_path(@cms_page, format: :pdf), target: '_blank', class: 'btn btn-hover btn-rouge btn-no-rounded btn-roboto btn-icon-left m-r-10' %>
+      <%= link_to 'ENVOYER', fiches_services.new_send_email_cms_page_path, remote: true, class: 'btn btn-hover btn-rouge btn-no-rounded btn-roboto', onclick: 'showRightPanel()' %>
+    </div>
+
+    <div class="text-center m-t-30 m-b-30">
+      <%= link_to 'IMPRIMER', fiches_services.cms_page_path(@cms_page, format: :pdf), target: '_blank', class: 'btn btn-hover btn-rouge btn-no-rounded btn-roboto btn-icon-left m-r-10' %>
+      <%= link_to 'ENVOYER', fiches_services.new_send_email_cms_page_path, remote: true, class: 'btn btn-hover btn-rouge btn-no-rounded btn-roboto', onclick: 'showRightPanel()' %>
+    </div>
+  </div>
+
+  <div class="col-left foldable-panel foldable-right-panel" style="display: none">
+    <div class="content-wrapper">
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="p-t-40 popup-closable bg-orange-lite">
+            <a href="#" class="popup-close-btn" onclick="showLeftPanel()"></a>
+
+            <div class="foldable-panel-spinner">
+              <div class="spinner-overlay"></div>
+              <div class="loading-spinner m-t-100">
+                <%= image_tag 'fiches_services/spinner' %>
+              </div>
+            </div>
+
+            <div id="service-send-email-block">
+              <%= render 'fiches_services/cms/pages/send_email_form', service_email: @service_email %>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

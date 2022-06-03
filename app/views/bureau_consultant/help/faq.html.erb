@@ -1,0 +1,632 @@
+<div class="faq">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="row grid-big-left">
+        <div class="col-left">
+          <div class="bg-white p-b-20 m-b-20">
+            <div class="help-header">
+              <div class="help-header-title align-center">QUESTIONS FRÉQUENTES</div>
+            </div>
+
+            <div class="padding-left-right p-t-20">
+              <div class="accordion-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#one' role="tab" id="1" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="1">
+                        Comment bien partir en mission à l'étranger ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="one" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="1">
+                    <div class="panel-body">
+                      <%= link_to "Procédure pour partir en mission à l'étranger en détachement",
+                                  'https://bureau.itg.fr/dl_fic_outils/251017_120453_FIC.pdf',
+                                  class: 'faq-link' %>
+                      <br/>
+                      Cette fiche associe les informations à nous communiquer avant votre départ pour nous permettre de
+                      déclarer votre détachement en bonne et due forme auprès des organismes. Vous y trouverez aussi des
+                      points importants comme votre assurance rapatriement, les informations du ministère des Affaires
+                      Etrangères etc.
+                      Nous avons des solutions clefs en main à vous proposer. N’hésitez pas à en parler avec votre
+                      correspondant !
+
+                      Pour en savoir plus, consultez la fiche
+                      service <%= link_to "Mes missions à l'international", '#', :class => 'faq-link' %>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#two' role="tab" id="2" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="2">
+                        Comment travailler en équipe ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="two" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="2">
+                    <div class="panel-body">
+                      Vous pouvez être amené à constituer une équipe pour répondre à des grands projets mobilisant des
+                      ressources en nombre.
+                      <br/><br/>
+                      Deux conseils :<br/>
+                      <ul>
+                        <li>
+                          Bien analyser votre temps pour l’utiliser au mieux et le facturer au meilleur tarif.
+                          Vos travaux facturables sont de natures diverses et ne correspondent pas toujours à l’optimum
+                          de votre expertise. On peut, par exemple, concevoir une formation, la dispenser et être en
+                          charge
+                          de sa logistique (inscriptions, organisation des salles, de la documentation…) alors que ces
+                          dernières tâches gagneraient à être sous-traitées pour permettre d’optimiser le temps consacré
+                          aux deux premières. C’est ainsi qu’avec un temps de travail donné, qui reste constant, on
+                          parvient
+                          à augmenter ses revenus, cf.
+                          <%= link_to "tableau de répartition du CA.",
+                                      'https://bureau.itg.fr/dl_fic_outils/311014_185245_FIC.pdf',
+                                      class: 'faq-link'
+                          %>
+                        </li>
+                        <li><%="Bien utiliser la communauté #{Goxygene::Parameter.value_for_group} qui constitue un remarquable potentiel de compétences pour
+                          servir des projets à vocation nationale, voire internationale."%>
+                        </li>
+                      </ul>
+                      <br/>
+                      <%="Pour véhiculer les demandes qui naissent des opportunités que chacun peut accueillir ou susciter
+                      le meilleur moyen pour une mise en relation reste la plateforme collaborative #{Goxygene::Parameter.value_for_group}, contactez votre
+                      correspondant."%>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#three' role="tab" id="3" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="3">
+                        Comment financer une formation individuelle ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="three" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="3">
+                    <div class="panel-body">
+                      <%= link_to "Procédure d'accès au financement d'une formation individuelle",
+                                  'https://bureau.itg.fr/dl_fic_outils/191017_181101_FIC.pdf',
+                                  class: 'faq-link' %>
+                      <br/>
+                      <%="Tout consultant actif, (ayant 6 salaires à son actif) est en mesure de faire une demande de
+                      financement de formation individuelle auprès de #{Goxygene::Parameter.value_for_group}, en rapport avec le développement de son
+                      activité
+                      professionnelle. La subvention au titre de 2017 peut aller jusqu’à 300 Euros, après validation de
+                      la demande par #{Goxygene::Parameter.value_for_group} et sur acceptation du dossier par l’organisme collecteur. Pour plus
+                      d’informations,
+                      contactez <a href="mailto:guilaine.bigot@itg.f" target="_top">Guilaine Bigot</a>.
+                      <br/><br/>
+                      Pour en savoir plus, consultez la fiche service"%>
+                      <%= link_to "Mon parcours de formation sur mesure", '#B8', class: 'faq-link' %>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#four' role="tab" id="4" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="4">
+                        Comment mes frais kilométriques seront-ils remboursés ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="four" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="4">
+                    <div class="panel-body">
+                      Ils sont remboursés sur la base du
+                      <%= link_to "barème fiscal", 'https://bureau.itg.fr/dl_fic_outils/251017_114128_FIC.pdf',
+                                  class: 'faq-link' %> en cours pour l’année civile considérée.
+                      <br/><br/>
+                      Lors de l’établissement de la « Déclaration d’activité » mensuelle, vous calculez le coût des Km
+                      parcourus pendant le mois au
+                      <br/><br/>
+                      <%= link_to "taux du barème", 'https://bureau.itg.fr/dl_fic_outils/251017_114128_FIC.pdf',
+                                  class: 'faq-link' %> correspondant. Ce
+                      calcul se fait automatiquement dès lors que nous avons reçu, lors de la constitution de votre
+                      dossier ou par la suite, votre carte grise pour connaitre les chevaux fiscaux de votre véhicule
+                      destiné à l’usage professionnel.
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#five' role="tab" id="5" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="5">
+                        Comment déclarer une dépense de fonctionnement ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="five" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="5">
+                    <div class="panel-body">
+                      Vos dépenses de fonctionnement, justifiées et justifiables au regard de votre activité
+                      professionnelle, font l’objet d’une déclaration spécifique. Exemples de dépenses : location
+                      d’espaces de COWORKING, location de voiture, facture de téléphonie (quote-part ou totalité),
+                      fournitures papeterie consommables… Les justificatifs originaux doivent nous parvenir avec le
+                      récapitulatif chaque fois que vous faites cette déclaration.
+                      Dès lors que votre compte financier est positif, la comptabilité effectue le virement vers votre
+                      compte bancaire.
+                      <br/><br/>
+
+                      <%= link_to "Déclarer une dépense de fonctionnement",
+                                  '#', class: 'faq-link' %>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#six' role="tab" id="6" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="6">
+                        Qu'est ce qu'une immobilisation ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="six" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="6">
+                    <div class="panel-body">
+                      <%="Lorsqu’une dépense de fonctionnement dépasse le montant de 600 € HT (bien durable nécessaire au
+                      développement de votre activité), elle ne peut être remboursée en frais professionnels. Elle entre
+                      dans les Immobilisations de #{Goxygene::Parameter.value_for_group}. Cas typique : votre équipement informatique ou mobilier de bureau.
+                      Pour être remboursé, vous devez fournir une facture libellée au nom de #{Goxygene::Parameter.value_for_group} (accompagné de votre
+                      nom)."%>
+                      <br/><br/>
+                      <%= link_to "Consultez le guide des immobilisations",
+                                  'https://bureau.itg.fr/dl_fic_outils/251017_123056_FIC.pdf',
+                                  class: 'faq-link' %>
+                      <br/><br/>
+                      <%= link_to "Contactez votre correspondant #{Goxygene::Parameter.value_for_group} pour faire une immobilisation", '#',
+                                  class: 'faq-link' %>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#seven' role="tab" id="7" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="7">
+                        Qu'est-ce que la taxe sur les véhicules de sociétés ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="seven" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="7">
+                    <div class="panel-body">
+                      Il s’agit de la taxe sur les véhicules de sociétés (TVS) concernant les véhicules utilisés à titre
+                      professionnel et ayant donné lieu à des remboursements de frais kilométriques pour plus de 15 000
+                      km.
+                      <br/><br/>
+                      Cette disposition s’applique au titre des véhicules utilisés du 1er octobre de l’année précédente
+                      au 30 septembre de l’année en cours, et payable avant fin novembre. En 2018, la période
+                      d'imposition sera alignée sur l'année civile.
+                      <br/><br/>
+                      <%= link_to "Consultez la notice d'information sur le taxe sur les véhicules de sociétés",
+                                  'https://bureau.itg.fr/dl_fic_outils/141117_183144_FIC.pdf',
+                                  class: 'faq-link' %>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#eight' role="tab" id="8" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="8">
+                        Comment rédiger un contrat en anglais ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="eight" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="8">
+                    <div class="panel-body">
+                      Votre client peut vous demander un contrat rédigé en anglais pour vos missions à l’international.
+                      <br/><br/>
+                      <%= link_to "Télécharger notre modèle « consulting agreement ».",
+                                  'https://bureau.itg.fr/dl_fic_outils/080216_123404_FIC.xls',
+                                  class: 'faq-link' %>
+                      <%="Le « consulting agreement » est un contrat bipartite signé entre votre client et #{Goxygene::Parameter.value_for_group} en 2
+                      exemplaires."%>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#nine' role="tab" id="9" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="9">
+                        Comment rédiger un contrat ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="nine" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="9">
+                    <div class="panel-body">
+                      <%="Le contrat commercial de prestation de portage salarial est une forme particulière de contrat,
+                      établi entre l’entreprise cliente et #{Goxygene::Parameter.value_for_group}, dans lequel vous êtes expressément désigné pour
+                      effectuer la mission. Il définit le cadre de votre mission et engage la responsabilité des
+                      signataires. Il constitue une assurance réciproque concernant le déroulement et le paiement de la
+                      mission."%>
+                      <%= link_to "Télécharger notre modèle",
+                                  'https://bureau.itg.fr/dl_fic_outils/191017_175021_FIC.xls',
+                                  class: 'faq-link' %>
+                      <br/><br/>
+                      <%="Votre client peut préférer un autre modèle que celui de #{Goxygene::Parameter.value_for_group}, ou bien signer le devis que vous lui
+                      avez adressé. Ces documents font alors office de contrat commercial, sous réserve qu’ils
+                      comportent, a minima, les mentions légales suivantes : objet de la mission, durée, période, tarif
+                      HT des honoraires, et éventualité d’une prise en charge des frais.
+                      <br/><br/>
+                      Cas particulier : la Convention de formation
+                      Dans une mission de formation, la Convention de Formation Professionnelle peut tenir lieu de
+                      contrat commercial.
+                      Si vous êtes appelé à intervenir pour tout ou une partie de votre activité dans le cadre de la
+                      Formation Professionnelle Continue, #{Goxygene::Parameter.value_for_group} vous offre une Kit formateur sur simple demande.
+                      <br/><br/>
+                      Signature de la commande
+                      Le contrat commercial est un contrat bipartite signé entre votre client et #{Goxygene::Parameter.value_for_group}."%>
+
+
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#ten' role="tab" id="10" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="10">
+                        <%="Comment souscrire à la mutuelle #{Goxygene::Parameter.value_for_group} ?"%>
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="ten" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="10">
+                    <div class="panel-body">
+                      Pour y adhérer, consultez la fiche service
+                      <%= link_to "Ma Mutuelle #{Goxygene::Parameter.value_for_group}",
+                                  '#last_file_service_E2',
+                                  class: 'faq-link' %>.
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#eleven' role="tab" id="11" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="11">
+                        <%="Quelles cotisations pour accéder à la mutuelle #{Goxygene::Parameter.value_for_group} ?"%>
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="eleven" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="11">
+                    <div class="panel-body">
+                      <%="#{Goxygene::Parameter.value_for_group} vous propose une mutuelle AXA, dont les tarifs et les garanties ont été négociés spécialement pour vous."%>
+                      <br/><br/>
+                      Vous bénéficiez de:
+                      <br/><br/>
+                      <ol>
+                        <li>Un contrat de base obligatoire individuel de 28,76 €  prélevé directement sur votre bulletin de paie. Ce contrat comporte une option facultative pour vous permettre d’assurer vos ayants droits (contrat famille), la majoration sera à votre charge exclusive et directement prélevée sur votre compte bancaire.</li>
+                        <li>3 formules facultatives de contrats sur-complémentaires pour donner accès à tous les praticiens ayant des dépassements importants</li>
+                      </ol>
+
+                      Pour en savoir plus, consultez la fiche service <%= link_to "Ma Mutuelle #{Goxygene::Parameter.value_for_group}",
+                                                                                  '#last_file_service_E2',
+                                                                                  class: 'faq-link' %>.
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#twelve' role="tab" id="12" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="12">
+                        <%="Est-il obligatoire de souscrire à la mutuelle #{Goxygene::Parameter.value_for_group}?"%>
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="twelve" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="12">
+                    <div class="panel-body">
+                      <%="Cette mutuelle est obligatoire sauf si vous pouvez justifier d’une couverture individuelle mise en place avant votre entrée chez #{Goxygene::Parameter.value_for_group}."%>
+                      <br />
+                      Dans ce cas, vous devez nous faire parvenir :
+                      <br />
+                      <ul class='hyphen-ul'>
+                        <li>
+                          Le courrier
+                          <%= link_to "« Lettre de renonciation »",
+                                      'https://bureau.itg.fr/dl_fic_partenaire/150216_111506_DOCUMENT.pdf',
+                                      class: 'faq-link' %>, complété par vos soins
+                        </li>
+                        <li> Une attestation de couverture correspondant à votre contrat de mutuelle en cours</li>
+                      </ul>
+                      <br/><br/>
+                      <%="Pour adhérer à la mutuelle #{Goxygene::Parameter.value_for_group}, consultez la fiche service"%> <%= link_to "Ma Mutuelle #{Goxygene::Parameter.value_for_group}",
+                                                                                             '#last_file_service_E2',
+                                                                                             class: 'faq-link' %>.
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#thirteen' role="tab" id="13" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="13">
+                        Comment résilier ma mutuelle SMI ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="thirteen" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="13">
+                    <div class="panel-body">
+                      <%="Vous adressez un courrier à SMI  Service résiliation, 2 Rue de Laborde, 75008 Paris. #{Goxygene::Parameter.value_for_group} vous propose un"%>
+                      <%= link_to "modèle de lettre de résiliation",
+                                  'https://bureau.itg.fr/dl_fic_partenaire/091210_121239_DOCUMENT.doc',
+                                  class: 'faq-link' %>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#fourteen' role="tab" id="14" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="14">
+                        Je souhaite préparer ma retraite, comment faire ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="fourteen" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="14">
+                    <div class="panel-body">
+                      Ou parlez-en à votre correspondant qui vous dirigera vers le bon interlocuteur.
+                      <%="A noter : #{Goxygene::Parameter.value_for_group} a conclu un partenariat avec Novelvy et vous bénéficiez de tarifs préférentiels pour un"%>
+                      <%= link_to "bilan retraite détaillé",
+                                  '#file_service_e5',
+                                  class: 'faq-link' %>.
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#fifteen' role="tab" id="15" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="15">
+                        Qu'est-ce que les CESU préfinancés et comment en bénéficier ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="fifteen" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="15">
+                    <div class="panel-body">
+                      Consultez la fiche service <%= link_to "Mes Chèques Emploi Service (CESU)",
+                                                             '#file_service_d8',
+                                                             class: 'faq-link' %>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#sixteen' role="tab" id="16" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="16">
+                        <%="Pourquoi  souscrire des titres CESU préfinancés avec #{Goxygene::Parameter.value_for_group} ?"%>
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="sixteen" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="16">
+                    <div class="panel-body">
+                      Parce que je peux bénéficier de plusieurs avantages :
+                      <br/>
+                      <ul class='hyphen-ul'>
+                        <li> exonération de cotisations sociales, dans la limite d’un plafond annuel de 1 830 €</li>
+                        <li> réduction d’impôt de 50 % des dépenses engagées non couvertes par les CESU (cotisations sociales EAD)</li>
+                        <li> addition possible du crédit d’impôt sur le revenu de 50 % pour la garde d’enfants de moins de 6 ans, sur les dépenses supportées effectivement</li>
+                        <li> Sous certaines conditions, exonération de cotisations patronales sur les aides à domicile</li>
+                      </ul>
+                      <br /><br />
+                      Votre compte financier est débité du montant de la commande majoré de 4 % de commission de gestion.
+                      <br /><br />
+                      Consultez la fiche service <%= link_to "Mes Chèques Emploi Service (CESU)",
+                                                             '#file_service_d8',
+                                                             class: 'faq-link' %>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#seventeen' role="tab" id="17" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="17">
+                        Qu'est-ce qu’un Plan Epargne Entreprise (PEE), et comment y souscrire ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="seventeen" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="17">
+                    <div class="panel-body">
+                      Le PEE est un système collectif d’épargne qui vous ouvre la possibilité de constituer un portefeuille  valeurs mobilières dans des conditions fiscales et sociales avantageuses.
+                      Vous  devez disposer d’un contrat de travail  ITG depuis plus de 3 mois et pouvez souscrire jusqu’à 25% de votre rémunération brute annuelle.
+                      Pour en savoir plus, consultez la fiche service <%= link_to "Plan Epargne Entreprise",
+                                                                                  '#file_service_d7',
+                                                                                  class: 'faq-link' %>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#eighteen' role="tab" id="18" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="18">
+                        Comment louer un véhicule chez AVIS ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="eighteen" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="18">
+                    <div class="panel-body">
+                      C’est très simple : muni du code AWD F474601, vous vous connectez sur le
+                      <%= link_to "microsite en ligne AVIS",
+                                  'https://avissec.centprod.com/ProcessEntry?mHo=avis.adpcl.com&p_clientid=6068&mSo#devis',
+                                  class: 'faq-link' %>
+                      <%="dédié à #{Goxygene::Parameter.value_for_group} et vous demandez votre devis, puis effectuez votre réservation et téléchargez votre facture pour justificatif de vos frais professionnels."%>
+                      <br/><br/>
+                      Pour en savoir plus, consultez la fiche service <%= link_to "Location de véhicule",
+                                                                                  '#file_service_d3',
+                                                                                  class: 'faq-link' %>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#nineteen' role="tab" id="19" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="19">
+                        Comment louer un bureau ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="nineteen" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="19">
+                    <div class="panel-body">
+                      Il vous suffit de créer votre compte sur la <%= link_to "plateforme NEO-NOMADE",
+                                                                              'http://www.neo-nomade.com/itg/',
+                                                                              class: 'faq-link' %>, notre partenaire. Vous bénéficiez d’une réduction exceptionnelle de 10% sur les prix publics de tous les espaces disponibles. Les prix affichés sont HT et ne tiennent pas compte de la réduction. Elle s’affichera automatiquement à l’étape du paiement et vous obtiendrez une facture pour vos notes de frais.  Vous pourrez également inviter les participants à vos rendez-vous ou réunions, directement via cette plateforme NEO-NOMADE PRO.
+
+                      <br /><br />
+                      Pour en savoir plus, consultez la fiche service <%= link_to "Espace Coworking",
+                                                                                  '#file_service_d2',
+                                                                                  class: 'faq-link' %>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#twenty' role="tab" id="20" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="20">
+                        Comment louer un espace de co-working ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="twenty" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="20">
+                    <div class="panel-body">
+                      Il vous suffit de créer votre compte sur la <%= link_to "plateforme NEO-NOMADE",
+                                                                              'http://www.neo-nomade.com/itg/',
+                                                                              class: 'faq-link' %>, notre partenaire. Vous bénéficiez d’une réduction exceptionnelle de 10% sur les prix publics de tous les espaces disponibles. Les prix affichés sont HT et ne tiennent pas compte de la réduction. Elle s’affichera automatiquement à l’étape du paiement et vous obtiendrez une facture pour vos notes de frais.  Vous pourrez également inviter les participants à vos rendez-vous ou réunions, directement via cette plateforme NEO-NOMADE PRO.
+
+                      <br /><br />
+                      Pour en savoir plus, consultez la fiche service <%= link_to "Espace Coworking",
+                                                                                  '#file_service_d2',
+                                                                                  class: 'faq-link' %>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#twentyone' role="tab" id="21" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="21">
+                        Comment voyager à tarifs avantageux ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="twentyone" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="21">
+                    <div class="panel-body">
+                      <%="Le comité d’entreprise de #{GROUP::Parameter.GROUP} vous propose de partir en vacances à « prix réduit » en profitant du partenariat mis en place avec Promo-vacances.
+                      Profitez des codes de remise sur des séjours et locations (camping / ski) sur le site dédié"%>
+                      <%= link_to "PROMO-VACANCES", 'http://www.promovacances-ce.com', class: 'faq-link'%>.
+                      <br /><br />
+                      Pour en savoir plus, consultez la fiche service
+                      <%= link_to "Le comité d’entreprise #{Goxygene::Parameter.value_for_group}",
+                                  '#file_service_e1',
+                                  class: 'faq-link' %>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#twentytwo' role="tab" id="22" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="22">
+                        <%="Qu’est-ce que le 1% logement financé par #{Goxygene::Parameter.value_for_group} ?"%>
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="twentytwo" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="22">
+                    <div class="panel-body">
+                      <%="En tant que consultant #{Goxygene::Parameter.value_for_group}, vous pouvez accéder à l’offre de l’association Action Logement qui a pour missions de :"%>
+                      <br /><br />
+                      <ul class='hyphen-ul'>
+                        <li> Accompagner les salariés dans leur mobilité résidentielle et professionnelle, en proposant des services et des aides financières qui facilitent l’accès au logement et donc à l’emploi</li>
+                        <li> Construire et financer des logements sociaux et des logements intermédiaires, prioritairement dans les zones tendues, en contribuant aux enjeux d’éco-habitat, d’évolutions de la société, et de mixité sociale.</li>
+                      </ul>
+                      <br />
+                      Pour en savoir plus, consultez la fiche service <%= link_to "Immobilier : Bénéficier du 1% Logement",
+                                                                                '#file_service_e6',
+                                                                                class: 'faq-link' %>
+                  </div>
+                </div>
+              </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#twentythree' role="tab" id="23" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="23">
+                        <%="Comment accéder aux offres du comité d’entreprise #{Goxygene::Parameter.value_for_group} ?"%>
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="twentythree" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="23">
+                    <div class="panel-body">
+                      Vous bénéficiez d’un accès à de nombreux avantages pour vos loisirs, seul ou en famille en vous connectant au site
+                      <%= link_to "CAP PRIVILEGES",
+                                  'www.capprivileges.fr',
+                                  class: 'faq-link' %>.
+                      <br />
+                      Pour en savoir plus, consultez la fiche service <%= link_to "Le comité d’entreprise #{Goxygene::Parameter.value_for_group}",
+                                                                                  '#file_service_e1',
+                                                                                  class: 'faq-link' %>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#twentyfour' role="tab" id="24" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="24">
+                        Comment trouver le nom d'un dirigeant d'entreprise ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="twentyfour" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="24">
+                    <div class="panel-body">
+                      <%="Profitez d’un accès consultatif au répertoire de la veille Entreprises. #{Goxygene::Parameter.value_for_group} a négocié un accès gratuit pour les consultants #{Goxygene::Parameter.value_for_group}."%>
+                      Allez sur le site
+                      <%= link_to "KOMPASS", 'https://fr.kompass.com/', class: 'faq-link' %> <br/>
+                      Cliquez en haut à droite sur CONNEXION <br/>
+                      Puis saisir les codes d'accès (en minuscule) : <br/>
+                      Identifiant : info@itg.fr <br/>
+                      Mot de passe : kompass1
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion panel-default">
+                  <div class="panel-heading faq-panel normal" data-toggle="collapse" data-parent="#accordion" data-target='#twentyfive' role="tab" id="25" style="cursor: pointer">
+                    <h4 class="panel-title faq-panel">
+                      <a class="faq-title-text" aria-expanded="false" aria-controls="25">
+                        Comment me connecter à mon coffre fort électronique ?
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="twentyfive" class="faq-panel panel-collapse collapse" role="tabpanel" aria-labelledby="25">
+                    <div class="panel-body">
+                      <%="#{Goxygene::Parameter.value_for_group} m'offre la possibilité de bénéficier de ce coffre fort électronique pour recevoir et conserver mes contrats de travail et tout autre document important, gratuitement et sans limitation de durée."%>
+                      <br /><br />
+                      <%= link_to "Accédez à votre coffre-fort", 'https://www.mypeopledoc.com', class: 'faq-link' %>
+                      <br /><br />
+                      Je n'arrive pas à accéder à mon coffre fort électronique ?<br />
+                      Mon contact : <a href="mailto:servicerh@itg.f" target="_top">servicerh@itg.f</a>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

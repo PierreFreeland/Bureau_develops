@@ -1,0 +1,228 @@
+<div class="row manage-mission">
+  <div class="col-md-2 hidden-xs hidden-sm">
+    <%= render 'step', step: 2, video_part: 4 %>
+  </div>
+
+  <div class="col-sm-12 col-md-10">
+    <div class="page-top clearfix da">
+      <div class="col-sm-12 no-p-l-r">
+        <h4 class="list-title no-m-l">
+          <%= t('declaration_activities.mission_expenses.title') %>
+          <span class="text-bold"><%= l current_month, format: :month_year %></span>
+        </h4>
+      </div>
+    </div>
+
+  <div class="step_horizontal visible-sm visible-xs">
+    <%= render '3_step_horizontal', step: 2, video_part: 4 %>
+  </div>
+
+    <%= render 'top-panel-expenses' %>
+    <div id="activity-forms-div">
+      <%= render partial: 'activity', collection: activities, as: :an_activity %>
+      <%= render partial: 'new_day_activity' %>
+    </div>
+
+    <div class="align-center m-t-10">
+      <% if statement_of_activities_request.activities_validated? %>
+        <%= link_to 'ÉTAPE SUIVANTE', '#validate',
+                    class: 'btn btn-rouge btn-short btn-no-margin-top btn-no-rounded',
+                    data: {toggle: 'modal', dismiss: 'modal'}
+        %>
+      <% else %>
+        <% if params[:action] != "update_activity_day_on_manage_mission" %>
+          <%= link_to 'PRÉCÉDENT', current_consultant.has_luncheon_vouchers ? manage_luncheon_vouchers_statement_of_activities_path : new_statement_of_activity_path,
+                      class: 'btn btn-grey btn-short btn-no-margin-top btn-no-rounded'
+          %>
+          <%= link_to 'ÉTAPE SUIVANTE', "#",
+                      class: 'btn btn-rouge btn-short btn-no-margin-top btn-no-rounded',
+                      id: 'activity-forms-btn'
+          %>
+        <% end %>
+      <% end %>
+    </div>
+
+  </div>
+
+  <!--  <div class="col-sm-12 col-md-4 m-t-60">-->
+  <!--    <div class="expense-right-default">-->
+  <!--      <div class="panel info-panel">-->
+  <%# if statement_of_activities_request.office_activity_report_lines.expenses.empty? %>
+  <!--          <div class="placeholder-content"><i class="fa fa-file-text fa-4x"></i>-->
+  <!--            <p class="text-bold m-t-10">Vous n'avez pas encore saisi de frais de mission.</p>-->
+  <!--            <p class="text-violet">-->
+  <!--              <i class="fa fa-long-arrow-left text-violet" aria-hidden="true" style="float: left; left:0; position: relative;"></i>-->
+  <!--              Commencez en ajoutant des frais liés à des jours d'activité.-->
+  <!--            </p>-->
+  <!--          </div>-->
+  <%# else %>
+  <!--          <div class="placeholder-content"><i class="fa fa-file-text fa-4x"></i>-->
+  <!--            <p class="text-bold m-t-10">Déclarez vos frais de mission par jour d'activité</p>-->
+  <!--            <p class="text-violet">-->
+  <!--              Si vous avez inséré tous vos frais de mission pour ce mois, cliquez sur étape suivante-->
+  <!--            </p>-->
+  <!--            <i class="fa fa-long-arrow-down" aria-hidden="true" style="color: <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#5a2861' %>;margin-left: 20px"></i>-->
+  <!--          </div>-->
+  <%# end %>
+  <!--      </div>-->
+  <!--    </div>-->
+
+  <!--    <div class="align-center m-t-10">-->
+  <%# if statement_of_activities_request.activities_validated? %>
+  <%#= link_to 'ÉTAPE SUIVANTE', '#validate',
+                    class: 'btn btn-rouge btn-short btn-no-margin-top btn-no-rounded',
+                    data: {toggle: 'modal', dismiss: 'modal'}
+  %>
+  <%# else %>
+  <%#= link_to 'PRÉCÉDENT', new_statement_of_activity_path,
+                    class: 'btn btn-grey btn-short btn-no-margin-top btn-no-rounded'
+  %>
+  <%#= link_to 'ÉTAPE SUIVANTE', synthesis_3_step_statement_of_activities_path,
+                    class: 'btn btn-rouge btn-short btn-no-margin-top btn-no-rounded'
+  %>
+  <%# end %>
+  <!--    </div>-->
+
+  <!--  </div>-->
+</div>
+
+
+<div class="modal fade mission-expense" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content before-modify">
+      <div class="modal-body">
+        <div class="align-center">
+          Veuillez renseigner un libellé s'il vous plait.
+        </div>
+      </div>
+      <div class="modal-footer align-center">
+        <button type="button" class="btn btn-empty-grey btn-no-margin-tb" data-dismiss="modal">OK</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade mission-expense" id="myModal2" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content delete-expense-confirm">
+      <div class="modal-body">
+        <div class="align-center">
+          Souhaitez-vous garder la possibilité d'ajouter des frais de mission sur le
+          mois <%= date_with_elisied_prefix current_month %> ?
+
+          <p>Attention, si vous cliquez sur 'non' votre déclaration frais de mission sera
+            déclaration frais de mission sera définitivement clouturée et vous ne pourrez plus
+            saisir de frais de mission sur ce mois.</p>
+        </div>
+      </div>
+      <div class="modal-footer align-center">
+        <button type="button" id="delete-expense" class="btn btn-empty-grey btn-no-margin-tb">OUI</button>
+        <button type="button" class="btn btn-empty-grey btn-no-margin-tb" data-dismiss="modal">NON</button>
+      </div>
+    </div><!-- /.modal-content -->
+
+    <div class="modal-content after-delete-expense display-none">
+      <div class="modal-body">
+        <div class="align-center text-grey2">
+          Votre déclaration d'activité et vos frais du mois<br/>
+          <%= date_with_elisied_prefix current_month %> restent ouvert, vous pourrez<br/>
+          ajouter des frais de mission ultérieurement<br/>
+        </div>
+      </div>
+
+      <div class="modal-footer align-center">
+        <button type="button" class="btn btn-empty-grey btn-no-margin-tb" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade mission-expense" id="download" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content before-modify">
+      <div class="modal-body">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close" id="close_statement_of_activities_download_pdf">
+          <span aria-hidden="true">&times;</span></button>
+        <div class="align-center text-grey2">
+          Vots frais de mission <span class="text-bold"><%= date_with_elisied_prefix current_month %></span> ont bien
+          été<br/>
+          validés, nous vous en remercions.
+          <br/><br/>
+
+          Pensez à nous envoyer vos justificatifs au<br/>
+          format original accompagnés de votre<br/>
+          déclaration d'activité pour vos remboursements de frais de mission.
+        </div>
+      </div>
+      <div class="modal-footer align-center">
+        <%= link_to "TÉLÉCHARGER MA DÉCLARATION D'ACTIVITÉ",
+                    history_show_statement_of_activities_requests_path(statement_of_activities_request.id, format: :pdf),
+                    class: 'btn btn-empty-grey btn-no-margin-tb btn-wrapable',
+                    id: 'statement_of_activities_download_pdf',
+                    target: :_blank
+        %>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade mission-expense" id="validate" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content delete-expense-confirm">
+      <div class="modal-body">
+        <div class="align-center">
+          Souhaitez-vous valider définitivement <br/>
+          votre activité du mois <span class="text-bold"><%= date_with_elisied_prefix current_month %></span> ?
+        </div>
+      </div>
+      <div class="modal-footer align-center">
+        <% if statement_of_activities_request.activities_validated? %>
+          <%= link_to 'OUI', '#download',
+                      id: 'statement_of_activities_validate_from_expenses',
+                      class: 'btn btn-orange btn-short btn-no-margin-tb btn-no-rounded' %>
+        <% else %>
+          <%= link_to 'OUI', synthesis_3_step_statement_of_activities_path, class: 'btn btn-orange btn-short btn-no-margin-tb btn-no-rounded' %>
+        <% end %>
+        <button type="button" class="btn btn-grey btn-no-margin-tb btn-short btn-no-rounded" data-dismiss="modal">NON</button>
+      </div>
+    </div><!-- /.modal-content -->
+
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade mission-expense" id="notice" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content delete-expense-confirm">
+      <div class="modal-body">
+        Merci de terminer la saisie de vos frais avant de pouvoir saisir une nouvelle déclaration d’activités.
+      </div>
+      <div class="modal-footer align-center">
+        <button type="button" class="btn btn-grey btn-no-margin-tb btn-short btn-no-rounded" data-dismiss="modal">OK</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<script>
+    var display_expenses_notice_modal = <%= raw (statement_of_activities_request.activities_validated? && !expenses_notice_displayed?).to_json %>
+
+        $(window).on('load', function () {
+            if (display_expenses_notice_modal) {
+                $('#notice').modal('show');
+            }
+        });
+</script>
+
+
+<%= render partial: 'layouts/bureau_consultant/loading_modal' %>
+
+<% if params[:activity_id] %>
+  <script>
+      $(document).ready(function () {
+          setTimeout(function () {
+              $('html, body').scrollTop($("#<%=activity.id%>").offset().top - 160)
+          }, 100);
+      });
+  </script>
+<% end %>

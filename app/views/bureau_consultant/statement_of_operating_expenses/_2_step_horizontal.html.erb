@@ -1,0 +1,42 @@
+<% current_modal ||= '#video-part-1-xs' %>
+
+<ul id="progressbar" class="progressbar">
+  <li class="<%= add_active_step_class(1, step) %>">
+    DÉPENSES DE <br/>FONCTIONNEMENT
+    <% if Goxygene.is_freeland? %>
+      <div class="m-t-5">
+        <div style="margin-left: -15px">
+          <%= raw(add_tooltip_modal(1, step, current_modal)) %>
+        </div>
+      </div>
+    <% end %>
+  </li>
+  <li class="<%= add_active_step_class(2, step) %>">
+    Synthèse
+    <% if Goxygene.is_freeland? %>
+      <div class="m-t-5">
+        <div style="margin-left: -15px">
+          <%= raw(add_tooltip_modal(2, step, current_modal)) %>
+        </div>
+      </div>
+    <% end %>
+  </li>
+</ul>
+
+<%= render 'bureau_consultant/shared/modal_video_tutorial',
+           modal_id: 'video-part-1-xs',
+           modal_title: 'Dépenses Financières V2 Part1',
+           video_url: '//www.youtube.com/embed/HNKsNeZoAmM',
+           video_id: 'HNKsNeZoAmM' %>
+
+<%= render 'bureau_consultant/shared/modal_video_tutorial',
+           modal_id: 'video-part-2-xs',
+           modal_title: 'Dépenses Financières V2 Part2',
+           video_url: '//www.youtube.com/embed/dY0eJOk9eDo',
+           video_id: 'dY0eJOk9eDo' %>
+
+<%= render 'bureau_consultant/shared/modal_video_tutorial',
+           modal_id: 'video-part-3-xs',
+           modal_title: 'Dépenses Financières V2 Part3',
+           video_url: '//www.youtube.com/embed/fMV1m_whax4',
+           video_id: 'fMV1m_whax4' %>

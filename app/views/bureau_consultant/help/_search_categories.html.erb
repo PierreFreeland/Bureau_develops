@@ -1,0 +1,20 @@
+<%= search_form_for @q, url: help_index_path do |f| %>
+    <div class="row m-t-10">
+      <div class="col-xs-12">
+        <div class="col-sm-7">
+          <div class="m-b-15-xs">
+            <%= f.search_field :name,
+                               class: 'search-tab-input form-control input-no-rounded search-categories',
+                               placeholder: "Exemple : Salaire" %>
+          </div>
+        </div>
+
+        <div class="col-sm-5">
+          <button class="btn btn-violet btn-no-rounded btn-no-margin btn-extrashort btn-block">
+            Rechercher
+          </button>
+        </div>
+
+      </div>
+    </div>
+<% end %>

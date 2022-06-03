@@ -1,0 +1,81 @@
+<div class="row">
+  <div class="col-sm-2 col-md-2 hidden-sm hidden-xs">
+    <%= render '2_step', step: 2, current_modal: '#video-part-3' %>
+  </div>
+
+  <div class="step_horizontal visible-sm visible-xs">
+    <%= render '2_step_horizontal', step: 2, current_modal: '#video-part-3-xs' %>
+  </div>
+
+  <div class="col-sm-12 col-md-8 col-xs-12">
+    <div class="top-panel row padding-left-right">
+      <div class="col-sm-12 no-p m-t-20">
+        <div class="panel info-panel frais_header" style="padding: 0px">
+          <table class="table">
+            <tbody>
+            <tr>
+              <td class="no-wrap top-summary-padding">
+                <div class="label-top">Frais TTC</div>
+                <div class="value c1ValueJour"><%= statement_of_operating_expenses_request.formated_total_expenses_with_vat %></div>
+              </td>
+              <td class="no-wrap top-summary-padding">
+                <div class="label-top">Frais HT</div>
+                <div class="value c2ValueHeure"><%= statement_of_operating_expenses_request.formated_total_expenses_without_vat %></div>
+              </td>
+              <td class="no-wrap top-summary-padding">
+                <div class="label-top">TVA</div>
+                <div class="value c3ValueSalaireConventionel"><%= statement_of_operating_expenses_request.formated_total_vat %></div>
+              </td>
+            </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-12 col-md-8 col-xs-12">
+    <div class="col-sm-12">
+      <div class="row panel padding-left-right p-b-20 p-t-20">
+        <div class="m-t-10 text-orange text-bold btn-comment clickable">+ Ajouter un commentaire</div>
+        <textarea rows='5' class="full_textarea m-t-5 display-none comment" id='statement_of_operating_expenses_request_comment'></textarea>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-12 col-md-8 col-xs-12">
+    <%= link_to 'PRECEDENT', statement_of_operating_expense_path(:current), class: 'btn btn-short btn-grey btn-no-rounded' %>
+    <%= link_to 'VALIDER MES DÉPENSES', '#',
+                class: 'btn btn-short btn-rouge btn-no-rounded m-l-10',
+                id: 'statement_of_operating_expenses_request_submit'
+    %>
+  </div>
+</div>
+
+
+<div class="modal fade mission-expense" id="download" tabindex="-1" role="dialog" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="align-center">
+          Votre déclaration d'activité <span class="text-bold"><%= date_with_elisied_prefix statement_of_operating_expenses_request.date %></span> a bien
+          été validée, nous vous en remercions.<br/><br/>
+
+          Pensez à nous envoyer vos justificatifs originaux<br/>
+          accompagnés de votre<br/>
+          déclaration d'activité pour vos remboursements.
+        </div>
+      </div>
+      <div class="modal-footer align-center">
+        <%= link_to raw("TÉLÉCHARGER<br/>MA DÉCLARATION DE DÉPENSES"),
+                    history_show_statement_of_operating_expenses_requests_path(statement_of_operating_expenses_request.id, format: :pdf),
+                    class: 'btn btn-empty-grey btn-no-margin-tb',
+                    id: 'download_pdf',
+                    target: :_blank
+        %>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<%= render partial: 'layouts/bureau_consultant/loading_modal' %>

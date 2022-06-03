@@ -1,0 +1,34 @@
+<%= form_tag add_line_invoice_requests_path, id: 'new_line', class: @invoice_request_line ? '' : 'current_line' do %>
+  <div class="row invoice_request_line <%= @invoice_request_line ? 'disabled' : '' %>">
+    <div class="col-md-1 no-p-l-r">
+      <%= select_for_invoice_request_line_type @new_invoice_request_line %>
+    </div>
+    <div class="col-md-11 bg-white">
+      <div class="row">
+        <div class="col-md-9">
+          <%= label_input_for_invoice_request_line @new_invoice_request_line %>
+        </div>
+        <div class="col-md-2 align-center">
+          <%= amount_input_for_invoice_request_line @new_invoice_request_line %>
+        </div>
+        <div class="col-md-1">
+          <% if @invoice_request_line.nil? %>
+            <%= link_to '',
+                        style: 'position: absolute; top: 5px;',
+                        class: 'submit' + (@new_invoice_request_line.nil? ? ' disabled' : '') do %>
+              <i class="fa fa-check btn-icon-form bg-orange text-white submit-icon icon-centering"
+                 aria-hidden='true'
+                 data-toggle="popover"
+                 data-html="true"
+                 data-trigger="hover"
+                 data-container="body"
+                 data-placement="auto top"
+                 data-content="Ajouter">
+            </i>
+            <% end %>
+          <% end %>
+        </div>
+      </div>
+    </div>
+  </div>
+<% end %>

@@ -1,0 +1,358 @@
+<div class="container mb-30">
+  <div class="row">
+    <div class="col-xs-2">
+      <div class="pull-left image-place">
+        <%= wicked_pdf_image_tag display_logo_image_path_by_itg_establishment_id(@commercial_contract_request.itg_establishment_id), class: 'header-logo' %>
+      </div>
+    </div>
+    <div class="col-xs-9 text-right" style="margin-top: -21px; margin-right: -20px">
+      <h3 class="text-uppercase tittle-size color-purple">Contrat commercial de prestation de<br/> portage salarial</h3>
+      <p class="text-uppercase tittle-size2 text-bold">
+        <%= current_consultant.itg_establishment&.name || "GROUPE #{Goxygene::Parameter.value_for_group}" %> / <%= current_consultant.itg_establishment&.itg_company&.contact_datum&.address_1 || "18 rue de la Ville l'Évêque 75008 Paris" %><br />
+        Téléphone : <%= current_consultant.itg_establishment&.itg_company&.contact_datum&.phone || "01 44 69 80 40" %> / Site web : <%= current_consultant.itg_establishment&.itg_company&.contact_datum&.web_site || "www.itg.fr" %>
+      </p>
+    </div>
+    <div class="col-xs-1 text-right">
+      <%= image_tag "/tmp/OfficeBusinessContractQRCode_#{@commercial_contract_request.id}.png",
+                    class: 'qrcode'
+      %>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-6">
+      <table>
+        <tr>
+          <td class="bg-grey">Fait en deux exemplaires</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td class="bg-grey">Le</td>
+          <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        </tr>
+      </table>
+    </div>
+    <div class="col-xs-12">
+    </div>
+    <div class="col-xs-6 entre-left" style="margin-top: 5px;">
+      <b class="text-left text-size8">Entre</b>
+      <table>
+        <tr>
+          <td class="bg-grey">N° SIRET</td>
+          <td><%= @commercial_contract_request.itg_establishment.siret %></td>
+          <td class="bg-grey">N° TVA UEE</td>
+          <td><%= @society.vat_number %></td>
+        </tr>
+      </table>
+    </div>
+    <div class="col-xs-6 entre-right" style="margin-top: 5px;">
+      <b class="text-size8">Et</b>
+      <table>
+        <tr>
+          <td class="bg-grey" width="20%">N° SIRET</td>
+          <td width="30%"><%= @commercial_contract_request.establishment_siret %></td>
+          <td class="bg-grey" width="20%">N° TVA UEE</td>
+          <td width="30%"><%= @commercial_contract_request.establishment_vat_number %></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="row mt-5" style="margin-top: 25px;">
+    <div class="wrap">
+      <div class="col-md-6 mb-10 cell-wrap">
+        <table class="outer-table left">
+          <tr>
+            <td class="bg-grey">Raison sociale</td>
+            <td colspan="3"><%= @society.corporate_name %></td>
+          </tr>
+          <tr>
+            <td class="bg-grey">Forme et capital</td>
+            <td colspan="3"><%= @society&.legal_form&.acronym %> au capital de <%= @society.capital %></td>
+          </tr>
+          <tr>
+            <td class="bg-grey">Siège</td>
+            <td colspan="3">
+              <%= "#{@society.contact_datum.address_1} #{@society.contact_datum.address_2}" +
+                      "#{@society.contact_datum.zip_code} #{@society.contact_datum.city} #{@society.contact_datum.country&.label}" %>
+            </td>
+          </tr>
+          <tr>
+            <td class="bg-grey" colspan="3">Identité du garant financier</td>
+            <td><%= @financial_guarantee&.insurance_company&.company&.corporate_name %></td>
+          </tr>
+          <tr>
+            <td class="bg-grey">Police d'assurance</td>
+            <td><%= @contract_of_insurance&.reference_number %></td>
+            <td class="bg-grey">Assureur</td>
+            <td><%= @contract_of_insurance&.insurance_company&.company&.corporate_name %></td>
+          </tr>
+          <tr>
+            <td class="bg-grey">Tel</td>
+            <td><%= @society.contact_datum.phone %></td>
+            <td class="bg-grey">Fax</td>
+            <td><%= @society.contact_datum.fax %></td>
+          </tr>
+          <tr>
+            <td class="bg-grey">Représentée par</td>
+            <td colspan="3"><%= @society.representatives.first.employee.individual.full_name %></td>
+          </tr>
+          <tr>
+            <td class="bg-grey" colspan="4">signataire dûment habilité(e) aux fins des présentes</td>
+          </tr>
+        </table>
+      </div>
+      <!------------------------------------------------------------------->
+      <div class="col-md-6 mb-10 cell-wrap">
+        <table class="outer-table right">
+          <tr>
+            <td class="bg-grey" style="width: 25%">Raison sociale</td>
+            <td colspan="3" style="width: 75%"><%= @commercial_contract_request.establishment_name %></td>
+          </tr>
+          <tr>
+            <td class="bg-grey">Adresse</td>
+            <td colspan="3">
+              <%= @commercial_contract_request.establishment_address %>
+              <br>
+              <%= @commercial_contract_request.establishment_zip_code %>
+              <%= @commercial_contract_request.establishment_city %>
+              <br>
+              <%= @commercial_contract_request.establishment_country&.label %>
+            </td>
+          </tr>
+          <tr>
+            <td class="bg-grey" style="width: 10%">Email</td>
+            <td style="min-width: 50px; width: 40%;"><%= @commercial_contract_request.contact_email %></td>
+            <td class="bg-grey" style="width: 10%">Tel</td>
+            <td style="width: 40%"><%= @commercial_contract_request.establishment_phone %></td>
+          </tr>
+          <tr>
+            <td class="bg-grey">Représentée par</td>
+            <td colspan="3"><%= @commercial_contract_request.contact_first_name %> <%= @commercial_contract_request.contact_last_name %></td>
+
+          </tr>
+          <tr>
+            <td class="bg-grey" colspan="4">signataire dûment habilité(e) aux fins des présentes</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+
+    <div class="col-xs-12" style="margin-top: 3px; padding: 0;">
+      <p class="text-left text-bold col-xs-6 " style="margin-bottom: 3px;">ci après dénommé(e)
+        "l'EPS"</p>
+      <p class="col-xs-6 pull-right text-bold " style="margin-bottom: 3px;">ci après dénommée "le client"</p>
+    </div>
+
+    <p class="text-left text-bold col-xs-6" style="margin-bottom: 3px;">il a été arrêté et convenu ce qui
+      suit :</p>
+
+    <div class="col-xs-12">
+      <p class="text-left text-bold color-purple" style="font-size: 8px;">
+        <strong class="color-orange">1.</strong> le client confie à l'EPS, entreprise qui exerce à titre exclusif
+        l'activité de portage salarial, la réalisation de la prestation suivante :</p>
+      <table>
+        <tr>
+          <td class="bg-grey">Descriptif de la mission confiée au consultant et risques liés aux conditions de travail identifiées sur site</td>
+        </tr>
+        <tr>
+          <td><%= @commercial_contract_request.mission_subject %></td>
+        </tr>
+      </table>
+      <table>
+        <tr>
+          <td class="bg-grey">Descriptif des compétences, qualifications et domaines d'expertise</td>
+          <td class="bg-grey">Annexes jointes</td>
+          <td class="bg-grey">Ref Contrat Client</td>
+        </tr>
+        <tr>
+          <td><%= @commercial_contract_request.competences %></td>
+          <td><%#= @commercial_contract_request.annexes.size %></td>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+      <% if @society.need_construction_insurance? %>
+        <table>
+          <tr>
+            <td class="bg-grey">Chantier</td>
+          </tr>
+          <tr>
+            <td><%= @commercial_contract_request.construction_site %></td>
+          </tr>
+        </table>
+      <% end %>
+      <table>
+        <tr>
+          <td class="bg-grey">Consultant en charge</td>
+          <td class="bg-grey">Date de début prévue</td>
+          <td class="bg-grey">Date de fin prévue</td>
+          <td class="bg-grey">Nbre jours / heures</td>
+          <td class="bg-grey">Délai de résiliation en sem.</td>
+        </tr>
+        <tr>
+          <td><%= @consultant.name %></td>
+          <td><%= @commercial_contract_request.begining_date.strftime('%d/%m/%Y') %></td>
+          <td><%= @commercial_contract_request.ending_date.strftime('%d/%m/%Y') %></td>
+          <td><%= @commercial_contract_request.time_length %></td>
+          <td><%= @commercial_contract_request.notice_period %></td>
+        </tr>
+      </table>
+      <table>
+        <tr>
+          <td class="bg-grey">Frais pris en charge par le client</td>
+          <td class="bg-grey">Honoraires convenus hors TVA</td>
+          <td class="bg-grey">T.V.A. en %</td>
+          <td class="bg-grey">Acompte prévu à la signature</td>
+        </tr>
+        <tr>
+          <td><%= @commercial_contract_request.expenses_comment %></td>
+          <td><%= @commercial_contract_request.amount_without_vat %></td>
+          <td><%= @commercial_contract_request.vat_rate.rate %></td>
+          <td><%= @commercial_contract_request.advance_payment.blank? ? '' : @commercial_contract_request.formated_advance_payment %></td>
+        </tr>
+      </table>
+      <table>
+        <tr>
+          <td class="bg-grey">Dispositions particulières pour le remboursement des frais</td>
+        </tr>
+        <% if @commercial_contract_request.expenses_payback_comment.present? %>
+          <tr>
+            <td><%= @commercial_contract_request.expenses_payback_comment %></td>
+          </tr>
+        <% end %>
+        <tr>
+          <td class="bg-grey">Modalités de facturation et de paiement</td>
+        </tr>
+        <% if @commercial_contract_request.payment_comment.present? %>
+          <tr>
+            <td><%= @commercial_contract_request.payment_comment %></td>
+          </tr>
+        <% end %>
+      </table>
+      <div class="static-content">
+        <p class="text-left text-bold color-purple mt-10" style="font-size: 7px;">
+          <strong class="color-orange">2.</strong> consultant</p>
+        <p class="mt-minus-9 mb-2 text-justify">
+          La prestation définie ci-dessus sera effectuée par le consultant de l'EPS désigné à cet effet par l'EPS et agréé
+          par le client suivant les conditions prévues aux présentes.
+          Le consultant s'engage à mettre en œuvre tout son savoir-faire pour réaliser l’intervention qui lui est confiée.
+          Il s'engage notamment à solliciter du client toutes les informations nécessaires à l'accomplissement de son intervention.
+          Il s'engage, en outre, à informer le client de toutes les contraintes liées à sa mission. Cela étant dit,
+          l'EPS et le consultant désigné pour la présente mission réaliseront cette dernière librement.
+          En aucun cas, l'EPS ou le consultant ne sont, de quelque manière que ce soit, assujettis au client par un quelconque
+          lien de subordination. Pour la réalisation et la durée de la mission, le client aura pour unique co-contractant
+          la société ci-dessus désignée. En cas de difficulté ou de retard constatés dans l'accomplissement de la mission,
+        le client devra en informer sans délai l'EPS.</p>
+
+        <p class="text-left text-bold color-purple" style="font-size: 7px;">
+          <strong class="color-orange">3.</strong> lieu de l'intervention</p>
+        <p class="mt-minus-9 mb-2 text-justify">
+          Pour la réalisation de sa mission, le consultant pourra être amené soit à travailler à son domicile, soit à se
+          rendre chez le client, chez l'EPS, ou chez des tiers.</p>
+
+        <p class="text-left text-bold color-purple" style="font-size: 7px;">
+          <strong class="color-orange">4.</strong> honoraires, frais de transport et d'hébergement</p>
+        <p class="mt-minus-9 mb-2 text-justify">
+          Le client reconnaît être informé que les honoraires et frais dus en exécution de la prestation réalisée par
+          le consultant seront facturés par l'EPS et s'engage donc à verser à l'EPS les dits montants, tels qu'indiqués
+          ci-dessus.</p>
+
+        <p class="text-left text-bold color-purple" style="font-size: 7px;">
+          <strong class="color-orange">5.</strong> traitement des données personnelles (RGPD) et confidentialité des
+          données clients</p>
+        <p class="mt-minus-9 mb-minus-5 text-justify">
+          L'EPS et le client se garantissent mutuellement que les données personnelles transmises à chacune desdites
+          parties ont été collectées et traitées dans le respect de la règlementation en vigueur applicable à la protection
+          des données personnelles. Chaque Partie garantit à l’autre Partie une stricte confidentialité à l’égard des
+          données, y compris des données personnelles, dont elle aura eu connaissance. Dans le cadre de sa mission, le
+          consultant pourra notamment avoir accès à des données personnelles traitées par le client ou à des données
+          professionnelles strictement confidentielles. L'EPS n’a jamais accès à ces données personnelles ou professionnelles.
+          Le consultant est également tenu au strict respect de la confidentialité des données professionnelles et à la
+          protection des données personnelles auxquelles il pourrait avoir accès dans le cadre de son activité auprès
+          du client (détail des engagements des parties accessible à l’adresse suivante :
+          <a href="<%= Goxygene.is_freeteam? ? 'https://www.freeteam.com/mentions-legales/' : 'https://www.itg.fr/upload/Document/KIT_SURVIE_RGPD_RG1.pdf' %>">
+            <%= Goxygene.is_freeteam? ? 'https://www.freeteam.com/mentions-legales/' : 'https://www.itg.fr/upload/Document/KIT_SURVIE_RGPD_RG1.pdf' %>
+          </a> - Politique de données personnelles <%= Goxygene::Parameter.value_for_group %>
+        </p>
+
+        <p class="text-left text-bold color-purple mt-5" style="font-size: 7px;">
+          <strong class="color-orange">6.</strong> propriété des études</p>
+        <p class="mt-minus-9 mb-2 text-justify">
+          Il est expressément stipulé que l'EPS ne pourra utiliser les résultats de la mission à d'autres fins que celles
+          décidées par le client.</p>
+        <p class="text-left text-bold color-purple" style="font-size: 7px;">
+          <strong class="color-orange">7.</strong> responsabilité et obligation de moyens</p>
+        <p class="mt-minus-9 mb-2 text-justify">
+          L'EPS serait dégagée de toute responsabilité dans le cas où le client ne fournirait pas au consultant l'ensemble
+          des informations nécessaires à l'exécution de sa mission. Le contrat n'institue aucun lien de subordination, ne
+          confère aucun mandat, ni ne crée aucune société commune ou association en participation entre l'EPS et le client.
+          L'EPS ne sera en aucun cas impliqué dans la gestion des affaires du client.</p>
+        <p class="text-left text-bold color-purple" style="font-size: 7px;">
+          <strong class="color-orange">8.</strong> responsabilité de l'entreprise cliente relatives aux conditions
+          d'exécution de la mission</p>
+        <p class="mt-minus-9 mb-2 text-justify">
+          Le client s'engage à prendre toute mesure nécessaire pour préserver la santé et la sécurité du consultant.
+          Il devra veiller à la stricte observation de toute prescription relative à la réglementation du travail,
+          notamment en matière d'hygiène et sécurité. Le consultant sera tenu de respecter les règles d'hygiène et
+          de sécurité en vigueur sur le lieu d'exécution de la prestation, et de porter les équipements de protection
+          fournis par le client (tels que définis en annexe). Le client s'engage à informer le consultant des précautions
+          générales et particulières à prendre afin qu'il assure sa propre sécurité et celle des autres personnes présentes
+          sur le lieu de réalisation de la prestation.</p>
+        <p class="text-left text-bold color-purple" style="font-size: 7px;">
+          <strong class="color-orange">9.</strong> intégralité du contrat</p>
+        <p class="mt-minus-9 mb-2 text-justify">
+          Le présent contrat et ses annexes expriment l'intégralité des obligations des parties, annulent et remplacent
+          tout accord, correspondance ou écrit antérieurs.</p>
+        <p class="text-left text-bold color-purple" style="font-size: 7px;">
+          <strong class="color-orange">10.</strong> résiliation</p>
+        <p class="mt-minus-9 mb-2 text-justify">
+          Le présent contrat pourra être résilié par lettre recommandée avec accusé de réception par l'une ou l'autre
+          des parties dans les conditions suivantes :</p>
+        <ul style="padding-left: 13px;font-size: 7px;">
+          <li>
+            Avant le début de l'exécution de la mission en respectant un préavis du nombre de semaines indiqué ci-dessus.
+          </li>
+          <li>
+            Durant l'exécution de la mission en respectant un préavis d'une durée double de celle indiquée ci-dessus.
+          </li>
+        </ul>
+
+        <p class="mt-minus-9 mb-2 text-justify">
+          En cas de résiliation, l'EPS prendra les dispositions nécessaires à la facturation des travaux déjà réalisés et/ou
+          des dépenses engagées en vue de la réalisation de l'intervention.</p>
+
+        <p class="text-left text-bold color-purple" style="font-size: 7px;">
+          <strong class="color-orange">11.</strong> droit applicable et litiges éventuels</p>
+        <p class="mt-minus-9 mb-2 text-justify">
+          Le droit applicable au présent contrat est le droit français. Tout différend découlant du présent contrat sera soumis,
+          à défaut d'accord amiable, aux tribunaux compétents du siège social de l'EPS.</p>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div id="footer">
+      <div class="col-xs-6 pull-left entre-left mt-10">
+        <table>
+          <tr>
+            <td class="bg-grey text-center">pour le client, cachet et signature de la personne habilitée ci-dessus</td>
+          </tr>
+        </table>
+        <table>
+          <tr>
+            <td style="height: 2cm;"></td>
+          </tr>
+        </table>
+      </div>
+      <div class="col-xs-6 pull-right entre-right mt-10 ">
+        <table>
+          <tr>
+            <td class="bg-grey text-center">pour l'EPS, signature de la personne habilitée ci-dessus</td>
+          </tr>
+        </table>
+        <table>
+          <tr>
+            <td style="height: 2cm;"></td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>

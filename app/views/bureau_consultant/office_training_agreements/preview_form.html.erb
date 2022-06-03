@@ -1,0 +1,179 @@
+<div class="row">
+  <div class="top">
+    <span class="contract-reqest-title">PRÉVISUALISATION</span>
+    <% if Goxygene.is_freeland? %>
+      <span class="modal-video-tutoreial hidden-xs">
+        <i class="fa fa-question-circle question-icon-size m-l-20 text-violet" data-toggle="modal" data-target="#video-part-2"></i>
+      </span>
+    <% end %>
+
+    <%= link_to "< Retour au contrat", new_office_training_agreement_path, class: 'btn btn-lightgrey pull-right hidden-xs' %>
+
+    <%= link_to "< Retour au contrat", new_office_training_agreement_path, class: 'btn btn-lightgrey btn-block visible-xs' %>
+  </div>
+
+
+  <div class="row col-md-12 m-t-15">
+    <div class="col-md-6 ">
+      <span class="text-grey">Contrat entre : </span>
+      <div class="well m-t-10">
+        <div>
+          <div class="text-grey">Raison sociale</div>
+          <div class="text-bold establishment_name"><%= @office_training_agreement.establishment_name %></div>
+        </div>
+
+
+        <div class="m-t-10">
+          <div class="text-grey">Siège</div>
+          <div class="text-bold"><%= @office_training_agreement.establishment_address %></div>
+        </div>
+
+        <div class="m-t-10">
+          <div class="text-grey">Représente par</div>
+          <div class="text-bold"><%= @office_training_agreement.contact_first_name %> <%= @office_training_agreement.contact_last_name %></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <span class="text-grey">et : </span>
+      <div class="well m-t-10">
+        <div>
+          <div class="text-grey">Raison sociale</div>
+          <div class="text-bold"><%= @office_training_agreement.itg_establishment.name %></div>
+        </div>
+
+        <div class="m-t-10">
+          <div class="text-grey">Consultant en charge</div>
+          <div class="text-bold"><%= current_consultant.name %></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <div class="well">
+
+      <div class="">
+        <div class="text-grey">Objet</div>
+        <div class="text-bold"><%= @office_training_agreement.mission_subject %></div>
+      </div>
+
+
+      <div class="row m-t-10">
+        <div class="col-md-6">
+          <div class="text-grey">Début prévu :</div>
+          <div class="text-bold"><%= set_datetime_format(@office_training_agreement.begining_date) %></div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="text-grey">Fin prévu :</div>
+          <div class="text-bold"><%= set_datetime_format(@office_training_agreement.ending_date) %></div>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <div class="well">
+      <div class="text-grey">Nombre de jours d'activité</div>
+      <div class="text-bold text-red"><%= @office_training_agreement.time_length %></div>
+    </div>
+  </div>
+
+  <div class="col-md-4">
+    <div class="well">
+      <div class="text-grey">Honoraires hors TVA (€)</div>
+      <div class="text-bold text-red"><%= number_to_currency @office_training_agreement.order_amount %></div>
+    </div>
+  </div>
+
+  <div class="col-md-4">
+    <div class="well">
+      <div class="text-grey">TVA</div>
+      <div class="text-bold vat_rate"><%= @office_training_agreement.vat_rate&.label %></div>
+    </div>
+  </div>
+
+  <div class="col-md-8">
+    <div class="well">
+      <div class="text-grey">Document(s)</div>
+      <% @office_training_agreement.office_business_contracts_documents.each do |business_contracts_document| %>
+        <div class="text-bold">
+          <%= business_contracts_document.filename %> (<%= business_contracts_document.document.document_type.label %>)
+        </div>
+      <% end %>
+    </div>
+  </div>
+</div>
+
+<div class="row m-t-20">
+  <div class="pull-right">
+    <%= link_to "Valider et ne pas recevoir le contrat par mail",
+                '#',
+                class: 'btn btn-lightgrey btn-short btn-wrapable',
+                'data-toggle': "modal",
+                'data-target': "#before_redirect" %>
+    <%= link_to "Valider et recevoir le contrat par mail",
+                '#',
+                class: 'btn btn-green btn-short btn-wrapable',
+                'data-toggle': "modal",
+                'data-target': "#before_redirect2" %>
+  </div>
+</div>
+
+<div class="modal fade mission-expense" id="before_redirect" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content before-modify">
+      <div class="modal-body">
+        <div class="align-center text-grey2">
+          Veuillez maintenant suivre les instructions suivantes :<br/>
+          1. Imprimez votre contrat en deux exemplaires en cliquant sur le PDF<br/>
+          2. Envoyez ces deux exemplaires à votre client pour signature<br/>
+          3. Après signature de votre client, faites suivre ces deux exemplaires à <%= current_consultant.itg_establishment.name %><br/>
+
+        </div>
+      </div>
+      <div class="modal-footer align-center">
+        <%= link_to 'OK',
+                    office_training_agreement_submit_path(@office_training_agreement),
+                    method: :post,
+                    class: 'btn btn-empty-grey btn-no-margin-tb' %>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade mission-expense" id="before_redirect2" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content before-modify">
+      <div class="modal-body">
+        <div class="align-center text-grey2">
+          Veuillez maintenant suivre les instructions suivantes :<br/>
+            1. Imprimez votre contrat en deux exemplaires en cliquant sur le PDF<br/>
+            2. Envoyez ces deux exemplaires à votre client pour signature<br/>
+            3. Après signature de votre client, faites suivre ces deux exemplaires à <%= current_consultant.itg_establishment.name %><br/>
+
+        </div>
+      </div>
+      <div class="modal-footer align-center">
+        <%= link_to 'OK',
+                    office_training_agreement_validate_path(@office_training_agreement, email: true),
+                    method: :post,
+                    class: 'btn btn-empty-grey btn-no-margin-tb' %>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<%= render 'bureau_consultant/shared/modal_video_tutorial',
+           modal_id: 'video-part-2',
+           modal_title: 'Contrats Commerciaux part3',
+           video_url: '//www.youtube.com/embed/qXx1e8i3-HI',
+           video_id: 'qXx1e8i3-HI' %>

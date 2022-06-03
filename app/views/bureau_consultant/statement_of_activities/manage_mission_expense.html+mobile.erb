@@ -1,0 +1,135 @@
+<% if @mission_expense.errors.any? %>
+    <div id="error_explanation" class="alert alert-danger">
+      <ul>
+        <% @mission_expense.errors.full_messages.each do |message| %>
+            <li><%= message %></li>
+        <% end %>
+      </ul>
+    </div>
+<% end %>
+
+<div class="row manage-mission">
+  <div class="col-md-2 hidden-xs hidden-sm">
+    <%= render 'step', step: 2 %>
+  </div>
+
+  <div class="col-sm-12 col-md-6">
+    <div class="page-top clearfix da hide">
+      <div class="col-sm-12 no-p-l-r">
+        <h4 class="list-title no-m-l">
+          <%= t('declaration_activities.mission_expenses.title') %>
+          <span class="text-bold"><%= l current_month, format: :month_year %></span>
+        </h4>
+      </div>
+    </div>
+
+    <div class="step_horizontal visible-sm visible-xs">
+      <%= render '3_step_horizontal', step: 2 %>
+    </div>
+
+    <div class="padding-15">
+      <%= render 'top-panel-expenses' %>
+      <%= render partial: 'activity', collection: activities %>
+    </div>
+
+
+  </div>
+
+  <div class="col-sm-12 col-md-4" id="scroll_to_this">
+    <div class="add-expense bg-white p-t-20">
+      <div class="padding-left-right">
+        <div class="align-center">
+          <div class="text-bold">Déclarez vos frais pour cette mission :</div>
+          <table class="m-t-10">
+            <tr>
+              <td class="border-right table-padding"><%= l activity.date.to_date %></td>
+              <td class="border-right table-padding"><%= activity.time_span %> j</td>
+              <td class="border-right text-bold text-violet table-padding"><%= activity.activity_type.label %></td>
+              <td class="table-padding"><%= activity.label %></td>
+            </tr>
+          </table>
+
+          <% if activity.have_luncheon_vouchers? %>
+            <div class="m-l-5 m-t-5 text-left">
+              <div class="badge badge-primary"><%= fa_icon 'check', text: 'Ticket restaurant demandé' %></div>
+            </div>
+          <% end %>
+        </div>
+
+        <%= form_for @mission_expense, validate: true, url: update_expense_statement_of_activities_path(activity_id: activity.id, expense_id: @mission_expense.id) do |f| %>
+            <div class="form-group">
+              <div class="m-t-15">
+                <label>Type de frais *</label>
+
+                <div class="field">
+                  <%= f.select :expense_type_id,
+                               options_for_select(current_consultant.allowed_expense_types.for_activities.collect {|expense_type|
+                                 [
+                                     expense_type.label,
+                                     expense_type.id,
+                                     {
+                                       'data-is-distance' => expense_type.is_kilometers,
+                                       'data-has-vat'     => expense_type.has_vat,
+                                     }
+
+                                 ]
+                               }.rotate(1),
+                                                  selected: @mission_expense.expense_type_id),
+                               {},
+                               class: 'type-activite-select custom-dropdown-icon select-box-no-rounded field-taller select-expense-type'
+                  %>
+
+                </div>
+              </div>
+
+              <div class="m-t-15 statement_of_activities_line_distance_field">
+                <label>Distance (KM) *</label>
+                <%= f.text_field :kilometers, class: 'number-field input-no-rounded form-control field-taller', placeholder: 'kilomètres' %>
+              </div>
+
+              <div class="m-t-15 statement_of_activities_line_amount_field">
+                <label>Montant TTC (€) *</label>
+                <%= f.text_field :total, class: 'number-field input-no-rounded form-control field-taller', placeholder: 'Frais TTC' %>
+              </div>
+              <div class="m-t-15 vat-container">
+                <label>Montant TVA (€)</label>
+                <%= f.text_field :vat, class: 'number-field input-no-rounded form-control field-taller', placeholder: 'Montant TVA' %>
+              </div>
+
+              <div class="m-t-15">
+                <label>Libellé * </label>
+                <%= f.text_field :label,
+                                 class: 'input-no-rounded form-control field-taller expense-label',
+                                 maxlength: 90,
+                                 placeholder: 'Libellé' %>
+              </div>
+            </div>
+
+            <div class="align-center m-t-30">
+              <%= link_to 'ANNULER', manage_mission_statement_of_activities_path,
+                          class: 'btn btn-short btn-full-width m-t-0 m-b-15 btn-grey btn-no-rounded' %>
+              <%= link_to 'ENREGISTRER', '#',
+                          class: 'btn btn-short btn-full-width m-t-0 m-b-15 btn-orange btn-no-rounded',
+                          :onclick => "$(this).parents('form').submit()"
+              %>
+            </div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<script>
+    $(document).ready(function () {
+        $('.mobile-right-content').animate({
+            scrollTop: $("#scroll_to_this").offset().top
+        }, 1500);
+    });
+</script>
+
+<%= render 'bureau_consultant/shared/mobile_top_nav',
+           nav_color: ENV['HUB_MAIN_COLOR_DARK'] || '#8c2e60',
+           nav_title: 'Frais de mission',
+           nav_left: link_to(image_tag('bureau_consultant/icon-mobile-nav-back', class: 'mobile-nav-icon'), '#', onclick: 'navGoBack();'),
+           nav_right: link_to(image_tag('bureau_consultant/icon-mobile-nav-close', class: 'mobile-nav-icon'), home_index_path) %>

@@ -1,0 +1,124 @@
+.step_horizontal {
+
+  margin-top: 20px;
+
+  #progressbar li {
+    list-style-type: none;
+    width: 50%;
+    float: left;
+    position: relative;
+    text-align: center;
+  }
+
+  #progressbar.step_3_node li {
+    width: 33% !important;
+  }
+  #progressbar.step_4_node li {
+    width: 25% !important;
+  }
+
+  #progressbar li:before {
+    content:'';
+    counter-increment: step;
+    width: 30px;
+    height: 30px;
+    line-height: 56px;
+    display: block;
+    border-radius: 50%;
+    margin: 0 auto 10px auto;
+    border: 1px solid <%= ENV['HUB_MAIN_COLOR_DARK'] || '#8c2e60' %>;
+    text-align: center;
+    background-color: white;
+    z-index: 1;
+    position: relative;
+  }
+
+  #progressbar li.active:before {
+    background-color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#8c2e60' %>;
+  }
+
+  #progressbar li.future_step:before {
+    background-color: #a3a3a3 !important;
+    opacity: 0.98;
+    #border: 4px solid #a3a3a3;
+  }
+
+  /*progressbar connectors*/
+  #progressbar li:after {
+    content: '';
+    width: 100%;
+    height: 4px;
+    background-color: #ddd;
+    position: absolute;
+    left: -50%;
+    top: 13px;
+  }
+  #progressbar li:first-child:after {
+    /*connector not needed before the first step*/
+    content: none;
+  }
+  #progressbar li.active {
+    color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#8c2e60' %>;
+  }
+  #progressbar li.danger {
+    color: red;
+  }
+
+  #progressbar li.error {
+    color: red;
+  }
+  /*marking active/completed steps green*/
+  /*The number of the step and the connector before it = green*/
+  #progressbar li.active:before {
+    border-color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#8c2e60' %>;
+  }
+
+  #progressbar li.error:before {
+    border-color: red;
+  }
+
+  #progressbar li.active + li:after {
+    background-color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#8c2e60' %>;
+  }
+
+  .modal-large {
+    width: 80%
+  }
+  .callout.boxcount {
+    border-color: #0097bc;
+    background: #eee;
+  }
+  .disbaled-div {
+    pointer-events: none;
+  }
+  #po_list tooltip:not(:first-child) {
+    margin-left: -8px !important;
+  }
+  #progressbar li.current:before {
+    background: rgba(242, 246, 248, 1);
+    background: -moz-linear-gradient(left, rgba(242, 246, 248, 1) 0%, rgba(216, 225, 231, 1) 0%, rgba(224, 239, 249, 1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(242, 246, 248, 1)), color-stop(0%, rgba(216, 225, 231, 1)), color-stop(100%, rgba(224, 239, 249, 1)));
+    background: -webkit-linear-gradient(left, rgba(242, 246, 248, 1) 0%, rgba(216, 225, 231, 1) 0%, rgba(224, 239, 249, 1) 100%);
+    background: -o-linear-gradient(left, rgba(242, 246, 248, 1) 0%, rgba(216, 225, 231, 1) 0%, rgba(224, 239, 249, 1) 100%);
+    background: -ms-linear-gradient(left, rgba(242, 246, 248, 1) 0%, rgba(216, 225, 231, 1) 0%, rgba(224, 239, 249, 1) 100%);
+    background: linear-gradient(to right, rgba(242, 246, 248, 1) 0%, rgba(216, 225, 231, 1) 0%, rgba(224, 239, 249, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f2f6f8', endColorstr='#e0eff9', GradientType=1);
+  }
+}
+
+.mobile-app {
+  .step_horizontal {
+    #progressbar.step_3_node li, #progressbar.step_4_node li, #progressbar li {
+      font-size: 12px;
+      &:before {
+        width: 15px;
+        height: 15px;
+        margin: 7px auto 7px auto;
+      }
+    }
+
+    #progressbar.step_4_node li {
+      width: 25% !important;
+    }
+  }
+}

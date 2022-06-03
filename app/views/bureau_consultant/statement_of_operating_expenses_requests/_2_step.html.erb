@@ -1,0 +1,26 @@
+<div class="tunnel-container m-t-40">
+  <ol class="tunnel">
+    <li <%= add_current_step_class(1, step) %>>
+      <div class="border">
+        <div class="step-text <%= add_text_bold(1, step) %>">
+          DÉPENSES DE FONCTIONNEMENT
+
+          <div class="m-t-10">
+            <%= raw(add_tooltip(1, step)) %>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li <%= add_current_step_class(2, step) %>>
+      <div class="border2">
+        <div class="step-text <%= add_text_bold(2, step) %>">
+          <%= t('declaration_activities.steps.synthesis') %>
+
+          <div class="m-t-10">
+            <%= raw(add_tooltip(2, step)) %>
+          </div>
+        </div>
+      </div>
+    </li>
+  </ol>
+</div>

@@ -1,0 +1,96 @@
+<div class="row expense-lists bg-white text-smaller padding-10
+  <%= (params[:activity_id].to_i == activity.id ? ' selected' : '') %>">
+  <div class="row text-verticle-middle m-l-0 m-r-0">
+    <div class="header-expense overflow-auto" style="display: table; width: 100%">
+      <div class="text-zone pull-left" style="display: table-cell">
+        <span style="position: absolute">
+          <i class="fa fa-square text-violet btn-no-rounded"></i>
+        </span>
+        <div class="p-l-15">
+          <span><%= l activity.date.to_date %></span>
+          <span><%= activity.time_span %> j</span>
+          <br>
+          <span class="text-bold text-violet"><%= activity.activity_type.label %></span>
+          <span title="<%= activity.label %>"><%= activity.label.to_s.truncate(13) %></span>
+        </div>
+      </div>
+      <% if activity.has_expenses_allowed %>
+        <div style="display: table-cell; vertical-align: middle; width: 20px">
+        <%= link_to '+ FRAIS', manage_mission_expense_statement_of_activities_path(activity_id: activity.id),
+                    style: 'padding: 5px 10px;',
+                    class: 'btn-frais btn btn-orange btn-extrashort add-expense-btn btn-no-rounded m-t-0 m-b-0' +
+                        (params[:activity_id].to_i == activity.id ? ' selected' : '')
+        %>
+        </div>
+      <% end %>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <% if activity.office_activity_report_expenses.any? %>
+      <div class="content-expense m-t-10">
+        <div class="row padding-left-right">
+
+          <% activity.office_activity_report_expenses.order(:proof_of_expense_number).each do |expense| %>
+            <div>
+              <div class="td-first-element p-l-0 p-t-5 p-b-5" style="display: table; width: 100%; position: relative; border-top: 1px dashed #cccccc;">
+                <div style="display: table-cell">
+                  <%= link_to manage_mission_expense_statement_of_activities_path(activity_id: activity.id, expense_id: expense.id), style: 'position: absolute;' do %>
+                    <i class='fa fa-pencil text-white bg-violet small-icon-set clickable icon-centering' aria-hidden='true'
+                       data-toggle="popover"
+                       data-html="true"
+                       data-container="body"
+                       data-placement="auto top"
+                       data-content="Modifier">
+                    </i>
+                  <% end %>
+                  <div class="p-l-30">
+                    <div><%= expense.proof_of_expense_number %>. <%= expense.expense_type.try :label %></div>
+                    <div>
+                      <% if expense.label.length > 13 %>
+                        <span data-toggle="popover"
+                              data-placement="right"
+                              data-content="<%= expense.label %>">
+                          <%= expense.label.truncate(13) %>
+                        </span>
+                      <% else %>
+                        <span><%= expense.label %></span>
+                      <% end %>
+                    </div>
+                  </div>
+                </div>
+
+                <div style="display: table-cell">
+                  <div class="p-r-30 text-right">
+                    <div><%= "KM: #{expense.kilometers}" if expense.kilometers %></div>
+                    <div><%= "Frais HT: #{expense.total - expense.vat}" %></div>
+                    <div><%= "TVA: #{expense.vat}" if expense.vat %></div>
+                  </div>
+                  <%= link_to destroy_expense_statement_of_activities_path(activity_id: activity.id, expense_id: expense.id), method: :delete, data: {confirm: 'Etes-vous sûr ?'},
+                      style: 'position: absolute; right: 0; top: 0; padding-top: 5px;' do %>
+                    <i class='fa fa-trash text-white bg-red small-icon-set clickable icon-centering' aria-hidden='true'
+                       data-toggle="popover"
+                       data-html="true"
+                       data-container="body"
+                       data-placement="auto top"
+                       data-content="Supprimer">
+                    </i>
+                  <% end %>
+                </div>
+              </div>
+            </div>
+          <% end %>
+        </div>
+      </div>
+    <% end %>
+
+
+  </div>
+</div>
+
+<style>
+  .mobile-app .manage-mission .expense-lists.row.selected {
+    background: #f5e9ef !important;
+    border: 1px solid #eadfe8;
+  }
+</style>

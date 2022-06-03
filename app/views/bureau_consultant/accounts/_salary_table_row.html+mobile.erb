@@ -1,0 +1,72 @@
+<div class="data-row m-b-0 padding-15"
+     style="margin: 0 -10px; border-bottom: 1px solid <%= ENV['HUB_MAIN_COLOR_LIGHT'] || '#5a2861' %>;">
+
+  <div>
+    <span>Année</span> :
+    <%= account.year %>
+  </div>
+
+  <div>
+    <span>Mois</span> :
+    <%= I18n.t("date.month_names")[account.month].capitalize %>
+  </div>
+
+  <div>
+    <span>Demandé le</span> :
+    <%= set_datetime_format(account.activity_report&.office_activity_report&.consultant_validation) %>
+  </div>
+
+  <div>
+    <span>Heures</span> :
+    <%= number_with_precision(account.hours, @number_format) %>
+  </div>
+
+  <div>
+    <span>Fait le</span> :
+    <%= set_datetime_format(account.date) %>
+  </div>
+
+  <div class="row m-t-10">
+    <div class="col-xs-6">
+      <span>Prime (€)</span> :
+      <%= number_with_precision(account.supplementary_gross_wage, @number_format) %>
+    </div>
+  </div>
+
+  <div class="row m-t-10">
+    <div class="col-xs-6">
+      <span>Brut (€)</span> :
+      <%= number_with_precision(account.gross_wage, @number_format) %>
+    </div>
+
+    <div class="col-xs-6">
+      <span>Net (€)</span> :
+      <%= number_with_precision(account.net_wage, @number_format) %>
+    </div>
+  </div>
+
+  <div class="row m-t-10">
+    <div class="col-xs-12">
+      <span>Coût (€)</span> :
+      <%= number_with_precision(account.cost, @number_format) %>
+    </div>
+  </div>
+
+  <div class="file-download m-t-10">
+    <% if account.document %>
+      <%= link_to salary_download_path(account, format: :pdf), target: :_blank do %>
+        <div class="btn btn-orange btn-no-rounded btn-full-width m-t-5 m-b-5">
+          Bulletin de paie
+        </div>
+      <% end %>
+    <% end %>
+
+    <% if account.document_old %>
+      <%= link_to salary_download_simplified_path(account, format: :pdf), target: :_blank do %>
+        <div class="btn btn-orange btn-no-rounded btn-full-width m-t-5 m-b-5">
+          Bulletin de paie
+        </div>
+      <% end %>
+    <% end %>
+  </div>
+</div>
