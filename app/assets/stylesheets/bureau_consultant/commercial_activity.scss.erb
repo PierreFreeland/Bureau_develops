@@ -1,0 +1,84 @@
+.soft-green {
+  color: #7D9148;
+  border-color: #7D9148;
+}
+
+.soft-red {
+  color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#c13856' %>;
+  border-color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#c13856' %>;
+}
+
+.bg-soft-red {
+  background: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#c13856' %>;
+  border-color: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#c13856' %>;
+}
+
+.bg-soft-green {
+  background: #7D9148;
+  border-color: #7D9148;
+}
+
+.header-title {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.commercial-activity-lists {
+  margin-top: 30px;
+  .commercial-activity-boxes {
+    position: relative;
+    background-color: #fff;
+    min-height: 169px;
+    border-top: 1px solid;
+    margin-bottom: 15px;
+    .left-icon {
+      display: inline-block;
+      width: 151px;
+      height: 169px;
+      float: left;
+      position: absolute;
+      height: 100%;
+      .icon-middle {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-top: -20px; // 50% of icon height
+        margin-left: -16px; // 50% of icon width
+
+      }
+    }
+    .right-content {
+      margin-left: 151px;
+      padding: 15px;
+      .btn {
+        margin-bottom: 15px;
+      }
+    }
+    .commercial-activity-title {
+      font-size: 16px;
+      margin-bottom: 15px;
+    }
+    .group-link {
+      margin-top: 5px;
+      a {
+        color: #1a1a1a;
+        &:hover {
+          color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c10' %>;
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+
+@media (max-width: 767px) {
+  .full-content-xs {
+    margin-left: 0px !important;
+  }
+
+  .text-xs-center {
+    text-align: center;
+  }
+}
+

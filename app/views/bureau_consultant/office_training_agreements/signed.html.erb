@@ -1,0 +1,89 @@
+<div class="row">
+  <div class="col-xs-12">
+    <div class="contract-reqest-title text-upcase">Historique de mes conventions de formation signées</div>
+    <div class="buttons-nav clearfix m-t-20">
+
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 form-group">
+        <%= render 'bureau_consultant/shared/paginate', collection: @commercial_contracts %>
+      </div>
+
+      <div class="col-xs-12 col-md-9 col-sm-9 col-lg-6 form-group">
+        <%= search_form_for @q, url: signed_office_training_agreements_path, :class => 'form-inline' do |f| %>
+            <%= f.search_field :begining_date_gteq,
+                               class: 'datepicker form-control form-group',
+                               value: set_datetime_format(params[:q][:begining_date_gteq]) %>
+            <div class="form-group">
+              <span class="text-bigger">à</span>
+            </div>
+            <%= f.search_field :begining_date_lteq,
+                               class: 'datepicker form-control form-group',
+                               value: set_datetime_format(params[:q][:begining_date_lteq]) %>
+            <%= f.submit 'Filtre', class: 'btn btn-violet btn-short btn-no-margin btn-no-rounded form-group hidden-xs' %>
+
+            <div class="align-center visible-xs">
+              <%= f.submit 'Filtre', class: 'btn btn-violet btn-short btn-no-margin btn-no-rounded' %>
+
+              <span data-toggle="submit" data-target="#contract_signed"
+                    class="btn btn-orange-static btn-no-rounded btn-no-margin">
+                <i class="fa fa-external-link p-r-10"></i>Exporter
+              </span>
+            </div>
+        <% end %>
+      </div>
+
+      <div data-toggle="submit" data-target="#contract_signed"
+           class="col-md-3 col-sm-3 col-lg-2
+           btn btn-orange btn-short btn-no-rounded btn-no-margin
+           hidden-xs visible-sm visible-lg visible-md">
+        <i class="fa fa-external-link p-r-10"></i>Exporter
+      </div>
+
+    </div>
+
+    <% if flash[:alert].is_a?(Array) %>
+      <div class="alert alert-danger">
+        <ul>
+          <% flash[:alert].each do |msg| %>
+            <li><%= msg %></li>
+          <% end %>
+        </ul>
+      </div>
+    <% end %>
+
+    <%= form_tag export_signed_office_training_agreements_path(format: :xlsx), method: :get, id: 'contract_signed' do %>
+        <%= hidden_field_tag "q[begining_date_gteq]", params[:q][:begining_date_gteq] %>
+        <%= hidden_field_tag "q[ending_date_lteq]", params[:q][:begining_date_lteqZ] %>
+        <section class="panel m-t-20">
+          <div class="panel-item">
+            <div class="table-wrap">
+              <table class="list-table no-top">
+                <thead>
+                <tr>
+                  <th>
+                    <div class="line clearfix">
+                      <input type="checkbox" value="" name=""/>
+                    </div>
+                  </th>
+                  <th>Référence</th>
+                  <th>Commande</th>
+                  <th><%= sort_link(@q, :establishment_name, 'Client') %></th>
+                  <th><%= sort_link(@q, :begining_date, 'Début') %></th>
+                  <th><%= sort_link(@q, :ending_date, 'Fin') %></th>
+                  <th>Total HT</th>
+                  <th>Total TTC</th>
+                  <th>Validé le</th>
+                  <th></th>
+                </tr>
+                </thead>
+                <tbody>
+                <%= render partial: 'signed_table_row', collection: @commercial_contracts, as: :signed_contract %>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+    <% end %>
+
+    <%= render 'bureau_consultant/shared/paginate', collection: @commercial_contracts %>
+  </div>
+</div>

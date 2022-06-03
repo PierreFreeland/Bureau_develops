@@ -1,0 +1,78 @@
+<div class="row m-b-40">
+  <div class="col-xs-12">
+    <div class="row grid-big-right my-services search-page">
+      <div class="col-left">
+        <div class="content-wrapper bg-white">
+          <%= render 'left_panel' %>
+        </div>
+      </div>
+
+      <div class="col-right">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="bg-white padding-20">
+
+              <div class="btn-group-1-col-block m-t-0">
+                <h2 class="text-center text-purple">RESULTATS POUR LA RECHERCHE « <%= @q.category_name_or_solution_number_or_solution_name_cont %> »</h2>
+                <ul class="questionnaire text-bold">
+                  <% @cms_pages.each do |cms_page| %>
+                      <li id="a1" class="js-questionnaire-element questionnaire-boxes <%= render_color_class(cms_page.solution_number) %>">
+                        <div class="left-icon">
+                          <div class="icon-middle <%= render_icon_class(cms_page.solution_number) %>"></div>
+                        </div>
+                        <%= link_to cms_page.solution_name, service_path(cms_page), class: 'right-content' %>
+                      </li>
+                  <% end %>
+                  <% if @cms_pages.empty? %>
+                      <tr><td colspan="10" class="text-center"><%= "Aucun résultat trouvé." %></td></tr>
+                  <% end %>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<%= render 'bureau_consultant/shared/mobile_top_nav',
+           nav_color: '#d80039',
+           nav_title: 'Rechercher des services',
+           nav_left: link_to(image_tag('bureau_consultant/icon-mobile-nav-back', class: 'mobile-nav-icon'), '#', onclick: 'navGoBack()'),
+           nav_right: link_to(image_tag('bureau_consultant/icon-mobile-nav-close', class: 'mobile-nav-icon'), home_index_path) %>
+
+<style type="text/css">
+  /* ------ Custom styles for mobile app ------ */
+
+  .mobile-app .my-services {
+    margin-top: 0;
+    padding: 0 15px;
+  }
+
+  .mobile-app .my-services .search-control {
+    display: table;
+    width: 100%;
+  }
+  .mobile-app .my-services .keyword-search .search-control .form-group {
+    display: table-cell;
+    vertical-align: middle;
+    padding-right: 10px;
+    width: 100%;
+  }
+  .mobile-app .my-services .keyword-search .search-control input[type=submit] {
+    display: table-cell;
+    vertical-align: middle;
+    position: static;
+  }
+
+  .mobile-app .my-services .discover-block {
+    display: none;
+  }
+
+  .mobile-app .my-services .col-right .bg-white {
+    padding: 10px !important;
+  }
+</style>
+

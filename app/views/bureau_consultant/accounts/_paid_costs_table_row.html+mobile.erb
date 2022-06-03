@@ -1,0 +1,72 @@
+<div class="data-row m-b-0 padding-15">
+  <div>
+    <span>NDF du</span> :
+    <%= set_datetime_format(account.date) %>
+  </div>
+
+  <div>
+    <span>Commentaire</span> :
+    <%= account.comment %>
+  </div>
+
+  <div>
+    <span>KM</span> :
+    <%= number_with_precision(account.kilometers_details&.kilometers, @number_format) %>
+  </div>
+
+  <div>
+    <span>Dépl.</span> :
+    <%= number_with_precision(account.shifting_details&.amount, @number_format) %>
+  </div>
+
+  <div>
+    <span>Bureau</span> :
+    <%= number_with_precision(account.bureau_details&.amount, @number_format) %>
+  </div>
+
+  <div>
+    <span>Doc.</span> :
+    <%= number_with_precision(account.formation_details&.amount, @number_format) %>
+  </div>
+
+  <div>
+    <span>Poste</span> :
+    <%= number_with_precision(account.post_details&.amount, @number_format) %>
+  </div>
+
+  <div>
+    <span>Tél.</span> :
+    <%= number_with_precision(account.telecom_details&.amount, @number_format) %>
+  </div>
+
+  <div>
+    <span>Divers</span> :
+    <%= number_with_precision(account.misc_details&.amount, @number_format) %>
+  </div>
+
+  <div>
+    <span>TVA</span> :
+    <%= number_with_precision(account.vat, @number_format) %>
+  </div>
+
+  <div>
+    <span>HT</span> :
+    <%= number_with_precision(account.total, @number_format) %>
+  </div>
+
+  <div>
+    <span>TTC</span> :
+    <%= number_with_precision(account.total_with_taxes, @number_format) %>
+  </div>
+
+  <div>
+    <span>Chrono</span> :
+    <%= account.accounting_document %>
+  </div>
+</div>
+
+
+
+
+
+

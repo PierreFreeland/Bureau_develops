@@ -1,0 +1,40 @@
+<div class="row">
+  <div class="page-top clearfix da hide">
+    <div class="col-sm-7 col-sm-offset-2">
+      <div class="list-title m-l-15 text-light-violet text-header">
+        <%= t('declaration_activities.title') %>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-2 hidden-xs hidden-sm">
+    <%= render 'step', step: 1 %>
+  </div>
+
+  <div class="step_horizontal visible-sm visible-xs col-xs-12">
+    <%= render '3_step_horizontal', step: 1 %>
+  </div>
+
+  <div class="col-sm-12 col-md-8 col-xs-12 m-t-20">
+    <div class="panel padding-left-right  p-t-20 p-b-20">
+      <% if current_consultant.has_employment_contract || current_consultant.office_activity_reports.validated.in_current_month.present? %>
+        <p>Vous avez déjà clôturé votre déclaration d'activité pour le mois en cours.<br/>
+        Attendez le début du mois pour commencer votre prochaine déclaration d'activité.
+        </p>
+      <% else %>
+        <p>
+          Vous n’avez pas de contrat de travail vous permettant de déclarer une activité.<br/>
+          Veuillez contacter votre correspondant.
+        </p>
+      <% end %>
+    </div>
+  </div>
+</div>
+
+<%= render 'bureau_consultant/shared/mobile_top_nav',
+           nav_color: ENV['HUB_MAIN_COLOR_DARK'] || '#8c2e60',
+           nav_title: t('declaration_activities.title'),
+           nav_left: link_to(image_tag('bureau_consultant/icon-mobile-nav-back', class: 'mobile-nav-icon'), '#', onclick: 'navGoBack();'),
+           nav_right: link_to(image_tag('bureau_consultant/icon-mobile-nav-close', class: 'mobile-nav-icon'), home_index_path) %>

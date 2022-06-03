@@ -1,0 +1,174 @@
+<% if statement_of_activities_request.errors.any? %>
+    <div id="error_explanation" class="alert alert-danger">
+      <ul>
+        <% statement_of_activities_request.errors.full_messages.each do |message| %>
+            <li><%= message %></li>
+        <% end %>
+      </ul>
+    </div>
+<% end %>
+
+<% if @line.errors.any? %>
+    <div id="error_explanation" class="alert alert-danger">
+      <ul>
+        <% @line.errors.full_messages.each do |message| %>
+            <li><%= message %></li>
+        <% end %>
+      </ul>
+    </div>
+<% end %>
+<% if @line.warnings.any? %>
+    <div id="error_explanation" class="alert alert-warning">
+      <ul>
+        <% @line.warnings.full_messages.each do |message| %>
+            <li><%= message %></li>
+        <% end %>
+      </ul>
+    </div>
+<% end %>
+
+<div class="row">
+  <div class="col-md-2 hidden-xs hidden-sm">
+    <%= render 'step', step: 1 %>
+  </div>
+
+  <div class="step_horizontal visible-sm visible-xs col-xs-12">
+    <%= render '3_step_horizontal', step: 1 %>
+  </div>
+
+  <div class="col-xs-12 col-sm-12 col-md-5 m-t-20 form-group hide">
+    <%#= render 'top-panel' %>
+    <%#= render 'calendar' %>
+  </div>
+
+  <div class="col-xs-12 col-sm-12 col-md-5 set-calendar-tab m-t-25" id="scroll_to_this">
+
+    <ul class="aside-tabs" style="display: table;width:100%">
+      <% @lines.each do |line| %>
+        <% if line.is_mission? %>
+          <%#OPTIMIZE : fix this ugly piece of ... %>
+          <li class="<%= 'active' if @line.try(:id) == line.id %> text-center bg-grey text-white"
+              style="display: table-cell" <%= tab_label_popover line.label %>
+              onclick="location.href='<%= manage_activity_day_statement_of_activities_path(date: @current_date, line_id: line.id) %>'">
+          <%= truncate_tab_label line.label %>
+          </li>
+        <% elsif line.is_unemployment? %>
+          <li class="<%= 'active' if @line.try(:id) == line.id %> text-center bg-orange2 text-white"
+              style="display: table-cell" <%= tab_label_popover line.label %>
+              onclick="location.href='<%= manage_activity_day_statement_of_activities_path(date: @current_date, line_id: line.id) %>'">
+            <%= truncate_tab_label line.label %>
+          </li>
+        <% elsif line.is_development? %>
+          <li class="<%= 'active' if @line.try(:id) == line.id %> text-center bg-white text-bold text-light-violet"
+              style="display: table-cell" <%= tab_label_popover line.label %>
+              onclick="location.href='<%= manage_activity_day_statement_of_activities_path(date: @current_date, line_id: line.id) %>'">
+            <%= truncate_tab_label line.label %>
+          </li>
+        <% end %>
+      <% end %>
+      <% if @can_add_new_activity %>
+        <li class="text-center bg-orange" style="display: table-cell" onclick="location.href='<%= manage_activity_day_statement_of_activities_path(date: @current_date) %>'">
+          + AJOUTER UNE ACTIVITÉ
+        </li>
+      <% end %>
+    </ul>
+    <aside class="panel add-activities" style="border-radius: 0">
+      <%= form_for @line, url: update_activity_day_statement_of_activities_path(date: @current_date, line_id: @line.id) do |f| %>
+        <div class="panel-body"><!-- <div class="title">Autres informations</div> -->
+          <div class="text-light-violet text-bigger text-bold text-center">
+            <%= l(@line.date.to_date, format: :longer).capitalize %>
+          </div>
+          <div class="field">
+            <%= f.select :activity_type_id,
+                         activity_type_options(@line),
+                         class: 'type-activite-select custom-dropdown-icon select-box-no-rounded field-taller' %>
+          </div>
+          <div class="field" style="margin-bottom: 20px">
+            <div class="text-bold">Libellé * </div>
+            <%= f.text_field :label, class: 'input-no-rounded form-control field-taller',
+                             placeholder: 'Libellé',
+                             maxlength: '90'
+            %>
+          </div>
+          <div class="text-bold m-b-5">Temps travaillé</div>
+          <div class="m-b-20 activity-time-span">
+            <%= f.hidden_field :time_span %>
+            <div class="row small-gutter">
+              <div class="col-xs-3">
+                <div data-value="0.25" class="btn btn-empty-orange btn-short btn-block btn-no-rounded m-t-0 m-b-0" style="min-width: auto; padding-left: 0; padding-right: 0">0.25</div>
+              </div>
+              <div class="col-xs-3">
+                <div data-value="0.5" class="btn btn-empty-orange btn-short btn-block btn-no-rounded m-t-0 m-b-0" style="min-width: auto; padding-left: 0; padding-right: 0">0.5</div>
+              </div>
+              <div class="col-xs-3">
+                <div data-value="0.75" class="btn btn-empty-orange btn-short btn-block btn-no-rounded m-t-0 m-b-0" style="min-width: auto; padding-left: 0; padding-right: 0">0.75</div>
+              </div>
+              <div class="col-xs-3">
+                <div data-value="1.0" class="btn btn-empty-orange btn-short btn-block btn-no-rounded m-t-0 m-b-0" style="min-width: auto; padding-left: 0; padding-right: 0">1</div>
+              </div>
+            </div>
+          </div>
+          <div class="flex">
+            <div class="m-r-10">
+              <%= link_to 'Dupliquer sur tout le mois', '#',
+                          class: 'm-t-0 m-b-0 p-l-5 p-r-5 btn btn-empty-grey btn-wrapable text-small btn-no-rounded',
+                          style: 'min-width: auto',
+                          id: 'duplicate_for_whole_month',
+                          data: { url: duplicate_activity_on_month_statement_of_activities_path(date: @current_date, line_id: @line.id) }
+              %>
+            </div>
+            <div>
+              <%= link_to 'Dupliquer sur quelques jours', '#',
+                          class: 'm-t-0 m-b-0 p-l-5 p-r-5 btn btn-empty-grey btn-wrapable text-small btn-no-rounded',
+                          style: 'min-width: auto',
+                          id: 'duplicate_for_few_days',
+                          data: { url: duplicate_new_statement_of_activities_path(date: @current_date, line_id: @line.id) }
+              %>
+            </div>
+          </div>
+
+
+          <div class="p-t-5 align-center">
+            <% if @line.persisted? %>
+              <%= link_to 'SUPPRIMER',
+                          destroy_activity_statement_of_activities_path(activity_id: @line.id),
+                          method: :delete,
+                          data: {confirm: 'Etes-vous sûr ?'},
+                          class: 'btn btn-rouge btn-short btn-no-rounded btn-full-width m-t-10 m-b-0'
+              %>
+            <% end %>
+            <%= link_to 'ENREGISTRER', '#',
+                        class: 'btn btn-orange btn-short btn-no-rounded btn-full-width m-t-10 m-b-0',
+                        :onclick => "$(this).parents('form').submit()"
+            %>
+          </div>
+
+        </div>
+      <% end %>
+    </aside>
+  </div>
+
+  <%= render 'manage_zipcode' %>
+</div>
+
+<%= render 'zipcode_error' %>
+
+<%= render partial: 'layouts/bureau_consultant/loading_modal' %>
+
+<script>
+  //add highlight on selected date
+  $(document).ready(function() {
+      add_highlight_manage_activities_day('<%= params[:date] %>');
+
+      $('html, body').animate({
+          scrollTop: $("#scroll_to_this").offset().top
+      }, 2000);
+  });
+</script>
+
+
+<%= render 'bureau_consultant/shared/mobile_top_nav',
+           nav_color: ENV['HUB_MAIN_COLOR_DARK'] || '#8c2e60',
+           nav_title: 'DÉCLARATION D’ ACTIVITÉ',
+           nav_left: link_to(image_tag('bureau_consultant/icon-mobile-nav-back', class: 'mobile-nav-icon'), '#', onclick: 'navGoBack();'),
+           nav_right: link_to(image_tag('bureau_consultant/icon-mobile-nav-close', class: 'mobile-nav-icon'), home_index_path) %>

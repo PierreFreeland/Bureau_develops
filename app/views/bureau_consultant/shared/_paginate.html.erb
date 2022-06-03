@@ -1,0 +1,15 @@
+<% if collection.respond_to?(:total_pages) && collection.total_pages > 1 %>
+
+<div class="pagination hidden-xs">
+  <div class="link-page">
+    <%= paginate collection, theme: 'custom' %>
+  </div>
+</div>
+
+<div class="pagination full-width visible-xs">
+  <div class="link-page pull-right smaller">
+    <%= paginate collection, window: 1, outer_window: 0, theme: 'responsive_xs' %>
+  </div>
+</div>
+
+<% end %>

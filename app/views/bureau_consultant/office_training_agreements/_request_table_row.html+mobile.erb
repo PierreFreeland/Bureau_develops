@@ -1,0 +1,38 @@
+<div class="data-row m-b-0 padding-15">
+  <div>
+    <span>Client</span> :
+    <%= contract_request.establishment_name %>
+  </div>
+  <div>
+    <span>État</span> :
+    <%= contract_request.business_contract_status_text %>
+  </div>
+
+  <div class="m-t-10">
+    <span>Début</span> :
+    <%= set_datetime_format(contract_request.begining_date) %>
+  </div>
+  <div>
+    <span>Fin</span> :
+    <%= set_datetime_format(contract_request.ending_date) %>
+  </div>
+
+  <div class="m-t-10">
+    <span>Total HT</span> :
+    <%= contract_request.amount_without_vat %>
+  </div>
+
+  <div class="m-t-10">
+    <span>Date création</span> :
+    <%= set_datetime_format(contract_request.created_at) %>
+  </div>
+
+  <div class="file-download">
+    <%= link_to office_training_agreement_path(contract_request.id, format: :pdf), target: :_blank do %>
+      <div class="btn btn-orange btn-no-rounded">
+        PDF
+      </div>
+    <% end %>
+  </div>
+</div>
+

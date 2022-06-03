@@ -1,0 +1,157 @@
+<div class="row billing">
+  <div class="col-sm-2 col-md-2">
+    <%= render 'step', step: 2 %>
+  </div>
+
+  <div class="col-sm-10 col-md-10 no-p">
+    <div class="page-top clearfix da">
+      <div class="col-sm-12 no-p-l-r">
+        <h4 class="list-title no-m-l">
+          FACTURER UN CLIENT
+        </h4>
+      </div>
+    </div>
+
+
+    <div class="row p-t-30">
+      <div class="col-sm-7">
+        <div class="top-panel">
+          <div class="panel info-panel frais_header" style="padding: 0px">
+            <table class="table">
+              <tbody>
+              <tr>
+                <td class="no-wrap top-summary-padding">
+                  <div class="label-top">TOTAL FRAIS HIT</div>
+                  <div class="value c1ValueJour">0.00 €</div>
+                </td>
+                <td class="no-wrap top-summary-padding">
+                  <div class="label-top">TOTAL TVA</div>
+                  <div class="value c2ValueHeure">0.00 €</div>
+                </td>
+                <td class="no-wrap top-summary-padding">
+                  <div class="label-top">TOTAL TTC</div>
+                  <div class="value c3ValueSalaireConventionel">0.00 €</div>
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+
+        <div class="bg-white p-b-5 m-b-20 padding-left-right">
+          <div class="row">
+            <table class="table borderless">
+              <tr>
+                <td class="td-first-element">
+                  <i class="fa fa-pencil small-icon-set clickable icon-with-bg" aria-hidden="true"></i>
+                  <i class="fa fa-trash-o small-icon-set clickable icon-with-bg m-l-10" aria-hidden="true"></i>
+                </td>
+
+                <td>1. Frais kilométrique</td>
+                <td>Annecy/Lyon</td>
+                <td>6.25 €</td>
+                <td>0.00 €</td>
+              </tr>
+
+              <tr>
+                <td class="td-first-element">
+                  <i class="fa fa-pencil small-icon-set clickable icon-with-bg" aria-hidden="true"></i>
+                  <i class="fa fa-trash-o small-icon-set clickable icon-with-bg m-l-10" aria-hidden="true"></i>
+                </td>
+
+                <td>2. Logement / Hotel</td>
+                <td>Bestwestern</td>
+                <td>2058.00 €</td>
+                <td>26.30 €</td>
+              </tr>
+
+              <tr>
+                <td class="td-first-element">
+                  <i class="fa fa-pencil small-icon-set clickable icon-with-bg" aria-hidden="true"></i>
+                  <i class="fa fa-trash-o small-icon-set clickable icon-with-bg m-l-10" aria-hidden="true"></i>
+                </td>
+
+                <td>3. Repas</td>
+                <td>Café de la gare</td>
+                <td>6.25 €</td>
+                <td>1.00 €</td>
+              </tr>
+
+              <tr>
+                <td class="td-first-element">
+                  <i class="fa fa-pencil small-icon-set clickable icon-with-bg" aria-hidden="true"></i>
+                  <i class="fa fa-trash-o small-icon-set clickable icon-with-bg m-l-10" aria-hidden="true"></i>
+                </td>
+
+                <td>4.Repas</td>
+                <td>Restoroute</td>
+                <td>109.25 €</td>
+                <td>2.00 €</td>
+              </tr>
+            </table>
+          </div>
+
+        </div>
+
+      </div>
+
+
+      <div class="col-sm-5 no-p p-l-10">
+        <div class="top-panel">
+          <div class="panel info-panel frais_header" style="padding: 0px">
+            <table class="table">
+              <tbody>
+              <tr>
+                <td class="no-wrap top-summary-padding">
+                  <div class="label-top">TOTAL HONORAISE HIT</div>
+                  <div class="value c1ValueJour">0.00 €</div>
+                </td>
+                <td class="no-wrap top-summary-padding">
+                  <div class="label-top">TOTAL FRAIS HIT</div>
+                  <div class="value c2ValueHeure">0.00 €</div>
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="bg-white p-b-5 padding-left-right">
+
+          <div class="align-center p-t-15"><label>Ajouter une ligne à la facture</label></div>
+
+          <div class="p-t-10">
+            <label>Types</label>
+            <select class="form-control">
+              <option>Honoraires</option>
+            </select>
+          </div>
+
+          <div class="p-t-10">
+            <label>Montant Hors Taxe</label>
+            <input type="text" class="form-control"/>
+          </div>
+
+          <div class="p-t-10">
+            <label>Libellé <span class="text-red">*</span></label>
+            <input type="text" class="form-control"/>
+          </div>
+
+          <div class="align-center">
+            <button class="btn btn-short btn-grey">ANNULER</button>
+            <button class="btn btn-short btn-orange">AJOUTER</button>
+          </div>
+        </div>
+
+        <div class="p-t-5 align-center">
+          <button class="btn btn-short btn-grey">PRÉCÉDENT</button>
+          <button class="btn btn-short btn-rouge">PRÉVISUALISER</button>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+</div>

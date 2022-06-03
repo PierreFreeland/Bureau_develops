@@ -1,0 +1,22 @@
+<tr class="commercial_contract">
+  <td>
+    <div class="line clearfix">
+        <input type="checkbox" value="<%= signed_contract.id %>" name="q[id_in][]" class="ids" />
+      </div>
+    </div>
+  </td>
+
+  <td><%= signed_contract.id %></td>
+  <td><%= signed_contract.customer_contract_reference %></td>
+  <td><%= signed_contract.establishment.name %></td>
+  <td class="commercial_contract_begining_date"><%= set_datetime_format(signed_contract.begining_date) %></td>
+  <td><%= set_datetime_format(signed_contract.ending_date) %></td>
+  <td><%= signed_contract.amount_without_vat %></td>
+  <td><%= signed_contract.amount_with_vat %></td>
+  <td><%= display_datetime(signed_contract.contract_back_on) %></td>
+  <td class="pdf">
+    <% if signed_contract.last_signed_document.present? && signed_contract.last_signed_document&.filename&.file.exists? %>
+      <%= link_to fa_icon('file-pdf-o'), office_training_agreement_signed_path(signed_contract.id), target: :_blank %>
+    <% end %>
+  </td>
+</tr>

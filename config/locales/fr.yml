@@ -1,0 +1,307 @@
+fr:
+  errors:
+    messages:
+      decimal: "n'est pas un nombre décimal valide"
+      optional_decimal: "n'est pas un nombre décimal valide"
+      extension_whitelist_error: "doit avoir pour extension %{allowed_types}"
+
+  activerecord:
+    attributes:
+      cas_authentication:
+        password: "Mot de passe"
+        password_confirmation: "Confirmation mot de passe"
+      bureau_consultant/annexe:
+        fichier: "Le fichier"
+      bureau_consultant/statement_of_activities_request:
+        gross_wage: "Salaire demandé"
+        mission_zip_code: ""
+        unemployment_document: ""
+      goxygene/office_activity_report_line:
+        label: "Libellé"
+        expense_label: "Libellé"
+        total: "Montant TTC"
+        time_span: "Temps travaillé"
+      goxygene/office_activity_report_expense:
+        label: "Libellé"
+      goxygene/office_activity_report/office_activity_report_documents:
+        document: "Document d'activité"
+      bureau_consultant/invoice_request:
+        nom1: "raison sociale"
+        adresse1: "nom du destinataire"
+        adresse2: "adresse"
+        ville: "code postal et ville"
+        country: "pays"
+        establishment_siret: ''
+      goxygene/office_business_contract:
+        begining_date: "La date de début de contrat"
+        ending_date: "La date de fin du contrat"
+        order_amount: "Le montant des honoraires HT"
+        time_length: "Le nombre de jours d'activité"
+        time_hours_length: "Durée (en heures)"
+        advance_payment: "Acompte"
+        daily_order_amount: "Le Taux journalier"
+        office_business_contract_expenses: ''
+        training_name: Intitulé du stage
+        training_purpose: Objectifs du stage
+        trainees: Effectif formé (personnes)
+        training_location_booking: La(les) salle(s) sera(ont) retenue(s) par
+        training_location: Lieux
+        training_target: Type d’action de formation
+        training_domain: Spécialité de formation
+      goxygene/office_activity_report:
+        gross_wage: "Salaire brut demandé"
+        unemployment_document: ""
+      goxygene/office_customer_bill:
+        date: "Date de facturation"
+        business_contract: "Contrat de prestation / Convention de formation"
+    warnings:
+      models:
+        goxygene/office_activity_report_line:
+          outside_of_selectable_days: "Vous avez saisi une activité sur un jour qui n’est pas inclus dans votre contrat de travail. Merci de prendre contact avec votre correspondant pour régulariser votre contrat de travail"
+    errors:
+      models:
+        goxygene/office_customer_bill:
+          attributes:
+            base:
+              total_cannot_be_null: "Vous ne pouvez pas faire de demande de facture à 0 € TTC."
+            vat_rate:
+              required: "^Veuillez renseigner un taux de TVA."
+            target_date:
+              cannot_be_prior_to_date: "^La date d'échéance ne peut être antérieure à la date de facturation"
+              cannot_be_over_90_days_over_date: "^La date d'échéance ne peut être supérieure de plus de 90 jours à la date de facturation"
+            establishment_siret:
+              too_long:
+                other: "Le SIRET doit être composé de 14 chiffres."
+              too_short:
+                other: "Le SIRET doit être composé de 14 chiffres."
+            date:
+              not_within_range: "Vous devez modifier la date de la facture."
+        goxygene/wage_advance:
+          attributes:
+            amount:
+              higher_than_allowed: "^Attention : l'avance saisie dépasse l'avance max %{max_allowed} €"
+        goxygene/office_operating_expense_line:
+          attributes:
+            date:
+              higher_than_allowed: "ne doit pas être au dela de %{max_allowed}"
+              lower_than_allowed: "ne doit pas être avant %{min_allowed}"
+        goxygene/office_activity_report:
+          attributes:
+            base:
+              must_have_contract: "Votre compte ne permet pas la création d'une Déclaration d'Activités, veuillez contacter votre conseiller"
+              gross_wage_must_equals_standard_gross_wage: "Compte tenu de vos activités déclarées et de votre solde financier, votre salaire du mois doit être égal à votre salaire brut conventionnel"
+              must_no_newer_office_activity_report: "Un demande de DA postérieur existe pour ce consultant."
+            gross_wage:
+              greater_or_equal_to_standard_gross_wage: "^Le montant minimum du salaire brut doit être de %{standard_gross_wage}"
+              exceeds_maximum_salary: "ne peut excéder %{max_salary} €"
+            mission_zip_code:
+              blank: "Merci de renseigner code postal de votre mission"
+              invalid: "Le code postal de votre mission n’est pas valide"
+            unemployment_document:
+              blank: "Vous avez déclaré des heures de chômage partiel, merci de fournir l’attestation sans laquelle elles ne peuvent être prises en compte."
+            hours:
+              less_than_or_equal_to: "^Vous ne pouvez pas déclarer plus de %{count} heures dans votre DA."
+        goxygene/office_activity_report_line:
+          attributes:
+            base:
+              statement_duration_must_not_exceed_limit: "Le nombre d'heures déclarées ne peut pas excéder %{max_allowed} heures"
+              cannot_accept_unemployment_type: "Le chômage partiel n'est pas accepté pour cette activité"
+            time_span:
+              exceeds_one_day: "ne peut être supérieur à une journée pour la totalité des activités de la même journée."
+              exceeds_monthly_limit: "total ne peut être supérieur à 161h sur le mois."
+        goxygene/office_business_contract:
+          total_cannot_be_null: "Vous ne pouvez pas faire de demande de facture à 0 € TTC."
+          attributes:
+            establishment_siret:
+              too_long:
+                other: "Le SIRET doit être composé de 14 chiffres."
+              too_short:
+                other: "Le SIRET doit être composé de 14 chiffres."
+            begin_from:
+              in_the_past: "ne doit pas être antérieure à plus de 3 mois."
+            ending_date:
+              occurs_before_begin: "ne peut être avant la date de début."
+            builders_risk_insurance:
+              required: "est requise."
+            daily_order_amount:
+              already_set_up: 'ne peut être inférieur à 250€ HT'
+              higher_than_per_day: "doit être supérieure au minimum de %{min_per_day} par jour."
+            time_length:
+              higher_than_business_days_in_range: "ne peut être supérieur au nombre de jours ouvrés entre la date de début et de fin de mission."
+            advance_payment:
+              not_a_number: 'Veuillez renseigner un nombre'
+
+  number:
+    format:
+      separator: ','
+      delimiter: '&nbsp;'
+      precision: 2
+    currency:
+      format:
+        format: "%n %u"
+        unit: '&euro;'
+        separator: ','
+        delimiter: '&nbsp;'
+
+  time:
+    formats:
+      default: "%d/%m/%Y %H:%M"
+
+  date:
+    formats:
+      month_year: "%B %Y"
+      longer: "%A %d %B %Y"
+
+  views:
+    pagination:
+      first: "&laquo; Début"
+      last: "Fin &raquo;"
+      previous: "&lsaquo; Préc"
+      next: "Suiv &rsaquo;"
+      truncate: "&hellip;"
+      items_per_page: 'Objets par page'
+    pagination_responsive_xs:
+      previous: '‹'
+      next: '›'
+      items_per_page: 'Par page'
+
+    "yes": Oui
+    "no": Non
+
+  consultants:
+    first_name: 'Prénom'
+    last_name: 'Nom'
+    login: 'Login'
+    pretend: 'Se connecter'
+    last_signin_at: 'Dernière connexion'
+    submit: 'Filtre'
+    designation: 'Désignation'
+    no_result: 'Pas de résultat'
+
+  header:
+    disconnection: 'DÉCONNEXION'
+
+  statement_of_activities:
+    duplicate_error_message: "L'activité n'a pas pu être dupliquée sur les dates suivantes : %{dates}"
+
+  office_training_agreements:
+    object: Objet
+    begin_from: Date de début
+    end_at: Date de fin
+    time_length: "Durée (en jours)"
+    time_hours_length: "Durée (en heures)"
+    daily_order_amount: Taux journalier HT
+    order_amount_ht: Honoraires totaux HT
+    time_length_approx: "Nombre de jour approximatif d’activité"
+    time_length_approx_placeholder: "Donnée non visible sur votre contrat d’intervention"
+    time_to_cancel: Délai de résilliation (en semaine)
+    advance_payment: Acompte HT prévu à la signature
+    customer_supported_expenses: Frais pris en charge par le client
+    further_informations: Modalités de facturation et de paiement / informations complémentaires
+    provision_on_expenses: Dispositions particulières pour le remboursement de frais
+    comment: Remarques pour le traitement du contrat
+    taxrate: TVA
+    training_name: Intitulé du stage
+    training_purpose: Objectifs du stage
+    trainees: Effectif formé (personnes)
+    training_location_booking: La(les) salle(s) sera(ont) retenue(s) par
+    training_location: Lieux
+    training_target: Type d’action de formation
+    training_domain: Spécialité de formation
+    training_days_before_deadline: Dédit
+    new:
+      title: "CONVENTIONS DE FORMATION"
+      preview: Prévisualisation
+      billing_point: Client
+      select_billing_point: Sélectionner un client
+      prestations: Prestations
+      prestation_label: Le client confie à %{company_name} la réalisation de la prestation suivante
+      upload: Télécharger un fichier
+      upload_description: Si nécessaire joindre en annexe la description détaillée ou le cahier des charges Taille maximum 10Mb
+      modalities: Modalités
+      see_conditions: Voir les conditions juridiques
+      expenses: Coûts de la formation
+
+  commercial_contracts:
+    builders_risk_insurance: Assurance
+    construction_site: Chantier
+    begin_from: Date de début
+    end_at: Date de fin
+    object: Objet
+    time_length: "Nombre de jours d'activité"
+    time_length_approx: "Nombre de jour approximatif d’activité"
+    time_length_approx_placeholder: "Donnée non visible sur votre contrat d’intervention"
+    skills: Expertise
+    time_to_cancel: Délai de résilliation (en semaine)
+    billing_without_vat: Total des honoraires hors TVA
+    order_amount_ht: Honoraires totaux HT
+    vat_rate: TVA
+    advance_payment: Acompte HT prévu à la signature
+    customer_supported_expenses: Frais pris en charge par le client
+    further_informations: Modalités de facturation et de paiement / informations complémentaires
+    provision_on_expenses: Dispositions particulières pour le remboursement de frais
+    comment: Remarques pour le traitement du contrat
+    taxrate: TVA
+    type_de_facturation: Type de facturation
+    daily_order_amount: Taux journalier HT
+
+    new:
+      title: "CONTRAT D'INTERVENTION"
+      preview: Prévisualisation
+      billing_point: Client
+      select_billing_point: Sélectionner un client
+      prestations: Prestations
+      prestation_label: Le client confie à %{company_name} la réalisation de la prestation suivante
+      upload: Télécharger un fichier
+      upload_description: Si nécessaire joindre en annexe la description détaillée ou le cahier des charges Taille maximum 10Mb
+      modalities: Modalités
+      see_conditions: Voir les conditions juridiques
+      admin_infos: Informations administratives
+      commercial_infos: Coordonnées commerciales
+      contact_infos: Coordonnées contact = Adresse d'envoi de la facture
+
+  billing_points:
+    name: Raison sociale
+    vat_number: N TVA intra
+    siret: N de SIRET
+    address_line1: Bâtiment
+    address_line2: Numéro et rue
+    address_line3: Complément
+    zip_code: Code postal
+    city: Ville
+    zipcode_city: Code postal et ville
+    country: Pays
+    phone: Téléphone
+    tel_number: Téléphone
+    email: E-mail
+    contact_name: Représenté par
+    represented_by: Représenté par
+
+  contact:
+    last_name: Nom
+    first_name: Prénom
+    contact_type: Type de contact
+    contact_role: Fonction
+    country: Pays
+    address: Bâtiment
+    address2: Numéro et rue
+    address3: Complément
+    zip_code: Code postal
+    city: Ville
+    phone: Téléphone
+    email: Email
+    copy_contact_address_from_establishment: Adresse de l'entreprise
+
+  declaration_activities:
+    steps:
+      declaration_activities: "Déclaration d'activité"
+      luncheon_voucher_request: "Demande de tickets restaurant"
+      mission_expenses: "Frais de mission"
+      synthesis: "Synthèse"
+    title: "Déclaration d'activité"
+    declare_my_activity: "Déclarer mon activité"
+
+    mission_expenses:
+      title: "Frais de mission"
+    luncheon_voucher_request:
+      title: "Demande de tickets restaurant"

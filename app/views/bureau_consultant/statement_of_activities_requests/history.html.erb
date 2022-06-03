@@ -1,0 +1,83 @@
+<div class="row">
+  <div class="col-xs-12">
+    <div class="contract-reqest-title">HISTORIQUE DE MES DEMANDES DE DÉCLARATION D'ACTIVITÉ</div>
+    <div class="buttons-nav clearfix m-t-20">
+
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 form-group">
+        <%= render 'bureau_consultant/shared/paginate', collection: @statement_of_activities_requests %>
+      </div>
+
+      <div class="col-xs-12 col-md-9 col-sm-9 col-lg-6 form-group">
+        <%= search_form_for @q, url: history_statement_of_activities_requests_path, :class => 'form-inline' do |f| %>
+            <%= f.search_field :date_without_day_gteq, :class => 'monthpicker form-control form-group', value: set_month_format(params[:q][:date_without_day_gteq]) %>
+            <div class="form-group">
+              <span class="text-bigger">à</span>
+            </div>
+            <%= f.search_field :date_without_day_lteq, :class => 'monthpicker form-control form-group', value: set_month_format(params[:q][:date_without_day_lteq]) %>
+            <%= f.submit 'Filtre', class: 'btn btn-violet btn-short btn-no-margin btn-no-rounded form-group hidden-xs' %>
+
+            <div class="align-center visible-xs">
+              <%= f.submit 'Filtre', class: 'btn btn-violet btn-short btn-no-margin btn-no-rounded' %>
+
+              <span data-toggle="submit" data-target="#statement_of_activities_requests"
+                    class="btn btn-orange-static btn-no-rounded btn-no-margin">
+                <i class="fa fa-external-link p-r-10"></i>Exporter
+              </span>
+            </div>
+        <% end %>
+      </div>
+
+      <div data-toggle="submit" data-target="#statement_of_activities_requests"
+           class="col-md-3 col-sm-3 col-lg-2
+           btn btn-orange btn-short btn-no-rounded btn-no-margin
+           hidden-xs visible-sm visible-lg visible-md">
+        <i class="fa fa-external-link p-r-10"></i>Exporter
+      </div>
+
+    </div>
+
+    <%= form_tag history_export_statement_of_activities_requests_path(format: :xlsx), method: :get, id: 'statement_of_activities_requests' do %>
+        <%= hidden_field_tag "q[date_without_day_gteq]", set_month_fr_format(params[:q][:date_without_day_gteq]) %>
+        <%= hidden_field_tag "q[date_without_day_lteq]", set_month_fr_format(params[:q][:date_without_day_lteq]) %>
+        <section class="panel m-t-20">
+          <div class="panel-item">
+            <div class="table-wrap">
+              <table class="list-table no-top soar">
+                <thead>
+                <tr>
+                  <th>
+                    <div class="line clearfix">
+                      <div class="violet">
+                        <input type="checkbox" value="" name=""/>
+                        <span class="custom-checkbox"/>
+                      </div>
+                    </div>
+                  </th>
+
+                  <th><%= sort_link(@q, :month_and_year, 'Année') %></th>
+                  <th><%= sort_link(@q, :month, 'Mois') %></th>
+                  <th>Jours</th>
+                  <th>Heures</th>
+                  <th>Jours d'absences de la demande</th>
+                  <th>Nombre d'heures d'absence</th>
+                  <th>Salaire à percevoir</th>
+                  <th>Frais</th>
+                  <th>KM</th>
+                  <th>Etat des activités</th>
+                  <th>Etat des frais</th>
+                  <th>PDF</th>
+                </tr>
+                </thead>
+                <tbody>
+                <%= render partial: 'table_row', collection: @statement_of_activities_requests, as: :office_activity_reports %>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+    <% end %>
+
+    <%= render 'bureau_consultant/shared/paginate', collection: @statement_of_activities_requests %>
+  </div>
+</div>

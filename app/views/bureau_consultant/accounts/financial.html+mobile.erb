@@ -1,0 +1,112 @@
+<div class="row with-bottom-menu">
+  <div class="col-xs-12">
+
+    <div class="row">
+      <div class="col-xs-12">
+        <%= render 'bureau_consultant/shared/paginate', collection: @accounts %>
+      </div>
+
+      <div class="col-xs-12">
+        <%= form_tag financial_accounts_path, method: :get, :class => 'form-inline form-filters' do %>
+          <div class="form-group m-b-5">
+            <%= check_box_tag "q[lettree_not_null]", 1, params[:q][:lettree_not_null] %>
+            <label for="">Lettré</label>
+          </div>
+
+          <div class="row">
+            <div class="form-group col-xs-6 p-r-5" style="display: table">
+              <%= label_tag 'q[date_gteq]', 'Du', style: 'display: table-cell', class: 'p-r-5' %>
+              <%= search_field_tag 'q[date_gteq]', {},
+                                 class: 'datepicker shorter form-control',
+                                 style: 'display: table-cell;',
+                                 value: set_datetime_format(params[:q][:date_gteq]) %>
+            </div>
+
+            <div class="form-group col-xs-6" style="display: table">
+              <%= label_tag 'q[date_lteq]', 'au', style: 'display: table-cell', class: 'p-r-5' %>
+              <%= search_field_tag 'q[date_lteq]', {},
+                                 class: 'datepicker shorter form-control',
+                                 style: 'display: table-cell;',
+                                 value: set_datetime_format(params[:q][:date_lteq]) %>
+            </div>
+          </div>
+
+          <div>
+            <div class="form-group" style="display: table; width: 100%">
+              <%= label_tag 'Trier', nil, style: 'display: table-cell; width: 10px;', class: 'p-r-5' %>
+              <%= select_tag "q[s]", options_for_select([[nil, 'date asc'], ['Date', 'date desc']], params[:q][:s]),
+                                 class: 'form-control',
+                                 style: 'display: table-cell;' %>
+            </div>
+          </div>
+
+          <%#= f.submit 'Filtre', class: 'btn btn-violet btn-short btn-no-margin' %>
+          <!--<button type="button" data-toggle="submit" data-target="#account" class="btn btn-short btn-orange btn-no-margin">Exporter</button>-->
+        <% end %>
+      </div>
+    </div>
+
+    <%= form_tag export_financial_accounts_path(format: :xlsx), method: :get, id: 'account', style: 'display: none' do %>
+      <%= hidden_field_tag "q[lettree_not_null]", params[:q][:lettree_not_null] %>
+      <%= hidden_field_tag "q[date_gteq]", params[:q][:date_gteq] %>
+      <%= hidden_field_tag "q[date_lteq]", params[:q][:date_lteq] %>
+      <section class="panel m-t-20">
+        <div class="panel-item">
+          <div class="table-wrap">
+            <table class="list-table no-top">
+              <thead>
+              <tr>
+                <th>
+                  <div class="line clearfix">
+                    <input type="checkbox"/>
+                  </div>
+                </th>
+
+                <th><%= sort_link_for_accounts(:date, 'Date', params[:q].slice(:s, :lettree_not_null, :date_gteq, :date_lteq)) %></th>
+                <th>Nature</th>
+                <th>Pièce</th>
+                <th>Libellé</th>
+                <th>Débit</th>
+                <th>Crédit</th>
+                <th>Solde</th>
+                <th>Lettré</th>
+              </tr>
+              </thead>
+              <tbody>
+                <%= render partial: 'financial_table_row', collection: @accounts, as: :account %>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    <% end %>
+
+    <%= render partial: 'financial_table_row', collection: @accounts, as: :account %>
+
+    <%= render 'bureau_consultant/shared/paginate', collection: @accounts %>
+
+  </div>
+</div>
+
+<% content_for(:user_account_menu) do %>
+  <%= render 'bureau_consultant/shared/mobile_user_account' %>
+<% end %>
+
+<%= render 'bureau_consultant/shared/mobile_top_nav',
+           nav_color: ENV['HUB_MAIN_COLOR_LIGHT'] || '#5a2861',
+           nav_title: 'Mon compte Financier',
+           nav_left: link_to(image_tag('bureau_consultant/icon-mobile-nav-help', class: 'mobile-nav-icon'), help_index_path),
+           nav_right: yield(:user_account_menu) %>
+
+<%= render 'bureau_consultant/shared/mobile_bottom_nav',
+           content: link_to('Filtrer', '#filters', onclick: '$("form.form-filters").trigger("submit");'),
+           nav_color: '#4e4e4e' %>
+
+<style>
+.data-row {
+  background: #f2f2f2;
+}
+.data-row:nth-child(odd) {
+  background: #e2dde3 !important;
+}
+</style>

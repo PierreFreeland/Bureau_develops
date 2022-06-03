@@ -1,0 +1,83 @@
+.fiches-services-page-info.accordion-group {
+  .panel-title {
+    text-transform: none;
+    a {
+      color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#f17c0f' %>;
+      &.collapsed {
+        color: black;
+      }
+    }
+  }
+}
+
+.page-show {
+  .btn {
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    min-width: 136px;
+    width: auto;
+  }
+}
+
+.fiches-services-page-info .panel-title > a:before {
+  float: right !important;
+  font-family: FontAwesome;
+  content:"\f078";
+  padding-right: 5px;
+}
+.fiches-services-page-info .panel-title > a.collapsed:before {
+  float: right !important;
+  content:"\f054";
+}
+
+.text-green {
+  color: green;
+}
+
+.text-red {
+  color: red;
+}
+
+.top-cms-buttons {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  margin-top: 225px !important;
+  z-index: 1;
+}
+
+#service-send-email-block {
+  .field_with_errors .help-block {
+    text-align: right;
+    font-weight: normal;
+    margin-top: 3px;
+  }
+
+  input[type=text], textarea {
+    background: none;
+  }
+}
+
+.wicked-page-no.first > div:nth-child(2) {
+  height: 315px;
+  background-size: cover;
+  background-position: center;
+}
+
+@media (max-width: 768px) {
+  .wicked-page-no.first .template-text-color > strong {
+    font-size: 20px;
+  }
+
+  .wicked-page-no.first > div:nth-child(1) p {
+    font-size: 14px;
+  }
+
+  .top-cms-buttons {
+    .btn {
+      font-size: 12px !important;
+      min-width: 0;
+    }
+  }
+}

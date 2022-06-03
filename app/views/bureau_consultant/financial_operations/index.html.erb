@@ -1,0 +1,141 @@
+<div class="row">
+  <div class="col-xs-12">
+    <p class="header-title dark-purple financial-operation-header-title">MES OPÉRATIONS FINANCIÈRES</p>
+  </div>
+
+  <div class="col-xs-12">
+    <div class="row financial-operation-lists">
+      <div class="col-md-6">
+        <div class="financial-operation-boxes dark-purple ">
+
+          <div class="left-icon bg-dark-purple hidden-xs">
+            <div class="icon-middle">
+              <%= image_tag('bureau_consultant/icon-declaration') %>
+            </div>
+          </div>
+
+          <div class="right-content full-content-xs">
+            <p class="financial-operation-title text-xs-center">MES DÉCLARATIONS D’ACTIVITÉ</p>
+
+            <%= link_to "DÉCLARER MON ACTIVITÉ", first_time_da_statement_of_activities_path, class: 'btn btn-yellow btn-no-rounded btn-wrapable' %>
+
+            <div class="group-link">
+              <div class="link"><%= link_to 'Historique de mes déclarations d’activité >', history_statement_of_activities_path %></div>
+              <div class="link"><%= link_to 'Historique de mes demandes de déclaration d’activité >', history_statement_of_activities_requests_path %></div>
+              <div class="link"><%= link_to 'Historique de mes salaires  >', salary_accounts_path %></div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+      <% if Goxygene.is_freeland? %>
+        <div class="col-md-6">
+          <div class="financial-operation-boxes dark-purple ">
+
+            <div class="left-icon bg-dark-purple hidden-xs">
+              <div class="icon-middle">
+                <%= image_tag('bureau_consultant/icon-financial-billing') %>
+              </div>
+            </div>
+
+            <div class="right-content full-content-xs">
+              <p class="financial-operation-title text-xs-center">MA FACTURATION</p>
+
+              <%= link_to "FACTURER UN CLIENT", new_invoice_request_path, class: 'btn btn-yellow btn-no-rounded btn-wrapable' %>
+
+              <div class="group-link">
+
+                <div class="link"><%= link_to "Historique de ma facturation >", history_billings_path %></div>
+                <div class="link"><%= link_to "Historique de mes demandes de factures >", history_invoice_requests_path %></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      <% end%>
+
+      <div class="col-md-6">
+        <div class="financial-operation-boxes dark-purple ">
+
+          <div class="left-icon bg-dark-purple hidden-xs">
+            <div class="icon-middle">
+              <%= image_tag('bureau_consultant/icon-financial-expense') %>
+            </div>
+          </div>
+
+          <div class="right-content <%= 'disabled-links-container' unless current_consultant.allowed_expenses_refund? %> full-content-xs">
+            <p class="financial-operation-title text-xs-center">MES NOTES DE FRAIS</p>
+
+            <%= link_to "AJOUTER DES FRAIS DE MISSION", handle_expenses_statement_of_activities_path,
+                        class: 'btn btn-yellow btn-no-rounded btn-wrapable btn-wrapable mb-10'
+            %> <br />
+            <%= link_to raw("AJOUTER DES DÉPENSES<br>DE FONCTIONNEMENT"),
+                        statement_of_operating_expenses_path,
+                        class: 'btn btn-yellow btn-no-rounded btn-wrapable btn-wrapable'
+            %>
+
+            <div class="group-link">
+              <div class="link"><%= link_to 'Historique de mes demandes de dépenses de fonctionnement >', history_statement_of_operating_expenses_requests_path %></div>
+              <div class="link"><%= link_to 'Historique de mes dépenses de fonctionnement >', history_statement_of_operating_expenses_path %></div>
+              <div class="link"><%= link_to 'Mes notes de frais en attente de réglement >', pending_costs_accounts_path %></div>
+              <div class="link"><%= link_to 'Historique de mes notes de frais réglées >', paid_costs_accounts_path %></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="financial-operation-boxes dark-purple ">
+
+          <div class="left-icon bg-dark-purple hidden-xs">
+            <div class="icon-middle">
+              <%= image_tag('bureau_consultant/icon-financial-advance') %>
+            </div>
+          </div>
+
+          <div class="right-content full-content-xs">
+            <p class="financial-operation-title text-xs-center">MES ACOMPTES</p>
+
+            <%= link_to 'DEMANDER UN ACOMPTE', new_advance_path, class: 'btn btn-yellow btn-no-rounded btn-wrapable' %>
+
+            <div class="group-link">
+              <div class="link"><%= link_to 'Historique de mes acomptes >', history_advances_path %></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<% content_for(:user_account_menu) do %>
+  <%= render 'bureau_consultant/shared/mobile_user_account' %>
+<% end %>
+
+<%= render 'bureau_consultant/shared/mobile_top_nav',
+           nav_color: ENV['HUB_MAIN_COLOR_DARK'] || '#8c2e60',
+           nav_title: 'Mes Opérations Financières',
+           nav_left: link_to(image_tag('bureau_consultant/icon-mobile-nav-help', class: 'mobile-nav-icon'), help_index_path),
+           nav_right: yield(:user_account_menu) %>
+
+<style type="text/css">
+  /* ------ Custom styles for mobile app ------ */
+
+  .mobile-app .header-title {
+    display: none;
+  }
+
+  .mobile-app .financial-operation-lists {
+    margin-top: 0;
+  }
+
+  .mobile-app .financial-operation-lists .right-content .btn {
+    width: 100%;
+  }
+
+  .mobile-app .financial-operation-boxes {
+    min-height: auto;
+    height: auto;
+  }
+</style>
+

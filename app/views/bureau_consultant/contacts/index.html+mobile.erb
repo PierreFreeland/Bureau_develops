@@ -1,0 +1,169 @@
+<%= render 'bureau_consultant/shared/mobile_top_nav',
+           nav_color: ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c11',
+           nav_title: 'Contacter <br>Mon Correspondant',
+           nav_left: link_to(image_tag('bureau_consultant/icon-mobile-nav-back', class: 'mobile-nav-icon'), home_index_path),
+           nav_right: link_to(image_tag('bureau_consultant/icon-mobile-nav-close', class: 'mobile-nav-icon'), home_index_path) %>
+
+<div class="contact">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="row grid-big-left">
+
+        <div class="col-left" id="contact-info-block" style="padding: 0 15px">
+          <div class="bg-white p-b-20">
+            <div class="contact-header">
+              <div class="contact-header-title align-center nav-title hide">Contacter <br>Mon Correspondant</div>
+
+              <div class="contact-top">
+                <div class="row">
+                  <div class="align-center">
+                    <div class="contact-name m-b-20 m-t-20"><%= current_consultant.advisor_employee.individual.full_name %></div>
+
+                    <a class="btn btn-orange btn-no-rounded btn-no-margin-top btn-wrapable show-mail show_send_mail" href="javascript:Intercom('show')">Écrire un message</a>
+
+                    <hr>
+
+                    <div class="contact-tel m-t-20 m-b-20">
+                      <span class="tel-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-telephone" viewBox="0 0 16 16">
+                          <path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.568 17.568 0 0 0 4.168 6.608 17.569 17.569 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.678.678 0 0 0-.58-.122l-2.19.547a1.745 1.745 0 0 1-1.657-.459L5.482 8.062a1.745 1.745 0 0 1-.46-1.657l.548-2.19a.678.678 0 0 0-.122-.58L3.654 1.328zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z"/>
+                        </svg>
+                      </span>
+                      <span class="tel-num">01.44.69.80.40</span>
+                    </div>
+                  </div>
+
+              </div>
+            </div>
+
+            <div class="padding-left-right">
+              <div class="padding-10 text-center" style="background: #f7f4f7">
+                <div class="m-b-5">
+                  <%= fa_icon 'map-marker', style: 'font-size: 24px', class: 'text-violet' %>
+                </div>
+                18 Rue de la Ville-l'Évêque <br>
+                75008 Paris
+              </div>
+              <div class="map-section m-b-20 align-center">
+                <iframe
+                    width="670"
+                    height="400"
+                    frameborder="0" style="border:0"
+                    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyC7jcofvvZd-4y6A91CG95jxLIporP9IUg
+                      &q=18+rue+de+la+ville+l%27evêque+75008+paris" allowfullscreen>
+                  </iframe>
+              </div>
+
+
+              <div class="m-t-20">
+                <div class="icon-group align-center">
+                  <span class="share-icon">
+                    <%= link_to image_tag('bureau_consultant/icon-square-linkedin'), 'https://www.linkedin.com/groups/1803524', target: "_blank" %>
+                  </span>
+                  <span class="share-icon">
+                    <%= link_to image_tag('bureau_consultant/icon-square-facebook'), 'https://www.facebook.com/ITGgroupe/', target: "_blank" %>
+                  </span>
+                  <span class="share-icon">
+                    <%= link_to image_tag('bureau_consultant/icon-square-twitter'), 'https://twitter.com/itggroupe', target: "_blank" %>
+                  </span>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+        <div class="col-right" id="contact-send-email-block" style="padding: 0 15px; display: none">
+        <div class="bg-white p-b-20">
+
+          <div class="mail-detail">
+            <!--<div class="icon-close pull-right">X</div>-->
+            <div class="right-header-title p-t-15 align-center hide">
+              <div class="right-title nav-title">Envoyer <br>un e-mail</div>
+            </div>
+
+            <div class="padding-left-right m-t-0 p-t-20">
+              <div class="mail-detail text-smaller">
+                A propos de quoi souhaitez-vous nous contacter ?
+              </div>
+
+              <div class="text-mail m-t-15">
+                <textarea rows="8" class="form-control" placeholder="Votre message *"></textarea>
+              </div>
+
+              <div class="row small-gutter text-center m-t-15">
+                <div class="col-xs-6">
+                  <button class="btn btn-bs-custom btn-block btn-default btn-rouge send-mail">ENVOYER</button>
+                </div>
+                <div class="col-xs-6">
+                  <button class="btn btn-bs-custom btn-block btn-default btn-grey cancel-send-mail close-with-js">ANNULER</button>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="send-mail-success">
+            <div class="row">
+              <div class="col-xs-12">
+
+                <div class="nav-title hide">Merci</div>
+
+                <div class="padding-15">
+                  <div class="text-center m-b-40 m-t-60">
+                    <%= image_tag 'bureau_consultant/icon-orange-circle-check' %>
+                  </div>
+
+                  <div class="text-center text-bigger text-bold text-black">Votre message a bien été envoyé.</div>
+
+                  <p class="text-center m-t-15 m-b-50">
+                    Votre correspondant reprendra contact <br>
+                    avec vous dès que possible.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript" charset="utf-8">
+    var navTitleSendMail = $("#contact-send-email-block .mail-detail .nav-title").html();
+    var navTitleSuccess = $("#contact-send-email-block .send-mail-success .nav-title").html();
+    var navTitleContact = $("#contact-info-block .nav-title").html();
+
+  $("#contact-send-email-block .btn.send-mail").on('click', function() {
+      $(".mobile-top-nav .nav-title").html(navTitleSuccess);
+  });
+
+  $("#contact-send-email-block .btn.cancel-send-mail").on('click', function() {
+      $("#contact-info-block").show();
+      $("#contact-send-email-block").hide();
+      $(".mobile-top-nav .nav-title").html(navTitleContact);
+  });
+
+  $(".mobile-top-nav").on('click', '.close-with-js', function(e) {
+      e.preventDefault();
+
+      if($(".mail-detail").is(":visible")) {
+          $("#contact-send-email-block .btn.cancel-send-mail").click();
+          $(".mobile-top-nav .nav-right a, .mobile-top-nav .nav-left a").removeClass('close-with-js');
+      } else {
+          $("#contact-info-block button.show-mail").click();
+          $(".send-mail-success").hide();
+      }
+  });
+
+  $(".mail-detail .close-with-js").on('click', function() {
+      $(".mobile-top-nav .nav-right a, .mobile-top-nav .nav-left a").removeClass('close-with-js');
+  });
+</script>

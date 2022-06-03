@@ -1,0 +1,222 @@
+<style>
+#content {
+  font-size: 13px;
+  line-height: 16px;
+}
+
+h4 {
+  margin: 0;
+  font-size: 14px;
+}
+
+.m-b-20 {
+  margin-bottom: 20px !important;
+}
+
+.bottom {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+
+.pdf-page .text-small {
+  font-size: 10px;
+}
+
+
+.pdf-page .col-left {
+  width: 60%;
+}
+
+.pdf-page .col-right {
+  width: 40%;
+}
+
+.pdf-page .table {
+  border: 0;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border-collapse: collapse;
+}
+
+.pdf-page .table .cell-border-bottom td {
+  border-bottom: 1px solid #000;
+  padding-bottom: 5px;
+}
+
+.pdf-page .table .cell-border-bottom+tr td {
+  padding-top: 5px;
+}
+
+.pdf-page .table td {
+  border: 0;
+}
+
+.line:nth-child(odd) {
+  background: #f4f4f4;
+}
+
+.line p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.new-page {
+  page-break-before: always;
+}
+
+span.cls_007{font-family:Arial,serif;font-size:10.1px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_007{font-family:Arial,serif;font-size:10.1px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
+
+</style>
+<%= wicked_pdf_image_tag display_logo_image_path_by_itg_establishment_id(@invoice_request.itg_establishment_id), style: 'width: 176px;' %>
+
+<div class="content-2-cols m-b-20">
+  <div class="col-left">
+    <div class="text-small">
+      <%= @invoice_request.itg_company.contact_datum.address_1 %><br>
+      <%= @invoice_request.itg_company.contact_datum.zip_code %> <%= @invoice_request.itg_company.contact_datum.city %><br>
+      <%= @invoice_request.itg_company.contact_datum.country&.label %><br>
+      Tél : <%= @invoice_request.itg_company.contact_datum.phone %><br>
+      Fax : <%= @invoice_request.itg_company.contact_datum.fax %>
+    </div>
+  </div>
+  <div class="col-right">
+    <h4 class="text-right"><%= @invoice_request.itg_company.corporate_name %></h4>
+  </div>
+</div>
+
+<div class="content-2-cols m-b-20">
+  <div class="col-left">
+    <h4>Demande de <%= @invoice_request.bill_type.text %></h4>
+  </div>
+  <div class="col-right">
+    <%= establishment_name_for_invoice(@invoice_request) %><br />
+    <%= contact_name_for_invoice(@invoice_request) %><br/>
+    <%= address_for_invoice(@invoice_request) %>
+  </div>
+</div>
+
+<table class="table">
+  <tr>
+    <td>Date : <%= @invoice_request.date.strftime('%d/%m/%Y') %></td>
+    <td class="text-right"></td>
+  </tr>
+  <tr class="cell-border-bottom">
+    <td>Demande de <%= @invoice_request.bill_type.text %></td>
+    <td class="text-right"><%= @invoice_request.currency.name %></td>
+  </tr>
+  <tr>
+    <td>
+      <span>Code client : <%= @invoice_request.establishment.id %></span>
+      <span style="margin-left: 30px;">N° TVA intracommunautaire Client : <%= @invoice_request.establishment_vat_number %></span>
+    </td>
+    <td class="text-right"></td>
+  </tr>
+  <tr>
+    <td>Référence : <%= @invoice_request.consultant.id %></td>
+    <td class="text-right"></td>
+  </tr>
+  <tr class="cell-border-bottom">
+    <td>REF CONTRAT CLIENT : <%= @invoice_request.business_contract&.id %></td>
+    <td class="text-right"></td>
+  </tr>
+  <% if @invoice_request.office_customer_bill_details.count >= 14 %>
+    <%# first page : 14 elements %>
+    <% @invoice_request.office_customer_bill_details.order('id asc')[0..14].each do |invoice_request_line| %>
+      <tr class="line">
+        <td><%= simple_format invoice_request_line.label %></td>
+        <td class="text-right"><%= invoice_request_line.amount.to_f > 0 ? number_with_precision(invoice_request_line.amount, @number_format) : '&nbsp;'.html_safe %></td>
+      </tr>
+    <% end %>
+    </table>
+    <table class="table new-page">
+    <% if @invoice_request.office_customer_bill_details[15..-1] %>
+      <%# second, third, ... pages : 23 elements %>
+      <% (@invoice_request.office_customer_bill_details.order('id asc')[15..-1]&.in_groups_of(23)[0..-2] rescue [])&.each do |page| %>
+        <% page.each do |invoice_request_line| %>
+          <tr class="line">
+            <td><%= simple_format invoice_request_line.label %></td>
+            <td class="text-right"><%= invoice_request_line.amount.to_f > 0 ? number_with_delimiter(invoice_request_line.amount, @number_format) : '&nbsp;'.html_safe %></td>
+          </tr>
+        <% end %>
+        </table>
+        <table class="table new-page">
+      <% end %>
+      <%# last page : no more than 15 elements %>
+      <% (@invoice_request.office_customer_bill_details.order('id asc')[15..-1]&.in_groups_of(23)[-1]&.in_groups_of(15) rescue [])&.each do |page| %>
+        <% page.compact.each do |invoice_request_line| %>
+          <tr class="line">
+            <td><%= simple_format invoice_request_line.label %></td>
+            <td class="text-right"><%= invoice_request_line.amount.to_f > 0 ? number_with_delimiter(invoice_request_line.amount, @number_format) : '&nbsp;'.html_safe %></td>
+          </tr>
+        <% end %>
+        </table>
+        <% if page.compact.count >= 16 %>
+          <table class="table new-page">
+        <% end %>
+      <% end %>
+    <% end %>
+  <% else %>
+    <% @invoice_request.office_customer_bill_details.order('id asc').each_with_index do |invoice_request_line, i| %>
+      <tr class="line">
+        <td><%= simple_format invoice_request_line.label %></td>
+        <td class="text-right"><%= invoice_request_line.amount.to_f > 0 ? number_with_delimiter(invoice_request_line.amount, @number_format) : '&nbsp;'.html_safe %></td>
+      </tr>
+    <% end %>
+  <% end %>
+</table>
+
+<div class="<%= 'bottom' if @invoice_request.office_customer_bill_details.count < 9 %>">
+  <table class="table m-b-20">
+    <tr class="cell-border-bottom">
+      <td></td>
+      <td class="text-right"></td>
+    </tr>
+    <div style="text-align: center; padding-bottom: 2px;">
+      <div class="cls_007">Lors de votre règlement, merci de bien vouloir reporter notre numéro de facture, ainsi que votre ordre de virement à <%= Goxygene::Parameter.accountancy_wire_email %></div>
+    </div>
+    <tr>
+      <td>Total des prestations</td>
+      <td class="text-right"><%= number_to_currency(@invoice_request.fees, @number_format) %></td>
+    </tr>
+    <tr class="cell-border-bottom">
+      <td>Total des frais</td>
+      <td class="text-right"><%= number_to_currency(@invoice_request.expenses, @number_format) %></td>
+    </tr>
+    <tr class="cell-border-bottom">
+      <td>Total hors TVA</td>
+      <td class="text-right"><%= number_to_currency(@invoice_request.total_including_taxes - @invoice_request.vat, @number_format) %></td>
+    </tr>
+    <tr class="cell-border-bottom">
+      <td>TVA acquittée sur les encaissements <span class="text-small" style="margin-left: 50px;"><%= vat_text(@invoice_request.vat_rate.id ,@invoice_request.vat_rate.rate, @number_format) %>%</span></td>
+      <td class="text-right"><%= number_to_currency(@invoice_request.vat, @number_format) %></td>
+    </tr>
+    <tr class="cell-border-bottom">
+      <td>Total à payer TTC</td>
+      <td class="text-right"><%= number_to_currency(@invoice_request.total_including_taxes, @number_format) %></td>
+    </tr>
+  </table>
+  <div class="text-small">
+    <div class="content-2-cols m-b-20">
+      <div class="col-left">
+        <% if @invoice_request.target_date %>
+          Règlement : Virement au : <%= @invoice_request.target_date&.strftime('%d/%m/%Y') %><br>
+        <% end %>
+        Conditions de nos prestations (loi N° 92-1442 du 31/12/92)<br>
+        Tout paiement intervenant postérieurement aux dates d'échéances figurant sur nos factures<br>
+        donnera lieu à des pénalités de retard égales à une fois et demi le taux d'intérêt légal en vigueur.
+      </div>
+      <div class="col-right">
+        Références bancaires / Bank references<br>
+        <%= @invoice_request.itg_company.itg_bank_accounts.default.itg_bank_agency.domiciliation %><br>
+        SWIFT : <%= @invoice_request.itg_company.itg_bank_accounts.default.itg_bank_agency.swift %><br>
+        IBAN : <%= @invoice_request.itg_company.itg_bank_accounts.default.iban %>
+      </div>
+    </div>
+    <div class="text-center text-bold">
+      <%= @invoice_request.itg_company.corporate_name %> - <%= @invoice_request.itg_company.contact_datum.address_1 %> - <%= @invoice_request.itg_company.contact_datum.zip_code %> - <%= @invoice_request.itg_company.contact_datum.city %> - SIRET : <%= @invoice_request.itg_company.siren %> - NAF : <%= @invoice_request.itg_company.naf %> - N° TVA : <%= @invoice_request.itg_company.vat_number %> - WEB : <%= @invoice_request.itg_company.contact_datum.web_site %>
+    </div>
+  </div>
+</div>

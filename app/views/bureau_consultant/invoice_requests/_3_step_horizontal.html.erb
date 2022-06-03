@@ -1,0 +1,52 @@
+<% current_modal ||= '#video-part-1-xs' %>
+
+<ul id="progressbar" class="progressbar step_3_node">
+  <li class="<%= add_active_step_class(1, step) %>">
+    Client
+    <% if Goxygene.is_freeland? %>
+      <div class="m-t-5">
+        <div style="margin-left: -15px">
+          <%= raw(add_tooltip_modal(1, step, current_modal)) %>
+        </div>
+      </div>
+    <% end %>
+  </li>
+  <li class="<%= "#{add_active_step_class(2, step)} #{add_future_step(2, step)}" %>">
+    Facturation
+    <% if Goxygene.is_freeland? %>
+      <div class="m-t-5">
+        <div style="margin-left: -15px">
+          <%= raw(add_tooltip_modal(2, step, current_modal)) %>
+        </div>
+      </div>
+    <% end %>
+  </li>
+  <li class="<%= "#{add_active_step_class(3, step)} #{add_future_step(3, step)}" %>">
+    Synthèse
+    <% if Goxygene.is_freeland? %>
+      <div class="m-t-5">
+        <div style="margin-left: -15px">
+          <%= raw(add_tooltip_modal(3, step, current_modal)) %>
+        </div>
+      </div>
+    <% end %>
+  </li>
+</ul>
+
+<%= render 'bureau_consultant/shared/modal_video_tutorial',
+           modal_id: 'video-part-1-xs',
+           modal_title: 'Facturation v1 Part1',
+           video_url: '//www.youtube.com/embed/dTZRSFZ_sBY',
+           video_id: 'dTZRSFZ_sBY' %>
+
+<%= render 'bureau_consultant/shared/modal_video_tutorial',
+           modal_id: 'video-part-2-xs',
+           modal_title: 'Facturation v1 Part2',
+           video_url: '//www.youtube.com/embed/yJFEBVE48lM',
+           video_id: 'yJFEBVE48lM' %>
+
+<%= render 'bureau_consultant/shared/modal_video_tutorial',
+           modal_id: 'video-part-3-xs',
+           modal_title: 'Facturation v1 Part3',
+           video_url: '//www.youtube.com/embed/11OzX2aBt8o',
+           video_id: '11OzX2aBt8o' %>

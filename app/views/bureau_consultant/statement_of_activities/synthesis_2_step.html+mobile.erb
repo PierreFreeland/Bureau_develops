@@ -1,0 +1,121 @@
+<div id="error_explanation" class="alert alert-danger" style="display: none">
+</div>
+
+<div class="row">
+  <div class="col-md-2 hidden-xs hidden-sm">
+    <%= render '2_step', step: 2 %>
+  </div>
+
+  <div class="step_horizontal visible-sm visible-xs" style="height:100px;">
+    <%= render '2_step_horizontal', step: 2 %>
+  </div>
+
+
+  <div class="col-sm-12 col-md-12">
+    <div class="panel">
+      <form class="form no-margintop scrollable da-1">
+        <div class="scrollwp">
+          <div>
+            Votre compte financier vous permet de vous verser
+            <span class="text-bold">jusqu'à <%= current_consultant.cumuls.max_salary_or_zero %> € de salaire brut.</span>
+          </div>
+
+          <div class="m-t-20">
+            Quel salaire brut souhaitez-vous vous verser?
+          </div>
+
+          <%= hidden_field_tag :date, statement_of_activities_request.date.iso8601 %>
+
+          <%= form_for statement_of_activities_request,
+                       url: statement_of_activities_path(statement_of_activities_request),
+                       validate: true do |f| %>
+            <%= f.text_field :gross_salary_requested,
+                             value: current_consultant.cumuls.max_salary_or_zero,
+                             class: 'number-field form-control input-no-rounded right-placeholder field-taller m-t-5',
+                             placeholder: '€' %>
+          <% end %>
+
+          <div class="align-center">
+            <%= link_to 'PRÉCÉDENT', first_time_da_statement_of_activities_path,
+                        class: 'btn btn-short btn-grey btn-no-rounded btn-flex' %>
+            <%= link_to '#',
+                        class: 'btn btn-short btn-rouge btn-no-rounded btn-flex',
+                        id: 'statement_of_activities_validate_empty' do %>
+              VALIDER MA <br/>DÉCLARATION D'ACTIVITÉ
+            <% end %>
+          </div>
+
+        </div>
+      </form>
+    </div>
+  </div>
+
+</div>
+
+<div class="modal fade mission-expense" id="max_salary_error" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content before-modify">
+      <div class="modal-body">
+        <div class="align-center">
+          Le salaire demandé doit être <br/>
+          <span class="text-bold">inférieur à <%= current_consultant.cumuls.max_salary_or_zero %> €.</span><br/>
+          Si vous souhaitez un montant différent de <br/>
+          votre salaire maximum, veuillez s'il vous plait<br/>
+          contacter votre correspondant.
+        </div>
+      </div>
+      <div class="modal-footer align-center">
+        <button type="button" class="btn btn-empty-grey btn-no-margin-tb" data-dismiss="modal">CORRIGER</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade mission-expense" id="confirmation" tabindex="-1" role="dialog" aria-hidden="true"
+     data-keyboard="false" data-backdrop="static">
+  <div class="modal-dialog">
+    <div class="modal-content before-modify">
+      <div class="modal-body">
+        <div class="align-center">
+          Votre déclaration d'activité du mois <span class="text-bold"><%= date_with_elisied_prefix current_month %></span> a bien
+          été validée, nous vous en remercions.
+        </div>
+      </div>
+      <div class="modal-footer align-center">
+        <%= link_to home_index_path do %>
+          <button type="button" class="btn btn-empty-grey btn-no-margin-tb">OK</button>
+        <% end %>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<%= render partial: 'layouts/bureau_consultant/loading_modal' %>
+
+<%= render 'bureau_consultant/shared/mobile_top_nav',
+           nav_color: ENV['HUB_MAIN_COLOR_DARK'] || '#8c2e60',
+           nav_title: "Synthèse #{ l current_month, format: :month_year }",
+           nav_left: link_to(image_tag('bureau_consultant/icon-mobile-nav-back', class: 'mobile-nav-icon'), '#', onclick: 'navGoBack();'),
+           nav_right: link_to(image_tag('bureau_consultant/icon-mobile-nav-close', class: 'mobile-nav-icon'), home_index_path) %>
+
+<style>
+  .mobile-app .panel-synthesis .label-top {
+    font-size: 13px;
+  }
+
+  .mobile-app .panel-synthesis .panel.info-panel {
+    padding: 15;
+  }
+
+  .mobile-app .panel-expenses {
+    padding: 15px;
+  }
+
+  .mobile-app .panel-expenses .top-panel > div {
+    margin-top: 0 !important;
+  }
+
+  .mobile-app .panel-expenses .frais_header {
+    margin-bottom: 0;
+  }
+</style>

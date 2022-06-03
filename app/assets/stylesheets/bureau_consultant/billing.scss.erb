@@ -1,0 +1,38 @@
+//.billing ol.tunnel li:first-child div:after {
+//  content: 'Client'
+//}
+//.billing ol.tunnel li:nth-child(2) div:after{
+//  content: 'Facturation'
+//}
+//.billing ol.tunnel li:nth-child(3) div:after{
+//  content: 'Synthèse'
+//}
+
+/* webkit solution */
+.right-placeholder::-webkit-input-placeholder { text-align:right; }
+/* mozilla solution */
+.right-placeholder input:-moz-placeholder { text-align:right; }
+
+.icon-with-bg {
+  color: white;
+  width: 16px;
+  height: 16px;
+  padding-left: 3px;
+  padding-right: 5px;
+  padding-bottom: 1px;
+  padding-top: 1px;
+}
+
+.billing .fa-trash-o {
+  top: 0px;
+  left: 0px;
+  background: red;
+}
+
+.fa-pencil {
+  background: <%= ENV['HUB_MAIN_COLOR_DARK'] || '#5a2861' %>;
+}
+
+.text-yellow {
+  color: <%= ENV['HUB_SECONDARY_COLOR_DARK'] || '#ef7c10' %>;
+}

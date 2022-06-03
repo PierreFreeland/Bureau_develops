@@ -1,0 +1,69 @@
+<div class="row">
+  <div class="col-md-12">
+    <div class="row grid-big-left">
+      <div class="col-left">
+        <div class="article-left-white-bg">
+          <div class="padding-left-right">
+            <div class="article-header">
+              <div class="row">
+                <div class="col-xs-12">
+                  <div class="new-article-header-title">
+                    <%= @article.title %>
+                  </div>
+                </div>
+              </div>
+
+              <div class="m-t-20">
+                <%= raw(@article.chapo) %>
+              </div>
+
+              <% if @article.image.present? %>
+                  <div class="m-t-20">
+                    <%= image_tag @article.image.url, onerror: 'this.error=null;this.src="/assets/bureau_consultant/itg-logo.png"', size: '650x300' %>
+                  </div>
+              <% end %>
+
+              <div class="m-t-20">
+                <%= raw(@article.text) %>
+              </div>
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-right">
+        <div class="article-right-white-bg">
+          <div class="article-header-subtitle align-center article-header">ARTICLES ANNEXES</div>
+
+          <% @right_articles.each do |article| %>
+              <%= link_to article_path(article) do %>
+                  <div class="border-another-article m-t-30">
+                    <div class="another-article-header-title-wrapper">
+                      <div class="col-md-12">
+                        <div class="border-another-article-title align-center">
+                          <%= truncate_2_lines(article.title) %>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="padding-left-right border-another-article-body">
+                      <%= strip_tags(article.chapo) %>
+                    </div>
+
+                    <% if article.image.present? %>
+                        <div class="m-t-20">
+                          <%= image_tag article.image.url, onerror: 'this.error=null;this.src="/assets/bureau_consultant/itg-logo.png"', size: '280x200' %>
+                        </div>
+                    <% end %>
+                  </div>
+              <% end %>
+          <% end %>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

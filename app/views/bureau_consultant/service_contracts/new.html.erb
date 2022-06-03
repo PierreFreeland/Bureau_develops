@@ -1,0 +1,233 @@
+<div class="top-section col-xs-12" style="height:65px;">
+<span style="float:left">
+  <h2 class="violet">CONTRAT D'INTERVENTION</h2>
+</span>
+
+<span style="float:right">
+  <button class="btn" style="background: #d3102a;
+      color: #FFF;
+      padding:10px 20px 10px 20px;
+      font-family : Roboto;
+      font-size: 15px;
+      text-transform : uppercase;
+      font-weight: 500;
+      min-width:136px;">Prévisualisation</button>
+</span>
+</div>
+
+<form class="form-horizontal">
+
+  <div class="row">
+    <div class="col-md-4">
+      <div class="well">
+        <h3>Client</h3>
+        <br/>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Sélectionner un client</label>
+          <div class="col-sm-7">
+            <%= @service_contract.select_for_billing_points(class: 'form-control') %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Raison sociale</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">N TVA intra</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">N de SIRET</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Adreese</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Code postal et ville</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Pays</label>
+          <div class="col-sm-7">
+            <%= @service_contract.select_for_countries(class: 'form-control') %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Telephone</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">E-mail</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Représenté par</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Assurance</label>
+          <div class="col-sm-7">
+            <%= @service_contract.select_for_builders_risk_insurances(class: 'form-control') %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Chantier</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+
+    <div class="col-md-8">
+      <div class="well">
+        <h3>Prestrations</h3>
+        <br/>
+
+        Le client confie à <%= current_consultant.itg_establishment&.name || '<%= Goxygene::Parameter.value_for_group %>' %> la réalisation de la prestration sulvante :
+        <br /><br />
+
+        <div>
+          Objet
+          <textarea class="form-control"></textarea>
+        </div>
+
+        <br />
+
+        <div>
+          Expertise
+          <textarea class="form-control"></textarea>
+        </div>
+
+        <br/>
+
+        <div>
+          <%= link_to 'Télécharger un fichier', '#' %>
+          <br />
+          Si nécessaire joindre en annexe la description détaillée ou le cahier des charges Taille maximum 10Mb
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-8">
+      <div class="well">
+        <h3>Modalités</h3>
+        <br/>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Date de début</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Date de fin</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Nombre de jours d'activité</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Délai de résilliation (en semaine)</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Honoraires hors TVA</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">TVA</label>
+          <div class="col-sm-7">
+            <%= @service_contract.select_for_vat_rates(class: 'form-control') %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Acompte prévu à la signature</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Frais pris en charge par le client</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Modalités de facturation et de paiement / informations complémentaires</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Dispositions particuliéres pour le remboursement de frais</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="control-label col-sm-5">Remarques pour le traitement du contrat</label>
+          <div class="col-sm-7">
+            <input type="text" class="form-control" %>
+          </div>
+        </div>
+
+        <div><%= link_to 'Voir les conditions juridiques', '#' %></div>
+
+      </div>
+    </div>
+
+  </div>
+
+</form>

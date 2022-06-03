@@ -1,0 +1,66 @@
+<div class="row">
+  <div class="col-xs-12">
+    <p class="header-title soft-red commercial-activity-header-title">LES REGLES DU PORTAGE SALARIAL</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-12 col-md-8 col-xs-12 m-t-20">
+    <div class="panel">
+      <div class="m-l-20 m-t-20 m-b-30">
+        <%= link_to @convention_collective.file.url do %>
+          <div class="text-bold">
+            La convention collective du Portage Salarial
+            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+          </div>
+        <% end %>
+      </div>
+
+      <div class="m-l-20 m-t-20 m-b-30">
+        <%= link_to @anex1.file.url do %>
+          <div class="text-bold">
+            L’avenant 1 de la convention collective
+            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+          </div>
+        <% end %>
+      </div>
+
+      <div class="m-l-20 m-t-20 m-b-30">
+        <%= link_to @anex2.file.url do %>
+          <div class="text-bold">
+            L’avenant 2 de la convention collective
+            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+          </div>
+        <% end %>
+      </div>
+
+      <div class="m-l-20 m-t-20 m-b-30">
+        <%= link_to @anex3.file.url do %>
+          <div class="text-bold">
+            L’avenant 3 de la convention collective
+            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+          </div>
+        <% end %>
+      </div>
+
+      <div class="m-l-20 m-t-20 m-b-30">
+        <% if current_consultant.retrocession_rate.to_f == 0.0 %>
+          <%= link_to @note_explicative.file.url do %>
+            <div class="text-bold">
+              Note explicative des prélèvements sociaux, fiscaux et autres charges
+              <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+            </div>
+          <% end %>
+        <% else %>
+          <%= link_to @taux_transfo.file.url do %>
+            <div class="text-bold">
+              Note explicative du taux de transformation
+              <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+            </div>
+          <% end %>
+        <% end %>
+      </div>
+
+    </div>
+  </div>
+</div>

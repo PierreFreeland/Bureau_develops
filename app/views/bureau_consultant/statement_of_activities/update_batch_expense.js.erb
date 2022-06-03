@@ -1,0 +1,27 @@
+$('.form-error').html(''); // empty errors
+<% if @expense_data.empty? %>
+  redirect_to_step_3();
+<% else %>
+  <% has_error = false %>
+  <% @expense_data.each_with_index do |data, index| %>
+    <% if data[:expense].errors.any? %>
+      <% has_error = true  %>
+      $('#<%= data[:form_id] %>').find('.form-error').html("<%= j render(:partial => 'form_error', \
+                                                                         :locals => { :object => data[:expense] }) %>");
+    <% elsif data[:activity] %>
+      $('#<%= data[:activity].id %>').html("<%= j render(:partial => 'activity_form', \
+                                                         :locals => { :an_activity => data[:activity] }) %>");
+    <% end %>
+    <% if index == 0 %>
+      $(window).scrollTop($('#<%= data[:form_id] %>').closest('.expense-lists').offset().top - $('.header-wrapper').height());
+    <% end %>
+  <% end %>
+  <% unless has_error %>
+      redirect_to_step_3();
+  <% end %>
+<% end %>
+
+function redirect_to_step_3() {
+    window.location = '<%= synthesis_3_step_statement_of_activities_path %>';
+}
+

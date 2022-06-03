@@ -1,0 +1,70 @@
+<div class="row with-bottom-menu">
+  <div class="col-xs-12">
+
+    <div class="clearfix row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 form-group">
+        <%= render 'bureau_consultant/shared/paginate', collection: @accounts %>
+      </div>
+
+      <div class="col-xs-12 col-md-9 col-sm-9 col-lg-6 form-group">
+        <%= form_tag treasury_accounts_path, method: :get, :class => 'form-inline form-filters' do %>
+          <div class="form-group">
+            <%= check_box_tag "q[lettree_not_null]", 1, params[:q][:lettree_not_null] %>
+            Lettré
+          </div>
+
+          <%= search_field_tag 'q[date_gteq]', {}, :class => 'datepicker shorter form-control form-group', value: set_datetime_format(params[:q][:date_gteq]) %>
+          <div class="form-group">
+            <span class="text-bigger">à</span>
+          </div>
+
+          <%= search_field_tag 'q[date_lteq]', {}, :class => 'datepicker shorter form-control form-group', value: set_datetime_format(params[:q][:date_lteq]) %>
+
+          <div class="form-group" style="display: table; width: 100%">
+            <%= label_tag 'Trier', nil, style: 'display: table-cell; width: 10px;', class: 'p-r-5' %>
+            <%= select_tag "q[s]", options_for_select([[nil, 'date asc'], ['Date', 'date desc'], ['Solde', 'balance desc']], params[:q][:s]),
+                           class: 'form-control',
+                           style: 'display: table-cell;' %>
+          </div>
+
+          <div class="align-center hide">
+            <%= submit_tag 'Filtre', class: 'btn btn-violet btn-short btn-no-margin btn-no-rounded' %>
+
+            <span data-toggle="submit" data-target="#account" class="btn btn-orange-static btn-no-rounded btn-no-margin">
+                <i class="fa fa-external-link p-r-10"></i>Exporter
+              </span>
+          </div>
+        <% end %>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <%= render partial: 'treasury_table_row', collection: @accounts, as: :account %>
+    </div>
+
+    <div class="m-b-20">
+      <%= render 'bureau_consultant/shared/paginate', collection: @accounts %>
+    </div>
+
+  </div>
+</div>
+
+<%= render 'bureau_consultant/shared/mobile_top_nav',
+           nav_color: ENV['HUB_MAIN_COLOR_LIGHT'] || '#5a2861',
+           nav_title: 'Mon compte de Trésorerie',
+           nav_left: link_to(image_tag('bureau_consultant/icon-mobile-nav-help', class: 'mobile-nav-icon'), help_index_path),
+           nav_right: link_to(image_tag('bureau_consultant/icon-mobile-nav-user', class: 'mobile-nav-icon'), '#') %>
+
+<%= render 'bureau_consultant/shared/mobile_bottom_nav',
+           content: link_to('Filtrer', '#filters', onclick: '$("form.form-filters").trigger("submit");'),
+           nav_color: '#4e4e4e' %>
+
+<style>
+  .data-row {
+    background: #f2f2f2;
+  }
+
+  .data-row:nth-child(odd) {
+    background: #e2dde3 !important;
+  }
+</style>

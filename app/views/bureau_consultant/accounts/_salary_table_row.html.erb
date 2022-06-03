@@ -1,0 +1,27 @@
+<tr class="wage">
+  <td>
+    <div class="line clearfix">
+      <input type="checkbox" value="<%= account.id %>" name="q[id_in][]" class="ids"/>
+    </div>
+  </td>
+  <td class="wage_year"><%= account.year %></td>
+  <td class="wage_month"><%= I18n.t("date.month_names")[account.month].capitalize %></td>
+  <td class="wage_requested_at"><%= set_datetime_format(account.activity_report&.office_activity_report&.consultant_validation) %></td>
+  <td class="no-wrap wage_hours"><%= number_with_precision(account.hours, @number_format) %></td>
+  <td class="no-wrap"><%= number_with_precision(account.supplementary_gross_wage, @number_format) %></td>
+  <td class="no-wrap wage_gross"><%= number_with_precision(account.gross_wage, @number_format) %></td>
+  <td class="no-wrap"><%= number_with_precision(account.cost - account.gross_wage, @number_format) %></td>
+  <td class="no-wrap"><%= number_with_precision(account.net_wage, @number_format) %></td>
+  <td class="no-wrap"><%= number_with_precision(account.cost, @number_format) %></td>
+  <td><%= set_datetime_format(account.date) %></td>
+  <td class="no-wrap download">
+    <%= account.document ? link_to(fa_icon('file-pdf-o'),
+                                   salary_download_path(account, format: :pdf),
+                                   data: { content: 'Bulletin de paie', toggle: 'popover', trigger: 'hover', placement: 'auto top' })
+                         : '' %>
+    <%= account.document_old ? link_to(fa_icon('file-pdf-o'),
+                                       salary_download_simplified_path(account, format: :pdf),
+                                       data: { content: 'Bulletin de paie', toggle: 'popover', trigger: 'hover', placement: 'auto top' })
+                             : '' %>
+  </td>
+</tr>

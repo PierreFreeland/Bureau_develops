@@ -1,0 +1,27 @@
+<tr class="statement_of_activities">
+  <td>
+    <div class="line clearfix">
+      <input type="checkbox" value="<%= activity_report.id %>" name="q[id_in][]" class="ids"/>
+    </div>
+  </td>
+
+  <td class="statement_of_activity_year"><%= activity_report.year %></td>
+  <td class="statement_of_activity_month"><%= I18n.t("date.month_names")[activity_report.month].capitalize %></td>
+  <td><%= activity_report.formated_total_worked_days %></td>
+  <td><%= activity_report.formated_hours %></td>
+  <td><%= activity_report.formated_unpaid_absences_days %></td>
+  <td><%= activity_report.formated_absences_hours %></td>
+  <td><%= activity_report.formated_gross_wage %></td>
+  <td><%= activity_report.formated_expenses_with_taxes %></td>
+  <td><%= activity_report.formated_kilometers %></td>
+  <td><%= activity_report.activity_report_status&.text %></td>
+  <td><%= activity_report.activity_report_expense_status&.text %></td>
+  <td>
+    <%= link_to fa_icon('file-pdf-o'),
+                history_show_statement_of_activities_path(activity_report.id, format: :pdf),
+                target: :_blank,
+                data: { content: 'Télécharger le PDF', toggle: 'popover', trigger: 'hover', placement: 'auto top' }
+    %>
+  </td>
+
+</tr>

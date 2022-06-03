@@ -1,0 +1,15 @@
+<% content_for :mobile_nav_title do %>
+  <%= nav_title.html_safe ||= nil %>
+<% end %>
+
+<% content_for :mobile_nav_left do %>
+  <%= nav_left.html_safe ||= nil %>
+<% end %>
+
+<% content_for :mobile_nav_right do %>
+  <%= nav_right.html_safe ||= nil %>
+<% end %>
+
+<% content_for :mobile_nav_color do %>
+  <%= nav_color ||= nil %>
+<% end %>

@@ -1,0 +1,18 @@
+wb = xlsx_package.workbook
+wb.add_worksheet(name: "Frais en Attente") do |sheet|
+  sheet.add_row ["NDF du", "Commentaire", "KM", "Déplacement", "Bureau", "Documentation", "Poste", "Télécom", "Divers", "TVA", "HT", "TTC"]
+  @accounts.each do |account|
+    sheet.add_row [set_datetime_format(account.date),
+                   account.comment,
+                   account.kilometers_details&.kilometers,
+                   account.shifting_details&.amount,
+                   account.bureau_details&.amount,
+                   account.formation_details&.amount,
+                   account.post_details&.amount,
+                   account.telecom_details&.amount,
+                   account.misc_details&.amount,
+                   account.vat,
+                   account.total,
+                   account.total_with_taxes]
+  end
+end

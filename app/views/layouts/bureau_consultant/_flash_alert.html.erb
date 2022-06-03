@@ -1,0 +1,15 @@
+<% if flash[:alert].is_a?(Array) && flash[:alert].any? %>
+  <div class="alert alert-dismissible alert-danger">
+    <ul>
+      <% flash[:alert].each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+    </ul>
+  </div>
+<% end %>
+
+<% if flash[:notice] %>
+  <div class="alert alert-success">
+    <%= flash[:notice] %>
+  </div>
+<% end %>

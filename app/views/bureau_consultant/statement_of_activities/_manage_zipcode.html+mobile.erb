@@ -1,0 +1,35 @@
+<div class="col-xs-12 col-sm-12 col-md-5 add-postal-code-tab">
+  <%= form_for statement_of_activities_request,
+               url: update_mission_location_statement_of_activities_path(anchor: 'manage_zipcode'),
+               method: :patch do |f| %>
+    <div class="padding-10 bg-white m-t-15">
+      <div class="p-t-10">
+        Lieu de mission principal
+      </div>
+
+      <div class="office_activity_report">
+        <%= f.hidden_field :mission_in_foreign_country %>
+        <div class="row small-gutter">
+          <div class="col-xs-6">
+            <div data-value="false" class="btn btn-block btn-short btn-empty-orange btn-no-rounded m-t-10 m-b-10" style="min-width: auto">FRANCE</div>
+          </div>
+          <div class="col-xs-6">
+            <div data-value="true" class="btn btn-block btn-short btn-empty-orange btn-no-rounded m-t-10 m-b-10" style="min-width: auto">ÉTRANGER</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="m-t-15">
+        <div class="m-b-10">Code postal * </div>
+        <%= f.number_field :mission_zip_code, class:'number-field form-control' %>
+      </div>
+
+      <div class="p-t-5 align-center">
+        <%= link_to 'PRÉCÉDENT', '#',
+                    class:'btn btn-short btn-grey btn-no-rounded m-t-15 m-b-0 remove-postal-code', style: 'width: 100%'
+        %>
+        <button class="btn btn-short btn-rouge btn-no-rounded m-t-10 m-b-10" style="width: 100%">ÉTAPE SUIVANTE</button>
+      </div>
+    </div>
+  <% end %>
+</div>

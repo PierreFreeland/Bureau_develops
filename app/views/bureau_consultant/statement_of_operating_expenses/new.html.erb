@@ -1,0 +1,43 @@
+<div class="row">
+  <div class="page-top clearfix da">
+    <div class="col-sm-12 col-sm-offset-2">
+      <div class="list-title m-l-15 text-light-violet text-header text-light-bold">
+        DÉPENSES DE FONCTIONNEMENT
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-2 hidden-xs hidden-sm">
+    <%= render '2_step', step: 1 %>
+  </div>
+
+  <div class="step_horizontal visible-xs visible-sm">
+    <%= render '2_step_horizontal', step: 1 %>
+  </div>
+
+  <div class="col-xs-12 col-md-8 col-sm-offset-0 m-t-20">
+    <div class="panel">
+      <%= form_tag statement_of_operating_expenses_path, class: 'form no-margintop scrollable da-1', id: 'declaration_form' do %>
+        <div class="scrollwp">
+          <div class="changejQuery text-bold" data-toggle="modal" data-target="#modalTest">Mois concerné</div>
+          <div class="field">
+            <%= select_tag 'statement_of_operating_expenses_request[date]',
+                           options_for_select(
+                             ['...'] +
+                             current_consultant.allowed_statement_of_operating_expenses_request_dates.collect {|date| [l(date, format: '%B %Y'), date.iso8601] }
+                           ),
+                           class: 'month-select'
+            %>
+          </div>
+        </div>
+
+        <div class="m-t-20 month-select-btn">
+          <button class='btn btn-red btn-no-rounded'>DÉCLARER DES DÉPENSES</button>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</div>
+

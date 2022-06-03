@@ -1,0 +1,50 @@
+<div class="data-row m-b-0 padding-15">
+  <div>
+    <span>Année</span> :
+    <%= statement_of_activities.year %>
+  </div>
+  <div>
+    <span>Mois</span> :
+    <%= I18n.t("date.month_names")[statement_of_activities.month].capitalize %>
+  </div>
+
+  <div>
+    <span>Jours</span> :
+    <%= statement_of_activities.formated_total_worked_days %>
+  </div>
+
+  <div>
+    <span>Heures</span> :
+    <%= statement_of_activities.formated_hours %>
+  </div>
+
+  <div>
+    <span>Salaire à percevoir</span> :
+    <%= statement_of_activities.formated_gross_wage %>
+  </div>
+
+  <div>
+    <span>Frais</span> :
+    <%= statement_of_activities.formated_expenses_with_taxes %>
+  </div>
+
+  <div>
+    <span>KM</span> :
+    <%= statement_of_activities.formated_kilometers %>
+  </div>
+
+  <div>
+    <span>Etat</span> :
+    <%= 'ITG' %>
+  </div>
+
+  <div class="file-download">
+    <%= link_to history_show_statement_of_activities_path(statement_of_activities.id, format: :pdf), target: :_blank do %>
+      <div class="btn btn-orange btn-no-rounded">
+        PDF
+      </div>
+    <% end %>
+  </div>
+</div>
+
+

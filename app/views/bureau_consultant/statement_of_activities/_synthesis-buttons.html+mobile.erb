@@ -1,0 +1,141 @@
+<% content_for(:mobile_modals) do %>
+<div class="modal fade mission-expense" id="validate" tabindex="-1" role="dialog" aria-hidden="true"
+     data-keyboard="false" data-backdrop="static">
+  <div class="modal-dialog">
+    <div class="modal-content before-modify">
+      <div class="modal-body">
+        <div class="align-center">
+          Souhaitez-vous valider définitivement <br/>
+          votre activité du mois <span class="text-bold"><%= date_with_elisied_prefix current_month %></span> ?
+        </div>
+      </div>
+      <div class="modal-footer align-center">
+        <%= link_to 'OUI', '#download',
+                    id: 'statement_of_activities_submit',
+                    class: 'btn btn-empty-grey btn-no-margin-tb', style: 'min-width: auto',
+                    data: {'activities-only': (defined?(validate_activities_only) && validate_activities_only)} %>
+        <button type="button" class="btn btn-empty-grey btn-no-margin-tb" data-dismiss="modal" style="min-width: auto">NON</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade mission-expense" id="myModal2" tabindex="-1" role="dialog" aria-hidden="true"
+     data-keyboard="false" data-backdrop="static">
+  <div class="modal-dialog">
+    <div class="modal-content before-modify">
+      <div class="modal-body">
+        <div class="align-center">
+          Votre déclaration d'activité du mois <span class="text-bold"><%= date_with_elisied_prefix current_month %></span> a bien
+          été validée, nous vous en remercions.<br/><br/>
+          <span class="text-bold">
+            Souhaitez-vous garder la possibilité de saisir<br/>
+            plus tard des frais de mission sur le mois <%= date_with_elisied_prefix current_month %> ?
+          </span><br/><br/>
+          Attention, si vous cliquez sur 'non' votre <br/>
+          déclaration d'activité sera définitivement <br/>
+          cloturée et vous ne pourrez plus saisir de frais<br/>
+          de mission sur ce mois.
+        </div>
+      </div>
+      <div class="modal-footer align-center">
+        <%= link_to 'OUI', '#myModal3',
+                    class: 'btn btn-empty-grey btn-no-margin-tb',
+                    data: {toggle: 'modal', dismiss: 'modal'} %>
+        <%= link_to 'NON', '#myModal4',
+                    class: 'btn btn-empty-grey btn-no-margin-tb',
+                    data: {toggle: 'modal', dismiss: 'modal'} %>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade mission-expense" id="myModal3" tabindex="-1" role="dialog" aria-hidden="true"
+     data-keyboard="false" data-backdrop="static">
+  <div class="modal-dialog">
+    <div class="modal-content before-modify">
+      <div class="modal-body">
+        <div class="align-center">
+          Votre déclaration d'activité et vos frais du mois<br/>
+          <span class="text-bold"><%= date_with_elisied_prefix current_month %></span> restent ouvert, vous pourrez<br/>
+          ajouter des frais de mission ultérieurement
+        </div>
+      </div>
+      <div class="modal-footer align-center">
+        <button type="button" class="btn btn-empty-grey btn-no-margin-tb" data-dismiss="modal">OK</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade mission-expense" id="myModal4" tabindex="-1" role="dialog" aria-hidden="true"
+     data-keyboard="false" data-backdrop="static">
+  <div class="modal-dialog">
+    <div class="modal-content before-modify">
+      <div class="modal-body">
+        <div class="align-center">
+          Votre déclaration d'activité et vos frais du mois<br/>
+          <span class="text-bold"><%= date_with_elisied_prefix current_month %></span> ont bien été cloturé, nous vous en <br/>
+          remercions.
+        </div>
+      </div>
+      <div class="modal-footer align-center">
+        <button type="button" class="btn btn-empty-grey btn-no-margin-tb" data-dismiss="modal">OK</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade mission-expense" id="confirmation" tabindex="-1" role="dialog" aria-hidden="true"
+     data-keyboard="false" data-backdrop="static">
+  <div class="modal-dialog">
+    <div class="modal-content before-modify">
+      <div class="modal-body">
+        <div class="align-center">
+          Vous avez validé vos activités du mois
+          <span class="text-bold"><%= date_with_elisied_prefix current_month %></span>
+          sans déclarer de frais.<br/>
+          Avez-vous eu des frais de mission au mois de <span class="text-bold"><%= date_with_elisied_prefix current_month %></span> ?
+        </div>
+      </div>
+      <div class="modal-footer align-center">
+        <%= link_to 'OUI', manage_mission_statement_of_activities_path,
+                    class: 'btn btn-empty-grey btn-no-margin-tb' %>
+        <%= link_to 'NON', home_index_path,
+                    id: 'statement_of_activities_submit',
+                    class: 'btn btn-empty-grey btn-no-margin-tb' %>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade mission-expense" id="download" tabindex="-1" role="dialog"
+     data-keyboard="false" data-backdrop="static">
+  <div class="modal-dialog">
+    <div class="modal-content before-modify">
+      <div class="modal-body">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close" id="close_statement_of_activities_download_pdf"><span aria-hidden="true">&times;</span></button>
+        <div class="align-center">
+          Votre déclaration d'activité du mois <span class="text-bold"><%= date_with_elisied_prefix current_month %></span> a bien
+          été validée, nous vous en remercions.<br/><br/>
+
+          <% if current_consultant.allowed_expenses_refund? %>
+            Pensez à nous envoyer vos justificatifs originaux <br/>
+            accompagnés de votre<br/>
+            déclaration d'activité pour vos<br/>
+            remboursements de frais de mission.
+          <% end %>
+        </div>
+      </div>
+      <div class="modal-footer align-center">
+        <%= link_to history_show_statement_of_activities_requests_path(statement_of_activities_request.id, format: :pdf),
+                    class: 'btn btn-empty-grey btn-no-margin-tb open-and-close',
+                    id: 'statement_of_activities_download_pdf',
+                    target: :_blank do %>
+            TÉlÉCHARGER MA <br/>DÉCLARATION D'ACTIVITÉ
+        <% end %>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<% end %>

@@ -1,0 +1,65 @@
+<div id="invoice_request" class="row billing <%= 'desktop' unless mobile_version? %>">
+  <div class="col-md-2 hidden-xs hidden-sm">
+    <%= render 'step', step: 2, current_modal: '#video-part-3' %>
+  </div>
+
+  <% unless mobile_version? %>
+    <div id="desktop-interface" class="col-sm-12 col-md-10 no-p hidden-xs hidden-sm">
+      <%= render partial: 'manage_invoice_desktop' %>
+    </div>
+  <% end %>
+
+  <div class="col-sm-12 col-md-10 no-p visible-xs visible-sm">
+    <div class="page-top clearfix da">
+      <div class="col-sm-12 no-p-l-r">
+        <h4 class="list-title no-m-l">
+          FACTURER UN CLIENT
+        </h4>
+      </div>
+    </div>
+
+    <div class="step_horizontal col-sm-12 visible-sm visible-xs">
+      <%= render '3_step_horizontal', step: 2, current_modal: '#video-part-3-xs' %>
+
+      <div class="clearfix"></div>
+    </div>
+
+    <% if invoice_request.errors.any? %>
+        <div id="error_explanation" class="alert alert-danger">
+          <ul>
+            <% invoice_request.errors.full_messages.each do |message| %>
+                <li><%= message %></li>
+            <% end %>
+          </ul>
+        </div>
+    <% end %>
+
+    <div class="row p-t-30">
+      <div class="col-sm-7">
+        <div class="top-panel">
+          <div class="panel info-panel frais_header" style="padding: 0px" id="invoice-summary">
+            <%= render 'invoice_summary', invoice_request: invoice_request %>
+          </div>
+        </div>
+
+        <div class="bg-white p-b-5 m-b-20 padding-left-right">
+          <div class="row" id="invoice-request-lines">
+            <%= render 'invoice_request_lines_table', invoice_request_lines: invoice_request.office_customer_bill_details %>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-5">
+        <div id="invoice-request-line-form">
+          <%= render 'add_line_form', invoice_request_line: @invoice_request_line || new_invoice_request_line %>
+        </div>
+
+        <div class="p-t-5 align-center">
+          <%= link_to 'précédent', new_invoice_request_path, class: 'btn btn-short btn-grey' %>
+          <%= link_to 'suivant', synthesis_invoice_requests_path, class: 'btn btn-short btn-rouge' %>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>

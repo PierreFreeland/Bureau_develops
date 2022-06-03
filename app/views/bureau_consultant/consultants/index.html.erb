@@ -1,0 +1,75 @@
+<div class="search-form mb-15">
+  <div class="well">
+    <%= search_form_for @q, url: consultants_path, remote: true do |f| %>
+      <div class="row">
+        <div class="col-xs-12 col-md-4 hidden">
+          <div class="form-group">
+            <%#= f.label 'user_of_BureauConsultant::Consultant_type_designation1_cont', t('consultants.designation') %>
+            <div class="ajax-search-field">
+            <%#= f.search_field 'user_of_BureauConsultant::Consultant_type_designation1_cont',
+                               class: 'form-control', oninput: 'submitSearchForm(this)' %>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-12 col-md-4">
+          <div class="form-group">
+            <%= f.label 'cas_user_of_Goxygene::Consultant_type_individual_bureau_first_name_cont', t('consultants.first_name') %>
+            <div class="ajax-search-field">
+              <%= f.search_field 'cas_user_of_Goxygene::Consultant_type_individual_bureau_first_name_cont', class: 'form-control', oninput: 'submitSearchForm(this)' %>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-12 col-md-4">
+          <div class="form-group">
+            <%= f.label 'cas_user_of_Goxygene::Consultant_type_individual_bureau_last_name_cont', t('consultants.last_name') %>
+            <div class="ajax-search-field">
+              <%= f.search_field 'cas_user_of_Goxygene::Consultant_type_individual_bureau_last_name_cont', class: 'form-control', oninput: 'submitSearchForm(this)' %>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-12 col-md-4">
+          <div class="form-group">
+            <%= f.label :login_cont, t('consultants.login') %>
+            <div class="ajax-search-field">
+            <%= f.search_field :login_cont, class: 'form-control', oninput: 'submitSearchForm(this)' %>
+            </div>
+          </div>
+        </div>
+      </div>
+    <% end %>
+  </div>
+</div>
+
+<div class="pagination-wrapper mb-15">
+  <%= render 'bureau_consultant/shared/paginate', collection: @consultants %>
+</div>
+
+<section class="panel mb-15">
+  <div class="panel-item">
+    <div class="table-wrap">
+      <table class="list-table no-top">
+        <thead>
+          <tr>
+            <th><%= t('consultants.first_name') %></th>
+            <th><%= t('consultants.last_name') %></th>
+            <th><%= t('consultants.login') %></th>
+            <th><%= t('consultants.last_signin_at') %></th>
+            <th class="text-center"><%= t('consultants.pretend') %></th>
+          </tr>
+        </thead>
+        <tbody>
+          <%= render(partial: 'table_row', collection: @consultants, as: :consultant) || render('table_row_empty') %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<div class="pagination-wrapper mb-15">
+  <%= render 'bureau_consultant/shared/paginate', collection: @consultants %>
+</div>
+
+<br>

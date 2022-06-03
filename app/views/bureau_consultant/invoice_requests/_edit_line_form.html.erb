@@ -1,0 +1,39 @@
+<%= form_for invoice_request_line,
+             validate: true,
+             url: update_line_invoice_requests_path, method: :patch, remote: true,
+             class: 'form-horizontal' do |f| %>
+
+  <div class="bg-white p-b-5 padding-left-right">
+
+    <div class="align-center p-t-15"><label>Modification de la ligne de facture</label></div>
+
+    <div class="p-t-10">
+      <label>Types</label>
+      <%= f.select :invoice_line_type_id,
+                   BureauConsultant::InvoiceLineType.all.map {|ilt| [ilt.label, ilt.id]},
+                   {}, {class: 'form-control'} %>
+    </div>
+
+    <div class="p-t-10">
+      <label>Montant Hors Taxe</label>
+      <%= f.text_field :amount, class: 'form-control number-field' %>
+    </div>
+
+    <div class="p-t-10">
+      <label>Libellé <span class="text-red">*</span></label>
+      <%= f.text_field :label, class: 'form-control' %>
+    </div>
+
+    <div class="align-center">
+      <div class="row small-gutter">
+        <div class="col-sm-6">
+          <button class="btn btn-no-rounded btn-full-width btn-block btn-grey m-b-15 m-t-15" type="reset">réinitialiser</button>
+        </div>
+        <div class="col-sm-6">
+          <%= f.submit 'Modifier', class: 'btn btn-no-rounded btn-full-width btn-block btn-orange m-b-15 m-t-15' %>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<% end %>

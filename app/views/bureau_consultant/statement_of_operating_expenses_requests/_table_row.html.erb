@@ -1,0 +1,22 @@
+<tr class="office_operating_expense">
+  <td>
+    <div class="line clearfix">
+      <input type="checkbox" value="<%= office_operating_expenses.id %>" name="q[id_in][]" class="ids"/>
+    </div>
+  </td>
+
+  <td><%= office_operating_expenses.year %></td>
+  <td><%= I18n.t("date.month_names")[office_operating_expenses.month].capitalize %></td>
+  <td><%= office_operating_expenses.formated_total_expenses_without_vat %></td>
+  <td><%= office_operating_expenses.formated_total_vat %></td>
+  <td><%= office_operating_expenses.formated_total_expenses_with_vat %></td>
+  <td class="state"><%= office_operating_expenses.operating_expenses_status&.text %></td>
+  <td>
+    <%= link_to fa_icon('file-pdf-o'),
+                history_show_statement_of_operating_expenses_requests_path(office_operating_expenses.id, format: :pdf),
+                target: :_blank,
+                data: { content: 'Télécharger le PDF', toggle: 'popover', trigger: 'hover', placement: 'auto top' }
+    %>
+  </td>
+
+</tr>
